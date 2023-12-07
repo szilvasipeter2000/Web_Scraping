@@ -1,0 +1,651 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Clinical Data Associate"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Clinical_Data_Associate/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Clinical_Data_Associate/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-06-08T12:12:58.80015Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Senior Clinical Data Associate is $31.67 per hour.",
+                    "summarySalary": "The average pay for a Senior Clinical Data Associate is $96,429 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 8631.4,
+                        "50": 9781.15,
+                        "75": 10137.86,
+                        "profileCount": 5
+                    },
+                    "hourlyRate": {
+                        "50": 31.67,
+                        "profileCount": 3
+                    },
+                    "profitSharing": {
+                        "50": 20000,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 54362.17,
+                        "25": 87489.56,
+                        "50": 96428.76,
+                        "75": 106283.29,
+                        "90": 130036.39,
+                        "profileCount": 10
+                    },
+                    "total": {
+                        "10": 55583.01,
+                        "25": 67075.97,
+                        "50": 102611.08,
+                        "75": 116965.81,
+                        "90": 132491.63,
+                        "profileCount": 13
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-06-08T12:12:58.80015Z",
+                        "profileCount": 13,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 55583.01,
+                                    "25": 67075.97,
+                                    "50": 102611.08,
+                                    "75": 116965.81,
+                                    "90": 132491.63
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-06-08T12:12:58.80015Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 31.67
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-06-08T12:12:58.80015Z",
+                        "profileCount": 10,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 54362.17,
+                                    "25": 87489.56,
+                                    "50": 96428.76,
+                                    "75": 106283.29,
+                                    "90": 130036.39
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-06-08T12:12:58.80015Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-06-08T12:12:58.80015Z",
+                        "profileCount": 9,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Associate/Salary/f99b6927/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 47816.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Associate/Salary/4c82cab9/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 91562.83
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Associate/Salary/043275fb/Seattle-WA",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 98556.2
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indianapolis, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Associate/Salary/3655068e/Indianapolis-IN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 82000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Clinical Data Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Associate/Salary/2f84a184/Clinical-Data-Management",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 96500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Associate/Salary/83ae4985/Data-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 4.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Program Coordinator, Non-Profit Organization",
+                        "url": "/research/US/Job=Program_Coordinator%2C_Non-Profit_Organization/Salary",
+                        "profileCount": 138,
+                        "range": {
+                            "10": 35883,
+                            "25": 41008.1,
+                            "50": 47817.69,
+                            "75": 56039.09,
+                            "90": 65393.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Manager",
+                        "url": "/research/US/Job=Data_Manager/Salary",
+                        "profileCount": 117,
+                        "range": {
+                            "10": 48773.03,
+                            "25": 57492.54,
+                            "50": 72057.4,
+                            "75": 97953.37,
+                            "90": 124468.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Research Coordinator (CRC)",
+                        "url": "/research/US/Job=Clinical_Research_Coordinator_(CRC)/Salary",
+                        "profileCount": 114,
+                        "range": {
+                            "10": 40250.88,
+                            "25": 46385.25,
+                            "50": 54012.48,
+                            "75": 62129.09,
+                            "90": 70395.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Data Manager",
+                        "url": "/research/US/Job=Clinical_Data_Manager/Salary",
+                        "profileCount": 79,
+                        "range": {
+                            "10": 51262.47,
+                            "25": 64387.29,
+                            "50": 78597.17,
+                            "75": 95272.16,
+                            "90": 111918.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Analyst",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Analyst/Salary",
+                        "profileCount": 65,
+                        "range": {
+                            "10": 45194.7,
+                            "25": 51095.44,
+                            "50": 59543.59,
+                            "75": 68475.21,
+                            "90": 79402.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Specialist",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Specialist/Salary",
+                        "profileCount": 53,
+                        "range": {
+                            "10": 44187.26,
+                            "25": 50290.3,
+                            "50": 59523.48,
+                            "75": 69753.75,
+                            "90": 80468.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Coordinator",
+                        "url": "/research/US/Job=Research_Coordinator/Salary",
+                        "profileCount": 53,
+                        "range": {
+                            "10": 39910.44,
+                            "25": 45114.4,
+                            "50": 52459.53,
+                            "75": 60641.14,
+                            "90": 67530.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 51,
+                        "range": {
+                            "10": 65474.09,
+                            "25": 75420.07,
+                            "50": 87645.02,
+                            "75": 101837.34,
+                            "90": 117401.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Research Associate (CRA)",
+                        "url": "/research/US/Job=Clinical_Research_Associate_(CRA)/Salary",
+                        "profileCount": 42,
+                        "range": {
+                            "10": 47984.88,
+                            "25": 58624.3,
+                            "50": 72512.86,
+                            "75": 86420.54,
+                            "90": 101042.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Architect",
+                        "url": "/research/US/Job=Data_Architect/Salary",
+                        "profileCount": 37,
+                        "range": {
+                            "10": 82232.11,
+                            "25": 105196.83,
+                            "50": 130032.72,
+                            "75": 151490.72,
+                            "90": 171412.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Management Specialist",
+                        "url": "/research/US/Job=Data_Management_Specialist/Salary",
+                        "profileCount": 32,
+                        "range": {
+                            "10": 42660.36,
+                            "25": 50000.38,
+                            "50": 61687.58,
+                            "75": 77319.5,
+                            "90": 106257.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Technician",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate",
+                        "profileCount": 23,
+                        "range": {
+                            "10": 38360.66,
+                            "25": 41946.1,
+                            "50": 47529.86,
+                            "75": 54513.4,
+                            "90": 59919.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Entry Specialist",
+                        "url": "/research/US/Job=Data_Entry_Specialist/Hourly_Rate",
+                        "profileCount": 20,
+                        "range": {
+                            "10": 30421.16,
+                            "25": 34465.95,
+                            "50": 42862.51,
+                            "75": 49941.91,
+                            "90": 57441.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Clinical Data Manager",
+                        "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary",
+                        "profileCount": 20,
+                        "range": {
+                            "10": 80466.07,
+                            "25": 91002.4,
+                            "50": 107818.86,
+                            "75": 125023.48,
+                            "90": 139559.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Program Assistant, Non-Profit Organization",
+                        "url": "/research/US/Job=Program_Assistant%2C_Non-Profit_Organization/Salary",
+                        "profileCount": 19,
+                        "range": {
+                            "10": 31865.57,
+                            "25": 36315.61,
+                            "50": 44667.08,
+                            "75": 48372.23,
+                            "90": 52779.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Coordinator",
+                        "url": "/research/US/Job=Data_Coordinator/Hourly_Rate",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 34520.64,
+                            "25": 41686.13,
+                            "50": 48076.69,
+                            "75": 54743.82,
+                            "90": 61112.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Support Specialist",
+                        "url": "/research/US/Job=Administrative_Support_Specialist/Hourly_Rate",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 32159.63,
+                            "25": 37653.47,
+                            "50": 44674.32,
+                            "75": 53321.87,
+                            "90": 64136.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 14,
+                        "range": {
+                            "10": 47637.02,
+                            "25": 55609.64,
+                            "50": 65843.6,
+                            "75": 77695.88,
+                            "90": 90371.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Salesforce Administrator",
+                        "url": "/research/US/Job=Salesforce_Administrator/Salary",
+                        "profileCount": 13,
+                        "range": {
+                            "10": 51942.63,
+                            "25": 62212.31,
+                            "50": 73501.28,
+                            "75": 87884.55,
+                            "90": 103513.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Management Analyst",
+                        "url": "/research/US/Job=Data_Management_Analyst/Salary",
+                        "profileCount": 13,
+                        "range": {
+                            "10": 50975.75,
+                            "25": 59946.37,
+                            "50": 70096.24,
+                            "75": 84000.41,
+                            "90": 96463.71
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Clinical_Data_Associate/Salary",
+                    "occupationalCategory": "15-2040.00 - Statisticians",
+                    "skills": "Clinical Data Management, Data Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-06-08T12:12:58.80015Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "55583.01",
+                            "percentile25": "67075.97",
+                            "median": "102611.08",
+                            "percentile75": "116965.81",
+                            "percentile90": "132491.63",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "54362.17",
+                            "percentile25": "87489.56",
+                            "median": "96428.76",
+                            "percentile75": "106283.29",
+                            "percentile90": "130036.39",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "8631.4",
+                            "median": "9781.15",
+                            "percentile75": "10137.86",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "20000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 18,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Clinical Data Associate",
+                    "url": "/research/US/Job=Senior_Clinical_Data_Associate/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

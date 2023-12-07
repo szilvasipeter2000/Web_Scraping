@@ -1,0 +1,730 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Web Operations Manager",
+                    "url": "/research/US/Job=Web_Operations_Manager/Salary",
+                    "compensation": 81872.8335730457,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Cloud Solutions Architect",
+                            "url": "/research/US/Job=Cloud_Solutions_Architect/Salary",
+                            "percent": 1,
+                            "compensation": 124903.6828010308,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 2,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.5,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Solutions Architect",
+                                    "url": "/research/US/Job=Solutions_Architect/Salary",
+                                    "percent": 0.5,
+                                    "compensation": 118229.48691186553,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Web Operations Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Web_Operations_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Web_Operations_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-24T03:14:27.74486Z",
+                "narratives": {
+                    "description": "Web operations managers are responsible for managing online operations for their organizations and may work in a team setting with other managers to distribute tasks and contribute ideas. They typically use a personal computer to review web activities and make adjustments, and they're also tasked with facilitating communication between different teams of employees, such as designers and programmers.\r\nThese managers must strive to provide the best online service and ensure that all project requirements are met. They may use different techniques to troubleshoot web issues and maintain communication with the hosting and server staff, and they should be proficient with relevant software to write reports and run calculations. Strong communication skills are important in this position to work well with the operations team and facilitate adjustments, and they also resolve a range of online problems and respond to hacking attacks. They may help perform maintenance and server upgrades, assist with compatibility issues, and conduct research to improve customer satisfaction. Multitasking skills are important in this position to prioritize activities depending on importance, and they typically work in a fast-paced environment and must pay close attention to detail to minimize incidents. They also reach out to social networks to promote company products or services.\r\nA bachelor's degree in a computer-related field is generally required for this position, and prior experience in the field may also be required. Industry and leadership certifications are also helpful.",
+                    "summaryHourly": "The average pay for a Web Operations Manager is $27.54 per hour.",
+                    "summarySalary": "The average pay for a Web Operations Manager is $90,187 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 2780.65,
+                        "50": 6500,
+                        "75": 13500,
+                        "profileCount": 7
+                    },
+                    "hourlyRate": {
+                        "50": 27.54,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 47366.91,
+                        "25": 66128.71,
+                        "50": 90186.53,
+                        "75": 126937,
+                        "90": 167281.88,
+                        "profileCount": 16
+                    },
+                    "total": {
+                        "10": 44567.19,
+                        "25": 52394.29,
+                        "50": 87629.63,
+                        "75": 127377.24,
+                        "90": 162696.79,
+                        "profileCount": 20
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-24T03:14:27.74486Z",
+                        "profileCount": 20,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 44567.19,
+                                    "25": 52394.29,
+                                    "50": 87629.63,
+                                    "75": 127377.24,
+                                    "90": 162696.79
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-24T03:14:27.74486Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 27.54
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-24T03:14:27.74486Z",
+                        "profileCount": 16,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 47366.91,
+                                    "25": 66128.71,
+                                    "50": 90186.53,
+                                    "75": 126937,
+                                    "90": 167281.88
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-24T03:14:27.74486Z",
+                        "profileCount": 11,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-24T03:14:27.74486Z",
+                        "profileCount": 14,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/ce97165c/Early-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/9f5a6e76/Mid-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 83988.1
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/14281f06/Experienced",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 90860
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/e089dd31/Late-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Operations Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/31dd5c23/Operations-Management",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 91475.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/08f6960c/Project-Management",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 85064.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Content Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/a20966b5/Web-Content-Management",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 88505.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/52214e6e/Web-Development",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "People Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/75a7767b/People-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 114235.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Production Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/8e21375b/Production-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 85539.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Operations_Manager/Salary/c6d6731d/Leadership",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 6,
+                        "score": 3.83
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 7836,
+                        "range": {
+                            "10": 47011.95,
+                            "25": 57253.66,
+                            "50": 71261.38,
+                            "75": 89333.16,
+                            "90": 111551.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3390,
+                        "range": {
+                            "10": 52759.71,
+                            "25": 64102.09,
+                            "50": 79011.22,
+                            "75": 97691.07,
+                            "90": 118944.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 3033,
+                        "range": {
+                            "10": 37369.64,
+                            "25": 43985.23,
+                            "50": 52561.18,
+                            "75": 63498.55,
+                            "90": 75384.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 2591,
+                        "range": {
+                            "10": 57135.34,
+                            "25": 74462.51,
+                            "50": 99086.71,
+                            "75": 130997.46,
+                            "90": 160199.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 2236,
+                        "range": {
+                            "10": 48661.92,
+                            "25": 62927.45,
+                            "50": 85968.81,
+                            "75": 126156.82,
+                            "90": 183620.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 2217,
+                        "range": {
+                            "10": 48970.39,
+                            "25": 56058.61,
+                            "50": 65027.25,
+                            "75": 74092.19,
+                            "90": 83141.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 1827,
+                        "range": {
+                            "10": 38602.45,
+                            "25": 45319.55,
+                            "50": 53995.9,
+                            "75": 63990.1,
+                            "90": 74481.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 1772,
+                        "range": {
+                            "10": 46521.93,
+                            "25": 54209.61,
+                            "50": 63114.97,
+                            "75": 74386.71,
+                            "90": 88451.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 1474,
+                        "range": {
+                            "10": 43164.4,
+                            "25": 54276.71,
+                            "50": 71439.32,
+                            "75": 95665.15,
+                            "90": 123727.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 1453,
+                        "range": {
+                            "10": 36056.14,
+                            "25": 42823.45,
+                            "50": 50416.91,
+                            "75": 57778.56,
+                            "90": 64197.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1408,
+                        "range": {
+                            "10": 56713.12,
+                            "25": 64425.28,
+                            "50": 73705.89,
+                            "75": 86532.78,
+                            "90": 102916.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 1287,
+                        "range": {
+                            "10": 81959.87,
+                            "25": 104405.3,
+                            "50": 138316.18,
+                            "75": 175463.81,
+                            "90": 208271.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Manager, Manufacturing",
+                        "url": "/research/US/Job=Production_Manager%2C_Manufacturing/Salary",
+                        "profileCount": 1264,
+                        "range": {
+                            "10": 53141.23,
+                            "25": 64378.62,
+                            "50": 78018.82,
+                            "75": 94342.13,
+                            "90": 110112.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 1126,
+                        "range": {
+                            "10": 77224.22,
+                            "25": 109667.48,
+                            "50": 162669.56,
+                            "75": 240756.14,
+                            "90": 320082.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1105,
+                        "range": {
+                            "10": 59857.57,
+                            "25": 67777.88,
+                            "50": 77530.87,
+                            "75": 90577.11,
+                            "90": 107737.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 995,
+                        "range": {
+                            "10": 77701.7,
+                            "25": 103095.1,
+                            "50": 147253.85,
+                            "75": 197176,
+                            "90": 249581.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 961,
+                        "range": {
+                            "10": 58422.72,
+                            "25": 72309.51,
+                            "50": 91391.78,
+                            "75": 114996.99,
+                            "90": 137144.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 862,
+                        "range": {
+                            "10": 60279.42,
+                            "25": 73976.25,
+                            "50": 92175.61,
+                            "75": 113501.03,
+                            "90": 135007.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 836,
+                        "range": {
+                            "10": 74127.18,
+                            "25": 95791.58,
+                            "50": 124770.96,
+                            "75": 154249.9,
+                            "90": 178985.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 833,
+                        "range": {
+                            "10": 34382.94,
+                            "25": 41802.45,
+                            "50": 50720.33,
+                            "75": 59923.44,
+                            "90": 67789.22
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Web_Operations_Manager/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Operations Management, Project Management, Web Content Management, Web Development, People Management, Production Management, Leadership",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-24T03:14:27.74486Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "44567.19",
+                            "percentile25": "52394.29",
+                            "median": "87629.63",
+                            "percentile75": "127377.24",
+                            "percentile90": "162696.79",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "47366.91",
+                            "percentile25": "66128.71",
+                            "median": "90186.53",
+                            "percentile75": "126937",
+                            "percentile90": "167281.88",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "2780.65",
+                            "median": "6500",
+                            "percentile75": "13500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 35,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Web operations managers are responsible for managing online operations for their organizations and may work in a team setting with other managers to distribute tasks and contribute ideas. They typically use a personal computer to review web activities and make adjustments, and they're also tasked with facilitating communication between different teams of employees, such as designers and programmers.\r\nThese managers must strive to provide the best online service and ensure that all project requirements are met. They may use different techniques to troubleshoot web issues and maintain communication with the hosting and server staff, and they should be proficient with relevant software to write reports and run calculations. Strong communication skills are important in this position to work well with the operations team and facilitate adjustments, and they also resolve a range of online problems and respond to hacking attacks. They may help perform maintenance and server upgrades, assist with compatibility issues, and conduct research to improve customer satisfaction. Multitasking skills are important in this position to prioritize activities depending on importance, and they typically work in a fast-paced environment and must pay close attention to detail to minimize incidents. They also reach out to social networks to promote company products or services.\r\nA bachelor's degree in a computer-related field is generally required for this position, and prior experience in the field may also be required. Industry and leadership certifications are also helpful.",
+                    "name": "Web Operations Manager",
+                    "url": "/research/US/Job=Web_Operations_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

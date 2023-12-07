@@ -1,0 +1,201 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Telecom Exchange Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Telecom_Exchange_Engineer/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Telecom_Exchange_Engineer/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-03-07T00:33:25.92086Z",
+                "narratives": {
+                    "description": "A telecom exchange engineer is a position that requires a high level of technical ability and skill. A telecom exchange engineer is responsible for the installation and repair of communication technology, which includes internet and telephone lines. \r\nA component of this position requires that an individual has a high level of diagnostic skills, as it is necessary in the repair work. Moreover, it is essential that the telecom exchange engineer have strong critical thinking skills, as it often necessary to make a quick decision on a project.  As a telecom exchange engineer, being a team player is essential to the performance of the job, so communication is of the utmost importance for the position.  \r\nThe position of a telecom exchange engineer has a vast amount of requirements. The higher an individual wants to go in the field, the more requirements. However, in order to be qualified for the telecom exchange engineer position, an individual must have some kind of degree in IT or a related field. In addition, an individual is required to complete an apprenticeship position, under the supervision of a telecom exchange engineer for a minimum of 18 months. Moreover, an individual is required to have color-normal vision, as it is an important aspect of the job. In addition, the telecom exchange engineer may need to have the ability to travel, as their organization may serve clients at various locations locally or globally.\r\n",
+                    "summaryHourly": "The average pay for a Telecom Exchange Engineer is $26.85 per hour."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "25": 23.58,
+                        "50": 26.85,
+                        "75": 37.64,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 49053.15,
+                        "50": 55840.74,
+                        "75": 78296.4,
+                        "profileCount": 6
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-03-07T00:33:25.92086Z",
+                        "profileCount": 6,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 49053.15,
+                                    "50": 55840.74,
+                                    "75": 78296.4
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-03-07T00:33:25.92086Z",
+                        "profileCount": 6,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 23.58,
+                                    "50": 26.85,
+                                    "75": 37.64
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Telecom_Exchange_Engineer/Salary/37ff7d27/Late-Career",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Telecom_Exchange_Engineer/Hourly_Rate",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-03-07T00:33:25.92086Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "49053.15",
+                            "median": "55840.74",
+                            "percentile75": "78296.4",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": "23.58",
+                            "median": "26.85",
+                            "percentile75": "37.64",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A telecom exchange engineer is a position that requires a high level of technical ability and skill. A telecom exchange engineer is responsible for the installation and repair of communication technology, which includes internet and telephone lines. \r\nA component of this position requires that an individual has a high level of diagnostic skills, as it is necessary in the repair work. Moreover, it is essential that the telecom exchange engineer have strong critical thinking skills, as it often necessary to make a quick decision on a project.  As a telecom exchange engineer, being a team player is essential to the performance of the job, so communication is of the utmost importance for the position.  \r\nThe position of a telecom exchange engineer has a vast amount of requirements. The higher an individual wants to go in the field, the more requirements. However, in order to be qualified for the telecom exchange engineer position, an individual must have some kind of degree in IT or a related field. In addition, an individual is required to complete an apprenticeship position, under the supervision of a telecom exchange engineer for a minimum of 18 months. Moreover, an individual is required to have color-normal vision, as it is an important aspect of the job. In addition, the telecom exchange engineer may need to have the ability to travel, as their organization may serve clients at various locations locally or globally.\r\n",
+                    "name": "Telecom Exchange Engineer",
+                    "url": "/research/US/Job=Telecom_Exchange_Engineer/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

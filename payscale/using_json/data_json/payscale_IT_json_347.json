@@ -1,0 +1,614 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Lead Level and Layout Designer"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Lead_Level_and_Layout_Designer/Salary",
+                    "defaultUrl": "/research/US/Job=Lead_Level_and_Layout_Designer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-12-02T08:21:31.87147Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Lead Level And Layout Designer is $26.99 per hour.",
+                    "summarySalary": "The average pay for a Lead Level And Layout Designer is $61,769 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 6132,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "25": 21.62,
+                        "50": 26.99,
+                        "75": 35.61,
+                        "profileCount": 6
+                    },
+                    "profitSharing": {
+                        "50": 10800,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "50": 61768.9,
+                        "profileCount": 3
+                    },
+                    "total": {
+                        "25": 48596.45,
+                        "50": 65120.02,
+                        "75": 93900,
+                        "profileCount": 9
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-12-02T08:21:31.87147Z",
+                        "profileCount": 9,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 48596.45,
+                                    "50": 65120.02,
+                                    "75": 93900
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-12-02T08:21:31.87147Z",
+                        "profileCount": 6,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 21.62,
+                                    "50": 26.99,
+                                    "75": 35.61
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-12-02T08:21:31.87147Z",
+                        "profileCount": 3,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 61768.9
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-12-02T08:21:31.87147Z",
+                        "profileCount": 6,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-12-02T08:21:31.87147Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Level_and_Layout_Designer/Salary/714abfad/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 20
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Level_and_Layout_Designer/Hourly_Rate/0fb13ce7/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Level_and_Layout_Designer/Salary/7c3266e9/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 33.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Level_and_Layout_Designer/Hourly_Rate/bfa6901d/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 35.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Level_and_Layout_Designer/Salary/869600b2/Design",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Graphic Designer",
+                        "url": "/research/US/Job=Graphic_Designer/Salary",
+                        "profileCount": 461,
+                        "range": {
+                            "10": 13.57,
+                            "25": 15.75,
+                            "50": 19.32,
+                            "75": 24.02,
+                            "90": 30.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Interior Designer",
+                        "url": "/research/US/Job=Interior_Designer/Salary",
+                        "profileCount": 387,
+                        "range": {
+                            "10": 15.26,
+                            "25": 18.41,
+                            "50": 22.41,
+                            "75": 27.35,
+                            "90": 38.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Architectural Designer",
+                        "url": "/research/US/Job=Architectural_Designer/Salary",
+                        "profileCount": 268,
+                        "range": {
+                            "10": 17.66,
+                            "25": 20.57,
+                            "50": 24.47,
+                            "75": 28,
+                            "90": 32.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Architect",
+                        "url": "/research/US/Job=Project_Architect/Salary",
+                        "profileCount": 172,
+                        "range": {
+                            "10": 22.24,
+                            "25": 27.16,
+                            "50": 32.5,
+                            "75": 38.47,
+                            "90": 47.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Landscape Architect",
+                        "url": "/research/US/Job=Landscape_Architect/Salary",
+                        "profileCount": 151,
+                        "range": {
+                            "10": 18.89,
+                            "25": 22.59,
+                            "50": 28.87,
+                            "75": 35.62,
+                            "90": 45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Architect (but not Landscape or Naval)",
+                        "url": "/research/US/Job=Architect_(but_not_Landscape_or_Naval)/Salary",
+                        "profileCount": 148,
+                        "range": {
+                            "10": 20.91,
+                            "25": 24.37,
+                            "50": 29.81,
+                            "75": 36.49,
+                            "90": 72.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Graphic Designer",
+                        "url": "/research/US/Job=Senior_Graphic_Designer/Salary",
+                        "profileCount": 144,
+                        "range": {
+                            "10": 17.66,
+                            "25": 20.74,
+                            "50": 25.73,
+                            "75": 38.01,
+                            "90": 62.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Art Director",
+                        "url": "/research/US/Job=Art_Director/Salary",
+                        "profileCount": 143,
+                        "range": {
+                            "10": 17.73,
+                            "25": 21.91,
+                            "50": 34.56,
+                            "75": 63.78,
+                            "90": 81.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Interior Designer",
+                        "url": "/research/US/Job=Senior_Interior_Designer/Salary",
+                        "profileCount": 139,
+                        "range": {
+                            "10": 22.12,
+                            "25": 25.69,
+                            "50": 32.58,
+                            "75": 40.51,
+                            "90": 53.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Creative Director",
+                        "url": "/research/US/Job=Creative_Director/Salary",
+                        "profileCount": 138,
+                        "range": {
+                            "10": 14.8,
+                            "25": 18,
+                            "50": 24.91,
+                            "75": 45.94,
+                            "90": 97.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Architect",
+                        "url": "/research/US/Job=Design_Architect/Salary",
+                        "profileCount": 134,
+                        "range": {
+                            "10": 18.1,
+                            "25": 21.87,
+                            "50": 26.41,
+                            "75": 33.42,
+                            "90": 47.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Landscape Designer",
+                        "url": "/research/US/Job=Landscape_Designer/Salary",
+                        "profileCount": 127,
+                        "range": {
+                            "10": 15.75,
+                            "25": 18.62,
+                            "50": 23.28,
+                            "75": 27.44,
+                            "90": 34.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Industrial Designer",
+                        "url": "/research/US/Job=Industrial_Designer/Salary",
+                        "profileCount": 117,
+                        "range": {
+                            "10": 15.76,
+                            "25": 19.53,
+                            "50": 24.15,
+                            "75": 30.69,
+                            "90": 48.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Product Designer",
+                        "url": "/research/US/Job=Product_Designer/Salary",
+                        "profileCount": 115,
+                        "range": {
+                            "10": 18.45,
+                            "25": 21.77,
+                            "50": 30.37,
+                            "75": 44.59,
+                            "90": 66.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Intern Architect",
+                        "url": "/research/US/Job=Intern_Architect/Salary",
+                        "profileCount": 107,
+                        "range": {
+                            "10": 14.72,
+                            "25": 16.07,
+                            "50": 19.63,
+                            "75": 23.48,
+                            "90": 26.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Manager",
+                        "url": "/research/US/Job=Design_Manager/Salary",
+                        "profileCount": 105,
+                        "range": {
+                            "10": 15.57,
+                            "25": 21.04,
+                            "50": 27.03,
+                            "75": 38.41,
+                            "90": 46.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Fashion Designer",
+                        "url": "/research/US/Job=Fashion_Designer/Salary",
+                        "profileCount": 100,
+                        "range": {
+                            "10": 13.75,
+                            "25": 16.72,
+                            "50": 22.29,
+                            "75": 30.24,
+                            "90": 40.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Architecture",
+                        "url": "/research/US/Job=Project_Manager%2C_Architecture/Salary",
+                        "profileCount": 59,
+                        "range": {
+                            "10": 18.62,
+                            "25": 24.07,
+                            "50": 29.69,
+                            "75": 35.44,
+                            "90": 45.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 30.88,
+                            "25": 37.56,
+                            "50": 46.86,
+                            "75": 61.66,
+                            "90": 73.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Instructional Designer",
+                        "url": "/research/US/Job=Instructional_Designer/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 18.73,
+                            "25": 23.87,
+                            "50": 29.34,
+                            "75": 38.19,
+                            "90": 50.97
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Lead_Level_and_Layout_Designer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Design",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-12-02T08:21:31.87147Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "48596.45",
+                            "median": "65120.02",
+                            "percentile75": "93900",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": "21.62",
+                            "median": "26.99",
+                            "percentile75": "35.61",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "6132",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "10800",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 10,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Lead Level and Layout Designer",
+                    "url": "/research/US/Job=Lead_Level_and_Layout_Designer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

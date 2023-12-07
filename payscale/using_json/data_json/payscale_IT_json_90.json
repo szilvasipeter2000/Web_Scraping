@@ -1,0 +1,623 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Clinical Nurse Auditor"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Clinical_Nurse_Auditor/Salary",
+                    "defaultUrl": "/research/US/Job=Clinical_Nurse_Auditor/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2021-05-07T05:09:16.29162Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Clinical Nurse Auditor is $33.00 per hour.",
+                    "summarySalary": "The average pay for a Clinical Nurse Auditor is $69,992 per year."
+                },
+                "tasks": [
+                    "Collect, analyze, and aggregate data to assist the organization in identification of trends and process improvements.",
+                    "Work collaboratively with medical and clinical staff using general guidelines and tools to implement evidence based practice.",
+                    "Educate staff and physicians on desired treatment outcomes."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 850,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "25": 28.32,
+                        "50": 33,
+                        "75": 38,
+                        "profileCount": 7
+                    },
+                    "salary": {
+                        "25": 60367.27,
+                        "50": 69992,
+                        "75": 114640,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "10": 57221.13,
+                        "25": 59726.42,
+                        "50": 69309.41,
+                        "75": 80607.89,
+                        "90": 146807.11,
+                        "profileCount": 12
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2021-05-07T05:09:16.29162Z",
+                        "profileCount": 12,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": {
+                                    "10": 57221.13,
+                                    "25": 59726.42,
+                                    "50": 69309.41,
+                                    "75": 80607.89,
+                                    "90": 146807.11
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2021-05-07T05:09:16.29162Z",
+                        "profileCount": 7,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 28.32,
+                                    "50": 33,
+                                    "75": 38
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2021-05-07T05:09:16.29162Z",
+                        "profileCount": 5,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 60367.27,
+                                    "50": 69992,
+                                    "75": 114640
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2021-05-07T05:09:16.29162Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2021-05-07T05:09:16.29162Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Nurse_Auditor/Salary/b3b65928/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 24.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Nurse_Auditor/Salary/255ffc19/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 29.1
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Nurse_Auditor/Salary/67a9a095/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 33.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Nurse_Auditor/Salary/368a0502/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 35.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Auditing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Nurse_Auditor/Hourly_Rate/db002bb9/Auditing",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 35.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Windows Operating System General Use",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Nurse_Auditor/Hourly_Rate/ff54f522/Windows-Operating-System-General-Use",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 35.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 285,
+                        "range": {
+                            "10": 15.45,
+                            "25": 19.24,
+                            "50": 24.82,
+                            "75": 33.5,
+                            "90": 45.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Auditor",
+                        "url": "/research/US/Job=Auditor/Salary",
+                        "profileCount": 275,
+                        "range": {
+                            "10": 11.75,
+                            "25": 14.44,
+                            "50": 18.17,
+                            "75": 23.22,
+                            "90": 28.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 265,
+                        "range": {
+                            "10": 15.56,
+                            "25": 18.15,
+                            "50": 21,
+                            "75": 24.51,
+                            "90": 27.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Auditor",
+                        "url": "/research/US/Job=Senior_Auditor/Salary",
+                        "profileCount": 224,
+                        "range": {
+                            "10": 14.89,
+                            "25": 19.64,
+                            "50": 27.84,
+                            "75": 35.7,
+                            "90": 43.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 189,
+                        "range": {
+                            "10": 20.43,
+                            "25": 24.13,
+                            "50": 28.54,
+                            "75": 33.99,
+                            "90": 39.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 184,
+                        "range": {
+                            "10": 17.01,
+                            "25": 21.46,
+                            "50": 27.99,
+                            "75": 34.8,
+                            "90": 43.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Assurance (QA) Specialist",
+                        "url": "/research/US/Job=Quality_Assurance_(QA)_Specialist/Salary",
+                        "profileCount": 174,
+                        "range": {
+                            "10": 14.76,
+                            "25": 16.92,
+                            "50": 20.07,
+                            "75": 24.84,
+                            "90": 31.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Assurance Manager",
+                        "url": "/research/US/Job=Quality_Assurance_Manager/Salary",
+                        "profileCount": 172,
+                        "range": {
+                            "10": 14.81,
+                            "25": 18.02,
+                            "50": 22.13,
+                            "75": 29.69,
+                            "90": 38.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Public Accountant (CPA)",
+                        "url": "/research/US/Job=Certified_Public_Accountant_(CPA)/Salary",
+                        "profileCount": 169,
+                        "range": {
+                            "10": 19.11,
+                            "25": 24.51,
+                            "50": 31.25,
+                            "75": 42.38,
+                            "90": 65.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 164,
+                        "range": {
+                            "10": 10.17,
+                            "25": 12.06,
+                            "50": 14.53,
+                            "75": 16.81,
+                            "90": 19.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Internal Auditor",
+                        "url": "/research/US/Job=Internal_Auditor/Salary",
+                        "profileCount": 162,
+                        "range": {
+                            "10": 14,
+                            "25": 16.37,
+                            "50": 19.9,
+                            "75": 24.69,
+                            "90": 28.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 161,
+                        "range": {
+                            "10": 12.75,
+                            "25": 15.43,
+                            "50": 19.29,
+                            "75": 24.43,
+                            "90": 30.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 157,
+                        "range": {
+                            "10": 16.23,
+                            "25": 19.58,
+                            "50": 23.96,
+                            "75": 29.82,
+                            "90": 36.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Auditor",
+                        "url": "/research/US/Job=Associate_Auditor/Salary",
+                        "profileCount": 151,
+                        "range": {
+                            "10": 13.31,
+                            "25": 16.31,
+                            "50": 20.57,
+                            "75": 25.79,
+                            "90": 28.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate - Accounting or Auditing Firm",
+                        "url": "/research/US/Job=Associate_-_Accounting_or_Auditing_Firm/Salary",
+                        "profileCount": 145,
+                        "range": {
+                            "10": 11.83,
+                            "25": 14.64,
+                            "50": 18,
+                            "75": 22.08,
+                            "90": 32.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 142,
+                        "range": {
+                            "10": 17.75,
+                            "25": 22.04,
+                            "50": 28.18,
+                            "75": 35.35,
+                            "90": 43.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Manager",
+                        "url": "/research/US/Job=Quality_Manager/Salary",
+                        "profileCount": 134,
+                        "range": {
+                            "10": 16.52,
+                            "25": 19.36,
+                            "50": 24.02,
+                            "75": 29.98,
+                            "90": 38.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Auditor",
+                        "url": "/research/US/Job=Staff_Auditor/Salary",
+                        "profileCount": 128,
+                        "range": {
+                            "10": 15.51,
+                            "25": 19.13,
+                            "50": 21.59,
+                            "75": 24.26,
+                            "90": 28.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Auditing Manager",
+                        "url": "/research/US/Job=Auditing_Manager/Salary",
+                        "profileCount": 124,
+                        "range": {
+                            "10": 13.2,
+                            "25": 19.83,
+                            "50": 34.63,
+                            "75": 49.15,
+                            "90": 68.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 119,
+                        "range": {
+                            "10": 19.04,
+                            "25": 24.67,
+                            "50": 31.3,
+                            "75": 39.09,
+                            "90": 49.69
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Clinical_Nurse_Auditor/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Auditing, Windows Operating System General Use",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2021-05-07T05:09:16.29162Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "57221.13",
+                            "percentile25": "59726.42",
+                            "median": "69309.41",
+                            "percentile75": "80607.89",
+                            "percentile90": "146807.11",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "HOUR",
+                            "percentile10": null,
+                            "percentile25": "28.32",
+                            "median": "33",
+                            "percentile75": "38",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "850",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 12,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Clinical Nurse Auditor",
+                    "url": "/research/US/Job=Clinical_Nurse_Auditor/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,295 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Research & Development (R&D) Manager, Computer Software"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Research_%26_Development_(R%26D)_Manager%2C_Computer_Software/Salary",
+                    "defaultUrl": "/research/US/Job=Research_%26_Development_(R%26D)_Manager%2C_Computer_Software/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2017-01-15T20:24:41.90579Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Research & Development (R&D) Manager, Computer Software is $120,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 25000,
+                        "profileCount": 3
+                    },
+                    "profitSharing": {
+                        "50": 11750,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "25": 93000,
+                        "50": 120000,
+                        "75": 167500,
+                        "profileCount": 9
+                    },
+                    "total": {
+                        "25": 106875,
+                        "50": 134912.17,
+                        "75": 192207.79,
+                        "profileCount": 9
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2017-01-15T20:24:41.90579Z",
+                        "profileCount": 9,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 106875,
+                                    "50": 134912.17,
+                                    "75": 192207.79
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2017-01-15T20:24:41.90579Z",
+                        "profileCount": 9,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 93000,
+                                    "50": 120000,
+                                    "75": 167500
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2017-01-15T20:24:41.90579Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2017-01-15T20:24:41.90579Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Research_%26_Development_(R%26D)_Manager%2C_Computer_Software/Salary/2439ccd9/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 112000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Research_%26_Development_(R%26D)_Manager%2C_Computer_Software/Salary/5bd313e0/Late-Career",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 127500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 3
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Research_%26_Development_(R%26D)_Manager%2C_Computer_Software/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2017-01-15T20:24:41.90579Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "106875",
+                            "median": "134912.17",
+                            "percentile75": "192207.79",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "93000",
+                            "median": "120000",
+                            "percentile75": "167500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "25000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "11750",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 8,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Research & Development (R&D) Manager, Computer Software",
+                    "url": "/research/US/Job=Research_%26_Development_(R%26D)_Manager%2C_Computer_Software/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,809 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Wafer Fabrication Operator",
+                    "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate",
+                    "compensation": 14.547394786831015,
+                    "isHourly": true,
+                    "currency": "USD"
+                },
+                "childCount": 3,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Process Technician",
+                            "url": "/research/US/Job=Process_Technician/Hourly_Rate",
+                            "percent": 0.33,
+                            "compensation": 52766.66249560744,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Process Engineer",
+                                    "url": "/research/US/Job=Process_Engineer/Salary",
+                                    "percent": 0.2,
+                                    "compensation": 73131.20820347838,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Production Supervisor",
+                                    "url": "/research/US/Job=Production_Supervisor/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 59062.10225899801,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Injection Molding Technician",
+                                    "url": "/research/US/Job=Injection_Molding_Technician/Hourly_Rate",
+                                    "percent": 0.05,
+                                    "compensation": 46155.995942816575,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Building Information Modeling (BIM) Coordinator",
+                            "url": "/research/US/Job=Building_Information_Modeling_(BIM)_Coordinator/Salary",
+                            "percent": 0.33,
+                            "compensation": 60300.80870612142,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Building Information Modeling (BIM) Manager",
+                                    "url": "/research/US/Job=Building_Information_Modeling_(BIM)_Manager/Salary",
+                                    "percent": 0.69,
+                                    "compensation": 77389.4524248927,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Computer Aided Design (CAD) Designer",
+                                    "url": "/research/US/Job=Computer_Aided_Design_(CAD)_Designer/Hourly_Rate",
+                                    "percent": 0.06,
+                                    "compensation": 53917.899527466565,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Design Engineer",
+                                    "url": "/research/US/Job=Design_Engineer/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 68126.50684447234,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": {
+                            "jobTitle": "Manufacturing Technician, Semiconductors",
+                            "url": "/research/US/Job=Manufacturing_Technician%2C_Semiconductors/Hourly_Rate",
+                            "percent": 0.33,
+                            "compensation": 58973.43820046822,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 1,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Engineering Technician",
+                                    "url": "/research/US/Job=Engineering_Technician/Hourly_Rate",
+                                    "percent": 1,
+                                    "compensation": 55974.53169634232,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Wafer Fabrication Operator"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-28T04:04:44.98763Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Wafer Fabrication Operator is $18.70 per hour."
+                },
+                "tasks": [
+                    "Follow clean room procedures and guidelines.",
+                    "Log hours, materials and equipment information.",
+                    "Report problems with equipment, materials and environment.",
+                    "Calibrate and operate wafer processing equipment, checking for quality and measurements."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 491.32,
+                        "50": 950,
+                        "75": 2814.03,
+                        "profileCount": 6
+                    },
+                    "hourlyRate": {
+                        "10": 14.93,
+                        "25": 16.14,
+                        "50": 18.7,
+                        "75": 21.54,
+                        "90": 23.34,
+                        "profileCount": 28
+                    },
+                    "profitSharing": {
+                        "50": 6240,
+                        "profileCount": 2
+                    },
+                    "total": {
+                        "10": 31100.97,
+                        "25": 33795.46,
+                        "50": 40603.53,
+                        "75": 45557.96,
+                        "90": 49958.59,
+                        "profileCount": 29
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-28T04:04:44.98763Z",
+                        "profileCount": 29,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 29,
+                                "range": {
+                                    "10": 31100.97,
+                                    "25": 33795.46,
+                                    "50": 40603.53,
+                                    "75": 45557.96,
+                                    "90": 49958.59
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-08-28T04:04:44.98763Z",
+                        "profileCount": 28,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 28,
+                                "range": {
+                                    "10": 14.93,
+                                    "25": 16.14,
+                                    "50": 18.7,
+                                    "75": 21.54,
+                                    "90": 23.34
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-28T04:04:44.98763Z",
+                        "profileCount": 16,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-28T04:04:44.98763Z",
+                        "profileCount": 18,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/4c62ad73/Entry-Level",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 13.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/4c62ad73/Early-Career",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 16.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/6b5327a1/Mid-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 19.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/b5ac7d59/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 20.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/4935579a/Late-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 16.75
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/d9f21abf/Austin-TX",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 18
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Quality Assurance / Quality Control",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/ef937fd8/Quality-Assurance-Quality-Control",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 17.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Semiconductor Module Production",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/a04ce2a3/Semiconductor-Module-Production",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 17.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Training",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/02d977dd/Training",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/4b076e0a/Troubleshooting",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 17.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Machine Programming, Manufacturing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/68e9cc2f/Machine-Programming-Manufacturing",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 16.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Entry",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate/d0cfd4ea/Data-Entry",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 17.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 7,
+                        "score": 3.29
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2136,
+                        "range": {
+                            "10": 13.25,
+                            "25": 15.19,
+                            "50": 17.57,
+                            "75": 20.52,
+                            "90": 24.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 1116,
+                        "range": {
+                            "10": 11.23,
+                            "25": 13.37,
+                            "50": 15.81,
+                            "75": 18.46,
+                            "90": 21.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Technician",
+                        "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                        "profileCount": 839,
+                        "range": {
+                            "10": 14.59,
+                            "25": 17.05,
+                            "50": 20.66,
+                            "75": 25.63,
+                            "90": 30.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 669,
+                        "range": {
+                            "10": 16.28,
+                            "25": 19.2,
+                            "50": 23.29,
+                            "75": 28.1,
+                            "90": 33.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Pharmacy Technician",
+                        "url": "/research/US/Job=Pharmacy_Technician/Hourly_Rate",
+                        "profileCount": 594,
+                        "range": {
+                            "10": 12.1,
+                            "25": 13.87,
+                            "50": 16.1,
+                            "75": 19,
+                            "90": 22.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrician",
+                        "url": "/research/US/Job=Electrician/Hourly_Rate",
+                        "profileCount": 522,
+                        "range": {
+                            "10": 15.73,
+                            "25": 19.17,
+                            "50": 24.21,
+                            "75": 30.32,
+                            "90": 37.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Assurance (QA) / Quality Control (QC) Inspector",
+                        "url": "/research/US/Job=Quality_Assurance_(QA)_%2F_Quality_Control_(QC)_Inspector/Hourly_Rate",
+                        "profileCount": 513,
+                        "range": {
+                            "10": 14.38,
+                            "25": 16.5,
+                            "50": 19.78,
+                            "75": 24.57,
+                            "90": 30.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 473,
+                        "range": {
+                            "10": 10.9,
+                            "25": 12.54,
+                            "50": 14.66,
+                            "75": 16.77,
+                            "90": 19.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Assurance (QA) Engineer",
+                        "url": "/research/US/Job=Quality_Assurance_(QA)_Engineer/Salary",
+                        "profileCount": 414,
+                        "range": {
+                            "10": 19.77,
+                            "25": 23.76,
+                            "50": 27.93,
+                            "75": 37.09,
+                            "90": 50.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Assurance Manager",
+                        "url": "/research/US/Job=Quality_Assurance_Manager/Salary",
+                        "profileCount": 404,
+                        "range": {
+                            "10": 16.31,
+                            "25": 19.72,
+                            "50": 24.6,
+                            "75": 31.85,
+                            "90": 41.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Pharmacy Technician (CPHT)",
+                        "url": "/research/US/Job=Certified_Pharmacy_Technician_(CPHT)/Hourly_Rate",
+                        "profileCount": 401,
+                        "range": {
+                            "10": 13.42,
+                            "25": 15.11,
+                            "50": 17.31,
+                            "75": 19.91,
+                            "90": 22.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Manager",
+                        "url": "/research/US/Job=Quality_Manager/Salary",
+                        "profileCount": 394,
+                        "range": {
+                            "10": 17.45,
+                            "25": 20.47,
+                            "50": 25.43,
+                            "75": 31.92,
+                            "90": 40.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 378,
+                        "range": {
+                            "10": 14.61,
+                            "25": 17.2,
+                            "50": 20.65,
+                            "75": 25.32,
+                            "90": 30.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Assurance (QA) Specialist",
+                        "url": "/research/US/Job=Quality_Assurance_(QA)_Specialist/Salary",
+                        "profileCount": 372,
+                        "range": {
+                            "10": 16.33,
+                            "25": 18.84,
+                            "50": 22.13,
+                            "75": 26.97,
+                            "90": 33.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Technologist",
+                        "url": "/research/US/Job=Medical_Technologist/Hourly_Rate",
+                        "profileCount": 359,
+                        "range": {
+                            "10": 21.97,
+                            "25": 25.48,
+                            "50": 29.2,
+                            "75": 33.28,
+                            "90": 37.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 343,
+                        "range": {
+                            "10": 12.13,
+                            "25": 14.47,
+                            "50": 17.1,
+                            "75": 20.71,
+                            "90": 25.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automotive Service Technician / Mechanic",
+                        "url": "/research/US/Job=Automotive_Service_Technician_%2F_Mechanic/Hourly_Rate",
+                        "profileCount": 338,
+                        "range": {
+                            "10": 12.64,
+                            "25": 15.31,
+                            "50": 19.52,
+                            "75": 25.32,
+                            "90": 30.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounts Payable Specialist",
+                        "url": "/research/US/Job=Accounts_Payable_Specialist/Hourly_Rate",
+                        "profileCount": 338,
+                        "range": {
+                            "10": 16.16,
+                            "25": 18.13,
+                            "50": 20.49,
+                            "75": 23.42,
+                            "90": 26.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Engineering Technician",
+                        "url": "/research/US/Job=Engineering_Technician/Hourly_Rate",
+                        "profileCount": 331,
+                        "range": {
+                            "10": 17.18,
+                            "25": 20.18,
+                            "50": 24.64,
+                            "75": 29.81,
+                            "90": 35.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 321,
+                        "range": {
+                            "10": 10.31,
+                            "25": 11.97,
+                            "50": 14.27,
+                            "75": 16.72,
+                            "90": 19.42
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Quality Assurance / Quality Control, Semiconductor Module Production, Training, Troubleshooting, Machine Programming, Manufacturing, Data Entry",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-28T04:04:44.98763Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "31100.97",
+                            "percentile25": "33795.46",
+                            "median": "40603.53",
+                            "percentile75": "45557.96",
+                            "percentile90": "49958.59",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": "14.93",
+                            "percentile25": "16.14",
+                            "median": "18.7",
+                            "percentile75": "21.54",
+                            "percentile90": "23.34",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "491.32",
+                            "median": "950",
+                            "percentile75": "2814.03",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 37,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Wafer Fabrication Operator",
+                    "url": "/research/US/Job=Wafer_Fabrication_Operator/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

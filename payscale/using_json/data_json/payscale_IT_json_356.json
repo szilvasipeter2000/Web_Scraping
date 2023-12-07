@@ -1,0 +1,674 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Legal Records Manager",
+                    "url": "/research/US/Job=Legal_Records_Manager/Salary",
+                    "compensation": 55967.50735472957,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Records Manager",
+                            "url": "/research/US/Job=Records_Manager/Salary",
+                            "percent": 0.5,
+                            "compensation": 61174.58128052706,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Administrative Specialist",
+                                    "url": "/research/US/Job=Administrative_Specialist/Hourly_Rate",
+                                    "percent": 0.1,
+                                    "compensation": 41566.09544250925,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Records and Information Management Director",
+                                    "url": "/research/US/Job=Records_and_Information_Management_Director/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 113629.2401991213,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Records Management Supervisor",
+                                    "url": "/research/US/Job=Records_Management_Supervisor/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 55747.22157667953,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Records and Information Management Director",
+                            "url": "/research/US/Job=Records_and_Information_Management_Director/Salary",
+                            "percent": 0.5,
+                            "compensation": 113629.2401991213,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 0
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Legal Records Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Legal_Records_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Legal_Records_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-15T01:13:04.13674Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Legal Records Manager is $18.79 per hour.",
+                    "summarySalary": "The average pay for a Legal Records Manager is $66,500 per year."
+                },
+                "tasks": [
+                    "Organize, retrieve, update, and follow best practices for documents and records.",
+                    "Collate, annotate, and present collections of documents.",
+                    "Coach and mentor users and staff in retrieval, usage, quality, and technology for records.",
+                    "Identify processes and tools to improve digital knowledge management."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 1000,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "50": 18.79,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "50": 66500,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "25": 39260.3,
+                        "50": 52000,
+                        "75": 76500,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-15T01:13:04.13674Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 39260.3,
+                                    "50": 52000,
+                                    "75": 76500
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-08-15T01:13:04.13674Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 18.79
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-15T01:13:04.13674Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 66500
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-15T01:13:04.13674Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-15T01:13:04.13674Z",
+                        "profileCount": 5,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Legal_Records_Manager/Salary/120d51d2/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 50980.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Legal_Records_Manager/Salary/ef737752/Mid-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 50562.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Legal_Records_Manager/Salary/1cea6315/Experienced",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 55557.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Legal_Records_Manager/Salary/4a681d30/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 62500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Records Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Legal_Records_Manager/Salary/6aa8aec7/Records-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 56000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Records Manager",
+                        "url": "/research/US/Job=Records_Manager/Salary",
+                        "profileCount": 52,
+                        "range": {
+                            "10": 42466.41,
+                            "25": 53906.42,
+                            "50": 66335.36,
+                            "75": 79736.15,
+                            "90": 96977.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Records Clerk",
+                        "url": "/research/US/Job=Medical_Records_Clerk/Hourly_Rate",
+                        "profileCount": 31,
+                        "range": {
+                            "10": 29235.8,
+                            "25": 32883.98,
+                            "50": 36017.69,
+                            "75": 45056.71,
+                            "90": 55165.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Archivist",
+                        "url": "/research/US/Job=Archivist/Salary",
+                        "profileCount": 31,
+                        "range": {
+                            "10": 39122.47,
+                            "25": 43900.5,
+                            "50": 52443.84,
+                            "75": 62636.36,
+                            "90": 73214.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Registrar, College Or University",
+                        "url": "/research/US/Job=Registrar%2C_College_Or_University/Salary",
+                        "profileCount": 30,
+                        "range": {
+                            "10": 41204.36,
+                            "25": 50204.68,
+                            "50": 64260.55,
+                            "75": 82107.35,
+                            "90": 101382.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Records Clerk",
+                        "url": "/research/US/Job=Records_Clerk/Hourly_Rate",
+                        "profileCount": 21,
+                        "range": {
+                            "10": 28974.85,
+                            "25": 31383.01,
+                            "50": 38146.88,
+                            "75": 44684.7,
+                            "90": 52580.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Records Analyst",
+                        "url": "/research/US/Job=Records_Analyst/Hourly_Rate",
+                        "profileCount": 21,
+                        "range": {
+                            "10": 34339.72,
+                            "25": 40393.54,
+                            "50": 49230.49,
+                            "75": 57706.64,
+                            "90": 65681.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "High School Registrar",
+                        "url": "/research/US/Job=High_School_Registrar/Salary",
+                        "profileCount": 20,
+                        "range": {
+                            "10": 28289.42,
+                            "25": 34053.16,
+                            "50": 40891.97,
+                            "75": 52012.95,
+                            "90": 64750.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Registrar",
+                        "url": "/research/US/Job=Assistant_Registrar/Salary",
+                        "profileCount": 13,
+                        "range": {
+                            "10": 36929.96,
+                            "25": 40813.98,
+                            "50": 46745.74,
+                            "75": 53153.1,
+                            "90": 59216.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Document Control Manager",
+                        "url": "/research/US/Job=Document_Control_Manager/Salary",
+                        "profileCount": 10,
+                        "range": {
+                            "10": 52080.57,
+                            "25": 66313.73,
+                            "50": 79977.83,
+                            "75": 99997.44,
+                            "90": 117732.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Records Coordinator",
+                        "url": "/research/US/Job=Medical_Records_Coordinator/Hourly_Rate",
+                        "profileCount": 10,
+                        "range": {
+                            "10": 29095.28,
+                            "25": 34124.65,
+                            "50": 41985.6,
+                            "75": 47783.82,
+                            "90": 51727.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "File Clerk",
+                        "url": "/research/US/Job=File_Clerk/Hourly_Rate",
+                        "profileCount": 9,
+                        "range": {
+                            "10": 27807.24,
+                            "25": 30209.7,
+                            "50": 38197.36,
+                            "75": 45934.16,
+                            "90": 57260.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "City Clerk",
+                        "url": "/research/US/Job=City_Clerk/Salary",
+                        "profileCount": 9,
+                        "range": {
+                            "10": 36149.89,
+                            "25": 42690.41,
+                            "50": 53630.1,
+                            "75": 66492.11,
+                            "90": 86677.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Records Management Manager",
+                        "url": "/research/US/Job=Records_Management_Manager/Salary",
+                        "profileCount": 8,
+                        "range": {
+                            "10": 44771.33,
+                            "25": 60000,
+                            "50": 71858.88,
+                            "75": 103630.37,
+                            "90": 116807.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Deputy Clerk",
+                        "url": "/research/US/Job=Deputy_Clerk/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 28541.9,
+                            "25": 32817.23,
+                            "50": 39026,
+                            "75": 49680.05,
+                            "90": 66275.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Registrar",
+                        "url": "/research/US/Job=Associate_Registrar/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 41637.33,
+                            "25": 50659.61,
+                            "50": 60021.5,
+                            "75": 71000.95,
+                            "90": 80338.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Management Specialist",
+                        "url": "/research/US/Job=Information_Management_Specialist/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 41119.87,
+                            "25": 53734.71,
+                            "50": 64810.17,
+                            "75": 81551.47,
+                            "90": 97159.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Records and Information Management Director",
+                        "url": "/research/US/Job=Records_and_Information_Management_Director/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 66863.33,
+                            "25": 78417.48,
+                            "50": 108992.12,
+                            "75": 167164.18,
+                            "90": 198598.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Records / Health Information Technician",
+                        "url": "/research/US/Job=Medical_Records_%2F_Health_Information_Technician/Hourly_Rate",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 30607.58,
+                            "25": 36769.07,
+                            "50": 45736.36,
+                            "75": 52834.11,
+                            "90": 65139.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Records Technician",
+                        "url": "/research/US/Job=Records_Technician/Hourly_Rate",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 23585.91,
+                            "25": 26225.26,
+                            "50": 36821.57,
+                            "75": 52079.66,
+                            "90": 64896.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Records Management Assistant",
+                        "url": "/research/US/Job=Records_Management_Assistant/Hourly_Rate",
+                        "profileCount": 6,
+                        "range": {
+                            "25": 34391.18,
+                            "50": 36264.11,
+                            "75": 60000
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Legal_Records_Manager/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Records Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-15T01:13:04.13674Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "39260.3",
+                            "median": "52000",
+                            "percentile75": "76500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "66500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "1000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 9,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Legal Records Manager",
+                    "url": "/research/US/Job=Legal_Records_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

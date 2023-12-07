@@ -1,0 +1,719 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Project Controller, Information Technology (IT)",
+                    "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary",
+                    "compensation": 73469.71678531036,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Project Management Officer",
+                            "url": "/research/US/Job=Project_Management_Officer/Salary",
+                            "percent": 1,
+                            "compensation": 75958.90217625436,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 0
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Project Controller, Information Technology (IT)"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary",
+                    "defaultUrl": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-01-20T18:28:02.82273Z",
+                "narratives": {
+                    "description": "The information technology (IT) project controller works closely with the project manager, helping create tools to perform financial and project processes, as well as analyzing projects' costs, risks, planning, and accuracy. The IT project controller is responsible for collaborating with the project manager to update and develop projects as well; they are involved throughout the development and update processes, from planning to creating budgets and value adding processes to developing reports that track project process and analyze effectiveness. IT project controllers also plan meetings and documentation for presentations, as well as help create project scheduling to ensure it is aligned with budget restrictions. \r\nThe IT project controller typically works most closely with the project manager, but they also collaborate with many different departments and colleagues within their organization. Therefore, they must be skilled at working with teams and with managers with different leadership styles. This job generally takes place in an office setting, with most of the controller's time spent in front of the computer. Typical employers include large organizations that regularly undertake projects. This role is in the IT field, but it also requires knowledge of finance, budgeting, and risk analysis.\r\nRequired education for IT project controller positions typically includes a bachelor’s degree in a business- or technology-related field, with project management certifications desired. Previous relevant experience - including with budgeting and forecasting - is generally needed as well. IT project controllers must be proficient with basic computer programs such as the Microsoft Office suite, as well as have strong analytical and critical-thinking skills. ",
+                    "summaryHourly": "The average pay for a Project Controller, Information Technology (IT) is $22.15 per hour.",
+                    "summarySalary": "The average pay for a Project Controller, Information Technology (IT) is $78,850 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 1350,
+                        "50": 7200,
+                        "75": 8799.38,
+                        "profileCount": 5
+                    },
+                    "hourlyRate": {
+                        "50": 22.15,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 60528.93,
+                        "25": 69857.46,
+                        "50": 78850,
+                        "75": 120733.49,
+                        "90": 135617.77,
+                        "profileCount": 20
+                    },
+                    "total": {
+                        "10": 46072,
+                        "25": 63778.8,
+                        "50": 76167.02,
+                        "75": 120162.78,
+                        "90": 137979.77,
+                        "profileCount": 24
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-01-20T18:28:02.82273Z",
+                        "profileCount": 24,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": {
+                                    "10": 46072,
+                                    "25": 63778.8,
+                                    "50": 76167.02,
+                                    "75": 120162.78,
+                                    "90": 137979.77
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-01-20T18:28:02.82273Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 22.15
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-01-20T18:28:02.82273Z",
+                        "profileCount": 20,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 60528.93,
+                                    "25": 69857.46,
+                                    "50": 78850,
+                                    "75": 120733.49,
+                                    "90": 135617.77
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-01-20T18:28:02.82273Z",
+                        "profileCount": 12,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-01-20T18:28:02.82273Z",
+                        "profileCount": 15,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Sandia National Laboratories",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/a59b257a/Sandia-National-Laboratories",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 115324.68
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/96626375/Early-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 68465.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/8e235e9a/Mid-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/6d5af296/Experienced",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 82183.95
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/3dd456f4/Project-Management",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 79987.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Budget Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/95206899/Budget-Management",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 80422.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Coordinating",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/6ce06ede/Project-Coordinating",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 73469.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/4e92b213/Data-Analysis",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 62570.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Earned Value Management (EVM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/bd51d514/Earned-Value-Management-EVM",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 119951.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Risk Management / Risk Control",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/d4c71180/Risk-Management-Risk-Control",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Financial Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/8e5f6ad4/Financial-Analysis",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAP Financial Accounting and Controlling (SAP FICO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/5374d9c5/SAP-Financial-Accounting-and-Controlling-SAP-FICO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80232.58
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Forecasting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary/fc26c5b6/Forecasting",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 87584.37
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 4.2
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 5398,
+                        "range": {
+                            "10": 51351.88,
+                            "25": 62654.01,
+                            "50": 77467.7,
+                            "75": 95864.95,
+                            "90": 117246.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 3037,
+                        "range": {
+                            "10": 49830.32,
+                            "25": 56499.34,
+                            "50": 64529.62,
+                            "75": 74166.09,
+                            "90": 85298.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 2235,
+                        "range": {
+                            "10": 67554.65,
+                            "25": 75706.54,
+                            "50": 85055.8,
+                            "75": 95510.05,
+                            "90": 106761.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1903,
+                        "range": {
+                            "10": 55657.05,
+                            "25": 63290.14,
+                            "50": 72341.41,
+                            "75": 84878.83,
+                            "90": 101060.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1660,
+                        "range": {
+                            "10": 45631.26,
+                            "25": 55543.46,
+                            "50": 69580.04,
+                            "75": 87256.68,
+                            "90": 108809.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1455,
+                        "range": {
+                            "10": 46453.9,
+                            "25": 54597.23,
+                            "50": 64763.36,
+                            "75": 76503.91,
+                            "90": 89183.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Controller",
+                        "url": "/research/US/Job=Financial_Controller/Salary",
+                        "profileCount": 1128,
+                        "range": {
+                            "10": 60708.11,
+                            "25": 73106.65,
+                            "50": 89115.7,
+                            "75": 108565.35,
+                            "90": 128981.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1120,
+                        "range": {
+                            "10": 58842.45,
+                            "25": 72203.07,
+                            "50": 89724.58,
+                            "75": 110753.01,
+                            "90": 130892.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 1086,
+                        "range": {
+                            "10": 39498.29,
+                            "25": 45083.62,
+                            "50": 53013.67,
+                            "75": 62457.51,
+                            "90": 72809.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 1075,
+                        "range": {
+                            "10": 51004.64,
+                            "25": 61798.6,
+                            "50": 77807.62,
+                            "75": 96990.81,
+                            "90": 121501.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1066,
+                        "range": {
+                            "10": 58584.59,
+                            "25": 66017.11,
+                            "50": 75334.67,
+                            "75": 87751.5,
+                            "90": 103548.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Finance Manager",
+                        "url": "/research/US/Job=Finance_Manager/Salary",
+                        "profileCount": 996,
+                        "range": {
+                            "10": 55499.64,
+                            "25": 75216.74,
+                            "50": 97786.04,
+                            "75": 116136,
+                            "90": 131765.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 924,
+                        "range": {
+                            "10": 42862.62,
+                            "25": 47851.06,
+                            "50": 53930.47,
+                            "75": 63150.53,
+                            "90": 72978.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 825,
+                        "range": {
+                            "10": 66264.14,
+                            "25": 75851.03,
+                            "50": 88118.07,
+                            "75": 101840.25,
+                            "90": 118836.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 788,
+                        "range": {
+                            "10": 47584.97,
+                            "25": 61047.89,
+                            "50": 82926.64,
+                            "75": 121701.7,
+                            "90": 176010.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 689,
+                        "range": {
+                            "10": 67717.76,
+                            "25": 80698.17,
+                            "50": 98061.79,
+                            "75": 119010.32,
+                            "90": 139626.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 665,
+                        "range": {
+                            "10": 41835.07,
+                            "25": 50175.11,
+                            "50": 60947.66,
+                            "75": 73236.51,
+                            "90": 85989.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Construction Project Manager",
+                        "url": "/research/US/Job=Construction_Project_Manager/Salary",
+                        "profileCount": 653,
+                        "range": {
+                            "10": 55181.63,
+                            "25": 67438.21,
+                            "50": 82851.38,
+                            "75": 101054.09,
+                            "90": 122298.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 647,
+                        "range": {
+                            "10": 60185.93,
+                            "25": 67845.65,
+                            "50": 77415.94,
+                            "75": 90099.02,
+                            "90": 107124.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 645,
+                        "range": {
+                            "10": 57268.97,
+                            "25": 70932.34,
+                            "50": 89965.64,
+                            "75": 113339.76,
+                            "90": 135177.37
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Project Management, Budget Management, Project Coordinating, Data Analysis, Earned Value Management (EVM), Risk Management / Risk Control, Financial Analysis, SAP Financial Accounting and Controlling (SAP FICO), Forecasting",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-01-20T18:28:02.82273Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "46072",
+                            "percentile25": "63778.8",
+                            "median": "76167.02",
+                            "percentile75": "120162.78",
+                            "percentile90": "137979.77",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "60528.93",
+                            "percentile25": "69857.46",
+                            "median": "78850",
+                            "percentile75": "120733.49",
+                            "percentile90": "135617.77",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "1350",
+                            "median": "7200",
+                            "percentile75": "8799.38",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 26,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "The information technology (IT) project controller works closely with the project manager, helping create tools to perform financial and project processes, as well as analyzing projects' costs, risks, planning, and accuracy. The IT project controller is responsible for collaborating with the project manager to update and develop projects as well; they are involved throughout the development and update processes, from planning to creating budgets and value adding processes to developing reports that track project process and analyze effectiveness. IT project controllers also plan meetings and documentation for presentations, as well as help create project scheduling to ensure it is aligned with budget restrictions. \r\nThe IT project controller typically works most closely with the project manager, but they also collaborate with many different departments and colleagues within their organization. Therefore, they must be skilled at working with teams and with managers with different leadership styles. This job generally takes place in an office setting, with most of the controller's time spent in front of the computer. Typical employers include large organizations that regularly undertake projects. This role is in the IT field, but it also requires knowledge of finance, budgeting, and risk analysis.\r\nRequired education for IT project controller positions typically includes a bachelor’s degree in a business- or technology-related field, with project management certifications desired. Previous relevant experience - including with budgeting and forecasting - is generally needed as well. IT project controllers must be proficient with basic computer programs such as the Microsoft Office suite, as well as have strong analytical and critical-thinking skills. ",
+                    "name": "Project Controller, Information Technology (IT)",
+                    "url": "/research/US/Job=Project_Controller%2C_Information_Technology_(IT)/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

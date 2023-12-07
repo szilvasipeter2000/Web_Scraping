@@ -1,0 +1,646 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 6,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Field Engineer, Telecommunications"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-05T01:54:58.29768Z",
+                "narratives": {
+                    "description": "Field engineers in telecommunications play a key role in maintaining communications systems, and are responsible for installing, testing, and maintaining equipment such as base transceiver stations (GSM PCS) to run wireless systems.\r\nTheir general duties include various maintenance routines on equipment to ensure optimal performance, as well as component-repairs and even construction of new towers. Tools used include radios, network facilities, and interconnect devices, and there is some risk involved when working high above the ground and around high voltage systems. The daily routine includes working outdoors and being available for repairs during emergency hours (on-call), so long hours should be expected.\r\nThese field engineers also work with other engineers and construction personnel when completing maintenance and equipment installations, and typically report to a supervisor within the company. Standard prerequisites for the position include a two-year technical degree, and most employers require at least some prior experience with telecommunications systems. Field engineers work highly demanding schedules because they are often on-call, so they must be able to commute (usually in a repair truck) to the site of the repair and work until service is restored.",
+                    "summaryHourly": "The average pay for a Field Engineer, Telecommunications is $28.23 per hour.",
+                    "summarySalary": "The average pay for a Field Engineer, Telecommunications is $63,984 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "25": 21,
+                        "50": 28.23,
+                        "75": 30.28,
+                        "profileCount": 7
+                    },
+                    "salary": {
+                        "50": 63984.38,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "10": 35843.52,
+                        "25": 45392.8,
+                        "50": 60786.14,
+                        "75": 65258.5,
+                        "90": 78906.06,
+                        "profileCount": 11
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-05T01:54:58.29768Z",
+                        "profileCount": 11,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 35843.52,
+                                    "25": 45392.8,
+                                    "50": 60786.14,
+                                    "75": 65258.5,
+                                    "90": 78906.06
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-11-05T01:54:58.29768Z",
+                        "profileCount": 7,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 21,
+                                    "50": 28.23,
+                                    "75": 30.28
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-05T01:54:58.29768Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 63984.38
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-05T01:54:58.29768Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-05T01:54:58.29768Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/25392737/Early-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 25.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Salary/d567d19d/Mid-Career",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 23.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/71080e31/Experienced",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 25.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/07db4372/Late-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 29.79
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Systems Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/b01222c7/Systems-Troubleshooting",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 28.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Telecommunications",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/66eaea8f/Telecommunications",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Engineering Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/11b9cb37/Engineering-Design",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 24.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Electronic Equipment Installation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/379b56de/Electronic-Equipment-Installation",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 27.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/5a3bf42e/Project-Management",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 19.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Installation & Upgrade",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate/e5f9bb8e/Software-Installation-%26-Upgrade",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Salary/4da68a0e/Network-Support",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 28
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 3531,
+                        "range": {
+                            "10": 18.82,
+                            "25": 23.94,
+                            "50": 30.06,
+                            "75": 37.26,
+                            "90": 46.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3331,
+                        "range": {
+                            "10": 17.67,
+                            "25": 21.65,
+                            "50": 28.73,
+                            "75": 39.37,
+                            "90": 53.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 2511,
+                        "range": {
+                            "10": 19.61,
+                            "25": 24.73,
+                            "50": 30.75,
+                            "75": 37.88,
+                            "90": 46.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 1935,
+                        "range": {
+                            "10": 20.5,
+                            "25": 26.48,
+                            "50": 33.69,
+                            "75": 41.31,
+                            "90": 51.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 1493,
+                        "range": {
+                            "10": 23.63,
+                            "25": 27.81,
+                            "50": 32.53,
+                            "75": 38.24,
+                            "90": 45.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 1060,
+                        "range": {
+                            "10": 31.51,
+                            "25": 39.19,
+                            "50": 49.54,
+                            "75": 63.01,
+                            "90": 74.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1044,
+                        "range": {
+                            "10": 14.59,
+                            "25": 17.33,
+                            "50": 21.37,
+                            "75": 26.33,
+                            "90": 32.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Engineer",
+                        "url": "/research/US/Job=Design_Engineer/Salary",
+                        "profileCount": 922,
+                        "range": {
+                            "10": 19.74,
+                            "25": 23.93,
+                            "50": 28.59,
+                            "75": 34.17,
+                            "90": 40.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 850,
+                        "range": {
+                            "10": 20.11,
+                            "25": 27.52,
+                            "50": 40.9,
+                            "75": 61.76,
+                            "90": 79.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 777,
+                        "range": {
+                            "10": 23.6,
+                            "25": 29.11,
+                            "50": 38.31,
+                            "75": 49.68,
+                            "90": 63.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 710,
+                        "range": {
+                            "10": 18.54,
+                            "25": 23.11,
+                            "50": 28.1,
+                            "75": 34.45,
+                            "90": 41.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 708,
+                        "range": {
+                            "10": 17.89,
+                            "25": 21.66,
+                            "50": 27.36,
+                            "75": 35.86,
+                            "90": 46.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Structural Engineer",
+                        "url": "/research/US/Job=Structural_Engineer/Salary",
+                        "profileCount": 701,
+                        "range": {
+                            "10": 24.61,
+                            "25": 29.09,
+                            "50": 33.62,
+                            "75": 40.09,
+                            "90": 49.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 674,
+                        "range": {
+                            "10": 19.29,
+                            "25": 23.39,
+                            "50": 29.46,
+                            "75": 37.89,
+                            "90": 47.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 662,
+                        "range": {
+                            "10": 17.93,
+                            "25": 21.54,
+                            "50": 27.19,
+                            "75": 35.38,
+                            "90": 46.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Electrical Engineer",
+                        "url": "/research/US/Job=Senior_Electrical_Engineer/Salary",
+                        "profileCount": 629,
+                        "range": {
+                            "10": 37.6,
+                            "25": 43.48,
+                            "50": 53.39,
+                            "75": 67.96,
+                            "90": 87.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 602,
+                        "range": {
+                            "10": 16.39,
+                            "25": 19.34,
+                            "50": 23.44,
+                            "75": 28.32,
+                            "90": 33.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 570,
+                        "range": {
+                            "10": 33.3,
+                            "25": 40.29,
+                            "50": 51.37,
+                            "75": 68.7,
+                            "90": 82.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Service Technician",
+                        "url": "/research/US/Job=HVAC_Service_Technician/Hourly_Rate",
+                        "profileCount": 502,
+                        "range": {
+                            "10": 16.53,
+                            "25": 19.74,
+                            "50": 24.43,
+                            "75": 29.55,
+                            "90": 35.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Design Engineer",
+                        "url": "/research/US/Job=Mechanical_Design_Engineer/Salary",
+                        "profileCount": 490,
+                        "range": {
+                            "10": 19.65,
+                            "25": 23.84,
+                            "50": 30.01,
+                            "75": 35.46,
+                            "90": 42.96
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Systems Troubleshooting, Telecommunications, Engineering Design, Electronic Equipment Installation, Project Management, Software Installation & Upgrade, Network Support",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-05T01:54:58.29768Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "35843.52",
+                            "percentile25": "45392.8",
+                            "median": "60786.14",
+                            "percentile75": "65258.5",
+                            "percentile90": "78906.06",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": "21",
+                            "median": "28.23",
+                            "percentile75": "30.28",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 12,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Field engineers in telecommunications play a key role in maintaining communications systems, and are responsible for installing, testing, and maintaining equipment such as base transceiver stations (GSM PCS) to run wireless systems.\r\nTheir general duties include various maintenance routines on equipment to ensure optimal performance, as well as component-repairs and even construction of new towers. Tools used include radios, network facilities, and interconnect devices, and there is some risk involved when working high above the ground and around high voltage systems. The daily routine includes working outdoors and being available for repairs during emergency hours (on-call), so long hours should be expected.\r\nThese field engineers also work with other engineers and construction personnel when completing maintenance and equipment installations, and typically report to a supervisor within the company. Standard prerequisites for the position include a two-year technical degree, and most employers require at least some prior experience with telecommunications systems. Field engineers work highly demanding schedules because they are often on-call, so they must be able to commute (usually in a repair truck) to the site of the repair and work until service is restored.",
+                    "name": "Field Engineer, Telecommunications",
+                    "url": "/research/US/Job=Field_Engineer%2C_Telecommunications/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

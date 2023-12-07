@@ -1,0 +1,868 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Senior Computer Scientist",
+                    "url": "/research/US/Job=Senior_Computer_Scientist/Salary",
+                    "compensation": 121488.32665136133,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Vice President (VP), Engineering",
+                            "url": "/research/US/Job=Vice_President_(VP)%2C_Engineering/Salary",
+                            "percent": 1,
+                            "compensation": 168721.81257445586,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Chief Technology Officer (CTO)",
+                                    "url": "/research/US/Job=Chief_Technology_Officer_(CTO)/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 160873.86964528056,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Director of Engineering",
+                                    "url": "/research/US/Job=Director_of_Engineering/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 143522.94579279976,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Chief Executive Officer (CEO)",
+                                    "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 156197.08259898945,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Computer Scientist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Computer_Scientist/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Computer_Scientist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-03T02:30:56.36021Z",
+                "narratives": {
+                    "description": "Senior computer scientists are typically employed in research work involving data and information systems. They work for a variety of large-scale companies and industries, and often hold a supervisory role at the head of a research team. Senior computer scientists generally gather and analyze data for their company to develop more efficient systems for data-sharing, storage, and communication, and may also work within larger research development departments to create new product offerings.\r\nSenior computer scientists and their teams analyze all aspects of information science and data exchange to understand the data, who uses it, and for what reasons. The senior scientist directs his team in applying scientific methods to discover useful applications and applied knowledge for their employer; this typically involves new technology or new applications of existing technology to streamline company operations.\r\nThe job of a senior computer scientist within a larger research and development team focuses heavily on the research aspect of the work. Those in this position typically work through tests and experiments on new technology relating to computer processing, storing, and networking, and log all data from these tests for computer engineers to use to make ongoing improvements to the project.\r\nTo work as a senior computer scientist, applicants should have at least an undergraduate degree in computer science or computer engineering; however, employers may prefer those with extensive practical experience in computer lab and technology work and some amount of supervisory experience. Senior computer scientists generally work in computer-lab settings during traditional weekly business hours.",
+                    "summarySalary": "The average pay for a Senior Computer Scientist is $152,605 per year."
+                },
+                "tasks": [
+                    "Working from general concepts, create prototypes and final products.",
+                    "Oversee incident response and troubleshooting.",
+                    "Analyze architectural and functional needs and produce appropriate tools.",
+                    "Code and test prototypes and products, ensuring usability.",
+                    "Interact with clients and internal teams to understand and document requirements."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 506.84,
+                        "25": 3052.09,
+                        "50": 5086.82,
+                        "75": 14000,
+                        "90": 17260.7,
+                        "profileCount": 11
+                    },
+                    "profitSharing": {
+                        "50": 22000,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 103200.04,
+                        "25": 117839.19,
+                        "50": 152604.72,
+                        "75": 183427.08,
+                        "90": 194306.74,
+                        "profileCount": 17
+                    },
+                    "total": {
+                        "10": 103997.71,
+                        "25": 118987.59,
+                        "50": 158729.94,
+                        "75": 192012.74,
+                        "90": 202775.13,
+                        "profileCount": 18
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-03T02:30:56.36021Z",
+                        "profileCount": 18,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": {
+                                    "10": 103997.71,
+                                    "25": 118987.59,
+                                    "50": 158729.94,
+                                    "75": 192012.74,
+                                    "90": 202775.13
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-03T02:30:56.36021Z",
+                        "profileCount": 17,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": {
+                                    "10": 103200.04,
+                                    "25": 117839.19,
+                                    "50": 152604.72,
+                                    "75": 183427.08,
+                                    "90": 194306.74
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-03T02:30:56.36021Z",
+                        "profileCount": 9,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-03T02:30:56.36021Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Adobe Systems Incorporated",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/db6f05ae/Adobe-Systems-Incorporated",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 150285.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "The MITRE Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/6d81d664/The-MITRE-Corporation",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 90913.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Abbvie, Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/fbb4bf85/Abbvie-Inc",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 120023.18
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/e7427386/Early-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/ddf3bc2b/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 162500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/ef153835/Experienced",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 186830.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/9bd43da8/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 162337.22
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/88ba9426/San-Jose-CA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 144827.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hampton, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/604b69f4/Hampton-VA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 144528.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/a7fcb6d0/San-Francisco-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 135409.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/7f4e1389/Washington-DC",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 132500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/deff1f09/Boston-MA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 112500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cambridge, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/f253fce9/Cambridge-MA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 129969.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Worcester, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/0bc1fd85/Worcester-MA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 120031.47
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/c451ac93/Java",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 134814.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/966e9e9a/Software-Development",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 180809.71
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Architecture",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/1eb0f3c0/Software-Architecture",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 162337.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/abc49a7c/Python",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 114782.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C++ Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/2a9fc254/C%2B%2B-Programming-Language",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 122500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/6a9259bb/SQL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 144528.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Spark",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/7b84219f/Apache-Spark",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 107500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Big Data Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/fd68e74f/Big-Data-Analytics",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Machine Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/e42fafe9/Machine-Learning",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 98043.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Computer_Scientist/Salary/7018a7f6/Project-Management",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 5886,
+                        "range": {
+                            "10": 66867.76,
+                            "25": 77429.2,
+                            "50": 91983.39,
+                            "75": 112961.29,
+                            "90": 134594.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3221,
+                        "range": {
+                            "10": 52442.34,
+                            "25": 63803.53,
+                            "50": 78740.64,
+                            "75": 97464.19,
+                            "90": 118798.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 2679,
+                        "range": {
+                            "10": 93194.94,
+                            "25": 107104.29,
+                            "50": 125289.97,
+                            "75": 145455.05,
+                            "90": 164992.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 2409,
+                        "range": {
+                            "10": 54781.22,
+                            "25": 64409.54,
+                            "50": 77065.23,
+                            "75": 92835.43,
+                            "90": 112739.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 1751,
+                        "range": {
+                            "10": 70997.13,
+                            "25": 82897.86,
+                            "50": 99343.81,
+                            "75": 119721.44,
+                            "90": 137907.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1430,
+                        "range": {
+                            "10": 56626.17,
+                            "25": 64340.79,
+                            "50": 73610.24,
+                            "75": 86429.69,
+                            "90": 102726.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1226,
+                        "range": {
+                            "10": 84135.25,
+                            "25": 97820.52,
+                            "50": 116061.35,
+                            "75": 134146.21,
+                            "90": 154457.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1200,
+                        "range": {
+                            "10": 47862.23,
+                            "25": 55763.66,
+                            "50": 66044.94,
+                            "75": 77901.83,
+                            "90": 90487.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1181,
+                        "range": {
+                            "10": 59665.76,
+                            "25": 67435.23,
+                            "50": 77082.68,
+                            "75": 90042.03,
+                            "90": 106917.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 1049,
+                        "range": {
+                            "10": 112714.38,
+                            "25": 128695.02,
+                            "50": 147521.24,
+                            "75": 167600.31,
+                            "90": 188704.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1026,
+                        "range": {
+                            "10": 46876.78,
+                            "25": 57060.45,
+                            "50": 71132.18,
+                            "75": 89201.54,
+                            "90": 111400.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 935,
+                        "range": {
+                            "10": 89895.66,
+                            "25": 106692.02,
+                            "50": 126866.02,
+                            "75": 146128.24,
+                            "90": 165973.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 931,
+                        "range": {
+                            "10": 59802.33,
+                            "25": 73676.09,
+                            "50": 91793.87,
+                            "75": 112657.06,
+                            "90": 133862.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 907,
+                        "range": {
+                            "10": 67335.33,
+                            "25": 79792.24,
+                            "50": 95516.75,
+                            "75": 116493.03,
+                            "90": 134945.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 795,
+                        "range": {
+                            "10": 63604,
+                            "25": 71957.33,
+                            "50": 82202.59,
+                            "75": 97928.71,
+                            "90": 120986.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 771,
+                        "range": {
+                            "10": 58345.92,
+                            "25": 72201.7,
+                            "50": 91280.1,
+                            "75": 114966.03,
+                            "90": 137085.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 689,
+                        "range": {
+                            "10": 52009.67,
+                            "25": 63427.06,
+                            "50": 79959.02,
+                            "75": 99736.07,
+                            "90": 124040.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 679,
+                        "range": {
+                            "10": 58898.34,
+                            "25": 69625.86,
+                            "50": 83448.06,
+                            "75": 102454.7,
+                            "90": 123172.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 603,
+                        "range": {
+                            "10": 53724.01,
+                            "25": 62573.61,
+                            "50": 73579.82,
+                            "75": 87174.99,
+                            "90": 103539.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 575,
+                        "range": {
+                            "10": 99396.7,
+                            "25": 114734.89,
+                            "50": 130870.27,
+                            "75": 148517.83,
+                            "90": 165092.83
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Computer_Scientist/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Java, Software Development, Software Architecture, Python, C++ Programming Language, SQL, Apache Spark, Big Data Analytics, Machine Learning, Project Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-03T02:30:56.36021Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "103997.71",
+                            "percentile25": "118987.59",
+                            "median": "158729.94",
+                            "percentile75": "192012.74",
+                            "percentile90": "202775.13",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "103200.04",
+                            "percentile25": "117839.19",
+                            "median": "152604.72",
+                            "percentile75": "183427.08",
+                            "percentile90": "194306.74",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "506.84",
+                            "percentile25": "3052.09",
+                            "median": "5086.82",
+                            "percentile75": "14000",
+                            "percentile90": "17260.7",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "22000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 29,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Senior computer scientists are typically employed in research work involving data and information systems. They work for a variety of large-scale companies and industries, and often hold a supervisory role at the head of a research team. Senior computer scientists generally gather and analyze data for their company to develop more efficient systems for data-sharing, storage, and communication, and may also work within larger research development departments to create new product offerings.\r\nSenior computer scientists and their teams analyze all aspects of information science and data exchange to understand the data, who uses it, and for what reasons. The senior scientist directs his team in applying scientific methods to discover useful applications and applied knowledge for their employer; this typically involves new technology or new applications of existing technology to streamline company operations.\r\nThe job of a senior computer scientist within a larger research and development team focuses heavily on the research aspect of the work. Those in this position typically work through tests and experiments on new technology relating to computer processing, storing, and networking, and log all data from these tests for computer engineers to use to make ongoing improvements to the project.\r\nTo work as a senior computer scientist, applicants should have at least an undergraduate degree in computer science or computer engineering; however, employers may prefer those with extensive practical experience in computer lab and technology work and some amount of supervisory experience. Senior computer scientists generally work in computer-lab settings during traditional weekly business hours.",
+                    "name": "Senior Computer Scientist",
+                    "url": "/research/US/Job=Senior_Computer_Scientist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,281 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Computer Aided Design (CAD) & Geographic Information Systems (GIS) Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2018-04-11T11:29:04.40349Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Computer Aided Design (CAD) & Geographic Information Systems (GIS) Manager is $55,000 per year."
+                },
+                "tasks": [
+                    "Work with clients to design and define projects, then create schedules and assign resources.",
+                    "Create and review reports and project documentation.",
+                    "Communicate across teams and with clients about schedule, expectations and needs.",
+                    "Oversee a team of GIS and CAD staff."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 3500,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "50": 55000,
+                        "profileCount": 3
+                    },
+                    "total": {
+                        "50": 55125,
+                        "profileCount": 4
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2018-04-11T11:29:04.40349Z",
+                        "profileCount": 4,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 55125
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2018-04-11T11:29:04.40349Z",
+                        "profileCount": 3,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2018-04-11T11:29:04.40349Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2018-04-11T11:29:04.40349Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Manager/Salary/12af576f/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 51625
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 5
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Manager/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2018-04-11T11:29:04.40349Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "55125",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "55000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "3500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Computer Aided Design (CAD) & Geographic Information Systems (GIS) Manager",
+                    "url": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,559 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Geographic Information Systems (GIS) Supervisor"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary",
+                    "defaultUrl": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-01-03T23:22:29.69814Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Geographic Information Systems (GIS) Supervisor is $84,627 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "25": 78995.22,
+                        "50": 84627.28,
+                        "75": 88905.44,
+                        "profileCount": 7
+                    },
+                    "total": {
+                        "25": 55548.12,
+                        "50": 83602.17,
+                        "75": 88158.81,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-01-03T23:22:29.69814Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 55548.12,
+                                    "50": 83602.17,
+                                    "75": 88158.81
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-01-03T23:22:29.69814Z",
+                        "profileCount": 7,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 78995.22,
+                                    "50": 84627.28,
+                                    "75": 88905.44
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-01-03T23:22:29.69814Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-01-03T23:22:29.69814Z",
+                        "profileCount": 5,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary/1b182394/Mid-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 69546.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary/47e492a5/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70187.87
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary/d17bc04e/Austin-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 52000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Geographic Information Systems (GIS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary/048220b2/Geographic-Information-Systems-GIS",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 83000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ArcGIS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary/dad861ce/ArcGIS",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 74181.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Geographic Information Systems (GIS) Analyst",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Analyst/Salary",
+                        "profileCount": 331,
+                        "range": {
+                            "10": 44561.83,
+                            "25": 50301.21,
+                            "50": 58561.04,
+                            "75": 67029.3,
+                            "90": 77960.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 208,
+                        "range": {
+                            "10": 55821.59,
+                            "25": 62169.91,
+                            "50": 70919.08,
+                            "75": 84921.95,
+                            "90": 103396.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Specialist",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Specialist/Salary",
+                        "profileCount": 178,
+                        "range": {
+                            "10": 43469.87,
+                            "25": 49195.28,
+                            "50": 57519.2,
+                            "75": 67714.9,
+                            "90": 79519.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Scientist",
+                        "url": "/research/US/Job=Environmental_Scientist/Salary",
+                        "profileCount": 139,
+                        "range": {
+                            "10": 41833.87,
+                            "25": 47879.19,
+                            "50": 55120.72,
+                            "75": 65340.6,
+                            "90": 78433.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geospatial Analyst",
+                        "url": "/research/US/Job=Geospatial_Analyst/Salary",
+                        "profileCount": 127,
+                        "range": {
+                            "10": 43089.28,
+                            "25": 51509,
+                            "50": 63049.51,
+                            "75": 78030.45,
+                            "90": 99662.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Technician",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate",
+                        "profileCount": 125,
+                        "range": {
+                            "10": 37882.04,
+                            "25": 41562.08,
+                            "50": 46799.57,
+                            "75": 52563.65,
+                            "90": 59353.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Water Resources Engineer",
+                        "url": "/research/US/Job=Water_Resources_Engineer/Salary",
+                        "profileCount": 82,
+                        "range": {
+                            "10": 58916.73,
+                            "25": 64272.22,
+                            "50": 71836.1,
+                            "75": 83321.97,
+                            "90": 99152.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Transportation Planner",
+                        "url": "/research/US/Job=Transportation_Planner/Salary",
+                        "profileCount": 73,
+                        "range": {
+                            "10": 45938.18,
+                            "25": 52874.04,
+                            "50": 62510.27,
+                            "75": 73131.26,
+                            "90": 84234.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Urban Planner",
+                        "url": "/research/US/Job=Urban_Planner/Salary",
+                        "profileCount": 69,
+                        "range": {
+                            "10": 45292.37,
+                            "25": 51794.02,
+                            "50": 60905.56,
+                            "75": 73692.74,
+                            "90": 90037.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geologist",
+                        "url": "/research/US/Job=Geologist/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 44702.41,
+                            "25": 51135.76,
+                            "50": 59275.56,
+                            "75": 72094.04,
+                            "90": 95634.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Engineer",
+                        "url": "/research/US/Job=Environmental_Engineer/Salary",
+                        "profileCount": 42,
+                        "range": {
+                            "10": 53968.48,
+                            "25": 60191.6,
+                            "50": 69108.2,
+                            "75": 83041.82,
+                            "90": 102690.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Intelligence Analyst",
+                        "url": "/research/US/Job=Intelligence_Analyst/Salary",
+                        "profileCount": 37,
+                        "range": {
+                            "10": 48733.8,
+                            "25": 60119.43,
+                            "50": 74557.19,
+                            "75": 92878.05,
+                            "90": 113719.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer in Training",
+                        "url": "/research/US/Job=Civil_Engineer_in_Training/Salary",
+                        "profileCount": 32,
+                        "range": {
+                            "10": 50844.23,
+                            "25": 56371.28,
+                            "50": 61723.12,
+                            "75": 66508.91,
+                            "90": 71662.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Planner",
+                        "url": "/research/US/Job=Environmental_Planner/Salary",
+                        "profileCount": 27,
+                        "range": {
+                            "10": 49217.08,
+                            "25": 58364.89,
+                            "50": 66835.96,
+                            "75": 76271.64,
+                            "90": 86208.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Analyst",
+                        "url": "/research/US/Job=Research_Analyst/Salary",
+                        "profileCount": 24,
+                        "range": {
+                            "10": 44128.38,
+                            "25": 50407.66,
+                            "50": 59424.84,
+                            "75": 70474.38,
+                            "90": 84951.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cartographer",
+                        "url": "/research/US/Job=Cartographer/Salary",
+                        "profileCount": 23,
+                        "range": {
+                            "10": 40230.35,
+                            "25": 50868.24,
+                            "50": 59951.58,
+                            "75": 68576.52,
+                            "90": 96247.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Hydrogeologist",
+                        "url": "/research/US/Job=Hydrogeologist/Salary",
+                        "profileCount": 22,
+                        "range": {
+                            "10": 50498.83,
+                            "25": 55716.01,
+                            "50": 63009.99,
+                            "75": 72493.6,
+                            "90": 81936.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Geographic Information Systems (GIS) Analyst",
+                        "url": "/research/US/Job=Senior_Geographic_Information_Systems_(GIS)_Analyst/Salary",
+                        "profileCount": 21,
+                        "range": {
+                            "10": 55787.67,
+                            "25": 62719.04,
+                            "50": 72877.47,
+                            "75": 85145.57,
+                            "90": 97655.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Consultant",
+                        "url": "/research/US/Job=Environmental_Consultant/Salary",
+                        "profileCount": 20,
+                        "range": {
+                            "10": 41826.2,
+                            "25": 50367.46,
+                            "50": 61140.61,
+                            "75": 74143.26,
+                            "90": 97289.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Transportation Engineer",
+                        "url": "/research/US/Job=Transportation_Engineer/Salary",
+                        "profileCount": 19,
+                        "range": {
+                            "10": 59854.81,
+                            "25": 65181.58,
+                            "50": 74396.46,
+                            "75": 86332.63,
+                            "90": 97604.49
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Geographic Information Systems (GIS), ArcGIS",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-01-03T23:22:29.69814Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "55548.12",
+                            "median": "83602.17",
+                            "percentile75": "88158.81",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "78995.22",
+                            "median": "84627.28",
+                            "percentile75": "88905.44",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 9,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Geographic Information Systems (GIS) Supervisor",
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Supervisor/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

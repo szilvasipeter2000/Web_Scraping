@@ -1,0 +1,1523 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Database Engineer",
+                    "url": "/research/US/Job=Database_Engineer/Salary",
+                    "compensation": 85553.27963392019,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 3,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Database Engineer",
+                            "url": "/research/US/Job=Senior_Database_Engineer/Salary",
+                            "percent": 0.3,
+                            "compensation": 115367.89899047642,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Database Administrator (DBA)",
+                                    "url": "/research/US/Job=Senior_Database_Administrator_(DBA)/Salary",
+                                    "percent": 0.28,
+                                    "compensation": 107863.44679176899,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Lead Software Engineer",
+                                    "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                                    "percent": 0.17,
+                                    "compensation": 117349.32338736946,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Senior Database Developer",
+                                    "url": "/research/US/Job=Senior_Database_Developer/Salary",
+                                    "percent": 0.17,
+                                    "compensation": 98701.04409373112,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Senior Database Administrator (DBA)",
+                            "url": "/research/US/Job=Senior_Database_Administrator_(DBA)/Salary",
+                            "percent": 0.14,
+                            "compensation": 107863.44679176899,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Database Administrator (DBA)",
+                                    "url": "/research/US/Job=Database_Administrator_(DBA)/Salary",
+                                    "percent": 0.3,
+                                    "compensation": 74336.27617698809,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Oracle Database Administrator (DBA)",
+                                    "url": "/research/US/Job=Oracle_Database_Administrator_(DBA)/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 94277.8464357853,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Database Administration (DBA) Manager",
+                                    "url": "/research/US/Job=Database_Administration_(DBA)_Manager/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 108320.34224023743,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": {
+                            "jobTitle": "Software Engineer",
+                            "url": "/research/US/Job=Software_Engineer/Salary",
+                            "percent": 0.09,
+                            "compensation": 85679.1994543505,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.36,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Sr. Software Engineer / Developer / Programmer",
+                                    "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 104281.41056938967,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Lead Software Engineer",
+                                    "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 117349.32338736946,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Database Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Database_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Database_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-21T04:39:08.12243Z",
+                "narratives": {
+                    "description": "A database engineer creates and manages databases for a company or organization. This involves designing and building databases to suit a purpose.  The database engineer must also install and configure the database. The database engineer must make sure that the databases are secure and that they function properly. \r\nOnce a database is implemented, the database engineer must carry out constant testing and monitoring to make sure that the database is functioning as it should. This often requires troubleshooting, so problem-solving skills are important. When updates need to be implemented, the database engineer needs to coordinate this so that it can be carried out in the least disruptive way. This job requires extensive experience with administering and providing support for databases. Security is not always the only issue that is important. Another thing that the database engineer may have to consider is usability for end users. The database engineer must sometimes create a database that is easy for end users to enter data into. The database engineer may have multiple projects to manage, so it is important to be able to work independently, to adhere to time constraints, and to work well under pressure even when multitasking is needed. At the same time, teamwork skills are also essential in order to ensure the smooth implementation of databases. Advanced experience with Oracle and SQL is usually necessary. \r\nA bachelor’s degree in computer science or a similar field is often needed.  Some positions also require a master’s degree. However, some positions only require an associate’s degree in conjunction with adequate experience. The job usually involves working in an office environment. Some travel may be necessary in order to meet with various departments or clients.",
+                    "summaryHourly": "The average pay for a Database Engineer is $25.49 per hour.",
+                    "summarySalary": "The average pay for a Database Engineer is $92,315 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 1613.48,
+                        "25": 3930.54,
+                        "50": 6394.48,
+                        "75": 11255.31,
+                        "90": 16773.74,
+                        "profileCount": 83
+                    },
+                    "hourlyRate": {
+                        "10": 20.12,
+                        "25": 21.5,
+                        "50": 25.49,
+                        "75": 64.58,
+                        "90": 69.55,
+                        "profileCount": 10
+                    },
+                    "profitSharing": {
+                        "25": 3423.05,
+                        "50": 14250.64,
+                        "75": 22294.81,
+                        "profileCount": 9
+                    },
+                    "salary": {
+                        "10": 61025.52,
+                        "25": 74881.57,
+                        "50": 92315.14,
+                        "75": 119065.13,
+                        "90": 142103.19,
+                        "profileCount": 204
+                    },
+                    "total": {
+                        "10": 59921.86,
+                        "25": 75306.83,
+                        "50": 95824.99,
+                        "75": 122063.12,
+                        "90": 148917.71,
+                        "profileCount": 214
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-21T04:39:08.12243Z",
+                        "profileCount": 214,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 214,
+                                "range": {
+                                    "10": 59921.86,
+                                    "25": 75306.83,
+                                    "50": 95824.99,
+                                    "75": 122063.12,
+                                    "90": 148917.71
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-21T04:39:08.12243Z",
+                        "profileCount": 10,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 20.12,
+                                    "25": 21.5,
+                                    "50": 25.49,
+                                    "75": 64.58,
+                                    "90": 69.55
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-21T04:39:08.12243Z",
+                        "profileCount": 204,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 204,
+                                "range": {
+                                    "10": 61025.52,
+                                    "25": 74881.57,
+                                    "50": 92315.14,
+                                    "75": 119065.13,
+                                    "90": 142103.19
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-21T04:39:08.12243Z",
+                        "profileCount": 89,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 68,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-21T04:39:08.12243Z",
+                        "profileCount": 113,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 101,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 100,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 95,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Amazon.com Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/f14dc322/Amazon.com-Inc",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 124800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Forte Research Systems",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/9948bc92/Forte-Research-Systems",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 81111.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Willis Towers Watson",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/8c8fadc9/Willis-Towers-Watson",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 56324.68
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/0a140692/Entry-Level",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 61978.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/0a140692/Early-Career",
+                                "profileCount": 106,
+                                "range": {
+                                    "50": 79297.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/f469ce46/Mid-Career",
+                                "profileCount": 72,
+                                "range": {
+                                    "50": 99477.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/6ced03b8/Experienced",
+                                "profileCount": 40,
+                                "range": {
+                                    "50": 124049.71
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/3099fc3c/Late-Career",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 117841.13
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/6550d179/Chicago-IL",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 86239.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/9bf219aa/Washington-DC",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 96649.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Arlington, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/6f8db0b6/Arlington-VA",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 108561.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/e52fdbdd/Seattle-WA",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 117916.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/970ca8c7/Denver-CO",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 86682.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/d1fd685f/Austin-TX",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 88137.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/462f0e24/Raleigh-NC",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 101650
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/d4d8ed1b/San-Diego-CA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 118304.11
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/3e3a9f0a/Atlanta-GA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 86712.25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/05aefd9b/Dallas-TX",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 71083.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/177a835d/New-York-NY",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 90435.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/49f3f755/Charlotte-NC",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 111000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/0a9293fa/Salt-Lake-City-UT",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 55955.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Antonio, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/cee95a90/San-Antonio-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 77376.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Madison, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/35f83a80/Madison-WI",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 84441.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Alpharetta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/a7cdf2f5/Alpharetta-GA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 93395.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Naperville, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/92af24cd/Naperville-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 85200
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/90ac1945/San-Francisco-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/25cad224/Los-Angeles-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sacramento, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/24afdd43/Sacramento-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 103176.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/5dbf24ca/San-Jose-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/87c1431a/Irvine-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 106823.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/6b843147/Minneapolis-MN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbia, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/0f623855/Columbia-MD",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 74000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/fede7872/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 100469.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Detroit, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/32149984/Detroit-MI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70053.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/0367074c/Nashville-TN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 63723.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Alexandria, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/9587a34f/Alexandria-VA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/d41256f1/Houston-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/a98349e0/Philadelphia-PA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 103000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "West Chester, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/bd51e2ab/West-Chester-PA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 53920.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Akron, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/fbf40fd3/Akron-OH",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 78762.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/a7f6e714/Phoenix-AZ",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 109750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hartford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/159eb3ba/Hartford-CT",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 62000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Melbourne, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/1e568970/Melbourne-FL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Orlando, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/c5251bba/Orlando-FL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New Orleans, Louisiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/1bd0ca92/New-Orleans-LA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 81500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Costa Mesa, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/b1bc70e4/Costa-Mesa-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mesa, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/1becba85/Mesa-AZ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 60700
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dayton, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/9d656428/Dayton-OH",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 69750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Allentown, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/3814efa5/Allentown-PA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Southfield, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/368b1478/Southfield-MI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 94632
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/7b613efe/St.-Louis-MO",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 82500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/69c61486/SQL",
+                                "profileCount": 141,
+                                "range": {
+                                    "50": 87510.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/b9649ab3/Microsoft-SQL-Server",
+                                "profileCount": 115,
+                                "range": {
+                                    "50": 86401.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/b7fc1c30/Database-Administration",
+                                "profileCount": 95,
+                                "range": {
+                                    "50": 101397.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ETL (Extract, transform, load)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/0c5d7868/ETL-Extract-transform-load",
+                                "profileCount": 69,
+                                "range": {
+                                    "50": 95621.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "PL/SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/9d9199a2/PL-SQL",
+                                "profileCount": 39,
+                                "range": {
+                                    "50": 87598.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/b7fba0f7/Data-Modeling",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 92519.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/46ecf513/Oracle",
+                                "profileCount": 28,
+                                "range": {
+                                    "50": 102987.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL Server Integration Services (SSIS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/df8bb54c/SQL-Server-Integration-Services-SSIS",
+                                "profileCount": 28,
+                                "range": {
+                                    "50": 82940.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle 11g",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/26db7229/Oracle-11g",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 117446.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "MySQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/a233c43c/MySQL",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 73259.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ElasticSearch",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/77f35f32/ElasticSearch",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 112444.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/3912b53d/Database-Development",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 83412.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "PostgreSQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/ca88834b/PostgreSQL",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 81525.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/e3022c3d/Python",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 101313.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Transact-SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/27116033/Transact-SQL",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 77500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon Web Services (AWS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/e037afb0/Amazon-Web-Services-AWS",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Cassandra",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/07ea9079/Apache-Cassandra",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 122083.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C# Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/a5e73597/C%23-Programming-Language",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 78914.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "MongoDB",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/dbacdbf5/MongoDB",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 119904.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "PHP",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/8b198d1b/PHP",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 69160
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/efa42162/Linux",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 75250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Mining",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/1534accd/Data-Mining",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Warehouse",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/7cd90643/Data-Warehouse",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85575
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL Server Reporting Services (SSRS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/67363582/SQL-Server-Reporting-Services-SSRS",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 94000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Windows PowerShell",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/24d6b275/Windows-PowerShell",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 91750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database Management & Reporting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/f8a7d31c/Database-Management-%26-Reporting",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 62000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle RAC",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Engineer/Salary/c3f66c3f/Oracle-RAC",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 98810.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 26,
+                        "score": 3.96
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 6245,
+                        "range": {
+                            "10": 67121.86,
+                            "25": 77719.48,
+                            "50": 92314.48,
+                            "75": 113243.37,
+                            "90": 134853.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 3434,
+                        "range": {
+                            "10": 55074.45,
+                            "25": 64693.2,
+                            "50": 77380.6,
+                            "75": 93278.41,
+                            "90": 113120.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 3034,
+                        "range": {
+                            "10": 93720.79,
+                            "25": 107673.04,
+                            "50": 125754.02,
+                            "75": 145986.6,
+                            "90": 165686.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2332,
+                        "range": {
+                            "10": 48082.08,
+                            "25": 56030.64,
+                            "50": 66306.15,
+                            "75": 78212.44,
+                            "90": 90706.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1723,
+                        "range": {
+                            "10": 84784.04,
+                            "25": 98488.44,
+                            "50": 116720.5,
+                            "75": 134827.49,
+                            "90": 155143.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 1203,
+                        "range": {
+                            "10": 67581.12,
+                            "25": 80024.52,
+                            "50": 95736.5,
+                            "75": 116902.97,
+                            "90": 135414.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 1162,
+                        "range": {
+                            "10": 70970.96,
+                            "25": 82898.48,
+                            "50": 99398.5,
+                            "75": 119803.32,
+                            "90": 137906.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Database Administrator (DBA)",
+                        "url": "/research/US/Job=Database_Administrator_(DBA)/Salary",
+                        "profileCount": 958,
+                        "range": {
+                            "10": 49871.13,
+                            "25": 61542.34,
+                            "50": 77819.03,
+                            "75": 97562.27,
+                            "90": 115714.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 927,
+                        "range": {
+                            "10": 43749.11,
+                            "25": 51756.65,
+                            "50": 63446.68,
+                            "75": 78017.53,
+                            "90": 93200.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Developer",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Developer/Salary",
+                        "profileCount": 914,
+                        "range": {
+                            "10": 61413.57,
+                            "25": 73004.59,
+                            "50": 86020.68,
+                            "75": 101249.35,
+                            "90": 118601.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 797,
+                        "range": {
+                            "10": 58934.13,
+                            "25": 69763.45,
+                            "50": 83564.98,
+                            "75": 102563.05,
+                            "90": 123241.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 756,
+                        "range": {
+                            "10": 65746.08,
+                            "25": 75771.21,
+                            "50": 88037.04,
+                            "75": 102303.79,
+                            "90": 117993.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Database Administrator (DBA)",
+                        "url": "/research/US/Job=Senior_Database_Administrator_(DBA)/Salary",
+                        "profileCount": 695,
+                        "range": {
+                            "10": 85602.67,
+                            "25": 100245.12,
+                            "50": 116440.13,
+                            "75": 131222.3,
+                            "90": 146434.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 630,
+                        "range": {
+                            "10": 54835.84,
+                            "25": 63271.79,
+                            "50": 73651.62,
+                            "75": 85846.98,
+                            "90": 100559.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 617,
+                        "range": {
+                            "10": 53586.57,
+                            "25": 62580.67,
+                            "50": 75306.13,
+                            "75": 89672.43,
+                            "90": 105976.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 575,
+                        "range": {
+                            "10": 50879.04,
+                            "25": 58941.36,
+                            "50": 70197.92,
+                            "75": 82516.98,
+                            "90": 100405.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 524,
+                        "range": {
+                            "10": 51570.98,
+                            "25": 63224.85,
+                            "50": 78262.59,
+                            "75": 95381.93,
+                            "90": 112534.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 499,
+                        "range": {
+                            "10": 70281.07,
+                            "25": 84535.77,
+                            "50": 103391.33,
+                            "75": 127549.94,
+                            "90": 148183.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "SQL Developer",
+                        "url": "/research/US/Job=SQL_Developer/Salary",
+                        "profileCount": 491,
+                        "range": {
+                            "10": 56318.91,
+                            "25": 68759.88,
+                            "50": 81186.21,
+                            "75": 97370.63,
+                            "90": 114660.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 440,
+                        "range": {
+                            "10": 58422.72,
+                            "25": 72309.51,
+                            "50": 91391.78,
+                            "75": 114996.99,
+                            "90": 137144.62
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Database_Engineer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "SQL, Microsoft SQL Server, Database Administration, ETL (Extract, transform, load), PL/SQL, Data Modeling, Oracle, SQL Server Integration Services (SSIS), Oracle 11g, MySQL, ElasticSearch, Database Development, PostgreSQL, Python, Transact-SQL, Amazon Web Services (AWS), Apache Cassandra, C# Programming Language, MongoDB, PHP, Linux, Data Mining, Data Warehouse, SQL Server Reporting Services (SSRS), Windows PowerShell, Database Management & Reporting, Oracle RAC",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-21T04:39:08.12243Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "59921.86",
+                            "percentile25": "75306.83",
+                            "median": "95824.99",
+                            "percentile75": "122063.12",
+                            "percentile90": "148917.71",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "61025.52",
+                            "percentile25": "74881.57",
+                            "median": "92315.14",
+                            "percentile75": "119065.13",
+                            "percentile90": "142103.19",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1613.48",
+                            "percentile25": "3930.54",
+                            "median": "6394.48",
+                            "percentile75": "11255.31",
+                            "percentile90": "16773.74",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 256,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A database engineer creates and manages databases for a company or organization. This involves designing and building databases to suit a purpose.  The database engineer must also install and configure the database. The database engineer must make sure that the databases are secure and that they function properly. \r\nOnce a database is implemented, the database engineer must carry out constant testing and monitoring to make sure that the database is functioning as it should. This often requires troubleshooting, so problem-solving skills are important. When updates need to be implemented, the database engineer needs to coordinate this so that it can be carried out in the least disruptive way. This job requires extensive experience with administering and providing support for databases. Security is not always the only issue that is important. Another thing that the database engineer may have to consider is usability for end users. The database engineer must sometimes create a database that is easy for end users to enter data into. The database engineer may have multiple projects to manage, so it is important to be able to work independently, to adhere to time constraints, and to work well under pressure even when multitasking is needed. At the same time, teamwork skills are also essential in order to ensure the smooth implementation of databases. Advanced experience with Oracle and SQL is usually necessary. \r\nA bachelor’s degree in computer science or a similar field is often needed.  Some positions also require a master’s degree. However, some positions only require an associate’s degree in conjunction with adequate experience. The job usually involves working in an office environment. Some travel may be necessary in order to meet with various departments or clients.",
+                    "name": "Database Engineer",
+                    "url": "/research/US/Job=Database_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

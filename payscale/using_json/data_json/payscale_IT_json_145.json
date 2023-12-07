@@ -1,0 +1,669 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Customer Relationship Management (CRM) Application Administrator"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary",
+                    "defaultUrl": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-01-15T06:22:08.68123Z",
+                "narratives": {
+                    "description": "Customer relationship management (CRM) application administrators are responsible for designing, creating, maintaining, customizing, and updating a company's CRM interface so that employees can efficiently and effectively use it. The CRM application administrator must be able to communicate with colleagues, often rely on their input to keep the CRM software applications up to date and in line with user needs. They are also responsible for working with and training the employees on the CRM software, troubleshooting software-related problems, meeting with management about software updates, and preparing budgets related to CRM infrastructure. The application administrator typically works in an office setting during regular business hours, although alternative and/or additional hours may be required depending on the needs of the employer.\r\nA CRM application administrator must be highly skilled with CRM software and have professional experience working with it. They also generally need at least a bachelor's degree, preferably in a business- or technology-related field. They should also be knowledgeable about database development, information technology (IT) infrastructure, and business programming. An application administrator often benefits from continuing his or her education periodically; technology is constantly transforming, and it is important to keep up to date with any changes.",
+                    "summaryHourly": "The average pay for a Customer Relationship Management (CRM) Application Administrator is $27.42 per hour.",
+                    "summarySalary": "The average pay for a Customer Relationship Management (CRM) Application Administrator is $58,190 per year."
+                },
+                "tasks": [
+                    "Use CRM application to create and maintain picklists, campaigns, dialogs, and reports.",
+                    "Configure the system for new clients, projects, or to resolve inconsistencies.",
+                    "Monitor data integrity within the CRM as well as maintaining documentation.",
+                    "Work with users to provide training, solve problems, and correct errors."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 1017.36,
+                        "50": 2000,
+                        "75": 4250,
+                        "profileCount": 7
+                    },
+                    "hourlyRate": {
+                        "50": 27.42,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 49610.2,
+                        "25": 51346.79,
+                        "50": 58190.43,
+                        "75": 64801.48,
+                        "90": 86809.3,
+                        "profileCount": 16
+                    },
+                    "total": {
+                        "10": 48945.37,
+                        "25": 51428.25,
+                        "50": 58973.44,
+                        "75": 68477.25,
+                        "90": 89848.59,
+                        "profileCount": 18
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-01-15T06:22:08.68123Z",
+                        "profileCount": 18,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": {
+                                    "10": 48945.37,
+                                    "25": 51428.25,
+                                    "50": 58973.44,
+                                    "75": 68477.25,
+                                    "90": 89848.59
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-01-15T06:22:08.68123Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 27.42
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-01-15T06:22:08.68123Z",
+                        "profileCount": 16,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 49610.2,
+                                    "25": 51346.79,
+                                    "50": 58190.43,
+                                    "75": 64801.48,
+                                    "90": 86809.3
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-01-15T06:22:08.68123Z",
+                        "profileCount": 13,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-01-15T06:22:08.68123Z",
+                        "profileCount": 17,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/7c714c76/Early-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 52292.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/e560443e/Mid-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 64518.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/9ebe5a82/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 67000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/65e8d1b0/Dallas-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Customer Relationship Management (CRM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/8fc7976f/Customer-Relationship-Management-CRM",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 52950.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/88d6a7f2/Business-Analysis",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 64000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/52ba5bd1/Microsoft-SQL-Server",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 52073.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salesforce",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/84ce6ca1/Salesforce",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 57500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary/1a44d349/Data-Analysis",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 57000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 4.2
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1530,
+                        "range": {
+                            "10": 44843.04,
+                            "25": 52592.06,
+                            "50": 62566.09,
+                            "75": 74500.38,
+                            "90": 87363.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 1125,
+                        "range": {
+                            "10": 64524.14,
+                            "25": 74117.25,
+                            "50": 86616.68,
+                            "75": 100319.08,
+                            "90": 116994.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 933,
+                        "range": {
+                            "10": 50946.64,
+                            "25": 59674.41,
+                            "50": 70440.71,
+                            "75": 83483.72,
+                            "90": 99318.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 807,
+                        "range": {
+                            "10": 47056.06,
+                            "25": 53652.81,
+                            "50": 62632.62,
+                            "75": 72504.15,
+                            "90": 83176.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 797,
+                        "range": {
+                            "10": 48593.83,
+                            "25": 54640.86,
+                            "50": 62476.47,
+                            "75": 72071.1,
+                            "90": 83031.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 773,
+                        "range": {
+                            "10": 39267.38,
+                            "25": 46248.15,
+                            "50": 56552.71,
+                            "75": 69860.66,
+                            "90": 84885.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 699,
+                        "range": {
+                            "10": 49963.56,
+                            "25": 60826.78,
+                            "50": 75637.91,
+                            "75": 93406.42,
+                            "90": 114420.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 695,
+                        "range": {
+                            "10": 52470.79,
+                            "25": 60461.29,
+                            "50": 70596.09,
+                            "75": 84102.48,
+                            "90": 99126.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 680,
+                        "range": {
+                            "10": 43907.37,
+                            "25": 53475.93,
+                            "50": 67534.02,
+                            "75": 85231.63,
+                            "90": 106781.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Salesforce Administrator",
+                        "url": "/research/US/Job=Salesforce_Administrator/Salary",
+                        "profileCount": 527,
+                        "range": {
+                            "10": 49071.43,
+                            "25": 58631.5,
+                            "50": 69636.32,
+                            "75": 84039.45,
+                            "90": 98825.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 470,
+                        "range": {
+                            "10": 34840.65,
+                            "25": 40982.76,
+                            "50": 49741.26,
+                            "75": 59793.4,
+                            "90": 70640.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 460,
+                        "range": {
+                            "10": 51632.26,
+                            "25": 60120.14,
+                            "50": 70560.57,
+                            "75": 82099.34,
+                            "90": 97088.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 435,
+                        "range": {
+                            "10": 65082.55,
+                            "25": 73227.98,
+                            "50": 82619.95,
+                            "75": 92555.61,
+                            "90": 103902.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 394,
+                        "range": {
+                            "10": 63771.39,
+                            "25": 73921.13,
+                            "50": 88296.7,
+                            "75": 109223.51,
+                            "90": 129813.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 394,
+                        "range": {
+                            "10": 62595.7,
+                            "25": 72160.6,
+                            "50": 83900.66,
+                            "75": 97645.28,
+                            "90": 112372.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 393,
+                        "range": {
+                            "10": 43629.28,
+                            "25": 50147.29,
+                            "50": 58882.72,
+                            "75": 68691.27,
+                            "90": 80328.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 387,
+                        "range": {
+                            "10": 68095.56,
+                            "25": 80469.67,
+                            "50": 97050.82,
+                            "75": 117629.68,
+                            "90": 135681.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 379,
+                        "range": {
+                            "10": 58157.94,
+                            "25": 71241.38,
+                            "50": 88788.8,
+                            "75": 109616.57,
+                            "90": 128742.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 342,
+                        "range": {
+                            "10": 52145.84,
+                            "25": 66284.91,
+                            "50": 82783.72,
+                            "75": 102149.33,
+                            "90": 122499.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 340,
+                        "range": {
+                            "10": 40141.89,
+                            "25": 48220.82,
+                            "50": 58257.56,
+                            "75": 70140.05,
+                            "90": 82388.94
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Customer Relationship Management (CRM), Business Analysis, Microsoft SQL Server, Salesforce, Data Analysis",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-01-15T06:22:08.68123Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "48945.37",
+                            "percentile25": "51428.25",
+                            "median": "58973.44",
+                            "percentile75": "68477.25",
+                            "percentile90": "89848.59",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49610.2",
+                            "percentile25": "51346.79",
+                            "median": "58190.43",
+                            "percentile75": "64801.48",
+                            "percentile90": "86809.3",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "1017.36",
+                            "median": "2000",
+                            "percentile75": "4250",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 20,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Customer relationship management (CRM) application administrators are responsible for designing, creating, maintaining, customizing, and updating a company's CRM interface so that employees can efficiently and effectively use it. The CRM application administrator must be able to communicate with colleagues, often rely on their input to keep the CRM software applications up to date and in line with user needs. They are also responsible for working with and training the employees on the CRM software, troubleshooting software-related problems, meeting with management about software updates, and preparing budgets related to CRM infrastructure. The application administrator typically works in an office setting during regular business hours, although alternative and/or additional hours may be required depending on the needs of the employer.\r\nA CRM application administrator must be highly skilled with CRM software and have professional experience working with it. They also generally need at least a bachelor's degree, preferably in a business- or technology-related field. They should also be knowledgeable about database development, information technology (IT) infrastructure, and business programming. An application administrator often benefits from continuing his or her education periodically; technology is constantly transforming, and it is important to keep up to date with any changes.",
+                    "name": "Customer Relationship Management (CRM) Application Administrator",
+                    "url": "/research/US/Job=Customer_Relationship_Management_(CRM)_Application_Administrator/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

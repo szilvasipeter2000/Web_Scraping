@@ -1,0 +1,816 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Data Management Consultant",
+                    "url": "/research/US/Job=Data_Management_Consultant/Salary",
+                    "compensation": 73176.85989446516,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Technical Services Manager",
+                            "url": "/research/US/Job=Technical_Services_Manager/Salary",
+                            "percent": 1,
+                            "compensation": 78458.26499890606,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Technical Director",
+                                    "url": "/research/US/Job=Technical_Director/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 97403.65639371278,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Operations Manager",
+                                    "url": "/research/US/Job=Operations_Manager/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 65328.36414059342,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Director of Operations",
+                                    "url": "/research/US/Job=Director_of_Operations/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 91788.23970928165,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Data Management Consultant"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Data_Management_Consultant/Salary",
+                    "defaultUrl": "/research/US/Job=Data_Management_Consultant/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-11-28T03:09:57.09566Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Data Management Consultant is $56.28 per hour.",
+                    "summarySalary": "The average pay for a Data Management Consultant is $103,098 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 2930.24,
+                        "25": 4759.36,
+                        "50": 10700,
+                        "75": 16611.55,
+                        "90": 20511.2,
+                        "profileCount": 17
+                    },
+                    "hourlyRate": {
+                        "50": 56.28,
+                        "profileCount": 4
+                    },
+                    "profitSharing": {
+                        "50": 3776.7,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 47251.81,
+                        "25": 62807.23,
+                        "50": 103098.36,
+                        "75": 119332.43,
+                        "90": 146197.49,
+                        "profileCount": 26
+                    },
+                    "total": {
+                        "10": 48603.29,
+                        "25": 66653.67,
+                        "50": 113915.51,
+                        "75": 130316.2,
+                        "90": 180901.6,
+                        "profileCount": 30
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-11-28T03:09:57.09566Z",
+                        "profileCount": 30,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 30,
+                                "range": {
+                                    "10": 48603.29,
+                                    "25": 66653.67,
+                                    "50": 113915.51,
+                                    "75": 130316.2,
+                                    "90": 180901.6
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-11-28T03:09:57.09566Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 56.28
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-11-28T03:09:57.09566Z",
+                        "profileCount": 26,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 26,
+                                "range": {
+                                    "10": 47251.81,
+                                    "25": 62807.23,
+                                    "50": 103098.36,
+                                    "75": 119332.43,
+                                    "90": 146197.49
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-11-28T03:09:57.09566Z",
+                        "profileCount": 14,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-11-28T03:09:57.09566Z",
+                        "profileCount": 21,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "MassMutual Financial Group",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/c0b49d9a/MassMutual-Financial-Group",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 57288.07
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/fced5e53/Early-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 63937.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/dc0d85cd/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 100990.1
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/c502b461/Experienced",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 103684.57
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Enfield, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/957bd4aa/Enfield-CT",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60177.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/b3c217e4/Charlotte-NC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 103442.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Springfield, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/9ea9e8fd/Springfield-MA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 52394.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hartford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/dd9a766a/Hartford-CT",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 68408.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/64974454/Nashville-TN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 105712.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/16726815/Chicago-IL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 82500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/f09bec9c/Boston-MA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 66000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/a11ee822/New-York-NY",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 92500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/2f8e2faf/Data-Management",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 100606.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/fc6416c7/Data-Analysis",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Quality",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/b2856223/Data-Quality",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/f2c0968b/SQL",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 104476.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Management_Consultant/Salary/4c7079fe/Strategic-Project-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 62200.76
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2244,
+                        "range": {
+                            "10": 46357.73,
+                            "25": 54504.38,
+                            "50": 64679.29,
+                            "75": 76442.43,
+                            "90": 89159
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1453,
+                        "range": {
+                            "10": 64713.07,
+                            "25": 74946.11,
+                            "50": 89243.15,
+                            "75": 110223.11,
+                            "90": 130832.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1090,
+                        "range": {
+                            "10": 51234.09,
+                            "25": 62549.04,
+                            "50": 77381.06,
+                            "75": 95765.2,
+                            "90": 117084.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 915,
+                        "range": {
+                            "10": 49267.27,
+                            "25": 55639.43,
+                            "50": 63454.96,
+                            "75": 72866.93,
+                            "90": 83995.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 909,
+                        "range": {
+                            "10": 52608.1,
+                            "25": 62150.85,
+                            "50": 74273.14,
+                            "75": 89713.88,
+                            "90": 108473.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 730,
+                        "range": {
+                            "10": 90430.18,
+                            "25": 103423.8,
+                            "50": 121971.86,
+                            "75": 142051.44,
+                            "90": 161694.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 713,
+                        "range": {
+                            "10": 63824.94,
+                            "25": 73463.48,
+                            "50": 85605.54,
+                            "75": 99915.34,
+                            "90": 114788.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 603,
+                        "range": {
+                            "10": 69241.51,
+                            "25": 81366.6,
+                            "50": 97644.66,
+                            "75": 118352.49,
+                            "90": 136369.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 598,
+                        "range": {
+                            "10": 65500.15,
+                            "25": 74983.83,
+                            "50": 87268.08,
+                            "75": 100927.2,
+                            "90": 117955.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 565,
+                        "range": {
+                            "10": 52907.31,
+                            "25": 61245.02,
+                            "50": 71730.54,
+                            "75": 83085.67,
+                            "90": 97890.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 505,
+                        "range": {
+                            "10": 51649.34,
+                            "25": 60643.98,
+                            "50": 71371.17,
+                            "75": 84643.34,
+                            "90": 100298.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 504,
+                        "range": {
+                            "10": 66404.59,
+                            "25": 74566.68,
+                            "50": 83641.43,
+                            "75": 93850.23,
+                            "90": 105540.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 489,
+                        "range": {
+                            "10": 48289.36,
+                            "25": 55002.98,
+                            "50": 64054.26,
+                            "75": 74057.33,
+                            "90": 84882.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 445,
+                        "range": {
+                            "10": 80709.41,
+                            "25": 94162.66,
+                            "50": 111305.21,
+                            "75": 129671.83,
+                            "90": 148873.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 423,
+                        "range": {
+                            "10": 53234.97,
+                            "25": 61213.24,
+                            "50": 71047.29,
+                            "75": 85049.41,
+                            "90": 100350.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 422,
+                        "range": {
+                            "10": 66748.4,
+                            "25": 78875.79,
+                            "50": 94253.27,
+                            "75": 114870.82,
+                            "90": 133555.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 356,
+                        "range": {
+                            "10": 53620.06,
+                            "25": 67880.63,
+                            "50": 84198.12,
+                            "75": 103096.59,
+                            "90": 123354.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 349,
+                        "range": {
+                            "10": 44756.7,
+                            "25": 51115.5,
+                            "50": 59692.59,
+                            "75": 69916.4,
+                            "90": 81307.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Analytics Manager",
+                        "url": "/research/US/Job=Analytics_Manager/Salary",
+                        "profileCount": 321,
+                        "range": {
+                            "10": 71857.54,
+                            "25": 86119.42,
+                            "50": 102144.43,
+                            "75": 119109.8,
+                            "90": 133534.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 292,
+                        "range": {
+                            "10": 59428.83,
+                            "25": 66916.1,
+                            "50": 76306.02,
+                            "75": 88689.53,
+                            "90": 105443.56
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Data_Management_Consultant/Salary",
+                    "occupationalCategory": "15-2040.00 - Statisticians",
+                    "skills": "Data Management, Data Analysis, Data Quality, SQL, Strategic Project Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-11-28T03:09:57.09566Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "48603.29",
+                            "percentile25": "66653.67",
+                            "median": "113915.51",
+                            "percentile75": "130316.2",
+                            "percentile90": "180901.6",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "47251.81",
+                            "percentile25": "62807.23",
+                            "median": "103098.36",
+                            "percentile75": "119332.43",
+                            "percentile90": "146197.49",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2930.24",
+                            "percentile25": "4759.36",
+                            "median": "10700",
+                            "percentile75": "16611.55",
+                            "percentile90": "20511.2",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 35,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Data Management Consultant",
+                    "url": "/research/US/Job=Data_Management_Consultant/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

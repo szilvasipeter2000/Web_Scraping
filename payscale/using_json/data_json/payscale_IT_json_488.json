@@ -1,0 +1,550 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "SAS Programming Supervisor"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=SAS_Programming_Supervisor/Salary",
+                    "defaultUrl": "/research/US/Job=SAS_Programming_Supervisor/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-04-12T02:47:53.18226Z",
+                "narratives": {
+                    "description": "A Statistical Analyst System (SAS) Programming supervisor's job is to supervise SAS programmers.  Their programmers work with software  produced by the SAS Institute.  SAS programming supervisors work for various types of companies and agencies, including health care, biotechnology, pharmaceutical, defense firms, universities, and government.  \r\nThey work in an office environment.  They must have extensive experience working as a SAS programmer and/or past experience as a supervisor in another relevant field.  They must have expertise in computer programming, science, and mathematics.  A bachelor's degree in statistics, computer science, or related fields is standard.  A master's degree is preferred for this position.\r\nSAS programming supervisors must have advanced experience with all SAS language, procedures, and options commonly used in their organizations.  They must be skilled in computer usage and associated software, which include Microsoft Office and database programs. SAS programming supervisors and their employees must be able to effectively design and code SAS programs for assigned projects, consistently meeting objectives.  They must manage project timelines and schedules of specific phases of projects or contracts and act as a liaison with internal personnel from various departments and, if applicable, with  outside customer representatives.  They must follow up with their programmers regularly to make sure that they meet project deadlines.  They must provide guidance to their  SAS programmers on resolutions of various complex  problems.  They must work within a budget and timeline without sacrificing high quality standards.  They must evaluate their employees' performance on a regular basis and give their employees feedback in a timely manner.  They may be required to train, coach, and mentor new SAS programmers and interns.  They may be required to travel to visit clients.",
+                    "summarySalary": "The average pay for an SAS Programming Supervisor is $103,000 per year."
+                },
+                "tasks": [
+                    "Research and analyze market statistics to develop, test, validate, execute, and maintain analytical software programs and quantitative models.",
+                    "Coordinate and manage staff and work.",
+                    "Develop, implement, review, and evaluate procedures and policies."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 15500,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "50": 103000,
+                        "profileCount": 3
+                    },
+                    "total": {
+                        "50": 113000,
+                        "profileCount": 3
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-04-12T02:47:53.18226Z",
+                        "profileCount": 3,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 113000
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-04-12T02:47:53.18226Z",
+                        "profileCount": 3,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 103000
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-04-12T02:47:53.18226Z",
+                        "profileCount": 2,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-04-12T02:47:53.18226Z",
+                        "profileCount": 3,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAS_Programming_Supervisor/Salary/43ccd6e5/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 103000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAS_Programming_Supervisor/Salary/5c9ca300/Experienced",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 112069.46
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "SAS",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAS_Programming_Supervisor/Salary/1bbc5a03/SAS",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 135997.14
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 121,
+                        "range": {
+                            "10": 45124.22,
+                            "25": 52959.51,
+                            "50": 62838.38,
+                            "75": 74688.52,
+                            "90": 87365.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Biostatistician",
+                        "url": "/research/US/Job=Biostatistician/Salary",
+                        "profileCount": 91,
+                        "range": {
+                            "10": 59732.76,
+                            "25": 66916.02,
+                            "50": 77701.56,
+                            "75": 92646.05,
+                            "90": 117072.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "SAS Programmer",
+                        "url": "/research/US/Job=SAS_Programmer/Salary",
+                        "profileCount": 87,
+                        "range": {
+                            "10": 57456.9,
+                            "25": 65547.68,
+                            "50": 81063.4,
+                            "75": 99491.83,
+                            "90": 123435.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Statistician",
+                        "url": "/research/US/Job=Statistician/Salary",
+                        "profileCount": 70,
+                        "range": {
+                            "10": 55508.42,
+                            "25": 65299.08,
+                            "50": 78430.64,
+                            "75": 96061.6,
+                            "90": 117757.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Epidemiologist",
+                        "url": "/research/US/Job=Epidemiologist/Salary",
+                        "profileCount": 55,
+                        "range": {
+                            "10": 47634.68,
+                            "25": 54670.89,
+                            "50": 67432.03,
+                            "75": 83062.17,
+                            "90": 101331.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Analytics Consultant",
+                        "url": "/research/US/Job=Analytics_Consultant/Salary",
+                        "profileCount": 51,
+                        "range": {
+                            "10": 62918.24,
+                            "25": 72113.28,
+                            "50": 85190.92,
+                            "75": 100307.98,
+                            "90": 118529.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 45,
+                        "range": {
+                            "10": 68511.39,
+                            "25": 80815.45,
+                            "50": 97293.59,
+                            "75": 118112.8,
+                            "90": 136022.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 41,
+                        "range": {
+                            "10": 62856.88,
+                            "25": 72445.65,
+                            "50": 84438.4,
+                            "75": 98552.92,
+                            "90": 113281.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Statistical Analyst",
+                        "url": "/research/US/Job=Statistical_Analyst/Salary",
+                        "profileCount": 30,
+                        "range": {
+                            "10": 49440.66,
+                            "25": 59432.71,
+                            "50": 68706.97,
+                            "75": 80099.12,
+                            "90": 105778.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Biostatistician",
+                        "url": "/research/US/Job=Senior_Biostatistician/Salary",
+                        "profileCount": 24,
+                        "range": {
+                            "10": 80413.66,
+                            "25": 96335.5,
+                            "50": 113003.59,
+                            "75": 125268.13,
+                            "90": 141734.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Actuarial Analyst",
+                        "url": "/research/US/Job=Actuarial_Analyst/Salary",
+                        "profileCount": 23,
+                        "range": {
+                            "10": 54178.7,
+                            "25": 60425.21,
+                            "50": 66723.73,
+                            "75": 74239.54,
+                            "90": 83490.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quantitative Analyst",
+                        "url": "/research/US/Job=Quantitative_Analyst/Salary",
+                        "profileCount": 21,
+                        "range": {
+                            "10": 60173.66,
+                            "25": 72092.45,
+                            "50": 86274.49,
+                            "75": 107373.26,
+                            "90": 133344.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Analytics Manager",
+                        "url": "/research/US/Job=Analytics_Manager/Salary",
+                        "profileCount": 19,
+                        "range": {
+                            "10": 70715.57,
+                            "25": 83884.71,
+                            "50": 100235.16,
+                            "75": 117038.89,
+                            "90": 130916.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 18,
+                        "range": {
+                            "10": 64790.05,
+                            "25": 74343.78,
+                            "50": 86778.78,
+                            "75": 100379.34,
+                            "90": 117132.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Statistician",
+                        "url": "/research/US/Job=Senior_Statistician/Salary",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 74702.48,
+                            "25": 83789.79,
+                            "50": 97727.47,
+                            "75": 115901.36,
+                            "90": 135483.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quantitative Analyst, Risk",
+                        "url": "/research/US/Job=Quantitative_Analyst%2C_Risk/Salary",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 63952.3,
+                            "25": 77031.65,
+                            "50": 89038.13,
+                            "75": 109825.1,
+                            "90": 125166.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Actuary",
+                        "url": "/research/US/Job=Actuary/Salary",
+                        "profileCount": 16,
+                        "range": {
+                            "10": 58893.14,
+                            "25": 72113.88,
+                            "50": 98781.67,
+                            "75": 125119.16,
+                            "90": 148595.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Analyst",
+                        "url": "/research/US/Job=Research_Analyst/Salary",
+                        "profileCount": 16,
+                        "range": {
+                            "10": 42665.04,
+                            "25": 49483.16,
+                            "50": 57838.76,
+                            "75": 68178.17,
+                            "90": 82045.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Health Data Analyst",
+                        "url": "/research/US/Job=Health_Data_Analyst/Salary",
+                        "profileCount": 16,
+                        "range": {
+                            "10": 48643.36,
+                            "25": 54297.06,
+                            "50": 65312.74,
+                            "75": 72040.15,
+                            "90": 79545.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Risk Analyst",
+                        "url": "/research/US/Job=Risk_Analyst/Salary",
+                        "profileCount": 14,
+                        "range": {
+                            "10": 48716.75,
+                            "25": 56567.1,
+                            "50": 66842.31,
+                            "75": 79978.98,
+                            "90": 96033.61
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=SAS_Programming_Supervisor/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "SAS",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-04-12T02:47:53.18226Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "113000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "103000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "15500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A Statistical Analyst System (SAS) Programming supervisor's job is to supervise SAS programmers.  Their programmers work with software  produced by the SAS Institute.  SAS programming supervisors work for various types of companies and agencies, including health care, biotechnology, pharmaceutical, defense firms, universities, and government.  \r\nThey work in an office environment.  They must have extensive experience working as a SAS programmer and/or past experience as a supervisor in another relevant field.  They must have expertise in computer programming, science, and mathematics.  A bachelor's degree in statistics, computer science, or related fields is standard.  A master's degree is preferred for this position.\r\nSAS programming supervisors must have advanced experience with all SAS language, procedures, and options commonly used in their organizations.  They must be skilled in computer usage and associated software, which include Microsoft Office and database programs. SAS programming supervisors and their employees must be able to effectively design and code SAS programs for assigned projects, consistently meeting objectives.  They must manage project timelines and schedules of specific phases of projects or contracts and act as a liaison with internal personnel from various departments and, if applicable, with  outside customer representatives.  They must follow up with their programmers regularly to make sure that they meet project deadlines.  They must provide guidance to their  SAS programmers on resolutions of various complex  problems.  They must work within a budget and timeline without sacrificing high quality standards.  They must evaluate their employees' performance on a regular basis and give their employees feedback in a timely manner.  They may be required to train, coach, and mentor new SAS programmers and interns.  They may be required to travel to visit clients.",
+                    "name": "SAS Programming Supervisor",
+                    "url": "/research/US/Job=SAS_Programming_Supervisor/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

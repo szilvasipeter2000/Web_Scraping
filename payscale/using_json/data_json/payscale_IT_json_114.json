@@ -1,0 +1,705 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Computer Operations Manager",
+                    "url": "/research/US/Job=Computer_Operations_Manager/Salary",
+                    "compensation": 76318.09522577986,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Cyber Security Analyst",
+                            "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                            "percent": 1,
+                            "compensation": 75882.70800189902,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Cyber Security Engineer",
+                                    "url": "/research/US/Job=Cyber_Security_Engineer/Salary",
+                                    "percent": 0.24,
+                                    "compensation": 96220.19887618888,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Security Analyst",
+                                    "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 72077.72803685124,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Security Manager",
+                                    "url": "/research/US/Job=Information_Security_Manager/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 114620.91299689224,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Computer Operations Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Computer_Operations_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Computer_Operations_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-12-20T05:22:50.014Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Computer Operations Manager is $74,997 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 1600,
+                        "50": 4000,
+                        "75": 12000,
+                        "profileCount": 5
+                    },
+                    "profitSharing": {
+                        "50": 3000,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 48584.96,
+                        "25": 53920.34,
+                        "50": 74996.59,
+                        "75": 96821.78,
+                        "90": 109890.02,
+                        "profileCount": 12
+                    },
+                    "total": {
+                        "10": 49460.16,
+                        "25": 56580,
+                        "50": 75800.51,
+                        "75": 100300,
+                        "90": 113430.59,
+                        "profileCount": 13
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-12-20T05:22:50.014Z",
+                        "profileCount": 13,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 49460.16,
+                                    "25": 56580,
+                                    "50": 75800.51,
+                                    "75": 100300,
+                                    "90": 113430.59
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-12-20T05:22:50.014Z",
+                        "profileCount": 12,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": {
+                                    "10": 48584.96,
+                                    "25": 53920.34,
+                                    "50": 74996.59,
+                                    "75": 96821.78,
+                                    "90": 109890.02
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-12-20T05:22:50.014Z",
+                        "profileCount": 10,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-12-20T05:22:50.014Z",
+                        "profileCount": 11,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Operations_Manager/Salary/204c7f93/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 54500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Operations_Manager/Salary/84810b25/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78973.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Operations_Manager/Salary/9abc8421/Late-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 96327.7
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Operations Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Operations_Manager/Salary/e342643c/Operations-Management",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 74024
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Systems Computer/Console Operations",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Operations_Manager/Salary/9d168148/Systems-Computer-Console-Operations",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 63944.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Operations_Manager/Salary/14bbdcdc/IT-Management",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 92551.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Operations_Manager/Salary/43f9ff31/Leadership",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 97357
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Operations_Manager/Salary/04728815/Information-Technology-IT-Support",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 69512
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 3.75
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 4745,
+                        "range": {
+                            "10": 45591.67,
+                            "25": 55469.06,
+                            "50": 69506.69,
+                            "75": 87170.02,
+                            "90": 108676.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1877,
+                        "range": {
+                            "10": 36196.11,
+                            "25": 42815.57,
+                            "50": 51388.58,
+                            "75": 62120.44,
+                            "90": 73953.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 1742,
+                        "range": {
+                            "10": 47301.07,
+                            "25": 60804.01,
+                            "50": 82581.26,
+                            "75": 121358.32,
+                            "90": 175722.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1338,
+                        "range": {
+                            "10": 55697.9,
+                            "25": 72880,
+                            "50": 97043.29,
+                            "75": 128382.81,
+                            "90": 156642.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 1171,
+                        "range": {
+                            "10": 37259.96,
+                            "25": 43739.66,
+                            "50": 52443.3,
+                            "75": 62246.04,
+                            "90": 73069.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 1095,
+                        "range": {
+                            "10": 45162.1,
+                            "25": 52919.41,
+                            "50": 61877.34,
+                            "75": 73420.94,
+                            "90": 88041.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 869,
+                        "range": {
+                            "10": 35422.63,
+                            "25": 41530.76,
+                            "50": 49570.57,
+                            "75": 56477.53,
+                            "90": 62934.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 867,
+                        "range": {
+                            "10": 72848.95,
+                            "25": 94170.03,
+                            "50": 123261.1,
+                            "75": 152602.49,
+                            "90": 177414.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 836,
+                        "range": {
+                            "10": 74721.28,
+                            "25": 105505.74,
+                            "50": 159017.25,
+                            "75": 235807.54,
+                            "90": 310591.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 819,
+                        "range": {
+                            "10": 47982.84,
+                            "25": 54720.02,
+                            "50": 63459.05,
+                            "75": 72361.79,
+                            "90": 81512.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 813,
+                        "range": {
+                            "10": 79363.45,
+                            "25": 101569.43,
+                            "50": 134283.9,
+                            "75": 171056.86,
+                            "90": 203941.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 745,
+                        "range": {
+                            "10": 76179.66,
+                            "25": 101819.7,
+                            "50": 146274.39,
+                            "75": 196341.59,
+                            "90": 247724.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 738,
+                        "range": {
+                            "10": 41540.05,
+                            "25": 52357.96,
+                            "50": 69329.6,
+                            "75": 92769.02,
+                            "90": 121456.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "President",
+                        "url": "/research/US/Job=President/Salary",
+                        "profileCount": 603,
+                        "range": {
+                            "10": 77388.4,
+                            "25": 109474.27,
+                            "50": 153412.49,
+                            "75": 206880.87,
+                            "90": 263426.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 595,
+                        "range": {
+                            "10": 58586.25,
+                            "25": 73507.52,
+                            "50": 91750.71,
+                            "75": 117463.36,
+                            "90": 141578.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 593,
+                        "range": {
+                            "10": 57287.72,
+                            "25": 70856.84,
+                            "50": 89880.38,
+                            "75": 113212.96,
+                            "90": 135174.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 537,
+                        "range": {
+                            "10": 33223.19,
+                            "25": 40623.61,
+                            "50": 49590.55,
+                            "75": 58345.01,
+                            "90": 65828.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 488,
+                        "range": {
+                            "10": 36080.39,
+                            "25": 42526.05,
+                            "50": 51196.97,
+                            "75": 61466.69,
+                            "90": 72603.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Property Manager",
+                        "url": "/research/US/Job=Property_Manager/Salary",
+                        "profileCount": 480,
+                        "range": {
+                            "10": 34105.06,
+                            "25": 41785.78,
+                            "50": 51480.95,
+                            "75": 64016.49,
+                            "90": 76878.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Officer (CIO)",
+                        "url": "/research/US/Job=Chief_Information_Officer_(CIO)/Salary",
+                        "profileCount": 474,
+                        "range": {
+                            "10": 100966.66,
+                            "25": 130239.4,
+                            "50": 171695.75,
+                            "75": 215531.1,
+                            "90": 258039.06
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Computer_Operations_Manager/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Operations Management, Systems Computer/Console Operations, IT Management, Leadership, Information Technology (IT) Support",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-12-20T05:22:50.014Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49460.16",
+                            "percentile25": "56580",
+                            "median": "75800.51",
+                            "percentile75": "100300",
+                            "percentile90": "113430.59",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "48584.96",
+                            "percentile25": "53920.34",
+                            "median": "74996.59",
+                            "percentile75": "96821.78",
+                            "percentile90": "109890.02",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "1600",
+                            "median": "4000",
+                            "percentile75": "12000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "3000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 16,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Computer Operations Manager",
+                    "url": "/research/US/Job=Computer_Operations_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

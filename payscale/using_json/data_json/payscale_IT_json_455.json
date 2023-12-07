@@ -1,0 +1,813 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Program Manager, Localization",
+                    "url": "/research/US/Job=Program_Manager%2C_Localization/Salary",
+                    "compensation": 83975.11554533683,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": ".NET Software Developer / Programmer",
+                            "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                            "percent": 1,
+                            "compensation": 69630.0026732588,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior .NET Developer / Programmer",
+                                    "url": "/research/US/Job=Senior_.NET_Developer_%2F_Programmer/Salary",
+                                    "percent": 0.18,
+                                    "compensation": 96941.53206534633,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Sr. Software Engineer / Developer / Programmer",
+                                    "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 104281.41056938967,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Software Developer",
+                                    "url": "/research/US/Job=Software_Developer/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 71436.21516954101,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Program Manager, Localization"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Program_Manager%2C_Localization/Salary",
+                    "defaultUrl": "/research/US/Job=Program_Manager%2C_Localization/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-28T07:29:41.97467Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Program Manager, Localization is $64.56 per hour.",
+                    "summarySalary": "The average pay for a Program Manager, Localization is $106,585 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 1000,
+                        "25": 5895.81,
+                        "50": 10000,
+                        "75": 12458.82,
+                        "90": 26500,
+                        "profileCount": 14
+                    },
+                    "hourlyRate": {
+                        "50": 64.56,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 66000,
+                        "25": 80987.65,
+                        "50": 106584.64,
+                        "75": 121149.42,
+                        "90": 137797.84,
+                        "profileCount": 29
+                    },
+                    "total": {
+                        "10": 70202.54,
+                        "25": 82504.33,
+                        "50": 115126.03,
+                        "75": 132854.61,
+                        "90": 144635.14,
+                        "profileCount": 31
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-28T07:29:41.97467Z",
+                        "profileCount": 31,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 31,
+                                "range": {
+                                    "10": 70202.54,
+                                    "25": 82504.33,
+                                    "50": 115126.03,
+                                    "75": 132854.61,
+                                    "90": 144635.14
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-28T07:29:41.97467Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 64.56
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-28T07:29:41.97467Z",
+                        "profileCount": 29,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 29,
+                                "range": {
+                                    "10": 66000,
+                                    "25": 80987.65,
+                                    "50": 106584.64,
+                                    "75": 121149.42,
+                                    "90": 137797.84
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-28T07:29:41.97467Z",
+                        "profileCount": 13,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-28T07:29:41.97467Z",
+                        "profileCount": 21,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/e7f9bfb9/Early-Career",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/0e72bae3/Mid-Career",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 101609.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/cecca67f/Experienced",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 104804.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/2693b8d5/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/daeb95d1/Seattle-WA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 91000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/953ac9b8/San-Francisco-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 125166.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/6aed6349/New-York-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Localization",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/c67ab4b0/Localization",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 100904.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/93e52627/Project-Management",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 106000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/d91f354c/Leadership",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 95727.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Program Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/6941fb31/Program-Management",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 105936.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Localization and Translation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/b520af6a/Localization-and-Translation",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 102009.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Quality Assurance / Quality Control",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/c5cdbe5a/Quality-Assurance-Quality-Control",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 94599.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/a967132d/Strategic-Project-Management",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 104963.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Operations Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/aa252a5f/Operations-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 92500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Planning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/45ea9ac4/Strategic-Planning",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 85813.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Budget Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/5e6b5262/Budget-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 99750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Vendor Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Manager%2C_Localization/Salary/61f76284/Vendor-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 59993.84
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 7,
+                        "score": 3.71
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 6620,
+                        "range": {
+                            "10": 47220.72,
+                            "25": 57489.95,
+                            "50": 71524.33,
+                            "75": 89669.6,
+                            "90": 111874.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 4966,
+                        "range": {
+                            "10": 52759.71,
+                            "25": 64102.09,
+                            "50": 79011.22,
+                            "75": 97691.07,
+                            "90": 118944.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 3495,
+                        "range": {
+                            "10": 48740.13,
+                            "25": 63027.7,
+                            "50": 86129.29,
+                            "75": 126395,
+                            "90": 184063.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 2657,
+                        "range": {
+                            "10": 57453.9,
+                            "25": 74821.35,
+                            "50": 99666.52,
+                            "75": 131813.44,
+                            "90": 160953.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 2102,
+                        "range": {
+                            "10": 37369.64,
+                            "25": 43985.23,
+                            "50": 52561.18,
+                            "75": 63498.55,
+                            "90": 75384.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 1518,
+                        "range": {
+                            "10": 38602.45,
+                            "25": 45319.55,
+                            "50": 53995.9,
+                            "75": 63990.1,
+                            "90": 74481.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 1494,
+                        "range": {
+                            "10": 81959.87,
+                            "25": 104405.3,
+                            "50": 138316.18,
+                            "75": 175463.81,
+                            "90": 208271.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1447,
+                        "range": {
+                            "10": 56956.61,
+                            "25": 64698.25,
+                            "50": 74072.12,
+                            "75": 86910.96,
+                            "90": 103330.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 1367,
+                        "range": {
+                            "10": 77224.22,
+                            "25": 109667.48,
+                            "50": 162669.56,
+                            "75": 240756.14,
+                            "90": 320082.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Program Manager, Non-Profit Organization",
+                        "url": "/research/US/Job=Program_Manager%2C_Non-Profit_Organization/Salary",
+                        "profileCount": 1354,
+                        "range": {
+                            "10": 41888.52,
+                            "25": 49174.65,
+                            "50": 58688.75,
+                            "75": 70413.35,
+                            "90": 84360.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 1331,
+                        "range": {
+                            "10": 46545.22,
+                            "25": 54390.1,
+                            "50": 63406.34,
+                            "75": 74622.6,
+                            "90": 88699.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 1245,
+                        "range": {
+                            "10": 77775.54,
+                            "25": 103105.3,
+                            "50": 147246.7,
+                            "75": 197287.11,
+                            "90": 249665.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 1204,
+                        "range": {
+                            "10": 59793.29,
+                            "25": 75152.72,
+                            "50": 93891.58,
+                            "75": 120074.73,
+                            "90": 144737.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 1150,
+                        "range": {
+                            "10": 88125.08,
+                            "25": 102477.33,
+                            "50": 119677.03,
+                            "75": 137037.19,
+                            "90": 155059.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1115,
+                        "range": {
+                            "10": 59857.57,
+                            "25": 67777.88,
+                            "50": 77530.87,
+                            "75": 90577.11,
+                            "90": 107737.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 1078,
+                        "range": {
+                            "10": 43164.4,
+                            "25": 54276.71,
+                            "50": 71439.32,
+                            "75": 95665.15,
+                            "90": 123727.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 1073,
+                        "range": {
+                            "10": 52635.47,
+                            "25": 64042.54,
+                            "50": 80386.98,
+                            "75": 100353.44,
+                            "90": 124490.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "President",
+                        "url": "/research/US/Job=President/Salary",
+                        "profileCount": 993,
+                        "range": {
+                            "10": 79130.1,
+                            "25": 113367.63,
+                            "50": 156526.63,
+                            "75": 210891.13,
+                            "90": 266720.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Property Manager",
+                        "url": "/research/US/Job=Property_Manager/Salary",
+                        "profileCount": 985,
+                        "range": {
+                            "10": 35363.45,
+                            "25": 44111.34,
+                            "50": 54153.23,
+                            "75": 66695.98,
+                            "90": 79259.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 976,
+                        "range": {
+                            "10": 49153.6,
+                            "25": 56283.06,
+                            "50": 65284.8,
+                            "75": 74405.58,
+                            "90": 83410.43
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Program_Manager%2C_Localization/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Localization, Project Management, Leadership, Program Management, Localization and Translation, Quality Assurance / Quality Control, Strategic Project Management, Operations Management, Strategic Planning, Budget Management, Vendor Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-28T07:29:41.97467Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "70202.54",
+                            "percentile25": "82504.33",
+                            "median": "115126.03",
+                            "percentile75": "132854.61",
+                            "percentile90": "144635.14",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "66000",
+                            "percentile25": "80987.65",
+                            "median": "106584.64",
+                            "percentile75": "121149.42",
+                            "percentile90": "137797.84",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1000",
+                            "percentile25": "5895.81",
+                            "median": "10000",
+                            "percentile75": "12458.82",
+                            "percentile90": "26500",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 49,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Program Manager, Localization",
+                    "url": "/research/US/Job=Program_Manager%2C_Localization/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

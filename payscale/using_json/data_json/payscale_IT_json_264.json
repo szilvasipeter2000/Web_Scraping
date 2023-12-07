@@ -1,0 +1,806 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Help Desk Associate",
+                    "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate",
+                    "compensation": 43456.34090009632,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Service Desk Analyst",
+                            "url": "/research/US/Job=Service_Desk_Analyst/Hourly_Rate",
+                            "percent": 1,
+                            "compensation": 47801.67684602845,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Systems Administrator",
+                                    "url": "/research/US/Job=Systems_Administrator/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 62410.40987121457,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Service Desk Manager",
+                                    "url": "/research/US/Job=Service_Desk_Manager/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 75315.00191683749,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Support Specialist",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 49897.009270697185,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Help Desk Associate"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Help_Desk_Associate/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-05-07T05:00:04.55088Z",
+                "narratives": {
+                    "description": "Help desk associates provide customer support, help problem solve, and keep the company's network and computer systems running. Help desk associates typically work indoors in a casual business environment. They make work in call centers, universities, government offices, or manufacturing centers. Regardless of the location, help desk associates that support internal clients primarily work in front of a computer, answering, logging, and troubleshooting calls at their desk. Help desk associates that assist external clients will respond and fix problems on site. This may include using tools to take desktops or printers apart to analyze problems. This work is often mentally intense with occasional physical labor required.  \r\nHelp desk associates need strong interpersonal skills and a positive attitude. This is because they work with a diverse array of people. Regardless of who or where the client is, help desk associates need to tactfully and skillfully provide IT customer service to clients who are often frustrated or upset. This requires strong oral and written skills and a professional demeanor.\r\nHelp desk associates need a strong education in computer science. That is, they need to be trained in understanding and fixing hardware and software. This includes desktops, printers, OS systems like Windows, and network administration. Many help desk associates are also responsible for maintaining and fixing company cellphone and network problems. An associate’s or bachelor’s degree in computer science is a fundamental prerequisite. In addition to this, popular industry standard certifications include Microsoft Certified Professional, Cisco Career Certification, and the Apple certification program. Because of the differences in time, some help desk associates work hours outside standard office hours or must be on call 24/7.\r\n",
+                    "summaryHourly": "The average pay for a Help Desk Associate is $18.23 per hour.",
+                    "summarySalary": "The average pay for a Help Desk Associate is $46,819 per year."
+                },
+                "tasks": [
+                    "Answer phones, talk to callers and diagnose technical problems.",
+                    "Assist with audits, backups and enforcing IT policy.",
+                    "Install software, configure accounts and train new users.",
+                    "Provide training materials and guidance about training courses.",
+                    "Track all problems, customer contact and solutions in online database."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 204.26,
+                        "25": 682.1,
+                        "50": 2163.1,
+                        "75": 3381.01,
+                        "90": 5173.71,
+                        "profileCount": 12
+                    },
+                    "hourlyRate": {
+                        "10": 13.8,
+                        "25": 15.42,
+                        "50": 18.23,
+                        "75": 20.75,
+                        "90": 25.75,
+                        "profileCount": 70
+                    },
+                    "salary": {
+                        "10": 30929.64,
+                        "25": 42000,
+                        "50": 46818.76,
+                        "75": 51638.76,
+                        "90": 59704.21,
+                        "profileCount": 23
+                    },
+                    "total": {
+                        "10": 29694.66,
+                        "25": 33414.58,
+                        "50": 39757.49,
+                        "75": 49730.69,
+                        "90": 56105.16,
+                        "profileCount": 93
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-05-07T05:00:04.55088Z",
+                        "profileCount": 93,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 93,
+                                "range": {
+                                    "10": 29694.66,
+                                    "25": 33414.58,
+                                    "50": 39757.49,
+                                    "75": 49730.69,
+                                    "90": 56105.16
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-05-07T05:00:04.55088Z",
+                        "profileCount": 70,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 70,
+                                "range": {
+                                    "10": 13.8,
+                                    "25": 15.42,
+                                    "50": 18.23,
+                                    "75": 20.75,
+                                    "90": 25.75
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-05-07T05:00:04.55088Z",
+                        "profileCount": 23,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": {
+                                    "10": 30929.64,
+                                    "25": 42000,
+                                    "50": 46818.76,
+                                    "75": 51638.76,
+                                    "90": 59704.21
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-05-07T05:00:04.55088Z",
+                        "profileCount": 38,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 28,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-05-07T05:00:04.55088Z",
+                        "profileCount": 51,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 36,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 34,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 29,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/ce36e9a4/Entry-Level",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 17.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/ce36e9a4/Early-Career",
+                                "profileCount": 59,
+                                "range": {
+                                    "50": 17.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/d77b19cf/Mid-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 26.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Salary/18399d40/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 24.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/a4ef9f6d/Late-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 21.85
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Salary/78008053/New-York-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 24.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Salary/d9a98881/Washington-DC",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 15
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Help Desk / Desktop Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Salary/f12bc200/Help-Desk-Desktop-Support",
+                                "profileCount": 57,
+                                "range": {
+                                    "50": 18.87
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/154e597d/Troubleshooting",
+                                "profileCount": 51,
+                                "range": {
+                                    "50": 17.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Customer Service",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/6fb75226/Customer-Service",
+                                "profileCount": 42,
+                                "range": {
+                                    "50": 18.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/49ad88b2/Information-Technology-IT-Support",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 16.25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Active Directory",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/29e561d0/Active-Directory",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 17.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "System Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate/55c7fd67/System-Administration",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 24.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Systems Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Salary/462ec6ce/Systems-Troubleshooting",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Active Directory",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Associate/Salary/633c0f90/Microsoft-Active-Directory",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 9,
+                        "score": 3.78
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 2602,
+                        "range": {
+                            "10": 11.04,
+                            "25": 13.12,
+                            "50": 15.55,
+                            "75": 18.16,
+                            "90": 20.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cashier",
+                        "url": "/research/US/Job=Cashier/Hourly_Rate",
+                        "profileCount": 2503,
+                        "range": {
+                            "10": 8.57,
+                            "25": 9.74,
+                            "50": 11.32,
+                            "75": 13.17,
+                            "90": 15.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2423,
+                        "range": {
+                            "10": 13,
+                            "25": 15.01,
+                            "50": 17.31,
+                            "75": 20.25,
+                            "90": 23.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sales Associate",
+                        "url": "/research/US/Job=Sales_Associate/Hourly_Rate",
+                        "profileCount": 2023,
+                        "range": {
+                            "10": 9.02,
+                            "25": 10.25,
+                            "50": 12.07,
+                            "75": 14.35,
+                            "90": 16.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1932,
+                        "range": {
+                            "10": 14.22,
+                            "25": 16.33,
+                            "50": 19.53,
+                            "75": 23.51,
+                            "90": 27.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 1847,
+                        "range": {
+                            "10": 17.66,
+                            "25": 20.64,
+                            "50": 25.4,
+                            "75": 30.95,
+                            "90": 38.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1740,
+                        "range": {
+                            "10": 11.99,
+                            "25": 14.27,
+                            "50": 16.81,
+                            "75": 20.44,
+                            "90": 24.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 1435,
+                        "range": {
+                            "10": 13.17,
+                            "25": 14.85,
+                            "50": 16.81,
+                            "75": 19.22,
+                            "90": 21.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 1310,
+                        "range": {
+                            "10": 16.08,
+                            "25": 18.93,
+                            "50": 22.94,
+                            "75": 27.78,
+                            "90": 32.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 1266,
+                        "range": {
+                            "10": 15.52,
+                            "25": 18.11,
+                            "50": 21.24,
+                            "75": 25.52,
+                            "90": 30.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 1265,
+                        "range": {
+                            "10": 14.43,
+                            "25": 16.75,
+                            "50": 20.03,
+                            "75": 24.12,
+                            "90": 28.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 1105,
+                        "range": {
+                            "10": 15.43,
+                            "25": 18.17,
+                            "50": 21.73,
+                            "75": 26.54,
+                            "90": 32.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Technician",
+                        "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                        "profileCount": 1092,
+                        "range": {
+                            "10": 14.34,
+                            "25": 16.7,
+                            "50": 20.2,
+                            "75": 25.16,
+                            "90": 29.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1042,
+                        "range": {
+                            "10": 14.26,
+                            "25": 16.91,
+                            "50": 20.84,
+                            "75": 25.71,
+                            "90": 31.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 978,
+                        "range": {
+                            "10": 10.77,
+                            "25": 12.38,
+                            "50": 14.45,
+                            "75": 16.49,
+                            "90": 18.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 839,
+                        "range": {
+                            "10": 10.78,
+                            "25": 12.38,
+                            "50": 14.74,
+                            "75": 17.52,
+                            "90": 20.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Service Technician",
+                        "url": "/research/US/Job=HVAC_Service_Technician/Hourly_Rate",
+                        "profileCount": 806,
+                        "range": {
+                            "10": 16.05,
+                            "25": 19.38,
+                            "50": 24.03,
+                            "75": 29.19,
+                            "90": 35.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Technician",
+                        "url": "/research/US/Job=Help_Desk_Technician/Hourly_Rate",
+                        "profileCount": 800,
+                        "range": {
+                            "10": 13.73,
+                            "25": 15.61,
+                            "50": 18.32,
+                            "75": 21.69,
+                            "90": 25.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Specialist",
+                        "url": "/research/US/Job=Technical_Support_Specialist/Salary",
+                        "profileCount": 784,
+                        "range": {
+                            "10": 15.04,
+                            "25": 17.28,
+                            "50": 20.55,
+                            "75": 24.61,
+                            "90": 29.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Dental Assistant",
+                        "url": "/research/US/Job=Dental_Assistant/Hourly_Rate",
+                        "profileCount": 765,
+                        "range": {
+                            "10": 13.15,
+                            "25": 15.14,
+                            "50": 17.66,
+                            "75": 20.57,
+                            "90": 23.92
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Help_Desk_Associate/Hourly_Rate",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Help Desk / Desktop Support, Troubleshooting, Customer Service, Information Technology (IT) Support, Active Directory, System Administration, Systems Troubleshooting, Microsoft Active Directory",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-05-07T05:00:04.55088Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "29694.66",
+                            "percentile25": "33414.58",
+                            "median": "39757.49",
+                            "percentile75": "49730.69",
+                            "percentile90": "56105.16",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": "13.8",
+                            "percentile25": "15.42",
+                            "median": "18.23",
+                            "percentile75": "20.75",
+                            "percentile90": "25.75",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "204.26",
+                            "percentile25": "682.1",
+                            "median": "2163.1",
+                            "percentile75": "3381.01",
+                            "percentile90": "5173.71",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 103,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Help desk associates provide customer support, help problem solve, and keep the company's network and computer systems running. Help desk associates typically work indoors in a casual business environment. They make work in call centers, universities, government offices, or manufacturing centers. Regardless of the location, help desk associates that support internal clients primarily work in front of a computer, answering, logging, and troubleshooting calls at their desk. Help desk associates that assist external clients will respond and fix problems on site. This may include using tools to take desktops or printers apart to analyze problems. This work is often mentally intense with occasional physical labor required.  \r\nHelp desk associates need strong interpersonal skills and a positive attitude. This is because they work with a diverse array of people. Regardless of who or where the client is, help desk associates need to tactfully and skillfully provide IT customer service to clients who are often frustrated or upset. This requires strong oral and written skills and a professional demeanor.\r\nHelp desk associates need a strong education in computer science. That is, they need to be trained in understanding and fixing hardware and software. This includes desktops, printers, OS systems like Windows, and network administration. Many help desk associates are also responsible for maintaining and fixing company cellphone and network problems. An associate’s or bachelor’s degree in computer science is a fundamental prerequisite. In addition to this, popular industry standard certifications include Microsoft Certified Professional, Cisco Career Certification, and the Apple certification program. Because of the differences in time, some help desk associates work hours outside standard office hours or must be on call 24/7.\r\n",
+                    "name": "Help Desk Associate",
+                    "url": "/research/US/Job=Help_Desk_Associate/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

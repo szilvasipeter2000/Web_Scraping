@@ -1,0 +1,671 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Disaster Recovery Specialist, IT",
+                    "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary",
+                    "compensation": 76224.25409326487,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Information Security Analyst",
+                            "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                            "percent": 1,
+                            "compensation": 72077.72803685124,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Information Security Manager",
+                                    "url": "/research/US/Job=Information_Security_Manager/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 114620.91299689224,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Security Engineer",
+                                    "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 94982.51161430652,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Security Engineer",
+                                    "url": "/research/US/Job=Security_Engineer/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 90614.50167331363,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Disaster Recovery Specialist, IT"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary",
+                    "defaultUrl": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-01-05T04:41:54.21737Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Disaster Recovery Specialist, IT is $81,041 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 3000,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 39254.34,
+                        "25": 40963.4,
+                        "50": 81040.9,
+                        "75": 110552.94,
+                        "90": 127846.61,
+                        "profileCount": 11
+                    },
+                    "total": {
+                        "10": 39594.44,
+                        "25": 46627.57,
+                        "50": 81040.9,
+                        "75": 112995.46,
+                        "90": 127846.61,
+                        "profileCount": 11
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-01-05T04:41:54.21737Z",
+                        "profileCount": 11,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 39594.44,
+                                    "25": 46627.57,
+                                    "50": 81040.9,
+                                    "75": 112995.46,
+                                    "90": 127846.61
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-01-05T04:41:54.21737Z",
+                        "profileCount": 11,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 39254.34,
+                                    "25": 40963.4,
+                                    "50": 81040.9,
+                                    "75": 110552.94,
+                                    "90": 127846.61
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-01-05T04:41:54.21737Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-01-05T04:41:54.21737Z",
+                        "profileCount": 9,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary/3c008f4e/Early-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary/d70a1e0e/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78885.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary/27dab3d4/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 98649.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary/4ee9e6e6/Late-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary/1b39b49c/Phoenix-AZ",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 82504.33
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Disaster Recovery",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary/9a6b714f/Disaster-Recovery",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary/3480e868/Strategic-Project-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 91500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 781,
+                        "range": {
+                            "10": 51308.94,
+                            "25": 62590.78,
+                            "50": 77427.97,
+                            "75": 95829.84,
+                            "90": 117166.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 219,
+                        "range": {
+                            "10": 72875.38,
+                            "25": 94138.29,
+                            "50": 123232.49,
+                            "75": 152613.96,
+                            "90": 177461.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 162,
+                        "range": {
+                            "10": 87332.18,
+                            "25": 101539.09,
+                            "50": 117773.74,
+                            "75": 134433.84,
+                            "90": 152197.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 99,
+                        "range": {
+                            "10": 76138.1,
+                            "25": 101779.26,
+                            "50": 146335.13,
+                            "75": 196374.6,
+                            "90": 247683.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Project Manager, Operations",
+                        "url": "/research/US/Job=Sr._Project_Manager%2C_Operations/Salary",
+                        "profileCount": 91,
+                        "range": {
+                            "10": 72360.32,
+                            "25": 85547.61,
+                            "50": 102705.76,
+                            "75": 122660.64,
+                            "90": 141739.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief of Staff",
+                        "url": "/research/US/Job=Chief_of_Staff/Salary",
+                        "profileCount": 88,
+                        "range": {
+                            "10": 66852.26,
+                            "25": 86371.97,
+                            "50": 116271.59,
+                            "75": 150464.59,
+                            "90": 185506.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 87,
+                        "range": {
+                            "10": 79396.82,
+                            "25": 101635.69,
+                            "50": 134227.87,
+                            "75": 171220.22,
+                            "90": 204011.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Project Manager",
+                        "url": "/research/US/Job=Technical_Project_Manager/Salary",
+                        "profileCount": 87,
+                        "range": {
+                            "10": 65089.82,
+                            "25": 80702.2,
+                            "50": 97120.97,
+                            "75": 118880.01,
+                            "90": 138065.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Operations",
+                        "url": "/research/US/Job=Project_Manager%2C_Operations/Salary",
+                        "profileCount": 87,
+                        "range": {
+                            "10": 52461.06,
+                            "25": 63563.69,
+                            "50": 78565.09,
+                            "75": 96670.94,
+                            "90": 117725.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Management Director",
+                        "url": "/research/US/Job=Project_Management_Director/Salary",
+                        "profileCount": 85,
+                        "range": {
+                            "10": 79996.31,
+                            "25": 100293.4,
+                            "50": 126159.41,
+                            "75": 153471.13,
+                            "90": 175614.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Program Manager, IT",
+                        "url": "/research/US/Job=Program_Manager%2C_IT/Salary",
+                        "profileCount": 77,
+                        "range": {
+                            "10": 75826.94,
+                            "25": 95573.36,
+                            "50": 116722.88,
+                            "75": 136093.28,
+                            "90": 154253.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 77,
+                        "range": {
+                            "10": 58832.2,
+                            "25": 72170,
+                            "50": 89785.3,
+                            "75": 110823.88,
+                            "90": 130973.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Program Manager, IT",
+                        "url": "/research/US/Job=Senior_Program_Manager%2C_IT/Salary",
+                        "profileCount": 72,
+                        "range": {
+                            "10": 104835.75,
+                            "25": 121769.01,
+                            "50": 140548.88,
+                            "75": 157466.92,
+                            "90": 172557.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Information Technology (IT)",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 59,
+                        "range": {
+                            "10": 111485.59,
+                            "25": 132355.82,
+                            "50": 154888.69,
+                            "75": 182386.26,
+                            "90": 206436.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Program Project Manager",
+                        "url": "/research/US/Job=Program_Project_Manager/Salary",
+                        "profileCount": 50,
+                        "range": {
+                            "10": 52940.15,
+                            "25": 68484.3,
+                            "50": 87415.42,
+                            "75": 111683.32,
+                            "90": 131512.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 44,
+                        "range": {
+                            "10": 55658.21,
+                            "25": 72895.99,
+                            "50": 97015.87,
+                            "75": 128353.69,
+                            "90": 156701.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Program Manager (Unspecified Type / General)",
+                        "url": "/research/US/Job=Senior_Program_Manager_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 42,
+                        "range": {
+                            "10": 74536.71,
+                            "25": 97655.57,
+                            "50": 123653.43,
+                            "75": 146242.15,
+                            "90": 164232.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP) of Product Development",
+                        "url": "/research/US/Job=Vice_President_(VP)_of_Product_Development/Salary",
+                        "profileCount": 41,
+                        "range": {
+                            "10": 112561.68,
+                            "25": 137885.1,
+                            "50": 172327.79,
+                            "75": 203100.68,
+                            "90": 235111.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Development Director",
+                        "url": "/research/US/Job=Business_Development_Director/Salary",
+                        "profileCount": 39,
+                        "range": {
+                            "10": 62069.26,
+                            "25": 81669.85,
+                            "50": 111420.7,
+                            "75": 143528.86,
+                            "90": 172362.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Director, Operations",
+                        "url": "/research/US/Job=Senior_Director%2C_Operations/Salary",
+                        "profileCount": 34,
+                        "range": {
+                            "10": 87392.71,
+                            "25": 113784.1,
+                            "50": 144874.97,
+                            "75": 173499.96,
+                            "90": 200470.24
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Disaster Recovery, Strategic Project Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-01-05T04:41:54.21737Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "39594.44",
+                            "percentile25": "46627.57",
+                            "median": "81040.9",
+                            "percentile75": "112995.46",
+                            "percentile90": "127846.61",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "39254.34",
+                            "percentile25": "40963.4",
+                            "median": "81040.9",
+                            "percentile75": "110552.94",
+                            "percentile90": "127846.61",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "3000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 13,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Disaster Recovery Specialist, IT",
+                    "url": "/research/US/Job=Disaster_Recovery_Specialist%2C_IT/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

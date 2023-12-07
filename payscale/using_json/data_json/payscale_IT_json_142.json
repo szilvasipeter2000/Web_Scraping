@@ -1,0 +1,411 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Cryptologist",
+                    "url": "/research/US/Job=Cryptologist/Salary",
+                    "compensation": 73066.89089237229,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 3,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Intelligence Analyst",
+                            "url": "/research/US/Job=Intelligence_Analyst/Salary",
+                            "percent": 0.17,
+                            "compensation": 70125.46391307154,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Intelligence Analyst",
+                                    "url": "/research/US/Job=Senior_Intelligence_Analyst/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 94833.30912927681,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Cyber Security Analyst",
+                                    "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                                    "percent": 0.03,
+                                    "compensation": 75882.70800189902,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Project Manager, (Unspecified Type / General)",
+                                    "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                                    "percent": 0.02,
+                                    "compensation": 74208.60456383067,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Buyer",
+                            "url": "/research/US/Job=Buyer/Salary",
+                            "percent": 0.14,
+                            "compensation": 55251.788095580836,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Buyer",
+                                    "url": "/research/US/Job=Senior_Buyer/Salary",
+                                    "percent": 0.24,
+                                    "compensation": 70395.06524262467,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Purchasing Manager",
+                                    "url": "/research/US/Job=Purchasing_Manager/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 66976.1427415382,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Procurement Specialist",
+                                    "url": "/research/US/Job=Procurement_Specialist/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 57828.437884732055,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": {
+                            "jobTitle": "Senior Systems Engineer",
+                            "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                            "percent": 0.11,
+                            "compensation": 105326.59037510879,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Principal Systems Engineer",
+                                    "url": "/research/US/Job=Principal_Systems_Engineer/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 129233.90316496108,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Systems Engineer (Computer Networking / IT)",
+                                    "url": "/research/US/Job=Senior_Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 101135.16415719177,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Cryptologist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Cryptologist/Salary",
+                    "defaultUrl": "/research/US/Job=Cryptologist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-01-29T17:39:38.03488Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Cryptologist is $73,067 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "25": 66670.39,
+                        "50": 73066.89,
+                        "75": 78049.57,
+                        "profileCount": 8
+                    },
+                    "total": {
+                        "25": 66670.39,
+                        "50": 73066.89,
+                        "75": 78049.57,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-01-29T17:39:38.03488Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 66670.39,
+                                    "50": 73066.89,
+                                    "75": 78049.57
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-01-29T17:39:38.03488Z",
+                        "profileCount": 8,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 66670.39,
+                                    "50": 73066.89,
+                                    "75": 78049.57
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-01-29T17:39:38.03488Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-01-29T17:39:38.03488Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cryptologist/Salary/bff37dfa/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 69634.27
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 5
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Cryptologist/Salary",
+                    "occupationalCategory": "15-2090.00 - Miscellaneous Mathematical Science Occupations",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-01-29T17:39:38.03488Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "66670.39",
+                            "median": "73066.89",
+                            "percentile75": "78049.57",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "66670.39",
+                            "median": "73066.89",
+                            "percentile75": "78049.57",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Cryptologist",
+                    "url": "/research/US/Job=Cryptologist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

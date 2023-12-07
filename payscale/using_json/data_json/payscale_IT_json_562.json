@@ -1,0 +1,596 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Project Director, Software"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Project_Director%2C_Software/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Project_Director%2C_Software/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-10-31T19:43:20.99523Z",
+                "narratives": {
+                    "description": "A senior project director for software works at a company that develops software. The project director will be assigned a project or multiple projects at a time, so it is important to be able to multitask and adhere to deadlines. Generally a minimum of a bachelor’s degree in computer science or a related field is required. \r\nWhen clients are involved, the senior project director will usually be the person to meet with the clients to determine needs and to update the clients on progress. Therefore, strong customer service and communication skills are necessary.  The director will devise a plan in order to develop the software and create a schedule or timeline so that progress can be reached in a timely manner. The senior project director will be responsible for dividing up tasks and making sure that employees stay on task. It is important to be familiar with all steps in software development in order to be able to adequately monitor progress down the line. There may be a budget to adhere to, so the senior project director should be able to allocate resources in a cost-effective manner.\r\nOften, the senior project manner will have to hold team meetings or give presentations to upper management or clients, so strong public speaking skills will come in handy. Since this is a leadership position, many years of experience may need to be demonstrated. Most positions take place in an office, though there are some positions that offer telework.",
+                    "summarySalary": "The average pay for a Senior Project Director, Software is $146,956 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 4000,
+                        "50": 10000,
+                        "75": 22500,
+                        "profileCount": 9
+                    },
+                    "profitSharing": {
+                        "50": 5000,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 78906.06,
+                        "25": 113695.69,
+                        "50": 146956.36,
+                        "75": 162687.41,
+                        "90": 186516.06,
+                        "profileCount": 17
+                    },
+                    "total": {
+                        "10": 78906.06,
+                        "25": 121704.92,
+                        "50": 152092.28,
+                        "75": 167498.11,
+                        "90": 211857.92,
+                        "profileCount": 17
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-10-31T19:43:20.99523Z",
+                        "profileCount": 17,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": {
+                                    "10": 78906.06,
+                                    "25": 121704.92,
+                                    "50": 152092.28,
+                                    "75": 167498.11,
+                                    "90": 211857.92
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-10-31T19:43:20.99523Z",
+                        "profileCount": 17,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": {
+                                    "10": 78906.06,
+                                    "25": 113695.69,
+                                    "50": 146956.36,
+                                    "75": 162687.41,
+                                    "90": 186516.06
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-10-31T19:43:20.99523Z",
+                        "profileCount": 10,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-10-31T19:43:20.99523Z",
+                        "profileCount": 15,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Project_Director%2C_Software/Salary/74756590/Experienced",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 139607
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Project_Director%2C_Software/Salary/4198d876/Late-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 158233.44
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Project_Director%2C_Software/Salary/8837c348/Project-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 139607
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Project_Director%2C_Software/Salary/e5f82fe5/Strategic-Project-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 145753.42
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3.67
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 2900,
+                        "range": {
+                            "10": 48364.22,
+                            "25": 58989.5,
+                            "50": 73763.21,
+                            "75": 91631.99,
+                            "90": 111573.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1111,
+                        "range": {
+                            "10": 51893.38,
+                            "25": 59587.92,
+                            "50": 68570.03,
+                            "75": 80783.32,
+                            "90": 97003.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 877,
+                        "range": {
+                            "10": 41325.35,
+                            "25": 50892.82,
+                            "50": 64699.01,
+                            "75": 82414.27,
+                            "90": 102720.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 827,
+                        "range": {
+                            "10": 53578.08,
+                            "25": 61203.53,
+                            "50": 70376.86,
+                            "75": 82380.48,
+                            "90": 98529.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 805,
+                        "range": {
+                            "10": 55238.1,
+                            "25": 69812.5,
+                            "50": 87796.38,
+                            "75": 107826.2,
+                            "90": 125945.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 606,
+                        "range": {
+                            "10": 48067.48,
+                            "25": 58521.76,
+                            "50": 73703.1,
+                            "75": 92757.03,
+                            "90": 116262.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 545,
+                        "range": {
+                            "10": 53693.33,
+                            "25": 67954.45,
+                            "50": 87772.11,
+                            "75": 111220.6,
+                            "90": 132061.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 529,
+                        "range": {
+                            "10": 84147.73,
+                            "25": 98304.16,
+                            "50": 113771.44,
+                            "75": 129486.61,
+                            "90": 146441.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 429,
+                        "range": {
+                            "10": 50416.82,
+                            "25": 57433.02,
+                            "50": 65941.78,
+                            "75": 79931.62,
+                            "90": 98181.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 416,
+                        "range": {
+                            "10": 62020.71,
+                            "25": 75602.63,
+                            "50": 92341.51,
+                            "75": 112743.19,
+                            "90": 133764.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 409,
+                        "range": {
+                            "10": 57875.56,
+                            "25": 65282.95,
+                            "50": 75183.76,
+                            "75": 90237.6,
+                            "90": 110396.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Construction Project Manager",
+                        "url": "/research/US/Job=Construction_Project_Manager/Salary",
+                        "profileCount": 393,
+                        "range": {
+                            "10": 51323.27,
+                            "25": 63647.41,
+                            "50": 78732.81,
+                            "75": 95506.04,
+                            "90": 113963.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 361,
+                        "range": {
+                            "10": 42855.26,
+                            "25": 51596.99,
+                            "50": 64869.46,
+                            "75": 80735.22,
+                            "90": 99138.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 338,
+                        "range": {
+                            "10": 67916.15,
+                            "25": 89745.67,
+                            "50": 118959.63,
+                            "75": 147568.93,
+                            "90": 170292.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Operations",
+                        "url": "/research/US/Job=Project_Manager%2C_Operations/Salary",
+                        "profileCount": 328,
+                        "range": {
+                            "10": 48386.83,
+                            "25": 58885.88,
+                            "50": 72387.81,
+                            "75": 89529.84,
+                            "90": 110652.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 322,
+                        "range": {
+                            "10": 36648.43,
+                            "25": 41992.49,
+                            "50": 49687.77,
+                            "75": 59048.12,
+                            "90": 69718.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 317,
+                        "range": {
+                            "10": 37101.36,
+                            "25": 44257.87,
+                            "50": 53915.53,
+                            "75": 67439.8,
+                            "90": 82880.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Project Manager",
+                        "url": "/research/US/Job=Technical_Project_Manager/Salary",
+                        "profileCount": 307,
+                        "range": {
+                            "10": 60693.24,
+                            "25": 75073.77,
+                            "50": 92355.3,
+                            "75": 113272.92,
+                            "90": 130638
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 304,
+                        "range": {
+                            "10": 49678.56,
+                            "25": 58306.09,
+                            "50": 68713.95,
+                            "75": 81437.55,
+                            "90": 97024.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 300,
+                        "range": {
+                            "10": 62794.04,
+                            "25": 72269.74,
+                            "50": 84615.03,
+                            "75": 98075.82,
+                            "90": 114025.58
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Project_Director%2C_Software/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Project Management, Strategic Project Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-10-31T19:43:20.99523Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "78906.06",
+                            "percentile25": "121704.92",
+                            "median": "152092.28",
+                            "percentile75": "167498.11",
+                            "percentile90": "211857.92",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "78906.06",
+                            "percentile25": "113695.69",
+                            "median": "146956.36",
+                            "percentile75": "162687.41",
+                            "percentile90": "186516.06",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "4000",
+                            "median": "10000",
+                            "percentile75": "22500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "5000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 18,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A senior project director for software works at a company that develops software. The project director will be assigned a project or multiple projects at a time, so it is important to be able to multitask and adhere to deadlines. Generally a minimum of a bachelor’s degree in computer science or a related field is required. \r\nWhen clients are involved, the senior project director will usually be the person to meet with the clients to determine needs and to update the clients on progress. Therefore, strong customer service and communication skills are necessary.  The director will devise a plan in order to develop the software and create a schedule or timeline so that progress can be reached in a timely manner. The senior project director will be responsible for dividing up tasks and making sure that employees stay on task. It is important to be familiar with all steps in software development in order to be able to adequately monitor progress down the line. There may be a budget to adhere to, so the senior project director should be able to allocate resources in a cost-effective manner.\r\nOften, the senior project manner will have to hold team meetings or give presentations to upper management or clients, so strong public speaking skills will come in handy. Since this is a leadership position, many years of experience may need to be demonstrated. Most positions take place in an office, though there are some positions that offer telework.",
+                    "name": "Senior Project Director, Software",
+                    "url": "/research/US/Job=Senior_Project_Director%2C_Software/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

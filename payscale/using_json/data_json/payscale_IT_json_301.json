@@ -1,0 +1,740 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Information Systems Coordinator, Medical",
+                    "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary",
+                    "compensation": 55495.11209964557,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Informatics Nurse",
+                            "url": "/research/US/Job=Informatics_Nurse/Salary",
+                            "percent": 1,
+                            "compensation": 77911.68643996006,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Registered Nurse (RN)",
+                                    "url": "/research/US/Job=Registered_Nurse_(RN)/Hourly_Rate",
+                                    "percent": 0.36,
+                                    "compensation": 64580.41840082897,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Clinical Informatics Manager",
+                                    "url": "/research/US/Job=Clinical_Informatics_Manager/Salary",
+                                    "percent": 0.27,
+                                    "compensation": 94206.32976715444,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Clinical Analyst",
+                                    "url": "/research/US/Job=Clinical_Analyst/Salary",
+                                    "percent": 0.18,
+                                    "compensation": 69536.64227146648,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Information Systems Coordinator, Medical"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary",
+                    "defaultUrl": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2020-01-29T08:55:58.01959Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for an Information Systems Coordinator, Medical is $21.37 per hour.",
+                    "summarySalary": "The average pay for an Information Systems Coordinator, Medical is $55,495 per year."
+                },
+                "tasks": [
+                    "Coordinate health information systems and work with other agencies.",
+                    "Oversee the work of consultants in health information systems activities, and attend and document meetings.",
+                    "Develop and implement strategies and software/application systems that strengthen health information systems."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 0.77,
+                        "50": 900,
+                        "75": 2708.14,
+                        "profileCount": 8
+                    },
+                    "hourlyRate": {
+                        "10": 16.76,
+                        "25": 17.65,
+                        "50": 21.37,
+                        "75": 23.7,
+                        "90": 26.5,
+                        "profileCount": 19
+                    },
+                    "salary": {
+                        "10": 38586.34,
+                        "25": 48149.12,
+                        "50": 55495.11,
+                        "75": 74103.11,
+                        "90": 96546.92,
+                        "profileCount": 26
+                    },
+                    "total": {
+                        "10": 35929.18,
+                        "25": 40760.99,
+                        "50": 50596.19,
+                        "75": 59551.03,
+                        "90": 80273.54,
+                        "profileCount": 45
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2020-01-29T08:55:58.01959Z",
+                        "profileCount": 45,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 45,
+                                "range": {
+                                    "10": 35929.18,
+                                    "25": 40760.99,
+                                    "50": 50596.19,
+                                    "75": 59551.03,
+                                    "90": 80273.54
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2020-01-29T08:55:58.01959Z",
+                        "profileCount": 19,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": {
+                                    "10": 16.76,
+                                    "25": 17.65,
+                                    "50": 21.37,
+                                    "75": 23.7,
+                                    "90": 26.5
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2020-01-29T08:55:58.01959Z",
+                        "profileCount": 26,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 26,
+                                "range": {
+                                    "10": 38586.34,
+                                    "25": 48149.12,
+                                    "50": 55495.11,
+                                    "75": 74103.11,
+                                    "90": 96546.92
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2020-01-29T08:55:58.01959Z",
+                        "profileCount": 25,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2020-01-29T08:55:58.01959Z",
+                        "profileCount": 37,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 32,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 26,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/b8a46a64/Early-Career",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 54212.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/8b509368/Mid-Career",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 54792.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/51434195/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 51795.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/c30df2a4/Late-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 88823
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Appleton, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Hourly_Rate/a58f1cbe/Appleton-WI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/30700da2/Project-Management",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 58000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/f1330a27/Microsoft-Office",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 53981.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Processing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/fe2889ac/Data-Processing",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 55561.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Training",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/2951be8a/Training",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 52651.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Systems Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary/cc30e871/Systems-Troubleshooting",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 53000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 12,
+                        "score": 3.55
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 2991,
+                        "range": {
+                            "10": 48364.22,
+                            "25": 58989.5,
+                            "50": 73763.21,
+                            "75": 91631.99,
+                            "90": 111573.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2409,
+                        "range": {
+                            "10": 28675.67,
+                            "25": 32932.36,
+                            "50": 39348.75,
+                            "75": 46912.03,
+                            "90": 55460.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1726,
+                        "range": {
+                            "10": 53578.08,
+                            "25": 61203.53,
+                            "50": 70376.86,
+                            "75": 82380.48,
+                            "90": 98529.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1722,
+                        "range": {
+                            "10": 51893.38,
+                            "25": 59587.92,
+                            "50": 68570.03,
+                            "75": 80783.32,
+                            "90": 97003.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1533,
+                        "range": {
+                            "10": 33168.87,
+                            "25": 39531.89,
+                            "50": 47845.89,
+                            "75": 57221.11,
+                            "90": 68240.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1312,
+                        "range": {
+                            "10": 38425.92,
+                            "25": 45609.16,
+                            "50": 55103.85,
+                            "75": 66588.46,
+                            "90": 78362.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1292,
+                        "range": {
+                            "10": 41325.35,
+                            "25": 50892.82,
+                            "50": 64699.01,
+                            "75": 82414.27,
+                            "90": 102720.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1018,
+                        "range": {
+                            "10": 55238.1,
+                            "25": 69812.5,
+                            "50": 87796.38,
+                            "75": 107826.2,
+                            "90": 125945.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 881,
+                        "range": {
+                            "10": 57875.56,
+                            "25": 65282.95,
+                            "50": 75183.76,
+                            "75": 90237.6,
+                            "90": 110396.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 872,
+                        "range": {
+                            "10": 50416.82,
+                            "25": 57433.02,
+                            "50": 65941.78,
+                            "75": 79931.62,
+                            "90": 98181.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 844,
+                        "range": {
+                            "10": 53693.33,
+                            "25": 67954.45,
+                            "50": 87772.11,
+                            "75": 111220.6,
+                            "90": 132061.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 823,
+                        "range": {
+                            "10": 48067.48,
+                            "25": 58521.76,
+                            "50": 73703.1,
+                            "75": 92757.03,
+                            "90": 116262.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 632,
+                        "range": {
+                            "10": 40783.81,
+                            "25": 47024.44,
+                            "50": 53934.11,
+                            "75": 61896.33,
+                            "90": 70666.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 607,
+                        "range": {
+                            "10": 36648.43,
+                            "25": 41992.49,
+                            "50": 49687.77,
+                            "75": 59048.12,
+                            "90": 69718.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 593,
+                        "range": {
+                            "10": 46779.18,
+                            "25": 55105.58,
+                            "50": 66901.58,
+                            "75": 80169.41,
+                            "90": 93893.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 526,
+                        "range": {
+                            "10": 49678.56,
+                            "25": 58306.09,
+                            "50": 68713.95,
+                            "75": 81437.55,
+                            "90": 97024.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 517,
+                        "range": {
+                            "10": 62020.71,
+                            "25": 75602.63,
+                            "50": 92341.51,
+                            "75": 112743.19,
+                            "90": 133764.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 511,
+                        "range": {
+                            "10": 37101.36,
+                            "25": 44257.87,
+                            "50": 53915.53,
+                            "75": 67439.8,
+                            "90": 82880.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 509,
+                        "range": {
+                            "10": 28098.88,
+                            "25": 32381.81,
+                            "50": 38464.47,
+                            "75": 45440.89,
+                            "90": 53179.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 487,
+                        "range": {
+                            "10": 42855.26,
+                            "25": 51596.99,
+                            "50": 64869.46,
+                            "75": 80735.22,
+                            "90": 99138.4
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Project Management, Microsoft Office, Data Processing, Training, Systems Troubleshooting",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2020-01-29T08:55:58.01959Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "35929.18",
+                            "percentile25": "40760.99",
+                            "median": "50596.19",
+                            "percentile75": "59551.03",
+                            "percentile90": "80273.54",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "38586.34",
+                            "percentile25": "48149.12",
+                            "median": "55495.11",
+                            "percentile75": "74103.11",
+                            "percentile90": "96546.92",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "0.77",
+                            "median": "900",
+                            "percentile75": "2708.14",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 55,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Information Systems Coordinator, Medical",
+                    "url": "/research/US/Job=Information_Systems_Coordinator%2C_Medical/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,543 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Managed Services Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Managed_Services_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Managed_Services_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-11-26T00:35:26.42617Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Managed Services Manager is $84,192 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 3052.09,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "25": 73086.6,
+                        "50": 84192,
+                        "75": 96815.56,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 68000,
+                        "50": 79553.18,
+                        "75": 103000,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-11-26T00:35:26.42617Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 68000,
+                                    "50": 79553.18,
+                                    "75": 103000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-11-26T00:35:26.42617Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 73086.6,
+                                    "50": 84192,
+                                    "75": 96815.56
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-11-26T00:35:26.42617Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-11-26T00:35:26.42617Z",
+                        "profileCount": 5,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Managed_Services_Manager/Salary/0f516bc4/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76985
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Operations Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Managed_Services_Manager/Salary/b7707b4c/Operations-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 109000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 3.75
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 2965,
+                        "range": {
+                            "10": 44864.72,
+                            "25": 54615.77,
+                            "50": 68542.14,
+                            "75": 86034.55,
+                            "90": 107300.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1069,
+                        "range": {
+                            "10": 54554.1,
+                            "25": 71745.24,
+                            "50": 95726.43,
+                            "75": 126251.89,
+                            "90": 154210.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 844,
+                        "range": {
+                            "10": 35676.62,
+                            "25": 42031.76,
+                            "50": 50724.54,
+                            "75": 61225.53,
+                            "90": 72750.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 709,
+                        "range": {
+                            "10": 40996.2,
+                            "25": 51568.56,
+                            "50": 68300.64,
+                            "75": 91596.38,
+                            "90": 120061.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 705,
+                        "range": {
+                            "10": 36906.11,
+                            "25": 43161.85,
+                            "50": 51502.4,
+                            "75": 61416.89,
+                            "90": 72553.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 682,
+                        "range": {
+                            "10": 44087.32,
+                            "25": 51729.86,
+                            "50": 60582.25,
+                            "75": 71857.69,
+                            "90": 86398.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 654,
+                        "range": {
+                            "10": 46563.19,
+                            "25": 60231.24,
+                            "50": 81609.66,
+                            "75": 120549.56,
+                            "90": 174464.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 487,
+                        "range": {
+                            "10": 78541.92,
+                            "25": 100723.42,
+                            "50": 133710.41,
+                            "75": 170823.79,
+                            "90": 203265.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 465,
+                        "range": {
+                            "10": 35449.66,
+                            "25": 41614.52,
+                            "50": 50363.81,
+                            "75": 60455.07,
+                            "90": 71241.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 410,
+                        "range": {
+                            "10": 74839.49,
+                            "25": 100246.38,
+                            "50": 144305.33,
+                            "75": 194279.95,
+                            "90": 245185.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 345,
+                        "range": {
+                            "10": 34797.42,
+                            "25": 40706.32,
+                            "50": 48598.14,
+                            "75": 55246.15,
+                            "90": 61285.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 319,
+                        "range": {
+                            "10": 74710.61,
+                            "25": 105418.13,
+                            "50": 159014.96,
+                            "75": 235966.21,
+                            "90": 310387.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Store Manager",
+                        "url": "/research/US/Job=Assistant_Store_Manager/Hourly_Rate",
+                        "profileCount": 291,
+                        "range": {
+                            "10": 36055.68,
+                            "25": 43716.64,
+                            "50": 51066.31,
+                            "75": 59095.85,
+                            "90": 66505.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Practice Manager",
+                        "url": "/research/US/Job=Practice_Manager/Salary",
+                        "profileCount": 264,
+                        "range": {
+                            "10": 46029.06,
+                            "25": 52887.94,
+                            "50": 62355.62,
+                            "75": 74962.26,
+                            "90": 89360.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Property Manager",
+                        "url": "/research/US/Job=Property_Manager/Salary",
+                        "profileCount": 261,
+                        "range": {
+                            "10": 34105.06,
+                            "25": 41785.78,
+                            "50": 51480.95,
+                            "75": 64016.49,
+                            "90": 76878.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Director",
+                        "url": "/research/US/Job=Operations_Director/Salary",
+                        "profileCount": 260,
+                        "range": {
+                            "10": 49007.84,
+                            "25": 64062.2,
+                            "50": 88044.27,
+                            "75": 122676.51,
+                            "90": 154372.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Warehouse Manager",
+                        "url": "/research/US/Job=Warehouse_Manager/Salary",
+                        "profileCount": 257,
+                        "range": {
+                            "10": 40178.16,
+                            "25": 47776.4,
+                            "50": 56824.31,
+                            "75": 67961.65,
+                            "90": 79748.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "President",
+                        "url": "/research/US/Job=President/Salary",
+                        "profileCount": 248,
+                        "range": {
+                            "10": 76721.77,
+                            "25": 109189.78,
+                            "50": 153056.96,
+                            "75": 206353.71,
+                            "90": 262359.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant General Manager (AGM)",
+                        "url": "/research/US/Job=Assistant_General_Manager_(AGM)/Salary",
+                        "profileCount": 242,
+                        "range": {
+                            "10": 34269.33,
+                            "25": 39987.98,
+                            "50": 49450.3,
+                            "75": 60773.49,
+                            "90": 75693.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Operations Manager",
+                        "url": "/research/US/Job=Sr._Operations_Manager/Salary",
+                        "profileCount": 219,
+                        "range": {
+                            "10": 65839.88,
+                            "25": 80520.46,
+                            "50": 100457.27,
+                            "75": 124313.99,
+                            "90": 144568.49
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Managed_Services_Manager/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Operations Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-11-26T00:35:26.42617Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "68000",
+                            "median": "79553.18",
+                            "percentile75": "103000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "73086.6",
+                            "median": "84192",
+                            "percentile75": "96815.56",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "3052.09",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 9,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Managed Services Manager",
+                    "url": "/research/US/Job=Managed_Services_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

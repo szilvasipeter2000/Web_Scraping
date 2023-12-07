@@ -1,0 +1,250 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Delphi Developer / Programmer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Delphi_Developer_%2F_Programmer/Salary",
+                    "defaultUrl": "/research/US/Job=Delphi_Developer_%2F_Programmer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2020-10-05T01:02:39.64211Z",
+                "narratives": {
+                    "description": "Delphi developers are primarily responsible for creating and editing software using the delphi programming language. \r\nGeneral daily tasks of delphi programmers include: debugging software; designing small- and large-scale software and programs; consulting clients; utilizing frameworks to increase the speed of projects; researching and keeping up with the latest programming trends; working with databases; making server-side applications; working both alone and on teams in order to solve problems; using model-viewer-controller patterns to create durable software; editing current software to increase its shelf life; and assisting clients with newly-created software and ensuring they understand it.\r\nDelphi developers generally work in office settings during traditional weekly business hours, and are usually at computers or attending meetings with other programmers. In some cases, these developers may be able to telecommute and work from home. \r\nCandidates for the position should have: a bachelor's or master's degree in computer science or information systems; years of experience in programming; experience in working on large projects from start to finish; and, of course, extensive knowledge of the delphi programming language",
+                    "summarySalary": "The average pay for a Delphi Developer / Programmer is $57,500 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 5500,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "50": 57500,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "50": 62400,
+                        "profileCount": 4
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2020-10-05T01:02:39.64211Z",
+                        "profileCount": 4,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 62400
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2020-10-05T01:02:39.64211Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 57500
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2020-10-05T01:02:39.64211Z",
+                        "profileCount": 2,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2020-10-05T01:02:39.64211Z",
+                        "profileCount": 3,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Delphi_Developer_%2F_Programmer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2020-10-05T01:02:39.64211Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "62400",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "57500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "5500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Delphi developers are primarily responsible for creating and editing software using the delphi programming language. \r\nGeneral daily tasks of delphi programmers include: debugging software; designing small- and large-scale software and programs; consulting clients; utilizing frameworks to increase the speed of projects; researching and keeping up with the latest programming trends; working with databases; making server-side applications; working both alone and on teams in order to solve problems; using model-viewer-controller patterns to create durable software; editing current software to increase its shelf life; and assisting clients with newly-created software and ensuring they understand it.\r\nDelphi developers generally work in office settings during traditional weekly business hours, and are usually at computers or attending meetings with other programmers. In some cases, these developers may be able to telecommute and work from home. \r\nCandidates for the position should have: a bachelor's or master's degree in computer science or information systems; years of experience in programming; experience in working on large projects from start to finish; and, of course, extensive knowledge of the delphi programming language",
+                    "name": "Delphi Developer / Programmer",
+                    "url": "/research/US/Job=Delphi_Developer_%2F_Programmer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

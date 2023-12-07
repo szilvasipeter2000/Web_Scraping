@@ -1,0 +1,640 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Data Signal Processing (DSP)/Firmware Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-10-02T23:42:26.03201Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Data Signal Processing (DSP)/Firmware Engineer is $16.18 per hour.",
+                    "summarySalary": "The average pay for a Data Signal Processing (DSP)/Firmware Engineer is $116,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 10480.47,
+                        "profileCount": 4
+                    },
+                    "hourlyRate": {
+                        "50": 16.18,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 71970.87,
+                        "25": 90000,
+                        "50": 116000,
+                        "75": 136522.94,
+                        "90": 144168.19,
+                        "profileCount": 11
+                    },
+                    "total": {
+                        "10": 30005.83,
+                        "25": 75500,
+                        "50": 116000,
+                        "75": 138992.81,
+                        "90": 161160.84,
+                        "profileCount": 13
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-10-02T23:42:26.03201Z",
+                        "profileCount": 13,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 30005.83,
+                                    "25": 75500,
+                                    "50": 116000,
+                                    "75": 138992.81,
+                                    "90": 161160.84
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-10-02T23:42:26.03201Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 16.18
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-10-02T23:42:26.03201Z",
+                        "profileCount": 11,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 71970.87,
+                                    "25": 90000,
+                                    "50": 116000,
+                                    "75": 136522.94,
+                                    "90": 144168.19
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-10-02T23:42:26.03201Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-10-02T23:42:26.03201Z",
+                        "profileCount": 9,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary/ec826029/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary/221e864a/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary/909644ab/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 119866.67
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary/9cca2738/San-Diego-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 103592.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Clara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary/0dcbd4cc/Santa-Clara-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 142456.14
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Algorithm Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary/fc25dcab/Algorithm-Development",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 123968.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Matlab",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary/d020a876/Matlab",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 107452.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Machine Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary/bfec6a36/Machine-Learning",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 476,
+                        "range": {
+                            "10": 65685.38,
+                            "25": 79166.79,
+                            "50": 96003.82,
+                            "75": 115702.43,
+                            "90": 133896.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 367,
+                        "range": {
+                            "10": 53578.08,
+                            "25": 61203.53,
+                            "50": 70376.86,
+                            "75": 82380.48,
+                            "90": 98529.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 315,
+                        "range": {
+                            "10": 57875.56,
+                            "25": 65282.95,
+                            "50": 75183.76,
+                            "75": 90237.6,
+                            "90": 110396.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Aerospace Engineer",
+                        "url": "/research/US/Job=Aerospace_Engineer/Salary",
+                        "profileCount": 172,
+                        "range": {
+                            "10": 61428.34,
+                            "25": 70099.97,
+                            "50": 83512.29,
+                            "75": 102662.46,
+                            "90": 128824.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 138,
+                        "range": {
+                            "10": 93180.44,
+                            "25": 107383.25,
+                            "50": 125861.73,
+                            "75": 145253.45,
+                            "90": 160213.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 137,
+                        "range": {
+                            "10": 60744.21,
+                            "25": 70922.87,
+                            "50": 84936.72,
+                            "75": 105351.42,
+                            "90": 125421.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Machine Learning Engineer",
+                        "url": "/research/US/Job=Machine_Learning_Engineer/Salary",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 75172.28,
+                            "25": 88869.65,
+                            "50": 110971.19,
+                            "75": 132950.73,
+                            "90": 153378.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 81,
+                        "range": {
+                            "10": 78400.49,
+                            "25": 89749.93,
+                            "50": 104154.88,
+                            "75": 122501.75,
+                            "90": 142977.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 69,
+                        "range": {
+                            "10": 49024.86,
+                            "25": 61466.91,
+                            "50": 79232.31,
+                            "75": 99036.02,
+                            "90": 119534.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 57,
+                        "range": {
+                            "10": 51893.38,
+                            "25": 59587.92,
+                            "50": 68570.03,
+                            "75": 80783.32,
+                            "90": 97003.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Engineer (SDE)",
+                        "url": "/research/US/Job=Software_Development_Engineer_(SDE)/Salary",
+                        "profileCount": 55,
+                        "range": {
+                            "10": 74492.75,
+                            "25": 91814.12,
+                            "50": 107631.43,
+                            "75": 123193.69,
+                            "90": 139744.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Engineer",
+                        "url": "/research/US/Job=Research_Engineer/Salary",
+                        "profileCount": 49,
+                        "range": {
+                            "10": 58434.31,
+                            "25": 68891.51,
+                            "50": 82236.88,
+                            "75": 100776.6,
+                            "90": 120254.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Structural Engineer",
+                        "url": "/research/US/Job=Structural_Engineer/Salary",
+                        "profileCount": 43,
+                        "range": {
+                            "10": 53164.59,
+                            "25": 59902.63,
+                            "50": 68026,
+                            "75": 80302.48,
+                            "90": 96837.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 41,
+                        "range": {
+                            "10": 76025.75,
+                            "25": 85574.75,
+                            "50": 97251.61,
+                            "75": 113173.2,
+                            "90": 130843.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Aerospace Systems Engineer",
+                        "url": "/research/US/Job=Aerospace_Systems_Engineer/Salary",
+                        "profileCount": 41,
+                        "range": {
+                            "10": 65121.02,
+                            "25": 71274.11,
+                            "50": 81401.29,
+                            "75": 97403.9,
+                            "90": 118257.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Electrical Engineer",
+                        "url": "/research/US/Job=Senior_Electrical_Engineer/Salary",
+                        "profileCount": 39,
+                        "range": {
+                            "10": 81094.25,
+                            "25": 91176.92,
+                            "50": 102338.28,
+                            "75": 119142.04,
+                            "90": 135473.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 39,
+                        "range": {
+                            "10": 84214.07,
+                            "25": 97805.5,
+                            "50": 115542.71,
+                            "75": 135011.34,
+                            "90": 154038.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Control Systems Engineer",
+                        "url": "/research/US/Job=Control_Systems_Engineer/Salary",
+                        "profileCount": 34,
+                        "range": {
+                            "10": 61061.55,
+                            "25": 68987.97,
+                            "50": 79668.09,
+                            "75": 96669.97,
+                            "90": 115940.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Data Scientist",
+                        "url": "/research/US/Job=Lead_Data_Scientist/Salary",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 96218.37,
+                            "25": 112656.68,
+                            "50": 130062.22,
+                            "75": 153715.16,
+                            "90": 173590.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Optical Engineer",
+                        "url": "/research/US/Job=Optical_Engineer/Salary",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 62461.2,
+                            "25": 73866.39,
+                            "50": 88604.94,
+                            "75": 113166.97,
+                            "90": 133706.51
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Algorithm Development, Matlab, Machine Learning",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-10-02T23:42:26.03201Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "30005.83",
+                            "percentile25": "75500",
+                            "median": "116000",
+                            "percentile75": "138992.81",
+                            "percentile90": "161160.84",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "71970.87",
+                            "percentile25": "90000",
+                            "median": "116000",
+                            "percentile75": "136522.94",
+                            "percentile90": "144168.19",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "10480.47",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 17,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Data Signal Processing (DSP)/Firmware Engineer",
+                    "url": "/research/US/Job=Data_Signal_Processing_(DSP)%2FFirmware_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

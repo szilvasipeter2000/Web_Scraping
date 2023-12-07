@@ -1,0 +1,878 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Development Operations (DevOps) Manager",
+                    "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary",
+                    "compensation": 113411.02109773696,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Development Operations (DevOps) Engineer",
+                            "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 94627.18934399256,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Development Operations (DevOps) Engineer",
+                                    "url": "/research/US/Job=Senior_Development_Operations_(DevOps)_Engineer/Salary",
+                                    "percent": 0.26,
+                                    "compensation": 117417.46507382889,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Site Reliability Engineer (SRE)",
+                                    "url": "/research/US/Job=Site_Reliability_Engineer_(SRE)/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 117294.61449104133,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Software Engineer",
+                                    "url": "/research/US/Job=Software_Engineer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 85679.1994543505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Development Operations (DevOps) Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-07-27T07:41:53.97586Z",
+                "narratives": {
+                    "description": "Development operations (DevOps) managers help design and implement staff-development strategies and should have prior experience in leading teams of staff, as they may supervise a range of employees within the organization. \r\nDevOps managers occasionally assist in the hiring process and evaluate prospective candidates, and they must develop training and materials for new and existing workers according to strategic and corporate guidelines. They also oversee current operations within the company to ensure compliance with goals and policies.\r\nThese managers are also responsible for generating and overseeing the company's budget and its allocation to the workforce, infrastructure development, investments in hardware, and improving training processes. Leadership skills are important in this position, as they must direct and motivate teams of staff to achieve goals and objectives, and they also prepare periodic reports on how their projects have contributed to company performance and operations.\r\nThese managers work primarily in offices to monitor data and develop strategies to improve company operations, and they occasionally meet with department leaders or spend time on the floor to better understand the workforce and current state of operations.",
+                    "summarySalary": "The average pay for a Development Operations (Devops) Manager is $132,371 per year."
+                },
+                "tasks": [
+                    "Direct planning of long and short term infrastructure improvement projects, including design, budgeting, and implementation.",
+                    "Lead DevOps team to achieve diverse objectives in replicable, scalable ways.",
+                    "Act as a resource for DevOps Engineers on policies, procedures and technical issues.",
+                    "Collaborate with team members to identify strengths and weaknesses of applications and improve upon them."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 2007.72,
+                        "25": 5806.54,
+                        "50": 10123.46,
+                        "75": 20246.38,
+                        "90": 29798.79,
+                        "profileCount": 30
+                    },
+                    "profitSharing": {
+                        "50": 2210.1,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 93125.3,
+                        "25": 111694.17,
+                        "50": 132370.94,
+                        "75": 150944.43,
+                        "90": 171766.15,
+                        "profileCount": 67
+                    },
+                    "total": {
+                        "10": 97293.59,
+                        "25": 115311.96,
+                        "50": 139670.15,
+                        "75": 155108.68,
+                        "90": 185161.65,
+                        "profileCount": 67
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-07-27T07:41:53.97586Z",
+                        "profileCount": 67,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 67,
+                                "range": {
+                                    "10": 97293.59,
+                                    "25": 115311.96,
+                                    "50": 139670.15,
+                                    "75": 155108.68,
+                                    "90": 185161.65
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-07-27T07:41:53.97586Z",
+                        "profileCount": 67,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 67,
+                                "range": {
+                                    "10": 93125.3,
+                                    "25": 111694.17,
+                                    "50": 132370.94,
+                                    "75": 150944.43,
+                                    "90": 171766.15
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-07-27T07:41:53.97586Z",
+                        "profileCount": 26,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-07-27T07:41:53.97586Z",
+                        "profileCount": 39,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 37,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 37,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 36,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/96ca9773/Early-Career",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 109944.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/ad4989e2/Mid-Career",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 119371.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/3bec6cf6/Experienced",
+                                "profileCount": 37,
+                                "range": {
+                                    "50": 138468.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/d1a2d0b3/Late-Career",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 140175.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Bellingham, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/dfbe0f05/Bellingham-WA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/26325df1/San-Francisco-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 151000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/72a6bc26/New-York-NY",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 179619.11
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Monica, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/3be1fa07/Santa-Monica-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 182031.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/afa3de78/Denver-CO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 137454.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/45d7dba4/Austin-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 108500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/3489ba47/Los-Angeles-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 123000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/3ed7976a/Chicago-IL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 149498.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/47ebbe73/Washington-DC",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 147500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Development Operations (DevOps)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/993d8bb1/Development-Operations-DevOps",
+                                "profileCount": 68,
+                                "range": {
+                                    "50": 135283.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon Web Services (AWS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/a52dfccf/Amazon-Web-Services-AWS",
+                                "profileCount": 46,
+                                "range": {
+                                    "50": 142647.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Agile Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/2111fe9a/Agile-Software-Development",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 123547.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Azure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/11c002c7/Microsoft-Azure",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 137454.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "People Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/d992dba9/People-Management",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 129834.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Change Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/c497323d/Change-Management",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 114500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kubernetes",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/caa53431/Kubernetes",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 129548.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database Management & Reporting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/95220431/Database-Management-%26-Reporting",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 106500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/a5389fcd/Linux",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 111910.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Operations Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/ae939409/Operations-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 88000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cloud Computing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/5ed6032f/Cloud-Computing",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 147500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary/ea6c8388/Project-Management",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 66300
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 10,
+                        "score": 3.22
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 5950,
+                        "range": {
+                            "10": 46812.94,
+                            "25": 56916.19,
+                            "50": 70976.46,
+                            "75": 88877.91,
+                            "90": 111013.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3431,
+                        "range": {
+                            "10": 52393.89,
+                            "25": 63710.22,
+                            "50": 78625.22,
+                            "75": 97365.29,
+                            "90": 118651.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 2268,
+                        "range": {
+                            "10": 56993.89,
+                            "25": 74249.71,
+                            "50": 98759.14,
+                            "75": 130704.48,
+                            "90": 159840.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1951,
+                        "range": {
+                            "10": 37226.45,
+                            "25": 43814.51,
+                            "50": 52371.67,
+                            "75": 63279.29,
+                            "90": 75214.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 1445,
+                        "range": {
+                            "10": 42772.86,
+                            "25": 53959.47,
+                            "50": 71256.53,
+                            "75": 95505.43,
+                            "90": 123650.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1407,
+                        "range": {
+                            "10": 56541.05,
+                            "25": 64230.11,
+                            "50": 73439.22,
+                            "75": 86174.11,
+                            "90": 102450.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 1349,
+                        "range": {
+                            "10": 38266.27,
+                            "25": 44823.66,
+                            "50": 53503.23,
+                            "75": 63483.34,
+                            "90": 74058.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 1348,
+                        "range": {
+                            "10": 46281.63,
+                            "25": 54048.46,
+                            "50": 62923.35,
+                            "75": 74231.8,
+                            "90": 88729.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1326,
+                        "range": {
+                            "10": 66756.49,
+                            "25": 77290.53,
+                            "50": 91818.07,
+                            "75": 112828.41,
+                            "90": 134375.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1140,
+                        "range": {
+                            "10": 59908.02,
+                            "25": 73541.35,
+                            "50": 91556.52,
+                            "75": 112167.06,
+                            "90": 133077.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1092,
+                        "range": {
+                            "10": 59591.57,
+                            "25": 67280.24,
+                            "50": 76857.34,
+                            "75": 89683.48,
+                            "90": 106301.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 1081,
+                        "range": {
+                            "10": 48315.17,
+                            "25": 62198.32,
+                            "50": 84872.69,
+                            "75": 124375.13,
+                            "90": 180716.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1059,
+                        "range": {
+                            "10": 58332.16,
+                            "25": 72151.91,
+                            "50": 91241.39,
+                            "75": 114959.04,
+                            "90": 137091.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 917,
+                        "range": {
+                            "10": 35857.18,
+                            "25": 42462.94,
+                            "50": 50154.1,
+                            "75": 57438.9,
+                            "90": 63798.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 909,
+                        "range": {
+                            "10": 81335.97,
+                            "25": 103699.44,
+                            "50": 137263.39,
+                            "75": 174509.55,
+                            "90": 207341.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 855,
+                        "range": {
+                            "10": 70301.91,
+                            "25": 84590.91,
+                            "50": 103343.93,
+                            "75": 127430.24,
+                            "90": 148056.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 774,
+                        "range": {
+                            "10": 36737.68,
+                            "25": 43385.48,
+                            "50": 52101.94,
+                            "75": 62646.02,
+                            "90": 73951.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 751,
+                        "range": {
+                            "10": 93079.35,
+                            "25": 106995.4,
+                            "50": 125138.73,
+                            "75": 145333.1,
+                            "90": 164906.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 748,
+                        "range": {
+                            "10": 48795.64,
+                            "25": 55839.4,
+                            "50": 64745.08,
+                            "75": 73776.37,
+                            "90": 82775.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 740,
+                        "range": {
+                            "10": 74030.88,
+                            "25": 95745.71,
+                            "50": 124692.43,
+                            "75": 154172.95,
+                            "90": 178899.69
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Development Operations (DevOps), Amazon Web Services (AWS), Agile Software Development, Microsoft Azure, People Management, Change Management, Kubernetes, Database Management & Reporting, Linux, Operations Management, Cloud Computing, Project Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-07-27T07:41:53.97586Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "97293.59",
+                            "percentile25": "115311.96",
+                            "median": "139670.15",
+                            "percentile75": "155108.68",
+                            "percentile90": "185161.65",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "93125.3",
+                            "percentile25": "111694.17",
+                            "median": "132370.94",
+                            "percentile75": "150944.43",
+                            "percentile90": "171766.15",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2007.72",
+                            "percentile25": "5806.54",
+                            "median": "10123.46",
+                            "percentile75": "20246.38",
+                            "percentile90": "29798.79",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 91,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Development operations (DevOps) managers help design and implement staff-development strategies and should have prior experience in leading teams of staff, as they may supervise a range of employees within the organization. \r\nDevOps managers occasionally assist in the hiring process and evaluate prospective candidates, and they must develop training and materials for new and existing workers according to strategic and corporate guidelines. They also oversee current operations within the company to ensure compliance with goals and policies.\r\nThese managers are also responsible for generating and overseeing the company's budget and its allocation to the workforce, infrastructure development, investments in hardware, and improving training processes. Leadership skills are important in this position, as they must direct and motivate teams of staff to achieve goals and objectives, and they also prepare periodic reports on how their projects have contributed to company performance and operations.\r\nThese managers work primarily in offices to monitor data and develop strategies to improve company operations, and they occasionally meet with department leaders or spend time on the floor to better understand the workforce and current state of operations.",
+                    "name": "Development Operations (DevOps) Manager",
+                    "url": "/research/US/Job=Development_Operations_(DevOps)_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

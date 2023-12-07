@@ -1,0 +1,882 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Nursing Informatics Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Nursing_Informatics_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-02-24T02:40:51.45152Z",
+                "narratives": {
+                    "description": "Nursing informatics analysts are responsible for analyzing information within nursing departments of organizations, as well as overseeing effective technology concepts and initiatives to improve patient care. They should work well in a team environment with other analysts, but also on their own with minimal supervision, and strong multitasking and communication skills are important to prioritize projects and deliver reports in a timely manner.\r\nThese analysts must provide informatics support for better-decision making within a healthcare environment and must know how to interpret nursing data and patients' requests and implement software/hardware devices. They typically report their progress to a manager within the department and must be proficient with organizing resources in a centralized database system to gather and display data in helpful ways. They are also responsible for providing maintenance for specialized nursing equipment and calibration and organizing workflows and analysis reports.\r\nNursing informatics analysts must research and automate patients' data in different areas, such as urgent care and surgeries, and they also assist in information technology (IT) training to stay up-to-date in script development and operating system compatibility. They must also follow strict security and privacy guidelines to respect patients' rights and confidentiality. A bachelor's degree in information technology, software development, health care administration, or a related field is generally required for this position, and relevant prior experience is highly beneficial. Industry certifications are also helpful.",
+                    "summaryHourly": "The average pay for a Nursing Informatics Analyst is $41.27 per hour.",
+                    "summarySalary": "The average pay for a Nursing Informatics Analyst is $83,632 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "10": 26.36,
+                        "25": 39.28,
+                        "50": 41.27,
+                        "75": 44.06,
+                        "90": 70.59,
+                        "profileCount": 11
+                    },
+                    "salary": {
+                        "10": 57391.3,
+                        "25": 72876.3,
+                        "50": 83632.04,
+                        "75": 107489.69,
+                        "90": 116172.69,
+                        "profileCount": 14
+                    },
+                    "total": {
+                        "10": 58174.8,
+                        "25": 77402.29,
+                        "50": 85527.11,
+                        "75": 99312.1,
+                        "90": 115620.39,
+                        "profileCount": 25
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-02-24T02:40:51.45152Z",
+                        "profileCount": 25,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": {
+                                    "10": 58174.8,
+                                    "25": 77402.29,
+                                    "50": 85527.11,
+                                    "75": 99312.1,
+                                    "90": 115620.39
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-02-24T02:40:51.45152Z",
+                        "profileCount": 11,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 26.36,
+                                    "25": 39.28,
+                                    "50": 41.27,
+                                    "75": 44.06,
+                                    "90": 70.59
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-02-24T02:40:51.45152Z",
+                        "profileCount": 14,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": {
+                                    "10": 57391.3,
+                                    "25": 72876.3,
+                                    "50": 83632.04,
+                                    "75": 107489.69,
+                                    "90": 116172.69
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-02-24T02:40:51.45152Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-02-24T02:40:51.45152Z",
+                        "profileCount": 13,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/f6097c12/Early-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 83632.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/d13d2ed3/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 86000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/2a29eeaa/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 72413.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/3883a01d/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 84000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Baltimore, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/97a17a46/Baltimore-MD",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 79116.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/233394d4/Philadelphia-PA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 82023.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/484ea913/Chicago-IL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 96649.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbia, South Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/2eceae99/Columbia-SC",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 78610.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kansas City, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/903646a0/Kansas-City-MO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 66000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/822171c1/New-York-NY",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/cdb4adb3/Tampa-FL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 82636.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/e3d32832/Atlanta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72360.25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/45f2efa3/Charlotte-NC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 74159.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/ad6575a2/Pittsburgh-PA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 71266.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/8f7c1a1a/San-Diego-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 130690.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/0a6e30b2/Washington-DC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 103446.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/913aa227/Houston-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 87500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milwaukee, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/084e740e/Milwaukee-WI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72413.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/bc48d51f/Dallas-TX",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jacksonville, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/3cb64d17/Jacksonville-FL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 78946.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indianapolis, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/09d2b765/Indianapolis-IN",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 66000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Louisville, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/d3e1b7bd/Louisville-KY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boise, Idaho",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/d0d75700/Boise-ID",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Hourly_Rate/d0d75700/Boston-MA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 103500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rochester, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/6ba535ad/Rochester-MN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 90558.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New Orleans, Louisiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/505c36df/New-Orleans-LA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 85500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Petersburg, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Hourly_Rate/6cba9c8e/St.-Petersburg-FL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Electronic Health Records (EHR)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/9148272b/Electronic-Health-Records-EHR",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nursing Informatics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/8ab1d534/Nursing-Informatics",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Clinical Information Systems",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/b4c45f06/Clinical-Information-Systems",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 84468
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/88980e1f/Data-Analysis",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary/a765a0d1/Microsoft-Office",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2629,
+                        "range": {
+                            "10": 30391.76,
+                            "25": 35657.14,
+                            "50": 41930.36,
+                            "75": 50513.99,
+                            "90": 59601.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1746,
+                        "range": {
+                            "10": 46683.91,
+                            "25": 54845.17,
+                            "50": 65013.93,
+                            "75": 76761.9,
+                            "90": 89336.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1298,
+                        "range": {
+                            "10": 36234.99,
+                            "25": 42706.22,
+                            "50": 51372.83,
+                            "75": 61718.18,
+                            "90": 72863.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1105,
+                        "range": {
+                            "10": 41839.92,
+                            "25": 50184.72,
+                            "50": 60982.19,
+                            "75": 73266.15,
+                            "90": 86027.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1022,
+                        "range": {
+                            "10": 49923.44,
+                            "25": 56620.29,
+                            "50": 64674.97,
+                            "75": 74388.85,
+                            "90": 85458.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1017,
+                        "range": {
+                            "10": 51535.37,
+                            "25": 62880.87,
+                            "50": 77743.02,
+                            "75": 96294.86,
+                            "90": 117641.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 984,
+                        "range": {
+                            "10": 58778.82,
+                            "25": 66272.26,
+                            "50": 75655.2,
+                            "75": 88121.93,
+                            "90": 104034.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 691,
+                        "range": {
+                            "10": 55800.98,
+                            "25": 63441.22,
+                            "50": 72514.67,
+                            "75": 85110.47,
+                            "90": 101223.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 554,
+                        "range": {
+                            "10": 66419.67,
+                            "25": 76072.36,
+                            "50": 88392.98,
+                            "75": 102428.85,
+                            "90": 119356.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 549,
+                        "range": {
+                            "10": 49183.28,
+                            "25": 56239.8,
+                            "50": 65385.29,
+                            "75": 75867.65,
+                            "90": 86777.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 538,
+                        "range": {
+                            "10": 67569.63,
+                            "25": 75783.19,
+                            "50": 85135.85,
+                            "75": 95582.12,
+                            "90": 106842.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 525,
+                        "range": {
+                            "10": 62420.13,
+                            "25": 70791.19,
+                            "50": 80764.71,
+                            "75": 96275.79,
+                            "90": 118967.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 500,
+                        "range": {
+                            "10": 52690.82,
+                            "25": 61460.42,
+                            "50": 72279.63,
+                            "75": 85494.28,
+                            "90": 101631.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 486,
+                        "range": {
+                            "10": 42996.21,
+                            "25": 47946.79,
+                            "50": 54105.28,
+                            "75": 63402.39,
+                            "90": 73278.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 478,
+                        "range": {
+                            "10": 56022.69,
+                            "25": 62443.27,
+                            "50": 71317.55,
+                            "75": 85413.93,
+                            "90": 103714.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 455,
+                        "range": {
+                            "10": 45895.05,
+                            "25": 55812.91,
+                            "50": 69829.22,
+                            "75": 87545.67,
+                            "90": 109165.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 452,
+                        "range": {
+                            "10": 42490.51,
+                            "25": 48473.18,
+                            "50": 54563.92,
+                            "75": 61243.14,
+                            "90": 67976.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 416,
+                        "range": {
+                            "10": 70225.17,
+                            "25": 82308.41,
+                            "50": 98623.85,
+                            "75": 118964.79,
+                            "90": 136598.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 411,
+                        "range": {
+                            "10": 39652.64,
+                            "25": 45229.73,
+                            "50": 53166.62,
+                            "75": 62699.08,
+                            "90": 73116.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 409,
+                        "range": {
+                            "10": 60310.12,
+                            "25": 68041.34,
+                            "50": 77629.34,
+                            "75": 90389.61,
+                            "90": 107196.68
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Nursing_Informatics_Analyst/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Electronic Health Records (EHR), Nursing Informatics, Clinical Information Systems, Data Analysis, Microsoft Office",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-02-24T02:40:51.45152Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58174.8",
+                            "percentile25": "77402.29",
+                            "median": "85527.11",
+                            "percentile75": "99312.1",
+                            "percentile90": "115620.39",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "57391.3",
+                            "percentile25": "72876.3",
+                            "median": "83632.04",
+                            "percentile75": "107489.69",
+                            "percentile90": "116172.69",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 30,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Nursing informatics analysts are responsible for analyzing information within nursing departments of organizations, as well as overseeing effective technology concepts and initiatives to improve patient care. They should work well in a team environment with other analysts, but also on their own with minimal supervision, and strong multitasking and communication skills are important to prioritize projects and deliver reports in a timely manner.\r\nThese analysts must provide informatics support for better-decision making within a healthcare environment and must know how to interpret nursing data and patients' requests and implement software/hardware devices. They typically report their progress to a manager within the department and must be proficient with organizing resources in a centralized database system to gather and display data in helpful ways. They are also responsible for providing maintenance for specialized nursing equipment and calibration and organizing workflows and analysis reports.\r\nNursing informatics analysts must research and automate patients' data in different areas, such as urgent care and surgeries, and they also assist in information technology (IT) training to stay up-to-date in script development and operating system compatibility. They must also follow strict security and privacy guidelines to respect patients' rights and confidentiality. A bachelor's degree in information technology, software development, health care administration, or a related field is generally required for this position, and relevant prior experience is highly beneficial. Industry certifications are also helpful.",
+                    "name": "Nursing Informatics Analyst",
+                    "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,2545 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 23,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Senior Data Scientist",
+                    "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                    "compensation": 125808.62412577825,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 3,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Data Science Director",
+                            "url": "/research/US/Job=Data_Science_Director/Salary",
+                            "percent": 0.38,
+                            "compensation": 157273.07935416905,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 1,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Head of Data Science",
+                                    "url": "/research/US/Job=Head_of_Data_Science/Salary",
+                                    "percent": 1,
+                                    "compensation": 175081.4597602895,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Data Scientist",
+                            "url": "/research/US/Job=Data_Scientist/Salary",
+                            "percent": 0.16,
+                            "compensation": 96008.8794099464,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Data Scientist",
+                                    "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                                    "percent": 0.28,
+                                    "compensation": 125808.62412577825,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Data Science Manager",
+                                    "url": "/research/US/Job=Data_Science_Manager/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 135400.95640861144,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Data Science Director",
+                                    "url": "/research/US/Job=Data_Science_Director/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 157273.07935416905,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": {
+                            "jobTitle": "Lead Data Scientist",
+                            "url": "/research/US/Job=Lead_Data_Scientist/Salary",
+                            "percent": 0.09,
+                            "compensation": 129798.27730935118,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 2,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Data Science Director",
+                                    "url": "/research/US/Job=Data_Science_Director/Salary",
+                                    "percent": 0.57,
+                                    "compensation": 157273.07935416905,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Chief Data Scientist",
+                                    "url": "/research/US/Job=Chief_Data_Scientist/Salary",
+                                    "percent": 0.43,
+                                    "compensation": 175275.96974708448,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Data Scientist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Data_Scientist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-20T05:48:59.22092Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Senior Data Scientist is $67.28 per hour.",
+                    "summarySalary": "The average pay for a Senior Data Scientist is $131,571 per year."
+                },
+                "tasks": [
+                    "Search for patterns in data that can provide solutions to business problems or create new business opportunities.",
+                    "Use advanced mathematical and computer science skills to analyze vast pools of data under the limited guidance of the lead/principal data scientist.",
+                    "Communicate clearly and effectively with both clients and multi-disciplinary teams."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 4890.88,
+                        "25": 7999.6,
+                        "50": 11751.93,
+                        "75": 16342.48,
+                        "90": 21912.98,
+                        "profileCount": 1116
+                    },
+                    "hourlyRate": {
+                        "10": 45,
+                        "25": 54.46,
+                        "50": 67.28,
+                        "75": 81.07,
+                        "90": 90,
+                        "profileCount": 19
+                    },
+                    "profitSharing": {
+                        "10": 2193.69,
+                        "25": 4958.72,
+                        "50": 8914.08,
+                        "75": 14721.54,
+                        "90": 25073.07,
+                        "profileCount": 150
+                    },
+                    "salary": {
+                        "10": 100401.51,
+                        "25": 115615.61,
+                        "50": 131571.19,
+                        "75": 149144.57,
+                        "90": 165498.16,
+                        "profileCount": 1995
+                    },
+                    "total": {
+                        "10": 104898.53,
+                        "25": 121192.29,
+                        "50": 139703.67,
+                        "75": 159311.36,
+                        "90": 176913.81,
+                        "profileCount": 2014
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-20T05:48:59.22092Z",
+                        "profileCount": 2014,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2014,
+                                "range": {
+                                    "10": 104898.53,
+                                    "25": 121192.29,
+                                    "50": 139703.67,
+                                    "75": 159311.36,
+                                    "90": 176913.81
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-11-20T05:48:59.22092Z",
+                        "profileCount": 19,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": {
+                                    "10": 45,
+                                    "25": 54.46,
+                                    "50": 67.28,
+                                    "75": 81.07,
+                                    "90": 90
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-20T05:48:59.22092Z",
+                        "profileCount": 1995,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1995,
+                                "range": {
+                                    "10": 100401.51,
+                                    "25": 115615.61,
+                                    "50": 131571.19,
+                                    "75": 149144.57,
+                                    "90": 165498.16
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-20T05:48:59.22092Z",
+                        "profileCount": 686,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 495,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 179,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-20T05:48:59.22092Z",
+                        "profileCount": 1107,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1029,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 961,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 899,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 75,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Booz, Allen, and Hamilton",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b4d52e40/Booz-Allen-and-Hamilton",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 121740.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pacific Gas and Electric Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/2fab2b37/Pacific-Gas-and-Electric-Corporation",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 143150
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Caterpillar, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/14b3778b/Caterpillar-Inc.",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 122448.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Equifax Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/2a53fa6b/Equifax-Inc",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 117543.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Aetna, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/764dedd3/Aetna-Inc.",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 130613.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Humana, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/0d6c2f8e/Humana-Inc.",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 120031.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "UnitedHealth Group",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/03c4ff91/UnitedHealth-Group",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 120355.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "The Hartford Financial Services Group, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/a991a8aa/The-Hartford-Financial-Services-Group-Inc.",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Deloitte",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/2eafe2db/Deloitte",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 120133.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Target Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/d2450b60/Target-Corporation",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 103918.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Usaa Insurance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/3dcaeb85/Usaa-Insurance",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 130179.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Verisk Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/d8bb6559/Verisk-Analytics",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 94241.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon.com Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5f2d61c4/Amazon.com-Inc",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 155620.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IBM Global Services",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/066004d0/IBM-Global-Services",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 112400
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/a69e165b/Oracle",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 114705.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle Corp.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/0efabe17/Oracle-Corp.",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 95440.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Southwest Airlines Co",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/30203e4b/Southwest-Airlines-Co",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 144520.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fractal Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/d56edbc7/Fractal-Analytics",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bayer Cropscience",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/d0bda3de/Bayer-Cropscience",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 135000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cisco Systems Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/7a27bf72/Cisco-Systems-Inc",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 160183.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "General Electric (GE) Healthcare",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/f203581c/General-Electric-GE-Healthcare",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 130624.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "General Electric Co (GE)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/ec90a139/General-Electric-Co-GE",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 109500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "GrubHub",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e4fc1ff4/GrubHub",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 140000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Walmart.com",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5fc01dbf/Walmart.com",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 128836.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Corp",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/bc051258/Microsoft-Corp",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 165425.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "The MITRE Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e13cdc12/The-MITRE-Corporation",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Zillow, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/ab8ef74b/Zillow-Inc.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 116723.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Guidehouse",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e9039cba/Guidehouse",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "eBay Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/cb80a335/eBay-Inc.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 158993.71
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dell, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/0b08819c/Dell-Inc.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 105308.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Merck & Co., Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b3f3a9bc/Merck-%26-Co.-Inc.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 133916.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "International Business Machines (IBM) Corp.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/4beb30d6/International-Business-Machines-IBM-Corp.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 161944.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Intuit Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/26485d3b/Intuit-Inc.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 139756.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Starbucks Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/cc1b9f11/Starbucks-Corporation",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 138158.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Science Applications International Corporation (SAIC)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/46af9e85/Science-Applications-International-Corporation-SAIC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 87145.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Securian Financial Group",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/63522a8c/Securian-Financial-Group",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 124250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Shipt",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/6c698ccf/Shipt",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 129500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "J.P. Morgan Chase & Co. (JPMCC)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/6fe906a0/J.P.-Morgan-Chase-%26-Co.-JPMCC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 127742.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "General Dynamics Corp.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b125ddc9/General-Dynamics-Corp.",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Facebook Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/426c3e50/Facebook-Inc",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 151695.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cox Enterprises",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/df529cbd/Cox-Enterprises",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 131607.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Capital One Financial Corp",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b5b5484f/Capital-One-Financial-Corp",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 129060.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "3M Company",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/7d200f16/3M-Company",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 122320.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Ascension Health",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/006ca5fe/Ascension-Health",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 123929.47
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5b4cf69c/Entry-Level",
+                                "profileCount": 67,
+                                "range": {
+                                    "50": 109030.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5b4cf69c/Early-Career",
+                                "profileCount": 991,
+                                "range": {
+                                    "50": 126949.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/47eacf34/Mid-Career",
+                                "profileCount": 1270,
+                                "range": {
+                                    "50": 136762.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/d87969d8/Experienced",
+                                "profileCount": 429,
+                                "range": {
+                                    "50": 142677.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/c8a36a27/Late-Career",
+                                "profileCount": 62,
+                                "range": {
+                                    "50": 143013.3
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5345be42/San-Francisco-CA",
+                                "profileCount": 204,
+                                "range": {
+                                    "50": 152086.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b506e600/New-York-NY",
+                                "profileCount": 195,
+                                "range": {
+                                    "50": 141228.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/cebc81d8/Chicago-IL",
+                                "profileCount": 160,
+                                "range": {
+                                    "50": 121692.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/abfb185e/Boston-MA",
+                                "profileCount": 137,
+                                "range": {
+                                    "50": 137950.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/3f331f66/Washington-DC",
+                                "profileCount": 129,
+                                "range": {
+                                    "50": 127405.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/c6e821a1/Seattle-WA",
+                                "profileCount": 101,
+                                "range": {
+                                    "50": 140499.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/4fdf4c78/Austin-TX",
+                                "profileCount": 83,
+                                "range": {
+                                    "50": 128594.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/31d9b877/Philadelphia-PA",
+                                "profileCount": 79,
+                                "range": {
+                                    "50": 135240.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/ec852219/Dallas-TX",
+                                "profileCount": 77,
+                                "range": {
+                                    "50": 121343.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/893d226e/Minneapolis-MN",
+                                "profileCount": 61,
+                                "range": {
+                                    "50": 114680.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/509ff5f7/Houston-TX",
+                                "profileCount": 58,
+                                "range": {
+                                    "50": 125900.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/29bc8f8e/Los-Angeles-CA",
+                                "profileCount": 52,
+                                "range": {
+                                    "50": 142122.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/622ea0cf/Denver-CO",
+                                "profileCount": 50,
+                                "range": {
+                                    "50": 119581.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/967dcfbd/Atlanta-GA",
+                                "profileCount": 49,
+                                "range": {
+                                    "50": 123308.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/956ec6b4/San-Diego-CA",
+                                "profileCount": 43,
+                                "range": {
+                                    "50": 143148.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/d3c54c67/St.-Louis-MO",
+                                "profileCount": 40,
+                                "range": {
+                                    "50": 114878.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cambridge, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b659c336/Cambridge-MA",
+                                "profileCount": 39,
+                                "range": {
+                                    "50": 131314.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Arlington, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e6131d31/Arlington-VA",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 129210.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/76cdd41d/Charlotte-NC",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 130179.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oakland, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5a19168a/Oakland-CA",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 154508.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hartford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/d762fa82/Hartford-CT",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 125603.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/8f7c9e98/Pittsburgh-PA",
+                                "profileCount": 28,
+                                "range": {
+                                    "50": 121997.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/dcf030eb/Raleigh-NC",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 124854.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/8b82d0bb/San-Jose-CA",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 156713.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/60ea7c9e/Portland-OR",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 129468.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Palo Alto, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b845243c/Palo-Alto-CA",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 162494.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plano, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/23466066/Plano-TX",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 115594.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/2ef51d7f/Salt-Lake-City-UT",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 129095.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/a57628b8/Phoenix-AZ",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 122053.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/53a45daa/Miami-FL",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 134115.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b3c46aae/Tampa-FL",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 133326.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sunnyvale, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/f4d12ca2/Sunnyvale-CA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 161159.58
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Redwood City, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/1fb888e4/Redwood-City-CA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 153333.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cincinnati, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/65aa7c0c/Cincinnati-OH",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 106787.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Falls Church, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/0d40359d/Falls-Church-VA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 134912.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/3e99b3d7/Nashville-TN",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 115266.1
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Memphis, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/84f2452e/Memphis-TN",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 119979.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boulder, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/8636e6de/Boulder-CO",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 99188.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Orlando, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/bc02fd69/Orlando-FL",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 128328.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Louisville, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b8bd40b7/Louisville-KY",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 108194.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baltimore, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/ee0037fc/Baltimore-MD",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 114854.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/2d12c438/Columbus-OH",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 124800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kansas City, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/41f8959d/Kansas-City-MO",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 139816.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jersey City, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/38b3be95/Jersey-City-NJ",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 132285.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Broomfield, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/207ecf28/Broomfield-CO",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 117446.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Antonio, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/dd26711a/San-Antonio-TX",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 124775.11
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bellevue, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/da199289/Bellevue-WA",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 138870.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fairfax, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/98785b1a/Fairfax-VA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 146442.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "McKinney, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/a9f6a8ba/McKinney-TX",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 86473.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Huntsville, Alabama",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/084e0153/Huntsville-AL",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 128403.12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indianapolis, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/4432f8a0/Indianapolis-IN",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 100203.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fremont, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/cfe38a52/Fremont-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 140992.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/2353a938/Irvine-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 122066.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sacramento, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/1c933cfd/Sacramento-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 120289.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mountain View, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/79c10142/Mountain-View-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 141968.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Mateo, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/a71bda8a/San-Mateo-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 156952.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Ramon, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b5d1c3aa/San-Ramon-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 144649.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richmond, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e6d2629a/Richmond-VA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 96970.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Herndon, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/a6c5a17e/Herndon-VA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 137394.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "McLean, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/2af4b6f9/McLean-VA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 127450.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Ashburn, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/0ab9344b/Ashburn-VA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 147807.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tucson, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/4c1ff4fb/Tucson-AZ",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 120078.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Paul, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/a5449207/St.-Paul-MN",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 117000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Las Vegas, Nevada",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b6f5aa48/Las-Vegas-NV",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 127499
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Greensboro, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/9a15940e/Greensboro-NC",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 125143.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dayton, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/65be247e/Dayton-OH",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 113003.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cleveland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5068305a/Cleveland-OH",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Ann Arbor, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/554c3ebc/Ann-Arbor-MI",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 124429.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lexington, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/1b1c3fb8/Lexington-MA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 99200.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Clara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/7ef06b15/Santa-Clara-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 160409.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tempe, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/7969b144/Tempe-AZ",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 109926.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Draper, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/206a8fe7/Draper-UT",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 144498.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chattanooga, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/da8c61f7/Chattanooga-TN",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Reston, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/4fdaf54e/Reston-VA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 134652.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milwaukee, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/31b70523/Milwaukee-WI",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 108000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tysons Corner, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/acff44f1/Tysons-Corner-VA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 135276.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Berkeley, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/40ff7daf/Berkeley-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 122448.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Barbara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e943878c/Santa-Barbara-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 122083.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Waltham, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/dd47d655/Waltham-MA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 129939.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Detroit, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/00709c82/Detroit-MI",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 122500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bloomington, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/fb071152/Bloomington-MN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rockville, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e7414cd4/Rockville-MD",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 133701.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Silver Spring, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/cdcf41b0/Silver-Spring-MD",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 118500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh-Durham, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/ea4e66f1/Raleigh-Durham-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 157221.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Newark, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/1d9fd3a2/Newark-NJ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 102500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Durham, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/1ed6a350/Durham-NC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 129000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rochester, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/f42edad3/Rochester-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 116446.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cary, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/32d985cd/Cary-NC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 122789.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Framingham, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/04549ef8/Framingham-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 126290.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Quincy, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/c384dbf4/Quincy-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 125329.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jacksonville, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/8fdbd44f/Jacksonville-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 132452.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Alpharetta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/68b24c2d/Alpharetta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 130482.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bolingbrook, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/80760f25/Bolingbrook-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 144827.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bentonville, Arkansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/dc9c4bae/Bentonville-AR",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 124140.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milpitas, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5b2a5428/Milpitas-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 142500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Redmond, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/35825898/Redmond-WA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 155305.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Knoxville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/9d12495a/Knoxville-TN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 132786.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Spanish Fork, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/edb66f4c/Spanish-Fork-UT",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 102439.02
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Machine Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/382be5cd/Machine-Learning",
+                                "profileCount": 1912,
+                                "range": {
+                                    "50": 132804.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/7af5bb1a/Python",
+                                "profileCount": 1829,
+                                "range": {
+                                    "50": 132166.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Statistical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/5540a97a/Statistical-Analysis",
+                                "profileCount": 978,
+                                "range": {
+                                    "50": 129462.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/60b5e3d0/SQL",
+                                "profileCount": 598,
+                                "range": {
+                                    "50": 128759.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Big Data Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/f6c25429/Big-Data-Analytics",
+                                "profileCount": 488,
+                                "range": {
+                                    "50": 129075.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "R",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e46bf506/R",
+                                "profileCount": 404,
+                                "range": {
+                                    "50": 122465.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/811f6904/Data-Analysis",
+                                "profileCount": 317,
+                                "range": {
+                                    "50": 130010.2
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Deep Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b44516a7/Deep-Learning",
+                                "profileCount": 216,
+                                "range": {
+                                    "50": 135714.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Natural Language Processing (NLP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/f09450e7/Natural-Language-Processing-NLP",
+                                "profileCount": 136,
+                                "range": {
+                                    "50": 136187.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Artificial Intelligence (AI)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e9ea0b3d/Artificial-Intelligence-AI",
+                                "profileCount": 103,
+                                "range": {
+                                    "50": 138973.92
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Algorithm Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/f1b86c79/Algorithm-Development",
+                                "profileCount": 98,
+                                "range": {
+                                    "50": 129867.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/68d39191/Data-Modeling",
+                                "profileCount": 63,
+                                "range": {
+                                    "50": 128388.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Computer Vision",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/472adc22/Computer-Vision",
+                                "profileCount": 62,
+                                "range": {
+                                    "50": 134076.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Hadoop",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/394a6ac7/Apache-Hadoop",
+                                "profileCount": 52,
+                                "range": {
+                                    "50": 124180.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Spark",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/009657d7/Apache-Spark",
+                                "profileCount": 51,
+                                "range": {
+                                    "50": 125932.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Visualization",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/feb871ad/Data-Visualization",
+                                "profileCount": 46,
+                                "range": {
+                                    "50": 125481.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/085f7422/Software-Development",
+                                "profileCount": 40,
+                                "range": {
+                                    "50": 132565.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon Web Services (AWS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/4858398d/Amazon-Web-Services-AWS",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 127044.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Client Interaction",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/fb07497f/Client-Interaction",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 134332.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tableau Software",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/67dd8283/Tableau-Software",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scala",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/ea0de65d/Scala",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 123397.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Econometrics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/68d92dbe/Econometrics",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 130075
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Mining",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/004ff9cc/Data-Mining",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 135459.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C++ Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/ab1d9a6a/C%2B%2B-Programming-Language",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 115616.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cyber Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/41485c7e/Cyber-Security",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 138500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/36ddc788/Project-Management",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 136026.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/8c81699b/SAS",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 132655.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS (Statistical Analysis System)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/4bf639fe/SAS-Statistical-Analysis-System",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 105250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "People Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/1efe0f98/People-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bioinformatics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/0207dd21/Bioinformatics",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 121067.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Geographic Information Systems (GIS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/e4aaed7d/Geographic-Information-Systems-GIS",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/40ac7594/Leadership",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 135000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/22ae0ef9/Java",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 145000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Research Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/c9a4469b/Research-Analysis",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Digital Signal Processing (DSP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Scientist/Salary/b5cdaf51/Digital-Signal-Processing-DSP",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 147811.66
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 197,
+                        "score": 3.99
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 6519,
+                        "range": {
+                            "10": 67327.69,
+                            "25": 77943.69,
+                            "50": 92564.86,
+                            "75": 113541.99,
+                            "90": 135083.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 5164,
+                        "range": {
+                            "10": 52834.75,
+                            "25": 64203.47,
+                            "50": 79111.28,
+                            "75": 97799.75,
+                            "90": 119029.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 4842,
+                        "range": {
+                            "10": 47346.26,
+                            "25": 57593.34,
+                            "50": 71635.22,
+                            "75": 89783.56,
+                            "90": 111875.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 4226,
+                        "range": {
+                            "10": 48271.19,
+                            "25": 56220.78,
+                            "50": 66496.58,
+                            "75": 78423.45,
+                            "90": 91064.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 3579,
+                        "range": {
+                            "10": 70896.6,
+                            "25": 83008.42,
+                            "50": 99693.77,
+                            "75": 120000.95,
+                            "90": 138379.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 3094,
+                        "range": {
+                            "10": 94153.82,
+                            "25": 108099.27,
+                            "50": 126162.85,
+                            "75": 146318.78,
+                            "90": 166038.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 2547,
+                        "range": {
+                            "10": 55284.18,
+                            "25": 64954.96,
+                            "50": 77682.84,
+                            "75": 93645.51,
+                            "90": 113542.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 2175,
+                        "range": {
+                            "10": 37740.74,
+                            "25": 44350.92,
+                            "50": 53114.83,
+                            "75": 64106.86,
+                            "90": 75974.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 1569,
+                        "range": {
+                            "10": 49046.24,
+                            "25": 63507.04,
+                            "50": 86659.84,
+                            "75": 127660.83,
+                            "90": 185657.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1474,
+                        "range": {
+                            "10": 57071.73,
+                            "25": 64834.07,
+                            "50": 74176.17,
+                            "75": 87034.52,
+                            "90": 103530.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 1456,
+                        "range": {
+                            "10": 49258.2,
+                            "25": 56433.11,
+                            "50": 65460.39,
+                            "75": 74542.88,
+                            "90": 83515.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1434,
+                        "range": {
+                            "10": 57612.1,
+                            "25": 75074.37,
+                            "50": 100082.49,
+                            "75": 132355.03,
+                            "90": 161802.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1383,
+                        "range": {
+                            "10": 85248.69,
+                            "25": 98935.26,
+                            "50": 117220.38,
+                            "75": 135365.32,
+                            "90": 155773.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 1366,
+                        "range": {
+                            "10": 66163.21,
+                            "25": 76484.33,
+                            "50": 88951.28,
+                            "75": 103008.28,
+                            "90": 118654.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 1341,
+                        "range": {
+                            "10": 42229.45,
+                            "25": 50162.46,
+                            "50": 61014.26,
+                            "75": 74658.07,
+                            "90": 90013.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1304,
+                        "range": {
+                            "10": 50780.14,
+                            "25": 58057.52,
+                            "50": 66221.98,
+                            "75": 76208.98,
+                            "90": 87684.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 1279,
+                        "range": {
+                            "10": 67684.25,
+                            "25": 80136.24,
+                            "50": 96082.16,
+                            "75": 117162.7,
+                            "90": 135516.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1253,
+                        "range": {
+                            "10": 60034.46,
+                            "25": 68027.85,
+                            "50": 77832.6,
+                            "75": 90961.09,
+                            "90": 108357.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 1238,
+                        "range": {
+                            "10": 56495.09,
+                            "25": 70337.18,
+                            "50": 87532.2,
+                            "75": 107541.99,
+                            "90": 127081.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 1132,
+                        "range": {
+                            "10": 46553.8,
+                            "25": 54457.95,
+                            "50": 63536.13,
+                            "75": 74731.67,
+                            "90": 88899.21
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Data_Scientist/Salary",
+                    "occupationalCategory": "15-1010.00 - Computer and Information Scientists, Research",
+                    "skills": "Machine Learning, Python, Statistical Analysis, SQL, Big Data Analytics, R, Data Analysis, Deep Learning, Natural Language Processing (NLP), Artificial Intelligence (AI), Algorithm Development, Data Modeling, Computer Vision, Apache Hadoop, Apache Spark, Data Visualization, Software Development, Amazon Web Services (AWS), Client Interaction, Tableau Software, Scala, Econometrics, Data Mining, C++ Programming Language, Cyber Security, Project Management, SAS, SAS (Statistical Analysis System), People Management, Bioinformatics, Geographic Information Systems (GIS), Leadership, Java, Research Analysis, Digital Signal Processing (DSP)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-20T05:48:59.22092Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "104898.53",
+                            "percentile25": "121192.29",
+                            "median": "139703.67",
+                            "percentile75": "159311.36",
+                            "percentile90": "176913.81",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "100401.51",
+                            "percentile25": "115615.61",
+                            "median": "131571.19",
+                            "percentile75": "149144.57",
+                            "percentile90": "165498.16",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "4890.88",
+                            "percentile25": "7999.6",
+                            "median": "11751.93",
+                            "percentile75": "16342.48",
+                            "percentile90": "21912.98",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 2815,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Data Scientist",
+                    "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

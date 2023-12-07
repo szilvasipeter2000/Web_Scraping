@@ -1,0 +1,591 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Geographic Information Systems (GIS) Administrator"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Administrator/Salary",
+                    "defaultUrl": "/research/US/Job=Geographic_Information_Systems_(GIS)_Administrator/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-09-26T08:04:15.0845Z",
+                "narratives": {
+                    "description": "Geographic information systems (GIS) administrators oversee a staff working with GIS software to generate and maintain data and/or maps. These professionals must lead a team in researching, analyzing, and integrating data to determine how to effectively display data using GIS. They perform managerial functions such as overseeing budgets, conducting project planning, providing guidance and discipline to their team as needed, negotiating contracts, and recruiting staff. GIS administrators may be required to travel to consult with clients and users to determine their requirements.\r\nGIS administrators may work for corporations, nonprofit organizations or government institutions, among others. They must stay up to date with new technology within their industry, and they may be required to participate in continuing education. \r\nA bachelor's degree in computer information systems (CIS), geographic information systems (GIS), computer science, engineering or another relevant field - and/or GIS certification - are generally required for this position. In addition, employers often require candidates to have previous experience as GIS administrators. GIS administrators must have excellent interpersonal and communication skills, as well as thorough knowledge of GIS software products and other software required to perform the functions of their jobs. These administrators also must have critical thinking and information-gathering skills.\r\n\r\n",
+                    "summaryHourly": "The average pay for a Geographic Information Systems (GIS) Administrator is $22.61 per hour.",
+                    "summarySalary": "The average pay for a Geographic Information Systems (GIS) Administrator is $68,166 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 22.61,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 50683.71,
+                        "25": 61502.18,
+                        "50": 68166.28,
+                        "75": 74709.4,
+                        "90": 89952.91,
+                        "profileCount": 11
+                    },
+                    "total": {
+                        "10": 45280,
+                        "25": 52009.75,
+                        "50": 65442.64,
+                        "75": 72530.13,
+                        "90": 86100,
+                        "profileCount": 14
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-09-26T08:04:15.0845Z",
+                        "profileCount": 14,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": {
+                                    "10": 45280,
+                                    "25": 52009.75,
+                                    "50": 65442.64,
+                                    "75": 72530.13,
+                                    "90": 86100
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-09-26T08:04:15.0845Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 22.61
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-09-26T08:04:15.0845Z",
+                        "profileCount": 11,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 50683.71,
+                                    "25": 61502.18,
+                                    "50": 68166.28,
+                                    "75": 74709.4,
+                                    "90": 89952.91
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-09-26T08:04:15.0845Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-09-26T08:04:15.0845Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Administrator/Salary/f3d58545/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 56000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Administrator/Salary/738790dd/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 66715.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Administrator/Salary/0bf05293/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 59412.77
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Geographic Information Systems (GIS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Administrator/Salary/7ba94d2f/Geographic-Information-Systems-GIS",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 70206.41
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 134,
+                        "range": {
+                            "10": 50416.82,
+                            "25": 57433.02,
+                            "50": 65941.78,
+                            "75": 79931.62,
+                            "90": 98181.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Analyst",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Analyst/Salary",
+                        "profileCount": 123,
+                        "range": {
+                            "10": 40874.63,
+                            "25": 46913.92,
+                            "50": 54172.32,
+                            "75": 63901.31,
+                            "90": 75130.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Scientist",
+                        "url": "/research/US/Job=Environmental_Scientist/Salary",
+                        "profileCount": 120,
+                        "range": {
+                            "10": 38968.45,
+                            "25": 44206.21,
+                            "50": 51547.31,
+                            "75": 62415.14,
+                            "90": 76451.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Specialist",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Specialist/Salary",
+                        "profileCount": 77,
+                        "range": {
+                            "10": 39689.29,
+                            "25": 44485.63,
+                            "50": 51474.91,
+                            "75": 61272.38,
+                            "90": 72653.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Technician",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate",
+                        "profileCount": 67,
+                        "range": {
+                            "10": 33301.43,
+                            "25": 38754.89,
+                            "50": 44350.83,
+                            "75": 50935.01,
+                            "90": 60658.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Water Resources Engineer",
+                        "url": "/research/US/Job=Water_Resources_Engineer/Salary",
+                        "profileCount": 65,
+                        "range": {
+                            "10": 54470.89,
+                            "25": 59574.47,
+                            "50": 66322.88,
+                            "75": 77126.96,
+                            "90": 94122.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Urban Planner",
+                        "url": "/research/US/Job=Urban_Planner/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 41391.3,
+                            "25": 47659.13,
+                            "50": 56008.67,
+                            "75": 67954.01,
+                            "90": 86259.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geospatial Analyst",
+                        "url": "/research/US/Job=Geospatial_Analyst/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 40436.11,
+                            "25": 48823.22,
+                            "50": 58838.01,
+                            "75": 75962.78,
+                            "90": 91510.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Transportation Planner",
+                        "url": "/research/US/Job=Transportation_Planner/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 42376.17,
+                            "25": 49380.44,
+                            "50": 57778.61,
+                            "75": 68416.67,
+                            "90": 80057.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geologist",
+                        "url": "/research/US/Job=Geologist/Salary",
+                        "profileCount": 48,
+                        "range": {
+                            "10": 40661.6,
+                            "25": 48881.63,
+                            "50": 58642.74,
+                            "75": 77865.01,
+                            "90": 112312.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Engineer",
+                        "url": "/research/US/Job=Environmental_Engineer/Salary",
+                        "profileCount": 38,
+                        "range": {
+                            "10": 49981.23,
+                            "25": 56601.11,
+                            "50": 64884.24,
+                            "75": 78136.67,
+                            "90": 97083.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Intelligence Analyst",
+                        "url": "/research/US/Job=Intelligence_Analyst/Salary",
+                        "profileCount": 37,
+                        "range": {
+                            "10": 43771.49,
+                            "25": 55301.28,
+                            "50": 69327.89,
+                            "75": 86385.93,
+                            "90": 103153.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer in Training",
+                        "url": "/research/US/Job=Civil_Engineer_in_Training/Salary",
+                        "profileCount": 24,
+                        "range": {
+                            "10": 46536.53,
+                            "25": 51736.28,
+                            "50": 57163.07,
+                            "75": 62100.17,
+                            "90": 67418.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Planner",
+                        "url": "/research/US/Job=Environmental_Planner/Salary",
+                        "profileCount": 22,
+                        "range": {
+                            "10": 44559.15,
+                            "25": 52530.39,
+                            "50": 59801.32,
+                            "75": 71016.87,
+                            "90": 87479.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Analyst",
+                        "url": "/research/US/Job=Research_Analyst/Salary",
+                        "profileCount": 22,
+                        "range": {
+                            "10": 40685.22,
+                            "25": 47259.77,
+                            "50": 55192.79,
+                            "75": 65680.4,
+                            "90": 79198.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Hydrogeologist",
+                        "url": "/research/US/Job=Hydrogeologist/Salary",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 47097.35,
+                            "25": 52102.98,
+                            "50": 61074.46,
+                            "75": 73374.17,
+                            "90": 93136.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Transportation Engineer",
+                        "url": "/research/US/Job=Transportation_Engineer/Salary",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 53682.79,
+                            "25": 59000.3,
+                            "50": 66300.81,
+                            "75": 77814.11,
+                            "90": 91375.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Consultant",
+                        "url": "/research/US/Job=Environmental_Consultant/Salary",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 39153.74,
+                            "25": 45844.54,
+                            "50": 55512.21,
+                            "75": 68783.64,
+                            "90": 86103.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Urban and Regional Planner",
+                        "url": "/research/US/Job=Urban_and_Regional_Planner/Salary",
+                        "profileCount": 14,
+                        "range": {
+                            "10": 40379.02,
+                            "25": 47805.23,
+                            "50": 56462.93,
+                            "75": 67336.88,
+                            "90": 84261.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Specialist",
+                        "url": "/research/US/Job=Environmental_Specialist/Salary",
+                        "profileCount": 14,
+                        "range": {
+                            "10": 37796.8,
+                            "25": 44037.68,
+                            "50": 54504.46,
+                            "75": 72197.29,
+                            "90": 90609.31
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Geographic_Information_Systems_(GIS)_Administrator/Salary",
+                    "occupationalCategory": "15-1060.00 - Database Administrators",
+                    "skills": "Geographic Information Systems (GIS)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-09-26T08:04:15.0845Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "45280",
+                            "percentile25": "52009.75",
+                            "median": "65442.64",
+                            "percentile75": "72530.13",
+                            "percentile90": "86100",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "50683.71",
+                            "percentile25": "61502.18",
+                            "median": "68166.28",
+                            "percentile75": "74709.4",
+                            "percentile90": "89952.91",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 15,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Geographic information systems (GIS) administrators oversee a staff working with GIS software to generate and maintain data and/or maps. These professionals must lead a team in researching, analyzing, and integrating data to determine how to effectively display data using GIS. They perform managerial functions such as overseeing budgets, conducting project planning, providing guidance and discipline to their team as needed, negotiating contracts, and recruiting staff. GIS administrators may be required to travel to consult with clients and users to determine their requirements.\r\nGIS administrators may work for corporations, nonprofit organizations or government institutions, among others. They must stay up to date with new technology within their industry, and they may be required to participate in continuing education. \r\nA bachelor's degree in computer information systems (CIS), geographic information systems (GIS), computer science, engineering or another relevant field - and/or GIS certification - are generally required for this position. In addition, employers often require candidates to have previous experience as GIS administrators. GIS administrators must have excellent interpersonal and communication skills, as well as thorough knowledge of GIS software products and other software required to perform the functions of their jobs. These administrators also must have critical thinking and information-gathering skills.\r\n\r\n",
+                    "name": "Geographic Information Systems (GIS) Administrator",
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Administrator/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

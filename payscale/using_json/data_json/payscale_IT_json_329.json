@@ -1,0 +1,676 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Internal Support Manager, IT",
+                    "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary",
+                    "compensation": 80440.9113577797,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Information Systems (IS) Manager",
+                            "url": "/research/US/Job=Information_Systems_(IS)_Manager/Salary",
+                            "percent": 1,
+                            "compensation": 83261.02255839629,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Director",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 119787.52007147866,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Director of Information Systems",
+                                    "url": "/research/US/Job=Director_of_Information_Systems/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 102303.77700085126,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Internal Support Manager, IT"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary",
+                    "defaultUrl": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-26T12:59:48.71276Z",
+                "narratives": {
+                    "description": "Information technology (IT) internal support managers are responsible for identifying potential or current issues for customers related to help and support, as well as developing and implementing solutions to these issues. These managers lead a team of IT professionals to efficiently solve issues and maintain exceptional quality in customer support. They must possess excellent written and verbal communication skills to effectively deliver information to senior management and relay information from senior management to their team. \r\nInternal support managers must track performance data over time, using this information to resolve issues faced by support staff and improve the customer experience. These managers must understand their organization's business model and how that relates to customer experience. They need to be able to effectively implement changes to (and provide support for) software, as well as lead a team to do the same. \r\nApplicants for these positions generally must have at least a bachelor's degree in computer science or a related field, as well as at least three years of experience managing a team of IT professionals. Applicants must be self-motivated and able to identify and resolve IT-related issues promptly with minimal supervision. IT internal support managers must demonstrate proficiency with general office software, as well as proprietary software used by their organization. Experience with information management software and/or database design is typically strongly preferred. IT internal support managers must be able to adapt to changing workplace regulations, environments, and schedules as required. ",
+                    "summarySalary": "The average pay for an Internal Support Manager, IT is $52,925 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "50": 52924.53,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "50": 52924.53,
+                        "profileCount": 4
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-26T12:59:48.71276Z",
+                        "profileCount": 4,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 52924.53
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-26T12:59:48.71276Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 52924.53
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-26T12:59:48.71276Z",
+                        "profileCount": 2,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-26T12:59:48.71276Z",
+                        "profileCount": 2,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/4ea249af/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 63801.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/7666c64e/Mid-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 74529.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/9a78a3cd/Experienced",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 86428.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/df802b91/Late-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 86484.93
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/3d1a5adc/Information-Technology-IT-Support",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 83388.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/5f509db2/Project-Management",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Systems Asset Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/e84cbdd8/Systems-Asset-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 66500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 2)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/7038a0d0/Help-Desk-Desktop-Support-Tier-2",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 66426.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Support Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/7546be88/Support-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 72000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/20162a83/Network-Management-Administration",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "People Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/c93c213b/People-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 92500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary/7f74ff62/IT-Management",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 96500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3278,
+                        "range": {
+                            "10": 52759.71,
+                            "25": 64102.09,
+                            "50": 79011.22,
+                            "75": 97691.07,
+                            "90": 118944.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 2913,
+                        "range": {
+                            "10": 47220.72,
+                            "25": 57489.95,
+                            "50": 71524.33,
+                            "75": 89669.6,
+                            "90": 111874.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 2437,
+                        "range": {
+                            "10": 58614.87,
+                            "25": 72523.58,
+                            "50": 91706.06,
+                            "75": 115566.99,
+                            "90": 137812.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 1600,
+                        "range": {
+                            "10": 74485.64,
+                            "25": 96168,
+                            "50": 125178.05,
+                            "75": 154780.84,
+                            "90": 179570.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1406,
+                        "range": {
+                            "10": 56956.61,
+                            "25": 64698.25,
+                            "50": 74072.12,
+                            "75": 86910.96,
+                            "90": 103330.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1107,
+                        "range": {
+                            "10": 57453.9,
+                            "25": 74821.35,
+                            "50": 99666.52,
+                            "75": 131813.44,
+                            "90": 160953.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1097,
+                        "range": {
+                            "10": 59857.57,
+                            "25": 67777.88,
+                            "50": 77530.87,
+                            "75": 90577.11,
+                            "90": 107737.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1092,
+                        "range": {
+                            "10": 37369.64,
+                            "25": 43985.23,
+                            "50": 52561.18,
+                            "75": 63498.55,
+                            "90": 75384.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 908,
+                        "range": {
+                            "10": 60279.42,
+                            "25": 73976.25,
+                            "50": 92175.61,
+                            "75": 113501.03,
+                            "90": 135007.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 865,
+                        "range": {
+                            "10": 40933.96,
+                            "25": 49561.04,
+                            "50": 60865.08,
+                            "75": 77420.19,
+                            "90": 99515.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 816,
+                        "range": {
+                            "10": 39315.7,
+                            "25": 45227.7,
+                            "50": 54222.54,
+                            "75": 64977.37,
+                            "90": 78614.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 707,
+                        "range": {
+                            "10": 52635.47,
+                            "25": 64042.54,
+                            "50": 80386.98,
+                            "75": 100353.44,
+                            "90": 124490.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 698,
+                        "range": {
+                            "10": 43164.4,
+                            "25": 54276.71,
+                            "50": 71439.32,
+                            "75": 95665.15,
+                            "90": 123727.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 684,
+                        "range": {
+                            "10": 49153.6,
+                            "25": 56283.06,
+                            "50": 65284.8,
+                            "75": 74405.58,
+                            "90": 83410.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 665,
+                        "range": {
+                            "10": 48554.44,
+                            "25": 56548.12,
+                            "50": 66975.96,
+                            "75": 79696.72,
+                            "90": 94185.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 649,
+                        "range": {
+                            "10": 46545.22,
+                            "25": 54390.1,
+                            "50": 63406.34,
+                            "75": 74622.6,
+                            "90": 88699.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 647,
+                        "range": {
+                            "10": 36115.55,
+                            "25": 42146.03,
+                            "50": 50592.85,
+                            "75": 61389.13,
+                            "90": 73927.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 637,
+                        "range": {
+                            "10": 38602.45,
+                            "25": 45319.55,
+                            "50": 53995.9,
+                            "75": 63990.1,
+                            "90": 74481.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 632,
+                        "range": {
+                            "10": 88170.31,
+                            "25": 102505.67,
+                            "50": 119703.04,
+                            "75": 137062.43,
+                            "90": 154994.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 567,
+                        "range": {
+                            "10": 36056.14,
+                            "25": 42823.45,
+                            "50": 50416.91,
+                            "75": 57778.56,
+                            "90": 64197.79
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Information Technology (IT) Support, Project Management, Systems Asset Management, Help Desk / Desktop Support (Tier 2), Support Management, Network Management / Administration, People Management, IT Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-26T12:59:48.71276Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "52924.53",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "52924.53",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Information technology (IT) internal support managers are responsible for identifying potential or current issues for customers related to help and support, as well as developing and implementing solutions to these issues. These managers lead a team of IT professionals to efficiently solve issues and maintain exceptional quality in customer support. They must possess excellent written and verbal communication skills to effectively deliver information to senior management and relay information from senior management to their team. \r\nInternal support managers must track performance data over time, using this information to resolve issues faced by support staff and improve the customer experience. These managers must understand their organization's business model and how that relates to customer experience. They need to be able to effectively implement changes to (and provide support for) software, as well as lead a team to do the same. \r\nApplicants for these positions generally must have at least a bachelor's degree in computer science or a related field, as well as at least three years of experience managing a team of IT professionals. Applicants must be self-motivated and able to identify and resolve IT-related issues promptly with minimal supervision. IT internal support managers must demonstrate proficiency with general office software, as well as proprietary software used by their organization. Experience with information management software and/or database design is typically strongly preferred. IT internal support managers must be able to adapt to changing workplace regulations, environments, and schedules as required. ",
+                    "name": "Internal Support Manager, IT",
+                    "url": "/research/US/Job=Internal_Support_Manager%2C_IT/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

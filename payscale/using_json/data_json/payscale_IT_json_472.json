@@ -1,0 +1,697 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Quality Assurance Director, Computer Software"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary",
+                    "defaultUrl": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-10-28T06:44:06.09867Z",
+                "narratives": {
+                    "description": "A quality assurance director for computer software evaluates software to discover any areas that need improvement or bugs that may be present. They may work on a team and might use the general public for beta testing as well. These professionals must use a methodical approach to testing software and use innovative ideas to improve the quality assurance process. The quality assurance director might also work to develop criteria as to acceptable software standards. Analysis of the test results is needed as well to ensure that the product performance is sufficient. \r\nThe quality assurance director may help other departments launch products and might also help the software development department to come up with new ideas. This director also creates reports to be presented internally to highlight progress, test results, and ideas for improvement. This position may involve managing other employees, so some leadership experience is often helpful. Depending on company size, the quality assurance director may help other teams develop their own testing processes as well.\r\nAt least a bachelor's degree in a related field such as computer science is generally needed for this position, as is experience in a similar position. Programming skills are often required as well. Quality assurance directors for computer software often must possess knowledge of test automation tools, and they should have excellent communication and time-management skills. ",
+                    "summarySalary": "The average pay for a Quality Assurance Director, Computer Software is $130,232 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 7500,
+                        "50": 14500,
+                        "75": 30000,
+                        "profileCount": 7
+                    },
+                    "salary": {
+                        "25": 122655.32,
+                        "50": 130231.69,
+                        "75": 155000,
+                        "profileCount": 7
+                    },
+                    "total": {
+                        "25": 129650,
+                        "50": 154214.81,
+                        "75": 177000,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-10-28T06:44:06.09867Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 129650,
+                                    "50": 154214.81,
+                                    "75": 177000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-10-28T06:44:06.09867Z",
+                        "profileCount": 7,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 122655.32,
+                                    "50": 130231.69,
+                                    "75": 155000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-10-28T06:44:06.09867Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-10-28T06:44:06.09867Z",
+                        "profileCount": 5,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/e2dfd74c/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 69208.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/7e17d6a3/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 124214.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/7022090e/Late-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 135690.13
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Lincoln, Nebraska",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/daa814ba/Lincoln-NE",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 64631.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/c07668c7/San-Francisco-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 164359.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Reston, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/3fcf4dd1/Reston-VA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Test Planning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/440f5a85/Test-Planning",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Test Automation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/42310cf3/Test-Automation",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Acceptance Testing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/3758c76f/Acceptance-Testing",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/1712fd75/SQL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 103000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/ecb8e7f2/Leadership",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 129618.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/835761b3/Java",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 147395.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/027f1464/Project-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 122000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Quality Assurance (QA)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/236f23ee/Quality-Assurance-QA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 135000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Test",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/cee65c72/Software-Test",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "e-Commerce",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/d6df310a/e-Commerce",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 133000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Planning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary/d568cf24/Strategic-Planning",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 64000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 3101,
+                        "range": {
+                            "10": 64675.54,
+                            "25": 74890.77,
+                            "50": 89179.21,
+                            "75": 110137.25,
+                            "90": 130721.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3082,
+                        "range": {
+                            "10": 50652.14,
+                            "25": 61685.41,
+                            "50": 76463.29,
+                            "75": 94615.56,
+                            "90": 116021.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 2732,
+                        "range": {
+                            "10": 44822.9,
+                            "25": 54548.56,
+                            "50": 68500.24,
+                            "75": 86071.42,
+                            "90": 107375.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 1870,
+                        "range": {
+                            "10": 46584.35,
+                            "25": 60201.75,
+                            "50": 81516.76,
+                            "75": 120395.15,
+                            "90": 174497.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1664,
+                        "range": {
+                            "10": 52542.05,
+                            "25": 62094.02,
+                            "50": 74236.41,
+                            "75": 89706.51,
+                            "90": 108478.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1541,
+                        "range": {
+                            "10": 90355.72,
+                            "25": 103347.87,
+                            "50": 121923.3,
+                            "75": 141996.5,
+                            "90": 161578.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1365,
+                        "range": {
+                            "10": 55021.38,
+                            "25": 62445.04,
+                            "50": 71526.22,
+                            "75": 83656.12,
+                            "90": 99834.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 1141,
+                        "range": {
+                            "10": 57659.66,
+                            "25": 72333.54,
+                            "50": 90420.68,
+                            "75": 116492.57,
+                            "90": 139524.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1104,
+                        "range": {
+                            "10": 54510.13,
+                            "25": 71729.21,
+                            "50": 95735.47,
+                            "75": 126169.32,
+                            "90": 154182.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1045,
+                        "range": {
+                            "10": 57582.75,
+                            "25": 64793.37,
+                            "50": 73775.98,
+                            "75": 86063.68,
+                            "90": 101612.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1028,
+                        "range": {
+                            "10": 35648.39,
+                            "25": 41993.55,
+                            "50": 50697.53,
+                            "75": 61199.37,
+                            "90": 72696.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 933,
+                        "range": {
+                            "10": 58844.38,
+                            "25": 72102.1,
+                            "50": 89354.88,
+                            "75": 110001.11,
+                            "90": 129721.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 889,
+                        "range": {
+                            "10": 74580.47,
+                            "25": 103662.2,
+                            "50": 156359.22,
+                            "75": 234788.08,
+                            "90": 307061.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 838,
+                        "range": {
+                            "10": 45749.21,
+                            "25": 53718.44,
+                            "50": 63576.79,
+                            "75": 75171.05,
+                            "90": 88035.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Test / Quality Assurance (QA) Engineer (Computer Software)",
+                        "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer_(Computer_Software)/Salary",
+                        "profileCount": 833,
+                        "range": {
+                            "10": 49596.69,
+                            "25": 58895.87,
+                            "50": 72568.99,
+                            "75": 87612.62,
+                            "90": 102499.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 827,
+                        "range": {
+                            "10": 80638.95,
+                            "25": 94068.85,
+                            "50": 111158.28,
+                            "75": 129450.36,
+                            "90": 148619.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 776,
+                        "range": {
+                            "10": 46765.19,
+                            "25": 53535.22,
+                            "50": 61939.86,
+                            "75": 70753.38,
+                            "90": 79648.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 762,
+                        "range": {
+                            "10": 86246.68,
+                            "25": 100545.13,
+                            "50": 116881.18,
+                            "75": 133929.91,
+                            "90": 151936.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 741,
+                        "range": {
+                            "10": 56530.99,
+                            "25": 70282.1,
+                            "50": 89347.71,
+                            "75": 112799.69,
+                            "90": 134551.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 728,
+                        "range": {
+                            "10": 78489.34,
+                            "25": 100618.95,
+                            "50": 133420.79,
+                            "75": 170406.08,
+                            "90": 203072.85
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Test Planning, Test Automation, Acceptance Testing, SQL, Leadership, Java, Project Management, Quality Assurance (QA), Software Test, e-Commerce, Strategic Planning",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-10-28T06:44:06.09867Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "129650",
+                            "median": "154214.81",
+                            "percentile75": "177000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "122655.32",
+                            "median": "130231.69",
+                            "percentile75": "155000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "7500",
+                            "median": "14500",
+                            "percentile75": "30000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 9,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A quality assurance director for computer software evaluates software to discover any areas that need improvement or bugs that may be present. They may work on a team and might use the general public for beta testing as well. These professionals must use a methodical approach to testing software and use innovative ideas to improve the quality assurance process. The quality assurance director might also work to develop criteria as to acceptable software standards. Analysis of the test results is needed as well to ensure that the product performance is sufficient. \r\nThe quality assurance director may help other departments launch products and might also help the software development department to come up with new ideas. This director also creates reports to be presented internally to highlight progress, test results, and ideas for improvement. This position may involve managing other employees, so some leadership experience is often helpful. Depending on company size, the quality assurance director may help other teams develop their own testing processes as well.\r\nAt least a bachelor's degree in a related field such as computer science is generally needed for this position, as is experience in a similar position. Programming skills are often required as well. Quality assurance directors for computer software often must possess knowledge of test automation tools, and they should have excellent communication and time-management skills. ",
+                    "name": "Quality Assurance Director, Computer Software",
+                    "url": "/research/US/Job=Quality_Assurance_Director%2C_Computer_Software/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

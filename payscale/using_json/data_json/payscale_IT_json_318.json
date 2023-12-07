@@ -1,0 +1,763 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 6,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Information Technology Officer",
+                    "url": "/research/US/Job=Information_Technology_Officer/Salary",
+                    "compensation": 68314.04310321025,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "System Administrator, Windows Server",
+                            "url": "/research/US/Job=System_Administrator%2C_Windows_Server/Salary",
+                            "percent": 1,
+                            "compensation": 66723.30547242213,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Systems Administrator",
+                                    "url": "/research/US/Job=Systems_Administrator/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 62410.40987121457,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Systems Administrator",
+                                    "url": "/research/US/Job=Senior_Systems_Administrator/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 85387.33398850684,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Information Technology Officer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Information_Technology_Officer/Salary",
+                    "defaultUrl": "/research/US/Job=Information_Technology_Officer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-07-14T10:55:53.91418Z",
+                "narratives": {
+                    "description": "Information technology officers are in charge of developing and implementing technology solutions in their organization. They are responsible for reviewing and approving new information technology (IT) alternatives to increase company productivity. One of the information technology officer's main responsibilities is evaluating data needs and security strategies. They also complete detailed reports about security requirements, suggest possible changes, participate in end user training sessions, and create coaching opportunities for junior staff. Information technology officers also prepare documentation for future reference among the IT team. \r\nInformation technology officers conduct reviews of continuity of operations to ensure proper functioning in the IT department. They also manage inventory tasks, delegating activities as needed. Information technology officers work closely with other teams in their organization to minimize production delays or service interruptions. They implement new hardware or software initiatives while retaining legacy support, as well as conduct risk and benefit analysis after migration or deployment has been completed. When dealing with sensitive data, these professionals must follow strict security and confidentiality policies. They generally work full time and report their progress to company executives. \r\nA bachelor's degree in information technology or a related field is required for this position. Previous related experience - including in a managerial role - is needed, and industry certifications may be required or preferred. Information technology officers must have strong interpersonal skills to interact with upper management on new technology procedures and guidelines. They should work well independently and as part of a team, and they must be organized individuals that pay close attention to detail as well. ",
+                    "summaryHourly": "The average pay for an Information Technology Officer is $35.86 per hour.",
+                    "summarySalary": "The average pay for an Information Technology Officer is $73,469 per year."
+                },
+                "tasks": [
+                    "Develop plans for IT projects, determining factors such as project scope, specifications, costs, work plans, and materials.",
+                    "Manage the implementation of projects relating to a company's software, hardware, networks, or other IT systems.",
+                    "Monitor the security of IT systems and keep security programs up to date.",
+                    "Oversee technical staff working on projects, assigning tasks and ensuring work is on schedule and within budget."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 1216.41,
+                        "25": 2000,
+                        "50": 3000,
+                        "75": 5900,
+                        "90": 13081.94,
+                        "profileCount": 11
+                    },
+                    "hourlyRate": {
+                        "50": 35.86,
+                        "profileCount": 3
+                    },
+                    "profitSharing": {
+                        "50": 4750,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 43431.35,
+                        "25": 53141.64,
+                        "50": 73469.39,
+                        "75": 93399.77,
+                        "90": 147124.19,
+                        "profileCount": 20
+                    },
+                    "total": {
+                        "10": 43826.08,
+                        "25": 53699.79,
+                        "50": 73883.99,
+                        "75": 97151.74,
+                        "90": 144503.4,
+                        "profileCount": 23
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-07-14T10:55:53.91418Z",
+                        "profileCount": 23,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": {
+                                    "10": 43826.08,
+                                    "25": 53699.79,
+                                    "50": 73883.99,
+                                    "75": 97151.74,
+                                    "90": 144503.4
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-07-14T10:55:53.91418Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 35.86
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-07-14T10:55:53.91418Z",
+                        "profileCount": 20,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 43431.35,
+                                    "25": 53141.64,
+                                    "50": 73469.39,
+                                    "75": 93399.77,
+                                    "90": 147124.19
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-07-14T10:55:53.91418Z",
+                        "profileCount": 10,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-07-14T10:55:53.91418Z",
+                        "profileCount": 16,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/bc574008/Early-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 52271.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/7f6c87d4/Mid-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 59742.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/15c521d2/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 64000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/c1eedab6/Late-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 85957.13
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/6c7d7f0b/Washington-DC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 59530.4
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "IT Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/3e09a31c/IT-Management",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 66940
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/ba4f6c41/Information-Technology-IT-Support",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 53720.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/816785a8/Network-Management-Administration",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 2)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/eb4e8b55/Help-Desk-Desktop-Support-Tier-2",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 52500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "System Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/163332b6/System-Administration",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 58931.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/4f9bba7b/Project-Management",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 104522
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Technology_Officer/Salary/9aee2f42/IT-Security-%26-Infrastructure",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 57391.3
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 4.25
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3176,
+                        "range": {
+                            "10": 52370.06,
+                            "25": 63690.29,
+                            "50": 78590.74,
+                            "75": 97344.71,
+                            "90": 118672.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 2497,
+                        "range": {
+                            "10": 58227.17,
+                            "25": 71972.84,
+                            "50": 91036.36,
+                            "75": 114657.26,
+                            "90": 136755.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 1683,
+                        "range": {
+                            "10": 73957.24,
+                            "25": 95555.96,
+                            "50": 124572.88,
+                            "75": 154009.32,
+                            "90": 178696.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 1651,
+                        "range": {
+                            "10": 48184.31,
+                            "25": 55893.47,
+                            "50": 66105.27,
+                            "75": 78598.87,
+                            "90": 92750.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1395,
+                        "range": {
+                            "10": 56522.45,
+                            "25": 64209.39,
+                            "50": 73409.94,
+                            "75": 86135.43,
+                            "90": 102375.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 1161,
+                        "range": {
+                            "10": 40655.28,
+                            "25": 49272.27,
+                            "50": 60593.03,
+                            "75": 77588.26,
+                            "90": 99780
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1077,
+                        "range": {
+                            "10": 59544.94,
+                            "25": 67244.89,
+                            "50": 76827.22,
+                            "75": 89644.94,
+                            "90": 106236.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1035,
+                        "range": {
+                            "10": 46786,
+                            "25": 56892.4,
+                            "50": 70948.71,
+                            "75": 88848.12,
+                            "90": 110970.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 931,
+                        "range": {
+                            "10": 39185.6,
+                            "25": 45075.42,
+                            "50": 53988,
+                            "75": 64535.23,
+                            "90": 77982.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 901,
+                        "range": {
+                            "10": 59873.81,
+                            "25": 73502.02,
+                            "50": 91478.46,
+                            "75": 112135.72,
+                            "90": 132979.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 680,
+                        "range": {
+                            "10": 51642.97,
+                            "25": 62864.3,
+                            "50": 79323.47,
+                            "75": 98956.54,
+                            "90": 123114.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 652,
+                        "range": {
+                            "10": 88322.1,
+                            "25": 102281.47,
+                            "50": 119247.15,
+                            "75": 136661.67,
+                            "90": 154506.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 644,
+                        "range": {
+                            "10": 35766.39,
+                            "25": 41514.82,
+                            "50": 50133.32,
+                            "75": 60702.39,
+                            "90": 72978.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Officer (CIO)",
+                        "url": "/research/US/Job=Chief_Information_Officer_(CIO)/Salary",
+                        "profileCount": 542,
+                        "range": {
+                            "10": 101820.7,
+                            "25": 131900.97,
+                            "50": 173517.23,
+                            "75": 218912.33,
+                            "90": 261638.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 529,
+                        "range": {
+                            "10": 56945.32,
+                            "25": 63463.94,
+                            "50": 72430.16,
+                            "75": 86878.13,
+                            "90": 105277.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 515,
+                        "range": {
+                            "10": 63477.28,
+                            "25": 71826.73,
+                            "50": 82051.52,
+                            "75": 97689.58,
+                            "90": 120610.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 492,
+                        "range": {
+                            "10": 69376,
+                            "25": 82464.68,
+                            "50": 99734.6,
+                            "75": 120748.25,
+                            "90": 142187.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 450,
+                        "range": {
+                            "10": 45308,
+                            "25": 53769.51,
+                            "50": 64187.46,
+                            "75": 76090.3,
+                            "90": 88561.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 436,
+                        "range": {
+                            "10": 56859.6,
+                            "25": 74120.3,
+                            "50": 98576.65,
+                            "75": 130377.94,
+                            "90": 159293.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Construction Project Manager",
+                        "url": "/research/US/Job=Construction_Project_Manager/Salary",
+                        "profileCount": 427,
+                        "range": {
+                            "10": 56536.97,
+                            "25": 68414.43,
+                            "50": 83785.18,
+                            "75": 102225.05,
+                            "90": 123298.04
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Information_Technology_Officer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "IT Management, Information Technology (IT) Support, Network Management / Administration, Help Desk / Desktop Support (Tier 2), System Administration, Project Management, IT Security & Infrastructure",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-07-14T10:55:53.91418Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "43826.08",
+                            "percentile25": "53699.79",
+                            "median": "73883.99",
+                            "percentile75": "97151.74",
+                            "percentile90": "144503.4",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "43431.35",
+                            "percentile25": "53141.64",
+                            "median": "73469.39",
+                            "percentile75": "93399.77",
+                            "percentile90": "147124.19",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1216.41",
+                            "percentile25": "2000",
+                            "median": "3000",
+                            "percentile75": "5900",
+                            "percentile90": "13081.94",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 30,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Information technology officers are in charge of developing and implementing technology solutions in their organization. They are responsible for reviewing and approving new information technology (IT) alternatives to increase company productivity. One of the information technology officer's main responsibilities is evaluating data needs and security strategies. They also complete detailed reports about security requirements, suggest possible changes, participate in end user training sessions, and create coaching opportunities for junior staff. Information technology officers also prepare documentation for future reference among the IT team. \r\nInformation technology officers conduct reviews of continuity of operations to ensure proper functioning in the IT department. They also manage inventory tasks, delegating activities as needed. Information technology officers work closely with other teams in their organization to minimize production delays or service interruptions. They implement new hardware or software initiatives while retaining legacy support, as well as conduct risk and benefit analysis after migration or deployment has been completed. When dealing with sensitive data, these professionals must follow strict security and confidentiality policies. They generally work full time and report their progress to company executives. \r\nA bachelor's degree in information technology or a related field is required for this position. Previous related experience - including in a managerial role - is needed, and industry certifications may be required or preferred. Information technology officers must have strong interpersonal skills to interact with upper management on new technology procedures and guidelines. They should work well independently and as part of a team, and they must be organized individuals that pay close attention to detail as well. ",
+                    "name": "Information Technology Officer",
+                    "url": "/research/US/Job=Information_Technology_Officer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

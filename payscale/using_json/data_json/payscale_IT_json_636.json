@@ -1,0 +1,648 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Visual Basic .NET Developer",
+                    "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary",
+                    "compensation": 59000,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": ".NET Software Developer / Programmer",
+                            "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                            "percent": 0.5,
+                            "compensation": 69630.0026732588,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior .NET Developer / Programmer",
+                                    "url": "/research/US/Job=Senior_.NET_Developer_%2F_Programmer/Salary",
+                                    "percent": 0.18,
+                                    "compensation": 96941.53206534633,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Sr. Software Engineer / Developer / Programmer",
+                                    "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 104281.41056938967,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Software Developer",
+                                    "url": "/research/US/Job=Software_Developer/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 71436.21516954101,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Network Engineer",
+                            "url": "/research/US/Job=Network_Engineer/Salary",
+                            "percent": 0.5,
+                            "compensation": 73975.75710191249,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Sr. Network Engineer",
+                                    "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                                    "percent": 0.29,
+                                    "compensation": 100706.30073844077,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Network Administrator",
+                                    "url": "/research/US/Job=Network_Administrator/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 59530.86951295828,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Visual Basic .NET Developer"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary",
+                    "defaultUrl": "/research/US/Job=Visual_Basic_.NET_Developer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2021-11-10T04:50:23.79483Z",
+                "narratives": {
+                    "description": "A visual basic .NET developer position can be quite a taxing position, but with such difficulty can come a high level of job satisfaction. A visual basic .NET developer can have many concurrent responsibilities and can often work overtime. This is usually a merit-based position. How quickly and efficiently one works will be readily apparent and will dictate how many hours are required. Visual basic .NET developers can expect to work in different fields of technological studies. One moment a visual basic .NET developer might be working on a web application, and the next moment they may be asked their opinion on a mobile application. Versatility is a key trait in a visual basic .NET developer.  A visual basic .NET developer is responsible for knowing how to create large-scale applications and implementing them in a timely manner.  \r\nThis is a mainly mental activity that will almost always be performed indoors.  A visual basic .NET developer may have to interact with clients, depending on the company, but the developer will at least interact with supervisors who will always have ever-changing project requirements.  \r\nA typical visual basic .NET developer will be required to have a bachelor's degree in computer science or related field or have experience equivalent to such a degree. A typical work week would most likely see a developer working well over 40 hours a week including weekends.  A visual basic .NET developer is also required to keep up with all relevant developments in their realm of expertise.",
+                    "summaryHourly": "The average pay for a Visual Basic .NET Developer is $52.50 per hour."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 52.5,
+                        "profileCount": 2
+                    },
+                    "total": {
+                        "50": 109200,
+                        "profileCount": 2
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2021-11-10T04:50:23.79483Z",
+                        "profileCount": 2,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 109200
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2021-11-10T04:50:23.79483Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 52.5
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2021-11-10T04:50:23.79483Z",
+                        "profileCount": 2,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary/3f2a9473/Early-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 31.25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary/fa562ac6/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary/d9ec2886/Experienced",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": ".NET",
+                                "displayName": null,
+                                "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary/3f2e203a/.NET",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 20.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "VB.Net",
+                                "displayName": null,
+                                "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary/7f1d3d47/VB.Net",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ASP.NET Framework",
+                                "displayName": null,
+                                "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary/fc38e261/ASP.NET-Framework",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1298,
+                        "range": {
+                            "10": 19.89,
+                            "25": 26.96,
+                            "50": 36.1,
+                            "75": 48.69,
+                            "90": 63.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1110,
+                        "range": {
+                            "10": 15.94,
+                            "25": 21.17,
+                            "50": 29.67,
+                            "75": 40.09,
+                            "90": 55.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 747,
+                        "range": {
+                            "10": 40.18,
+                            "25": 50.69,
+                            "50": 62.88,
+                            "75": 77.41,
+                            "90": 94.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 536,
+                        "range": {
+                            "10": 31.31,
+                            "25": 45.54,
+                            "50": 58.57,
+                            "75": 74.17,
+                            "90": 88.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 415,
+                        "range": {
+                            "10": 17.11,
+                            "25": 24.1,
+                            "50": 33.27,
+                            "75": 48.61,
+                            "90": 61.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 210,
+                        "range": {
+                            "10": 18.92,
+                            "25": 23.11,
+                            "50": 31.63,
+                            "75": 45.48,
+                            "90": 58.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 192,
+                        "range": {
+                            "10": 19.03,
+                            "25": 23.87,
+                            "50": 29.49,
+                            "75": 38.48,
+                            "90": 49.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior .NET Developer / Programmer",
+                        "url": "/research/US/Job=Senior_.NET_Developer_%2F_Programmer/Salary",
+                        "profileCount": 179,
+                        "range": {
+                            "10": 39.63,
+                            "25": 49.87,
+                            "50": 57.98,
+                            "75": 65.86,
+                            "90": 74.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 143,
+                        "range": {
+                            "10": 27.44,
+                            "25": 41.57,
+                            "50": 60.92,
+                            "75": 78.6,
+                            "90": 93.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 131,
+                        "range": {
+                            "10": 13.48,
+                            "25": 16.61,
+                            "50": 21.66,
+                            "75": 30.59,
+                            "90": 45.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 130,
+                        "range": {
+                            "10": 16.11,
+                            "25": 21.18,
+                            "50": 29.92,
+                            "75": 42.23,
+                            "90": 58.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Architect",
+                        "url": "/research/US/Job=Software_Architect/Salary",
+                        "profileCount": 127,
+                        "range": {
+                            "10": 40.41,
+                            "25": 52,
+                            "50": 76.49,
+                            "75": 99.03,
+                            "90": 132.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Manager",
+                        "url": "/research/US/Job=Software_Development_Manager/Salary",
+                        "profileCount": 113,
+                        "range": {
+                            "10": 22.15,
+                            "25": 52.08,
+                            "50": 62.82,
+                            "75": 76.08,
+                            "90": 98.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 97,
+                        "range": {
+                            "10": 14.91,
+                            "25": 19.31,
+                            "50": 24.5,
+                            "75": 31.04,
+                            "90": 38.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 66,
+                        "range": {
+                            "10": 47.32,
+                            "25": 57.95,
+                            "50": 72.52,
+                            "75": 87.73,
+                            "90": 102.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Programmer Analyst",
+                        "url": "/research/US/Job=Senior_Programmer_Analyst/Salary",
+                        "profileCount": 64,
+                        "range": {
+                            "10": 26.43,
+                            "25": 37.59,
+                            "50": 47.32,
+                            "75": 59.38,
+                            "90": 75.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Architect",
+                        "url": "/research/US/Job=Senior_Software_Architect/Salary",
+                        "profileCount": 60,
+                        "range": {
+                            "10": 50.73,
+                            "25": 70,
+                            "50": 86.51,
+                            "75": 116.18,
+                            "90": 146.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 60,
+                        "range": {
+                            "10": 21.59,
+                            "25": 25.17,
+                            "50": 30.26,
+                            "75": 34.92,
+                            "90": 39.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Application Developer",
+                        "url": "/research/US/Job=Senior_Application_Developer/Salary",
+                        "profileCount": 59,
+                        "range": {
+                            "10": 37.36,
+                            "25": 45.47,
+                            "50": 57.34,
+                            "75": 63.89,
+                            "90": 75.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineering / Development Director",
+                        "url": "/research/US/Job=Software_Engineering_%2F_Development_Director/Salary",
+                        "profileCount": 49,
+                        "range": {
+                            "25": 25.43,
+                            "50": 79.1,
+                            "75": 93.35
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Visual_Basic_.NET_Developer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": ".NET, VB.Net, ASP.NET Framework",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2021-11-10T04:50:23.79483Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "109200",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "52.5",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A visual basic .NET developer position can be quite a taxing position, but with such difficulty can come a high level of job satisfaction. A visual basic .NET developer can have many concurrent responsibilities and can often work overtime. This is usually a merit-based position. How quickly and efficiently one works will be readily apparent and will dictate how many hours are required. Visual basic .NET developers can expect to work in different fields of technological studies. One moment a visual basic .NET developer might be working on a web application, and the next moment they may be asked their opinion on a mobile application. Versatility is a key trait in a visual basic .NET developer.  A visual basic .NET developer is responsible for knowing how to create large-scale applications and implementing them in a timely manner.  \r\nThis is a mainly mental activity that will almost always be performed indoors.  A visual basic .NET developer may have to interact with clients, depending on the company, but the developer will at least interact with supervisors who will always have ever-changing project requirements.  \r\nA typical visual basic .NET developer will be required to have a bachelor's degree in computer science or related field or have experience equivalent to such a degree. A typical work week would most likely see a developer working well over 40 hours a week including weekends.  A visual basic .NET developer is also required to keep up with all relevant developments in their realm of expertise.",
+                    "name": "Visual Basic .NET Developer",
+                    "url": "/research/US/Job=Visual_Basic_.NET_Developer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

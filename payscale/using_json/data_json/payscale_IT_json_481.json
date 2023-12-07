@@ -1,0 +1,931 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Ruby Software Developer / Programmer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary",
+                    "defaultUrl": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-10T22:32:45.12121Z",
+                "narratives": {
+                    "description": "Ruby software developers and programmers perform functions such as designing, installing, maintaining, testing, and debugging a variety of software systems using the Ruby programming language. In general, they work within the information technology (IT) department of larger companies, helping the broader business be more efficient and effective by providing software solutions.\r\nThere are two different routes that Ruby software developers and programmers might take when implementing software for a company. First, company needs might necessitate the creation of a new software application, as specified by an IT analyst. In this case, the programmers use Ruby to develop a software solution from the ground up. Alternately, and more often, programmers develop solutions for business needs by modifying the code of existing commercially available software so it blends into the software architecture of the company and meets the company’s needs. Programming in this case is usually a process of using Ruby to blend the seams, allowing different software platforms to work with the new software.\r\nRuby software developers and programmers perform a number of specific duties. These include continuously reviewing existing software platforms, coming up with ideas to make the existing system more efficient and/or budget-friendly, working with other IT staff, writing code, testing platforms in a test environment to search for bugs or problems prior to \"go-live,\" writing training manuals for end users, and looking after the upkeep of systems that are live.\r\nThese individuals typically work full time in an office environment, though certain employers might allow programmers to telecommute. Most employers require their programmers to hold a bachelor’s degree in computer science or a similar field. Required skills and abilities usually include patience, problem solving, good verbal and written communication abilities, creativity, internal motivation, and diligence.",
+                    "summaryHourly": "The average pay for a Ruby Software Developer / Programmer is $32.55 per hour.",
+                    "summarySalary": "The average pay for a Ruby Software Developer / Programmer is $86,116 per year."
+                },
+                "tasks": [
+                    "Test and document software for web sites.",
+                    "Work with designers and content producers.",
+                    "Write, modify, and debug software for web sites.",
+                    "Write code to generate web pages, access databases and business logic servers."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 2785.52,
+                        "50": 5137.84,
+                        "75": 14739.53,
+                        "profileCount": 8
+                    },
+                    "hourlyRate": {
+                        "10": 23.7,
+                        "25": 26.59,
+                        "50": 32.55,
+                        "75": 48.45,
+                        "90": 60.66,
+                        "profileCount": 13
+                    },
+                    "profitSharing": {
+                        "50": 2000,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 62371.58,
+                        "25": 67985.98,
+                        "50": 86116.04,
+                        "75": 101371.59,
+                        "90": 118183.9,
+                        "profileCount": 45
+                    },
+                    "total": {
+                        "10": 56825.89,
+                        "25": 65439.91,
+                        "50": 83433.46,
+                        "75": 103239.55,
+                        "90": 122879.81,
+                        "profileCount": 58
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-10T22:32:45.12121Z",
+                        "profileCount": 58,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 58,
+                                "range": {
+                                    "10": 56825.89,
+                                    "25": 65439.91,
+                                    "50": 83433.46,
+                                    "75": 103239.55,
+                                    "90": 122879.81
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-10-10T22:32:45.12121Z",
+                        "profileCount": 13,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 23.7,
+                                    "25": 26.59,
+                                    "50": 32.55,
+                                    "75": 48.45,
+                                    "90": 60.66
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-10T22:32:45.12121Z",
+                        "profileCount": 45,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 45,
+                                "range": {
+                                    "10": 62371.58,
+                                    "25": 67985.98,
+                                    "50": 86116.04,
+                                    "75": 101371.59,
+                                    "90": 118183.9
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-10T22:32:45.12121Z",
+                        "profileCount": 25,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-10T22:32:45.12121Z",
+                        "profileCount": 31,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/af14538a/Entry-Level",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 52873.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/af14538a/Early-Career",
+                                "profileCount": 52,
+                                "range": {
+                                    "50": 78187.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/5ae137fc/Mid-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 92764.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/ab759ebe/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 108000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/33a7c173/Washington-DC",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 82424.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/c49aadb4/New-York-NY",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/8b80f8aa/San-Francisco-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 114650.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/b40fa880/Chicago-IL",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 70515.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/30f1321e/Boston-MA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baltimore, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/032d7cfb/Baltimore-MD",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/e73870ae/Irvine-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/51eee63b/Denver-CO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 93550
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/82048ec8/Atlanta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/1a40b669/Austin-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 64640
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/c26a5e3a/Seattle-WA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 88500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/e3d8d37d/Dallas-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/8d7995fb/Philadelphia-PA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 68784.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/318e2e52/Portland-OR",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 62400
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Hourly_Rate/52789b16/Los-Angeles-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Ruby on Rails",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/102b929e/Ruby-on-Rails",
+                                "profileCount": 48,
+                                "range": {
+                                    "50": 84767.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Ruby",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/93e95bbe/Ruby",
+                                "profileCount": 39,
+                                "range": {
+                                    "50": 82549.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "PostgreSQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/24abdca9/PostgreSQL",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 91869.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/f2a9ca41/Web-Development",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 75394.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/62ff0384/SQL",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 80918.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "JavaScript",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/a2060055/JavaScript",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 84767.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "jQuery",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/473be022/jQuery",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 72413.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/92f2f023/Linux",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 69500.12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "HTML5",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/6a198a5f/HTML5",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 53000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "HTML",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/1ac492a7/HTML",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cascading Style Sheets (CSS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/83f6450f/Cascading-Style-Sheets-CSS",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 73056.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "React.js",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/79190ca9/React.js",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "MySQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/2db17bc9/MySQL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 74994
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Git",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/7f7ec4ae/Git",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 63984.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sinatra (Ruby)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary/be6dffbd/Sinatra-Ruby",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 71500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 8,
+                        "score": 4.12
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 5361,
+                        "range": {
+                            "10": 67172.78,
+                            "25": 77778.91,
+                            "50": 92377.55,
+                            "75": 113301.24,
+                            "90": 134880.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 3137,
+                        "range": {
+                            "10": 55120.37,
+                            "25": 64738.58,
+                            "50": 77432.67,
+                            "75": 93351.69,
+                            "90": 113191
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 2866,
+                        "range": {
+                            "10": 43897.04,
+                            "25": 51869.29,
+                            "50": 63518.46,
+                            "75": 78124.45,
+                            "90": 93244.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 2589,
+                        "range": {
+                            "10": 93805.77,
+                            "25": 107735.19,
+                            "50": 125804.16,
+                            "75": 146021.76,
+                            "90": 165716.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Front End Developer / Engineer",
+                        "url": "/research/US/Job=Front_End_Developer_%2F_Engineer/Salary",
+                        "profileCount": 1732,
+                        "range": {
+                            "10": 54075.53,
+                            "25": 66287.01,
+                            "50": 82493.53,
+                            "75": 101314.14,
+                            "90": 124599.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1379,
+                        "range": {
+                            "10": 84784.04,
+                            "25": 98488.44,
+                            "50": 116720.5,
+                            "75": 134827.49,
+                            "90": 155143.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 897,
+                        "range": {
+                            "10": 48096.83,
+                            "25": 56039.95,
+                            "50": 66309.72,
+                            "75": 78207.58,
+                            "90": 90730.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 729,
+                        "range": {
+                            "10": 58955.43,
+                            "25": 69840.5,
+                            "50": 83656.73,
+                            "75": 102653.7,
+                            "90": 123346.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Web Developer",
+                        "url": "/research/US/Job=Senior_Web_Developer/Salary",
+                        "profileCount": 672,
+                        "range": {
+                            "10": 67273.03,
+                            "25": 78880.13,
+                            "50": 91564.88,
+                            "75": 109583.2,
+                            "90": 129563.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 561,
+                        "range": {
+                            "10": 53705.82,
+                            "25": 62654.06,
+                            "50": 75421.71,
+                            "75": 89799.1,
+                            "90": 106123.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Designer",
+                        "url": "/research/US/Job=Web_Designer/Salary",
+                        "profileCount": 503,
+                        "range": {
+                            "10": 39968.27,
+                            "25": 46524.61,
+                            "50": 55066.55,
+                            "75": 67280.65,
+                            "90": 80856.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 492,
+                        "range": {
+                            "10": 49709.09,
+                            "25": 58304.99,
+                            "50": 66766.44,
+                            "75": 76119.14,
+                            "90": 85435.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Full Stack Software Developer",
+                        "url": "/research/US/Job=Full_Stack_Software_Developer/Salary",
+                        "profileCount": 408,
+                        "range": {
+                            "10": 58499.43,
+                            "25": 70343.15,
+                            "50": 84148,
+                            "75": 102133.04,
+                            "90": 120846.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 393,
+                        "range": {
+                            "10": 51766.34,
+                            "25": 63208.03,
+                            "50": 78423.88,
+                            "75": 95662.14,
+                            "90": 112787.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 392,
+                        "range": {
+                            "10": 90387.61,
+                            "25": 107073.76,
+                            "50": 127330.49,
+                            "75": 146524.06,
+                            "90": 166105.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 391,
+                        "range": {
+                            "10": 50960.51,
+                            "25": 59202.23,
+                            "50": 70457.55,
+                            "75": 82913.59,
+                            "90": 101046.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 386,
+                        "range": {
+                            "10": 67586.77,
+                            "25": 80078.05,
+                            "50": 95814.17,
+                            "75": 116974.27,
+                            "90": 135479.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Designer & Developer",
+                        "url": "/research/US/Job=Web_Designer_%26_Developer/Salary",
+                        "profileCount": 357,
+                        "range": {
+                            "10": 40812.65,
+                            "25": 48608.61,
+                            "50": 60970.49,
+                            "75": 78523.4,
+                            "90": 93846.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 333,
+                        "range": {
+                            "10": 59113.95,
+                            "25": 67994.24,
+                            "50": 76357.58,
+                            "75": 86277.86,
+                            "90": 104423.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 330,
+                        "range": {
+                            "10": 113239.85,
+                            "25": 129521.37,
+                            "50": 148132.15,
+                            "75": 168269.93,
+                            "90": 189337.41
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "Ruby on Rails, Ruby, PostgreSQL, Web Development, SQL, JavaScript, jQuery, Linux, HTML5, HTML, Cascading Style Sheets (CSS), React.js, MySQL, Git, Sinatra (Ruby)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-10T22:32:45.12121Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "56825.89",
+                            "percentile25": "65439.91",
+                            "median": "83433.46",
+                            "percentile75": "103239.55",
+                            "percentile90": "122879.81",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "62371.58",
+                            "percentile25": "67985.98",
+                            "median": "86116.04",
+                            "percentile75": "101371.59",
+                            "percentile90": "118183.9",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "2785.52",
+                            "median": "5137.84",
+                            "percentile75": "14739.53",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 60,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Ruby software developers and programmers perform functions such as designing, installing, maintaining, testing, and debugging a variety of software systems using the Ruby programming language. In general, they work within the information technology (IT) department of larger companies, helping the broader business be more efficient and effective by providing software solutions.\r\nThere are two different routes that Ruby software developers and programmers might take when implementing software for a company. First, company needs might necessitate the creation of a new software application, as specified by an IT analyst. In this case, the programmers use Ruby to develop a software solution from the ground up. Alternately, and more often, programmers develop solutions for business needs by modifying the code of existing commercially available software so it blends into the software architecture of the company and meets the company’s needs. Programming in this case is usually a process of using Ruby to blend the seams, allowing different software platforms to work with the new software.\r\nRuby software developers and programmers perform a number of specific duties. These include continuously reviewing existing software platforms, coming up with ideas to make the existing system more efficient and/or budget-friendly, working with other IT staff, writing code, testing platforms in a test environment to search for bugs or problems prior to \"go-live,\" writing training manuals for end users, and looking after the upkeep of systems that are live.\r\nThese individuals typically work full time in an office environment, though certain employers might allow programmers to telecommute. Most employers require their programmers to hold a bachelor’s degree in computer science or a similar field. Required skills and abilities usually include patience, problem solving, good verbal and written communication abilities, creativity, internal motivation, and diligence.",
+                    "name": "Ruby Software Developer / Programmer",
+                    "url": "/research/US/Job=Ruby_Software_Developer_%2F_Programmer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

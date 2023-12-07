@@ -1,0 +1,589 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Computer Lab Facilitator"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Computer_Lab_Facilitator/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Computer_Lab_Facilitator/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-05-25T03:49:37.71907Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Computer Lab Facilitator is $11.41 per hour.",
+                    "summarySalary": "The average pay for a Computer Lab Facilitator is $38,978 per year."
+                },
+                "tasks": [
+                    "Assist students using software and equipment in the computer lab.",
+                    "Plan computer lab instruction for individual student's needs or as requested by classroom teachers.",
+                    "Oversee the working operation of the computers and computer lab equipment.",
+                    "Help students learn basic computer and internet skills."
+                ],
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 11.41,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "50": 38978.04,
+                        "profileCount": 2
+                    },
+                    "total": {
+                        "25": 20186.4,
+                        "50": 27040,
+                        "75": 39497.26,
+                        "profileCount": 5
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-05-25T03:49:37.71907Z",
+                        "profileCount": 5,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 20186.4,
+                                    "50": 27040,
+                                    "75": 39497.26
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-05-25T03:49:37.71907Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 11.41
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-05-25T03:49:37.71907Z",
+                        "profileCount": 2,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 38978.04
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-05-25T03:49:37.71907Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-05-25T03:49:37.71907Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Lab_Facilitator/Hourly_Rate/79045ead/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 11.41
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Newark, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Lab_Facilitator/Salary/45fe4027/Newark-NJ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Lab_Facilitator/Hourly_Rate/4bb61343/San-Diego-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 16.73
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Lab_Facilitator/Hourly_Rate/33d023a1/Microsoft-Excel",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 10.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Word",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Lab_Facilitator/Hourly_Rate/a2b876f3/Microsoft-Word",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 10.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2563,
+                        "range": {
+                            "10": 11.73,
+                            "25": 13.53,
+                            "50": 15.62,
+                            "75": 18.55,
+                            "90": 21.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1281,
+                        "range": {
+                            "10": 12.51,
+                            "25": 14.83,
+                            "50": 17.55,
+                            "75": 20.93,
+                            "90": 25.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1160,
+                        "range": {
+                            "10": 16.36,
+                            "25": 20.68,
+                            "50": 27.41,
+                            "75": 34.18,
+                            "90": 42.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1043,
+                        "range": {
+                            "10": 15.26,
+                            "25": 18.66,
+                            "50": 22.62,
+                            "75": 27.46,
+                            "90": 33.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1032,
+                        "range": {
+                            "10": 15.08,
+                            "25": 17.62,
+                            "50": 20.41,
+                            "75": 23.83,
+                            "90": 27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 901,
+                        "range": {
+                            "10": 14.62,
+                            "25": 17.16,
+                            "50": 20.67,
+                            "75": 26.05,
+                            "90": 34.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 894,
+                        "range": {
+                            "10": 17.31,
+                            "25": 21.17,
+                            "50": 27.36,
+                            "75": 34.59,
+                            "90": 41.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 873,
+                        "range": {
+                            "10": 15.88,
+                            "25": 19.65,
+                            "50": 25.48,
+                            "75": 36.53,
+                            "90": 52.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 854,
+                        "range": {
+                            "10": 14.3,
+                            "25": 16.84,
+                            "50": 20.14,
+                            "75": 24.67,
+                            "90": 29.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 757,
+                        "range": {
+                            "10": 14.51,
+                            "25": 16.97,
+                            "50": 20.69,
+                            "75": 25.69,
+                            "90": 31.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 726,
+                        "range": {
+                            "10": 20.13,
+                            "25": 24.99,
+                            "50": 29.42,
+                            "75": 35.14,
+                            "90": 42.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 669,
+                        "range": {
+                            "10": 19.98,
+                            "25": 23.57,
+                            "50": 27.77,
+                            "75": 33.18,
+                            "90": 39.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 645,
+                        "range": {
+                            "10": 12.17,
+                            "25": 14.92,
+                            "50": 18.43,
+                            "75": 23.64,
+                            "90": 29.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 608,
+                        "range": {
+                            "10": 17.94,
+                            "25": 23.82,
+                            "50": 30.53,
+                            "75": 38.73,
+                            "90": 49.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 588,
+                        "range": {
+                            "10": 21.61,
+                            "25": 27.07,
+                            "50": 34.29,
+                            "75": 41.55,
+                            "90": 49.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 519,
+                        "range": {
+                            "10": 9.89,
+                            "25": 11.63,
+                            "50": 14,
+                            "75": 16.36,
+                            "90": 19.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 496,
+                        "range": {
+                            "10": 14.2,
+                            "25": 16.98,
+                            "50": 20.39,
+                            "75": 25.3,
+                            "90": 31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 490,
+                        "range": {
+                            "10": 15.18,
+                            "25": 17.39,
+                            "50": 20.25,
+                            "75": 23.92,
+                            "90": 27.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounting Manager",
+                        "url": "/research/US/Job=Accounting_Manager/Salary",
+                        "profileCount": 412,
+                        "range": {
+                            "10": 15.62,
+                            "25": 18.76,
+                            "50": 23.36,
+                            "75": 29.04,
+                            "90": 35.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 383,
+                        "range": {
+                            "10": 16.05,
+                            "25": 18.96,
+                            "50": 23.77,
+                            "75": 28.8,
+                            "90": 35.31
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Computer_Lab_Facilitator/Hourly_Rate",
+                    "occupationalCategory": null,
+                    "skills": "Microsoft Excel, Microsoft Word",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-05-25T03:49:37.71907Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "20186.4",
+                            "median": "27040",
+                            "percentile75": "39497.26",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "HOUR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "11.41",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 8,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Computer Lab Facilitator",
+                    "url": "/research/US/Job=Computer_Lab_Facilitator/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

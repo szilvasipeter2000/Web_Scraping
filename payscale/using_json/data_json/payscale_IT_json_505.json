@@ -1,0 +1,703 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Secretary of the Board"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Secretary_of_the_Board/Salary",
+                    "defaultUrl": "/research/US/Job=Secretary_of_the_Board/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-08T03:43:14.76732Z",
+                "narratives": {
+                    "description": "A secretary of the board is one member of an executive board more commonly known as a \"board of directors.\" The secretary typically works alongside the president, vice president, and treasurer of a corporation or non-profit organization and are usually elected or appointed the position during a members' meeting.\r\nThe secretary of the board is generally responsible for maintaining and keeping track of records and minutes during various meetings to ensure that each agenda is open for discussion at its scheduled time and to account for what is discussed during these sessions. They are also tasked with safeguarding all documents and developing policies for how they are eventually shared with others, and filing government-related forms may be necessary depending on the employer. Some also serve as a signing officer for the organization and have the authority to sign certain documents such as checks, contracts, and applications.\r\nThe secretary of the board must ensure that all documents are available and on-hand for meetings, reports, elections, and other organizational events, and if the board's president or vice president is unavailable, the secretary may take responsibility for calling the meeting into order.",
+                    "summaryHourly": "The average pay for a Secretary Of The Board is $22.57 per hour.",
+                    "summarySalary": "The average pay for a Secretary Of The Board is $69,941 per year."
+                },
+                "tasks": [
+                    "Record and update the minutes from each meeting, disseminating notes regularly.",
+                    "Communicate changes in the schedule or special meetings.",
+                    "Ensure agendas are ready on time and reflect any concerns that have arisen through correspondence.",
+                    "Maintain all files and documents, organizing information and ensuring confidentiality."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 5000,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "25": 18.31,
+                        "50": 22.57,
+                        "75": 42.25,
+                        "profileCount": 8
+                    },
+                    "salary": {
+                        "10": 43631.1,
+                        "25": 55826,
+                        "50": 69941,
+                        "75": 79506.98,
+                        "90": 96524.58,
+                        "profileCount": 15
+                    },
+                    "total": {
+                        "10": 38578.92,
+                        "25": 46160.75,
+                        "50": 69941,
+                        "75": 85978.05,
+                        "90": 98498.73,
+                        "profileCount": 23
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-08T03:43:14.76732Z",
+                        "profileCount": 23,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": {
+                                    "10": 38578.92,
+                                    "25": 46160.75,
+                                    "50": 69941,
+                                    "75": 85978.05,
+                                    "90": 98498.73
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-08T03:43:14.76732Z",
+                        "profileCount": 8,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 18.31,
+                                    "50": 22.57,
+                                    "75": 42.25
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-08T03:43:14.76732Z",
+                        "profileCount": 15,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": {
+                                    "10": 43631.1,
+                                    "25": 55826,
+                                    "50": 69941,
+                                    "75": 79506.98,
+                                    "90": 96524.58
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-08T03:43:14.76732Z",
+                        "profileCount": 14,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-08T03:43:14.76732Z",
+                        "profileCount": 17,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/98057c06/Early-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 59160
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/dc3267b4/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 57500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/3cc1c6d6/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 59970.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/cd265834/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 65181.48
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/65eb8b97/Washington-DC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 68334.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/eed4c633/New-York-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 67080
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Taking Meeting Minutes",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/6038acc8/Taking-Meeting-Minutes",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 66735.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Document Preparation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/a227685f/Document-Preparation",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 64970.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Office Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/eb5055b6/Office-Administration",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 61175.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Legal Compliance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/d50f3ddf/Legal-Compliance",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 60649.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Document Review and Distribution",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/33a91f7d/Document-Review-and-Distribution",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 45000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scheduling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/8f5fd24b/Scheduling",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 66221.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Secretary_of_the_Board/Salary/7b6ef79a/Microsoft-Office",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 63500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 6,
+                        "score": 4.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 7818,
+                        "range": {
+                            "10": 30863.58,
+                            "25": 36318.31,
+                            "50": 43046.09,
+                            "75": 51521.7,
+                            "90": 60788.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 3381,
+                        "range": {
+                            "10": 36836.53,
+                            "25": 43506.42,
+                            "50": 52271.22,
+                            "75": 62856.96,
+                            "90": 74117.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 3176,
+                        "range": {
+                            "10": 42991.98,
+                            "25": 51223.28,
+                            "50": 62354.56,
+                            "75": 74897.17,
+                            "90": 87760.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Paralegal",
+                        "url": "/research/US/Job=Paralegal/Salary",
+                        "profileCount": 1740,
+                        "range": {
+                            "10": 37850.7,
+                            "25": 43624.9,
+                            "50": 52127.75,
+                            "75": 63692.04,
+                            "90": 75780
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 1699,
+                        "range": {
+                            "10": 27746.67,
+                            "25": 32548.29,
+                            "50": 39059.76,
+                            "75": 46078.84,
+                            "90": 54220.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Legal Assistant",
+                        "url": "/research/US/Job=Legal_Assistant/Hourly_Rate",
+                        "profileCount": 1429,
+                        "range": {
+                            "10": 33917.37,
+                            "25": 39706.78,
+                            "50": 47837.86,
+                            "75": 59193.22,
+                            "90": 71091.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Administrator",
+                        "url": "/research/US/Job=Office_Administrator/Hourly_Rate",
+                        "profileCount": 1191,
+                        "range": {
+                            "10": 34137.74,
+                            "25": 40456.38,
+                            "50": 49575.22,
+                            "75": 62230.78,
+                            "90": 77889.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Coordinator",
+                        "url": "/research/US/Job=Administrative_Coordinator/Hourly_Rate",
+                        "profileCount": 1082,
+                        "range": {
+                            "10": 37108.02,
+                            "25": 42346.69,
+                            "50": 49975.15,
+                            "75": 59305.75,
+                            "90": 69159.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 1019,
+                        "range": {
+                            "10": 25877.74,
+                            "25": 30283.98,
+                            "50": 36488.83,
+                            "75": 43133.42,
+                            "90": 52007.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 986,
+                        "range": {
+                            "10": 59711.74,
+                            "25": 67503.14,
+                            "50": 77162.53,
+                            "75": 90138.01,
+                            "90": 106943.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Administrative Assistant",
+                        "url": "/research/US/Job=Executive_Administrative_Assistant/Salary",
+                        "profileCount": 829,
+                        "range": {
+                            "10": 39926.31,
+                            "25": 47654.47,
+                            "50": 56235.89,
+                            "75": 66417.86,
+                            "90": 79195.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 802,
+                        "range": {
+                            "10": 56689.47,
+                            "25": 64399.81,
+                            "50": 73671.59,
+                            "75": 86509,
+                            "90": 102851.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 769,
+                        "range": {
+                            "10": 52568.16,
+                            "25": 63924.24,
+                            "50": 78841.81,
+                            "75": 97516.78,
+                            "90": 118822.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Administrative Assistant",
+                        "url": "/research/US/Job=Sr._Administrative_Assistant/Salary",
+                        "profileCount": 767,
+                        "range": {
+                            "10": 40024.3,
+                            "25": 47132.4,
+                            "50": 55498.11,
+                            "75": 65035.61,
+                            "90": 74509.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 739,
+                        "range": {
+                            "10": 51227.55,
+                            "25": 60869.8,
+                            "50": 72674.27,
+                            "75": 85882.35,
+                            "90": 99230.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Legal Secretary",
+                        "url": "/research/US/Job=Legal_Secretary/Salary",
+                        "profileCount": 711,
+                        "range": {
+                            "10": 35743.94,
+                            "25": 45688.43,
+                            "50": 59460.02,
+                            "75": 73303.32,
+                            "90": 87106.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant to CEO",
+                        "url": "/research/US/Job=Executive_Assistant_to_CEO/Salary",
+                        "profileCount": 562,
+                        "range": {
+                            "10": 48315.59,
+                            "25": 57004.44,
+                            "50": 68320.46,
+                            "75": 81586.73,
+                            "90": 95906.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 529,
+                        "range": {
+                            "10": 63703.78,
+                            "25": 72052.54,
+                            "50": 82299.29,
+                            "75": 97980.46,
+                            "90": 121145.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 511,
+                        "range": {
+                            "10": 40214.65,
+                            "25": 46102.37,
+                            "50": 54211.23,
+                            "75": 63775.47,
+                            "90": 74459.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 506,
+                        "range": {
+                            "10": 30888.02,
+                            "25": 36438.37,
+                            "50": 42876.44,
+                            "75": 51044.63,
+                            "90": 60426
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Secretary_of_the_Board/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Taking Meeting Minutes, Document Preparation, Office Administration, Legal Compliance, Document Review and Distribution, Scheduling, Microsoft Office",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-08T03:43:14.76732Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "38578.92",
+                            "percentile25": "46160.75",
+                            "median": "69941",
+                            "percentile75": "85978.05",
+                            "percentile90": "98498.73",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "43631.1",
+                            "percentile25": "55826",
+                            "median": "69941",
+                            "percentile75": "79506.98",
+                            "percentile90": "96524.58",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "5000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 25,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A secretary of the board is one member of an executive board more commonly known as a \"board of directors.\" The secretary typically works alongside the president, vice president, and treasurer of a corporation or non-profit organization and are usually elected or appointed the position during a members' meeting.\r\nThe secretary of the board is generally responsible for maintaining and keeping track of records and minutes during various meetings to ensure that each agenda is open for discussion at its scheduled time and to account for what is discussed during these sessions. They are also tasked with safeguarding all documents and developing policies for how they are eventually shared with others, and filing government-related forms may be necessary depending on the employer. Some also serve as a signing officer for the organization and have the authority to sign certain documents such as checks, contracts, and applications.\r\nThe secretary of the board must ensure that all documents are available and on-hand for meetings, reports, elections, and other organizational events, and if the board's president or vice president is unavailable, the secretary may take responsibility for calling the meeting into order.",
+                    "name": "Secretary of the Board",
+                    "url": "/research/US/Job=Secretary_of_the_Board/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

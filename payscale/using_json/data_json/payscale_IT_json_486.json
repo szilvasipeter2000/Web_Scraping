@@ -1,0 +1,778 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 4,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "SAP Data Analyst",
+                    "url": "/research/US/Job=SAP_Data_Analyst/Salary",
+                    "compensation": 64706.680005133094,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "SAP Business Analyst",
+                            "url": "/research/US/Job=SAP_Business_Analyst/Salary",
+                            "percent": 1,
+                            "compensation": 80019.72457434505,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 2,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "SAP Data Analyst",
+                                    "url": "/research/US/Job=SAP_Data_Analyst/Salary",
+                                    "percent": 0.67,
+                                    "compensation": 64706.680005133094,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Business Analyst",
+                                    "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                                    "percent": 0.33,
+                                    "compensation": 84962.89248305504,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "SAP Data Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=SAP_Data_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=SAP_Data_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-15T01:23:16.3511Z",
+                "narratives": {
+                    "description": "SAP data analysts are responsible for analyzing data for business intelligence and connections. They are in charge of processing information, monitoring performance tools, administering databases, managing costs, and modifying users as needed. These analysts must be proficient with the use of different proprietary software to automate scripts and program more efficient ways to complete tasks. Their main duties also include creating code to measure key indicators, collecting data from different system types, and comparing important documents in a database environment. \r\nSAP data analysts develop custom data solutions to meet necessary specifications, as well as facilitate contract and procurement operations by automating activities. They are in charge of receiving data and ensuring quality support is provided, and they participate in business meetings to suggest changes to analysis, data collection, and interpreting structure. They modify the workflow to increase productivity and minimize the use of company resources as well. \r\nA bachelor's degree in computer science or a related field is required for this position. In addition, previous analysis experience with SAP software is necessary, and industry certifications may be preferred. SAP data analysts must work well in a team setting, as well as on their own with minimal supervision. Additionally, they must be able to meet deadlines and project requirements while following privacy and security guidelines. These individuals need to possess strong interpersonal and organizational skills as well. ",
+                    "summaryHourly": "The average pay for a SAP Data Analyst is $16.62 per hour.",
+                    "summarySalary": "The average pay for a SAP Data Analyst is $72,319 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 4788.95,
+                        "25": 5109.04,
+                        "50": 6500,
+                        "75": 9980.79,
+                        "90": 11245.82,
+                        "profileCount": 19
+                    },
+                    "hourlyRate": {
+                        "50": 16.62,
+                        "profileCount": 2
+                    },
+                    "profitSharing": {
+                        "50": 4000,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 49789.21,
+                        "25": 60691.85,
+                        "50": 72319.22,
+                        "75": 83170.63,
+                        "90": 100960.08,
+                        "profileCount": 48
+                    },
+                    "total": {
+                        "10": 49167.01,
+                        "25": 60852.91,
+                        "50": 73261.5,
+                        "75": 89051.62,
+                        "90": 100558.11,
+                        "profileCount": 50
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-15T01:23:16.3511Z",
+                        "profileCount": 50,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 50,
+                                "range": {
+                                    "10": 49167.01,
+                                    "25": 60852.91,
+                                    "50": 73261.5,
+                                    "75": 89051.62,
+                                    "90": 100558.11
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-08-15T01:23:16.3511Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 16.62
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-15T01:23:16.3511Z",
+                        "profileCount": 48,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 48,
+                                "range": {
+                                    "10": 49789.21,
+                                    "25": 60691.85,
+                                    "50": 72319.22,
+                                    "75": 83170.63,
+                                    "90": 100960.08
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-15T01:23:16.3511Z",
+                        "profileCount": 21,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-15T01:23:16.3511Z",
+                        "profileCount": 29,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Carestream Health, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Hourly_Rate/0756ff94/Carestream-Health-Inc.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/e1d7ee2e/Early-Career",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 61015.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/25cf8ca8/Mid-Career",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 76899.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/1bdebc37/Experienced",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 84500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/59f407cd/Late-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 73228.67
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Temecula, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/d5d61ccd/Temecula-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 41326.92
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Medford, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Hourly_Rate/7331160b/Medford-OR",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/3ae7cf2c/Atlanta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 63000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "SAP Materials Management (SAP MM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/04080ddb/SAP-Materials-Management-SAP-MM",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 69413.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/ddbf5ac0/Microsoft-Excel",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 59209.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Master Data Management (SAP MDM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/5319cf01/Master-Data-Management-SAP-MDM",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 70710.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/a9409834/Data-Analysis",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 70849.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAP Production Planning (SAP PP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/d2447a56/SAP-Production-Planning-SAP-PP",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 70206.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAP Enterprise Resource Planning (ERP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/5919b5fa/SAP-Enterprise-Resource-Planning-ERP",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 71500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=SAP_Data_Analyst/Salary/8a7ff54f/Microsoft-Office",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 57000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 7,
+                        "score": 3.71
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 4285,
+                        "range": {
+                            "10": 30834.35,
+                            "25": 36286.74,
+                            "50": 42986.51,
+                            "75": 51479.71,
+                            "90": 60743.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2739,
+                        "range": {
+                            "10": 47888.24,
+                            "25": 55786.31,
+                            "50": 66057.74,
+                            "75": 77936.64,
+                            "90": 90518.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 2223,
+                        "range": {
+                            "10": 50496.62,
+                            "25": 57640.67,
+                            "50": 65728.32,
+                            "75": 75665.02,
+                            "90": 86997.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1976,
+                        "range": {
+                            "10": 36782.89,
+                            "25": 43477.54,
+                            "50": 52226.87,
+                            "75": 62805.12,
+                            "90": 74064.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1833,
+                        "range": {
+                            "10": 59673.48,
+                            "25": 67451.85,
+                            "50": 77099.73,
+                            "75": 90059.46,
+                            "90": 106913.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1665,
+                        "range": {
+                            "10": 52484.26,
+                            "25": 63826.76,
+                            "50": 78748.38,
+                            "75": 97469.01,
+                            "90": 118819.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1527,
+                        "range": {
+                            "10": 42919.78,
+                            "25": 51157.37,
+                            "50": 62260.43,
+                            "75": 74795.02,
+                            "90": 87671.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1470,
+                        "range": {
+                            "10": 43375.61,
+                            "25": 49364.51,
+                            "50": 55622.1,
+                            "75": 62472.43,
+                            "90": 69503.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1321,
+                        "range": {
+                            "10": 56630.3,
+                            "25": 64357.32,
+                            "50": 73628.39,
+                            "75": 86448.52,
+                            "90": 102787.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 1239,
+                        "range": {
+                            "10": 43758.61,
+                            "25": 48957.82,
+                            "50": 55809.76,
+                            "75": 65274.1,
+                            "90": 75137.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1193,
+                        "range": {
+                            "10": 68597.32,
+                            "25": 76780.41,
+                            "50": 86270.92,
+                            "75": 96930.72,
+                            "90": 108612.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 972,
+                        "range": {
+                            "10": 57079.85,
+                            "25": 63597.01,
+                            "50": 72668.9,
+                            "75": 87279.07,
+                            "90": 105887.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 968,
+                        "range": {
+                            "10": 63604,
+                            "25": 71957.33,
+                            "50": 82202.59,
+                            "75": 97928.71,
+                            "90": 120986.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 923,
+                        "range": {
+                            "10": 49896.15,
+                            "25": 57439.55,
+                            "50": 66474.66,
+                            "75": 76976.98,
+                            "90": 87786.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 848,
+                        "range": {
+                            "10": 57015.55,
+                            "25": 64171.54,
+                            "50": 72907.17,
+                            "75": 82361.15,
+                            "90": 91472.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 847,
+                        "range": {
+                            "10": 46907.66,
+                            "25": 57091.4,
+                            "50": 71160.89,
+                            "75": 89241.6,
+                            "90": 111432.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 820,
+                        "range": {
+                            "10": 67308.36,
+                            "25": 76961.21,
+                            "50": 89264,
+                            "75": 103463.88,
+                            "90": 120777.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 767,
+                        "range": {
+                            "10": 53724.01,
+                            "25": 62573.61,
+                            "50": 73579.82,
+                            "75": 87174.99,
+                            "90": 103539.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 659,
+                        "range": {
+                            "10": 46788.56,
+                            "25": 53200.46,
+                            "50": 61704.16,
+                            "75": 72097.29,
+                            "90": 83913.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 654,
+                        "range": {
+                            "10": 40182.32,
+                            "25": 46039.04,
+                            "50": 54157.53,
+                            "75": 63753.14,
+                            "90": 74463.53
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=SAP_Data_Analyst/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "SAP Materials Management (SAP MM), Microsoft Excel, Master Data Management (SAP MDM), Data Analysis, SAP Production Planning (SAP PP), SAP Enterprise Resource Planning (ERP), Microsoft Office",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-15T01:23:16.3511Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49167.01",
+                            "percentile25": "60852.91",
+                            "median": "73261.5",
+                            "percentile75": "89051.62",
+                            "percentile90": "100558.11",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49789.21",
+                            "percentile25": "60691.85",
+                            "median": "72319.22",
+                            "percentile75": "83170.63",
+                            "percentile90": "100960.08",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "4788.95",
+                            "percentile25": "5109.04",
+                            "median": "6500",
+                            "percentile75": "9980.79",
+                            "percentile90": "11245.82",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 63,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "SAP data analysts are responsible for analyzing data for business intelligence and connections. They are in charge of processing information, monitoring performance tools, administering databases, managing costs, and modifying users as needed. These analysts must be proficient with the use of different proprietary software to automate scripts and program more efficient ways to complete tasks. Their main duties also include creating code to measure key indicators, collecting data from different system types, and comparing important documents in a database environment. \r\nSAP data analysts develop custom data solutions to meet necessary specifications, as well as facilitate contract and procurement operations by automating activities. They are in charge of receiving data and ensuring quality support is provided, and they participate in business meetings to suggest changes to analysis, data collection, and interpreting structure. They modify the workflow to increase productivity and minimize the use of company resources as well. \r\nA bachelor's degree in computer science or a related field is required for this position. In addition, previous analysis experience with SAP software is necessary, and industry certifications may be preferred. SAP data analysts must work well in a team setting, as well as on their own with minimal supervision. Additionally, they must be able to meet deadlines and project requirements while following privacy and security guidelines. These individuals need to possess strong interpersonal and organizational skills as well. ",
+                    "name": "SAP Data Analyst",
+                    "url": "/research/US/Job=SAP_Data_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

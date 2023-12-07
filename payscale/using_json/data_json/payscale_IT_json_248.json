@@ -1,0 +1,663 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Geographic Information Systems (GIS) Software Engineer / Developer / Programmer",
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                    "compensation": 76302.36133250204,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Application Developer",
+                            "url": "/research/US/Job=Application_Developer/Salary",
+                            "percent": 1,
+                            "compensation": 69589.7585528995,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Software Engineer",
+                                    "url": "/research/US/Job=Software_Engineer/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 85679.1994543505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Application Developer",
+                                    "url": "/research/US/Job=Senior_Application_Developer/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 96925.85771623673,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Geographic Information Systems (GIS) Software Engineer / Developer / Programmer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                    "defaultUrl": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2018-07-29T02:15:54.97082Z",
+                "narratives": {
+                    "description": "Software engineers and developers for geographic information systems generally collaborate with core programmers on software project teams to build new ArcGIS for server software releases. They are involved in every step of the software development life cycle and guide new features and functions for end users, and also work with developers and product engineers to evaluate functionality, investigate customer issues, tweak automated tests in various harnesses, and even code new test fixtures to help the company build a better ArcGIS. They also provide skilled and reliable management of GIS services to help users maximize their potential and troubleshoot production issues in current and past software.\r\nDuties of GIS software engineers include defining and organizing the help system; creating step-by-step tutorials; following the evolution of server technology; establishing and defining customer requirements; and understanding customer workflows.\r\nA bachelor's or master's degree in GIS, computer science, or a related field is generally required for this position. Strong problem-solving skills, written and verbal communication skills, time management and organizational skills, and the ability to work well on teams as well as alone are highly beneficial. A working knowledge of graphics interchange file formats such as PDF, JPEG, and PNG and a working knowledge of computer graphics APIs such as DirectX and OpenGL are generally required.",
+                    "summarySalary": "The average pay for a Geographic Information Systems (GIS) Software Engineer / Developer / Programmer is $76,302 per year."
+                },
+                "tasks": [
+                    "Test and document software for client applications.",
+                    "Write, modify, and debug software for client applications.",
+                    "Write code to create single-threaded or user interface event driven applications, either stand-alone and those which access servers or services.",
+                    "Use source debuggers and visual development environments."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 6250,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "25": 60000,
+                        "50": 76302.36,
+                        "75": 104761.9,
+                        "profileCount": 9
+                    },
+                    "total": {
+                        "10": 52345.6,
+                        "25": 56063.86,
+                        "50": 78571.43,
+                        "75": 111261.07,
+                        "90": 129128.1,
+                        "profileCount": 10
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2018-07-29T02:15:54.97082Z",
+                        "profileCount": 10,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 52345.6,
+                                    "25": 56063.86,
+                                    "50": 78571.43,
+                                    "75": 111261.07,
+                                    "90": 129128.1
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2018-07-29T02:15:54.97082Z",
+                        "profileCount": 9,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 60000,
+                                    "50": 76302.36,
+                                    "75": 104761.9
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2018-07-29T02:15:54.97082Z",
+                        "profileCount": 2,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2018-07-29T02:15:54.97082Z",
+                        "profileCount": 5,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary/b2f4e2b5/Early-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary/c17b316a/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76302.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary/b86a3342/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 82500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "C# Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary/40e51e23/C%23-Programming-Language",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 83000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Geographic Information Systems (GIS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary/955525f1/Geographic-Information-Systems-GIS",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary/37a8ec69/SQL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 78850
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "HTML",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary/6591aaba/HTML",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "JavaScript",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary/01bd0637/JavaScript",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 65500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 4004,
+                        "range": {
+                            "10": 60744.21,
+                            "25": 70922.87,
+                            "50": 84936.72,
+                            "75": 105351.42,
+                            "90": 125421.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 2837,
+                        "range": {
+                            "10": 49935.67,
+                            "25": 59471.89,
+                            "50": 70974.05,
+                            "75": 86495.35,
+                            "90": 103644.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1860,
+                        "range": {
+                            "10": 84214.07,
+                            "25": 97805.5,
+                            "50": 115542.71,
+                            "75": 135011.34,
+                            "90": 154038.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1281,
+                        "range": {
+                            "10": 75490.97,
+                            "25": 88591.27,
+                            "50": 103475.13,
+                            "75": 122326.67,
+                            "90": 140938.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 1073,
+                        "range": {
+                            "10": 39827.44,
+                            "25": 48517.75,
+                            "50": 59286.65,
+                            "75": 71849.52,
+                            "90": 86611.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 636,
+                        "range": {
+                            "10": 42570.02,
+                            "25": 50187.74,
+                            "50": 60035.87,
+                            "75": 71438.34,
+                            "90": 84376.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 581,
+                        "range": {
+                            "10": 52100.46,
+                            "25": 63809.13,
+                            "50": 77360.22,
+                            "75": 94253.61,
+                            "90": 114879.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 533,
+                        "range": {
+                            "10": 49498.59,
+                            "25": 57979.76,
+                            "50": 69132.94,
+                            "75": 83863.43,
+                            "90": 99719.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 485,
+                        "range": {
+                            "10": 48502.17,
+                            "25": 57708.79,
+                            "50": 69357.52,
+                            "75": 83728.49,
+                            "90": 99209.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 480,
+                        "range": {
+                            "10": 48373.13,
+                            "25": 55767.89,
+                            "50": 66368,
+                            "75": 78214.93,
+                            "90": 94037.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Front End Developer / Engineer",
+                        "url": "/research/US/Job=Front_End_Developer_%2F_Engineer/Salary",
+                        "profileCount": 473,
+                        "range": {
+                            "10": 47726.25,
+                            "25": 57944.9,
+                            "50": 71756.64,
+                            "75": 88507.46,
+                            "90": 108487.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 334,
+                        "range": {
+                            "10": 43538.86,
+                            "25": 51178.15,
+                            "50": 60574.27,
+                            "75": 69669.46,
+                            "90": 79136.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 302,
+                        "range": {
+                            "10": 82146.9,
+                            "25": 97446.52,
+                            "50": 116327.94,
+                            "75": 136191.7,
+                            "90": 155391.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 274,
+                        "range": {
+                            "10": 53670.16,
+                            "25": 61053.86,
+                            "50": 69340.17,
+                            "75": 79822.42,
+                            "90": 97040.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 244,
+                        "range": {
+                            "10": 49678.56,
+                            "25": 58306.09,
+                            "50": 68713.95,
+                            "75": 81437.55,
+                            "90": 97024.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Web Developer",
+                        "url": "/research/US/Job=Senior_Web_Developer/Salary",
+                        "profileCount": 231,
+                        "range": {
+                            "10": 60959.86,
+                            "25": 73921.72,
+                            "50": 87833.81,
+                            "75": 102543.18,
+                            "90": 120380.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Architect",
+                        "url": "/research/US/Job=Software_Architect/Salary",
+                        "profileCount": 225,
+                        "range": {
+                            "10": 87153.84,
+                            "25": 103338.35,
+                            "50": 123622.8,
+                            "75": 143357.85,
+                            "90": 162813.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Consultant",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Consultant/Salary",
+                        "profileCount": 220,
+                        "range": {
+                            "10": 49799.34,
+                            "25": 61949.81,
+                            "50": 78724.01,
+                            "75": 99650.43,
+                            "90": 121072.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 216,
+                        "range": {
+                            "10": 49658.8,
+                            "25": 57713.36,
+                            "50": 67921.26,
+                            "75": 80481.09,
+                            "90": 94292.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 197,
+                        "range": {
+                            "10": 60003.94,
+                            "25": 69111.72,
+                            "50": 80130.44,
+                            "75": 92542.1,
+                            "90": 107135.58
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "C# Programming Language, Geographic Information Systems (GIS), SQL, HTML, JavaScript",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2018-07-29T02:15:54.97082Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "52345.6",
+                            "percentile25": "56063.86",
+                            "median": "78571.43",
+                            "percentile75": "111261.07",
+                            "percentile90": "129128.1",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "60000",
+                            "median": "76302.36",
+                            "percentile75": "104761.9",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "6250",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 10,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Software engineers and developers for geographic information systems generally collaborate with core programmers on software project teams to build new ArcGIS for server software releases. They are involved in every step of the software development life cycle and guide new features and functions for end users, and also work with developers and product engineers to evaluate functionality, investigate customer issues, tweak automated tests in various harnesses, and even code new test fixtures to help the company build a better ArcGIS. They also provide skilled and reliable management of GIS services to help users maximize their potential and troubleshoot production issues in current and past software.\r\nDuties of GIS software engineers include defining and organizing the help system; creating step-by-step tutorials; following the evolution of server technology; establishing and defining customer requirements; and understanding customer workflows.\r\nA bachelor's or master's degree in GIS, computer science, or a related field is generally required for this position. Strong problem-solving skills, written and verbal communication skills, time management and organizational skills, and the ability to work well on teams as well as alone are highly beneficial. A working knowledge of graphics interchange file formats such as PDF, JPEG, and PNG and a working knowledge of computer graphics APIs such as DirectX and OpenGL are generally required.",
+                    "name": "Geographic Information Systems (GIS) Software Engineer / Developer / Programmer",
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

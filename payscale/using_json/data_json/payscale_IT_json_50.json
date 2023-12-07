@@ -1,0 +1,1153 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 6,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Business Analyst/Programmer",
+                    "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary",
+                    "compensation": 66684.93572026104,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Business Analyst",
+                            "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                            "percent": 1,
+                            "compensation": 84962.89248305504,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Sr. Business Analyst (Computer Software/Hardware/Systems)",
+                                    "url": "/research/US/Job=Sr._Business_Analyst_(Computer_Software%2FHardware%2FSystems)/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 93712.78351892272,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Project Manager, (Unspecified Type / General)",
+                                    "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 74208.60456383067,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Product Owner",
+                                    "url": "/research/US/Job=Product_Owner/Salary",
+                                    "percent": 0.03,
+                                    "compensation": 85390.2934172276,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Business Analyst/Programmer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary",
+                    "defaultUrl": "/research/US/Job=Business_Analyst%2FProgrammer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-07T05:08:41.80341Z",
+                "narratives": {
+                    "description": "Business analysts/programmers create, improve, and evaluate software and applications at a company. They may create software for general customers or simply have a role in maintaining a company’s IT processes, and may also conduct research to determine what types of products are in high demand and what improvements can be made to help the business run smoothly.\r\nBusiness analysts often assess of what types of technologies should be integrated in order to create ideal end products, so it is important that they stay up-to-date with all of the latest trends and keep an eye on the competition. It is also important to carry out tests in order to create and improve software, which may involve using end users to help identify bugs and malfunctions. When problems are encountered, analytical skills will be essential to resolve them. Those in this position may also be directly involved in creating/developing code for software, which is reviewed and updated as time goes on. Teamwork is important in this position, as many analysts work together on teams to accomplish goals.\r\nBusiness analysts/programmers may need to be present at all stages of development. Generally, a bachelor’s degree in a field such as computer science is required for this position. This is a full-time job which takes place primarily in an office environment. Experience and expertise with relevant software and programs will need to be demonstrated.",
+                    "summaryHourly": "The average pay for a Business Analyst/Programmer is $34.30 per hour.",
+                    "summarySalary": "The average pay for a Business Analyst/Programmer is $72,237 per year."
+                },
+                "tasks": [
+                    "Work with designers and content producers.",
+                    "Work with users from identifying conceptual system requirements through completion.",
+                    "Work with middle-tier developers to integrate back-end database code with business applications.",
+                    "Plan, design, schedule, write, and debug software for web sites.",
+                    "Plan, design, schedule, write, and debug database stored procedures and complex queries to extract, calculate or manipulate information."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 900,
+                        "25": 2000.48,
+                        "50": 3870.97,
+                        "75": 5895.81,
+                        "90": 16878.18,
+                        "profileCount": 44
+                    },
+                    "hourlyRate": {
+                        "10": 17.61,
+                        "25": 20.16,
+                        "50": 34.3,
+                        "75": 44.22,
+                        "90": 53.89,
+                        "profileCount": 16
+                    },
+                    "profitSharing": {
+                        "25": 1017.36,
+                        "50": 3250,
+                        "75": 7865.7,
+                        "profileCount": 8
+                    },
+                    "salary": {
+                        "10": 52158.76,
+                        "25": 62912.32,
+                        "50": 72236.71,
+                        "75": 84162.15,
+                        "90": 94718.01,
+                        "profileCount": 97
+                    },
+                    "total": {
+                        "10": 50358.16,
+                        "25": 61815.8,
+                        "50": 74030.42,
+                        "75": 88241.16,
+                        "90": 99380.94,
+                        "profileCount": 113
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-07T05:08:41.80341Z",
+                        "profileCount": 113,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 113,
+                                "range": {
+                                    "10": 50358.16,
+                                    "25": 61815.8,
+                                    "50": 74030.42,
+                                    "75": 88241.16,
+                                    "90": 99380.94
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-11-07T05:08:41.80341Z",
+                        "profileCount": 16,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 17.61,
+                                    "25": 20.16,
+                                    "50": 34.3,
+                                    "75": 44.22,
+                                    "90": 53.89
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-07T05:08:41.80341Z",
+                        "profileCount": 97,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 97,
+                                "range": {
+                                    "10": 52158.76,
+                                    "25": 62912.32,
+                                    "50": 72236.71,
+                                    "75": 84162.15,
+                                    "90": 94718.01
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-07T05:08:41.80341Z",
+                        "profileCount": 44,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 28,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-07T05:08:41.80341Z",
+                        "profileCount": 61,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 47,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 43,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 40,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "NYC Department of Environmental Protection",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/09c7af14/NYC-Department-of-Environmental-Protection",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 60024.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "U.S. Bank",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/29da317f/U.S.-Bank",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 50436.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "J.P. Morgan Chase & Co. (JPMCC)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/3eae9085/J.P.-Morgan-Chase-%26-Co.-JPMCC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78610.81
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/aaf44e8c/Entry-Level",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 56523.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/aaf44e8c/Early-Career",
+                                "profileCount": 79,
+                                "range": {
+                                    "50": 68309.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/6f88652b/Mid-Career",
+                                "profileCount": 30,
+                                "range": {
+                                    "50": 72770.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/5a122767/Experienced",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 78640.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/f12a0a0d/Late-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 115630.42
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/475dd384/New-York-NY",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 61548.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/9098a583/Atlanta-GA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 67500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/45f34fac/Austin-TX",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 78649.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/eecc4b7a/Chicago-IL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 72500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/d8eb3b22/Minneapolis-MN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 50868.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/78fa611a/Pittsburgh-PA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 79350
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chattanooga, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/8e851814/Chattanooga-TN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 53500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/36d1af95/Nashville-TN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 66500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/e356b9f8/Dallas-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbia, South Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/3edcb81a/Columbia-SC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 67500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/68d372e2/San-Francisco-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/3cb75bf4/Denver-CO",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 56000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/1b1f1dab/Columbus-OH",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 68400
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Wilmington, Delaware",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/dcc34924/Wilmington-DE",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 83966.59
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/c37efda4/SQL",
+                                "profileCount": 80,
+                                "range": {
+                                    "50": 71220.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/77fd2d4e/Microsoft-Excel",
+                                "profileCount": 58,
+                                "range": {
+                                    "50": 65987.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/6ec68dce/Business-Analysis",
+                                "profileCount": 48,
+                                "range": {
+                                    "50": 71362.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/b23fd4ea/Python",
+                                "profileCount": 34,
+                                "range": {
+                                    "50": 69721.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/2d894020/Microsoft-SQL-Server",
+                                "profileCount": 30,
+                                "range": {
+                                    "50": 74845.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/83111ad9/Project-Management",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 64265.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C# Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/f1c2c003/C%23-Programming-Language",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 63900
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Power BI",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/5a684411/Microsoft-Power-BI",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 72085.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/9838ed9f/Data-Analysis",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 64757.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "VB.Net",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/02d66c9c/VB.Net",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 52879.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tableau Software",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/8bb5569d/Tableau-Software",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 73417.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C++ Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/0a91d78a/C%2B%2B-Programming-Language",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 65639.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": ".NET",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/385b163f/.NET",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 67724.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "R",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/1d90e174/R",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 74152.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Word",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/b8540ebf/Microsoft-Word",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 64500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ASP.NET Framework",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/e146ae45/ASP.NET-Framework",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 58237.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Configuration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/0face169/Software-Configuration",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 59666.92
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Visual Basic (VB)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/6b155c46/Visual-Basic-VB",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "VBA",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/2fbae1fe/VBA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "JavaScript",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/2755da54/JavaScript",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 67500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Access",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/57bb3308/Microsoft-Access",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/54e4cb68/Java",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 80039.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salesforce",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/2e271beb/Salesforce",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 82424.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/217b862e/SAS",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 65863.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS (Statistical Analysis System)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/6ab94ae6/SAS-Statistical-Analysis-System",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 69793.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Technical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/15751c78/Technical-Analysis",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72850
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary/0f4c8c8a/Oracle",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 64093.98
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 15,
+                        "score": 3.87
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 10484,
+                        "range": {
+                            "10": 67327.69,
+                            "25": 77943.69,
+                            "50": 92564.86,
+                            "75": 113541.99,
+                            "90": 135083.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 5944,
+                        "range": {
+                            "10": 55284.18,
+                            "25": 64954.96,
+                            "50": 77682.84,
+                            "75": 93645.51,
+                            "90": 113542.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 5082,
+                        "range": {
+                            "10": 94153.82,
+                            "25": 108099.27,
+                            "50": 126162.85,
+                            "75": 146318.78,
+                            "90": 166038.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 4874,
+                        "range": {
+                            "10": 48271.19,
+                            "25": 56220.78,
+                            "50": 66496.58,
+                            "75": 78423.45,
+                            "90": 91064.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 4505,
+                        "range": {
+                            "10": 52834.75,
+                            "25": 64203.47,
+                            "50": 79111.28,
+                            "75": 97799.75,
+                            "90": 119029.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 2982,
+                        "range": {
+                            "10": 85248.69,
+                            "25": 98935.26,
+                            "50": 117220.38,
+                            "75": 135365.32,
+                            "90": 155773.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2676,
+                        "range": {
+                            "10": 31127.09,
+                            "25": 36685.91,
+                            "50": 43560.5,
+                            "75": 52020.66,
+                            "90": 61435.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 2485,
+                        "range": {
+                            "10": 60034.46,
+                            "25": 68027.85,
+                            "50": 77832.6,
+                            "75": 90961.09,
+                            "90": 108357.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 2411,
+                        "range": {
+                            "10": 57071.73,
+                            "25": 64834.07,
+                            "50": 74176.17,
+                            "75": 87034.52,
+                            "90": 103530.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 2393,
+                        "range": {
+                            "10": 50780.14,
+                            "25": 58057.52,
+                            "50": 66221.98,
+                            "75": 76208.98,
+                            "90": 87684.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 2201,
+                        "range": {
+                            "10": 67584.8,
+                            "25": 77307.69,
+                            "50": 89818.74,
+                            "75": 104121.12,
+                            "90": 121316.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 2068,
+                        "range": {
+                            "10": 53866.82,
+                            "25": 63010.03,
+                            "50": 74057.67,
+                            "75": 87724.99,
+                            "90": 104399.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 1764,
+                        "range": {
+                            "10": 70896.6,
+                            "25": 83008.42,
+                            "50": 99693.77,
+                            "75": 120000.95,
+                            "90": 138379.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1755,
+                        "range": {
+                            "10": 47346.26,
+                            "25": 57593.34,
+                            "50": 71635.22,
+                            "75": 89783.56,
+                            "90": 111875.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1723,
+                        "range": {
+                            "10": 60549.31,
+                            "25": 74199.87,
+                            "50": 92438.58,
+                            "75": 113970.51,
+                            "90": 135362.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 1711,
+                        "range": {
+                            "10": 50242.27,
+                            "25": 57994.87,
+                            "50": 67101.64,
+                            "75": 77537.73,
+                            "90": 88578.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1592,
+                        "range": {
+                            "10": 37026.97,
+                            "25": 43784.37,
+                            "50": 52658.62,
+                            "75": 63363.85,
+                            "90": 74648.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 1500,
+                        "range": {
+                            "10": 55058.39,
+                            "25": 63262.82,
+                            "50": 73085.3,
+                            "75": 88053.45,
+                            "90": 102565.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 1491,
+                        "range": {
+                            "10": 63974.65,
+                            "25": 72462.22,
+                            "50": 82904.73,
+                            "75": 98755.32,
+                            "90": 122455.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1379,
+                        "range": {
+                            "10": 43828.53,
+                            "25": 49778.19,
+                            "50": 56160.27,
+                            "75": 63151.72,
+                            "90": 70288.34
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Business_Analyst%2FProgrammer/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "SQL, Microsoft Excel, Business Analysis, Python, Microsoft SQL Server, Project Management, C# Programming Language, Microsoft Power BI, Data Analysis, VB.Net, Tableau Software, C++ Programming Language, .NET, R, Microsoft Word, ASP.NET Framework, Software Configuration, Visual Basic (VB), VBA, JavaScript, Microsoft Access, Java, Salesforce, SAS, SAS (Statistical Analysis System), Technical Analysis, Oracle",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-07T05:08:41.80341Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "50358.16",
+                            "percentile25": "61815.8",
+                            "median": "74030.42",
+                            "percentile75": "88241.16",
+                            "percentile90": "99380.94",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "52158.76",
+                            "percentile25": "62912.32",
+                            "median": "72236.71",
+                            "percentile75": "84162.15",
+                            "percentile90": "94718.01",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "900",
+                            "percentile25": "2000.48",
+                            "median": "3870.97",
+                            "percentile75": "5895.81",
+                            "percentile90": "16878.18",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 136,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Business analysts/programmers create, improve, and evaluate software and applications at a company. They may create software for general customers or simply have a role in maintaining a company’s IT processes, and may also conduct research to determine what types of products are in high demand and what improvements can be made to help the business run smoothly.\r\nBusiness analysts often assess of what types of technologies should be integrated in order to create ideal end products, so it is important that they stay up-to-date with all of the latest trends and keep an eye on the competition. It is also important to carry out tests in order to create and improve software, which may involve using end users to help identify bugs and malfunctions. When problems are encountered, analytical skills will be essential to resolve them. Those in this position may also be directly involved in creating/developing code for software, which is reviewed and updated as time goes on. Teamwork is important in this position, as many analysts work together on teams to accomplish goals.\r\nBusiness analysts/programmers may need to be present at all stages of development. Generally, a bachelor’s degree in a field such as computer science is required for this position. This is a full-time job which takes place primarily in an office environment. Experience and expertise with relevant software and programs will need to be demonstrated.",
+                    "name": "Business Analyst/Programmer",
+                    "url": "/research/US/Job=Business_Analyst%2FProgrammer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

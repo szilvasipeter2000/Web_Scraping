@@ -1,0 +1,896 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Web Production Manager",
+                    "url": "/research/US/Job=Web_Production_Manager/Salary",
+                    "compensation": 62162.75771050959,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Lead Web Developer",
+                            "url": "/research/US/Job=Lead_Web_Developer/Salary",
+                            "percent": 1,
+                            "compensation": 79655.42717219566,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Web Developer",
+                                    "url": "/research/US/Job=Web_Developer/Salary",
+                                    "percent": 0.27,
+                                    "compensation": 59578.13337139261,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Web Developer",
+                                    "url": "/research/US/Job=Senior_Web_Developer/Salary",
+                                    "percent": 0.23,
+                                    "compensation": 87899.77699255313,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.17,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Web Production Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Web_Production_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Web_Production_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-04-26T03:09:16.30778Z",
+                "narratives": {
+                    "description": "A web production manager is something of a jack-of-all-trades when it comes to creating and presenting interesting content on websites, whether the sites belong to dedicated media enterprises or simply serve as virtual storefronts of businesses engaged in traditional commerce. These managers supervise the ongoing development of written and visual content for the web and also engage in a variety of supervisory roles to ensure the web presence they are hired to maintain is kept fresh and interesting at all times.\r\nGenerally, web production managers supervise a great deal of created content, and this can also include copy editing and supervision of copy writing. The production manager may be the final person to sign-off on writing assignments and freelance pitches to the website, and will typically act as - or supervise - an ad-hoc editor who makes the final determination about whether written content is acceptable for publication.\r\nWeb production managers also supervise art assets, including the clearing of photos and original graphics for legal use on a site. They may use freelance/staff art or photographers in this purpose, and will typically hand out assignments and/or have final approval on dedicated pitches, as well. They may also supervise any coding personnel, participate in coding, and ensure that approved web content - whether written, visual, or multimedia - adheres to the site's format in a visually pleasing way.\r\nThose in this position also work with social media personnel to help promote web content and site development, and may engage in supervising forum administration for sites with message boards or comment sections, as well. To work as a web production manager, practical experience is often the most valued commodity of applicants. A person must show prior practical experience in web production and copy writing/editing, as well as proficiency in web-coding languages such as HTML; however, some companies will instead prefer formal education requirements. Web production managers generally work normal to long hours in a computer office environment.",
+                    "summaryHourly": "The average pay for a Web Production Manager is $18.11 per hour.",
+                    "summarySalary": "The average pay for a Web Production Manager is $69,948 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 510.64,
+                        "25": 1206.93,
+                        "50": 4300,
+                        "75": 7562.77,
+                        "90": 8020.61,
+                        "profileCount": 12
+                    },
+                    "hourlyRate": {
+                        "50": 18.11,
+                        "profileCount": 4
+                    },
+                    "profitSharing": {
+                        "50": 16752.62,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 42786.31,
+                        "25": 54515.04,
+                        "50": 69948.4,
+                        "75": 81139.74,
+                        "90": 107235.02,
+                        "profileCount": 36
+                    },
+                    "total": {
+                        "10": 38658.04,
+                        "25": 49628.72,
+                        "50": 66203.77,
+                        "75": 83619.67,
+                        "90": 120188.47,
+                        "profileCount": 40
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-04-26T03:09:16.30778Z",
+                        "profileCount": 40,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 40,
+                                "range": {
+                                    "10": 38658.04,
+                                    "25": 49628.72,
+                                    "50": 66203.77,
+                                    "75": 83619.67,
+                                    "90": 120188.47
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-04-26T03:09:16.30778Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 18.11
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-04-26T03:09:16.30778Z",
+                        "profileCount": 36,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 36,
+                                "range": {
+                                    "10": 42786.31,
+                                    "25": 54515.04,
+                                    "50": 69948.4,
+                                    "75": 81139.74,
+                                    "90": 107235.02
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-04-26T03:09:16.30778Z",
+                        "profileCount": 18,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-04-26T03:09:16.30778Z",
+                        "profileCount": 21,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/8375fa7f/Early-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 54438.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/ac5e3e6a/Mid-Career",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 64418.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/cfa2163c/Experienced",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 78518.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/f5008b32/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 68000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/f6a17c66/New-York-NY",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 65001.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Madison, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/296db359/Madison-WI",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 42474.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/5b136575/San-Francisco-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/ea48d83d/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/c8b2d8de/Columbus-OH",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 86000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/00e7261e/Los-Angeles-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/5ec0a98c/Project-Management",
+                                "profileCount": 40,
+                                "range": {
+                                    "50": 58461.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "HTML",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/e6ab1d1f/HTML",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 55955.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Content Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/fd120535/Web-Content-Management",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 71282.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "People Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/38d036f8/People-Management",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 52000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/ac77c484/Web-Design",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cascading Style Sheets (CSS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/01ac593a/Cascading-Style-Sheets-CSS",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Marketing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/fb54132c/Web-Marketing",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 69500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Adobe Photoshop",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/fa9094eb/Adobe-Photoshop",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 87493.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Graphic Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/95766187/Graphic-Design",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 52380.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/9a8f8192/Web-Development",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 68017.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Process Improvement",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/b707093b/Process-Improvement",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 101000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Product Photography",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/e335496b/Product-Photography",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 87493.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Email Marketing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/8c809008/Email-Marketing",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 66000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Search Engine Optimization (SEO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/f093d3b5/Search-Engine-Optimization-SEO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 98733.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "JavaScript",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Production_Manager/Salary/7cc4f009/JavaScript",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 82900
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 7,
+                        "score": 3.71
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Graphic Designer",
+                        "url": "/research/US/Job=Graphic_Designer/Salary",
+                        "profileCount": 3957,
+                        "range": {
+                            "10": 36256.78,
+                            "25": 41585.5,
+                            "50": 49169.34,
+                            "75": 58251.75,
+                            "90": 68335.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3674,
+                        "range": {
+                            "10": 51601.88,
+                            "25": 62977.52,
+                            "50": 77794.8,
+                            "75": 96405.63,
+                            "90": 117801.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 3008,
+                        "range": {
+                            "10": 46223.75,
+                            "25": 56168.23,
+                            "50": 70206.13,
+                            "75": 87971.3,
+                            "90": 109765.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 2146,
+                        "range": {
+                            "10": 66209.54,
+                            "25": 76691.49,
+                            "50": 91175.34,
+                            "75": 112167.12,
+                            "90": 133440.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 1800,
+                        "range": {
+                            "10": 43157.79,
+                            "25": 50956.24,
+                            "50": 62289.24,
+                            "75": 76590.57,
+                            "90": 91855.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Coordinator",
+                        "url": "/research/US/Job=Marketing_Coordinator/Salary",
+                        "profileCount": 1499,
+                        "range": {
+                            "10": 37024.1,
+                            "25": 41589.58,
+                            "50": 48482.24,
+                            "75": 55148.16,
+                            "90": 62519.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 1495,
+                        "range": {
+                            "10": 47013.02,
+                            "25": 56888.99,
+                            "50": 70417.44,
+                            "75": 86494.82,
+                            "90": 104859.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1457,
+                        "range": {
+                            "10": 54179.04,
+                            "25": 63872.22,
+                            "50": 76329.35,
+                            "75": 91931.1,
+                            "90": 111904.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1387,
+                        "range": {
+                            "10": 55984.28,
+                            "25": 63596.29,
+                            "50": 72662.48,
+                            "75": 85296.14,
+                            "90": 101405.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 1259,
+                        "range": {
+                            "10": 60563.89,
+                            "25": 68423.5,
+                            "50": 77943.72,
+                            "75": 90695,
+                            "90": 107552.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Specialist",
+                        "url": "/research/US/Job=Marketing_Specialist/Salary",
+                        "profileCount": 1116,
+                        "range": {
+                            "10": 40078.39,
+                            "25": 46283.72,
+                            "50": 54462.47,
+                            "75": 64490.97,
+                            "90": 74453.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Front End Developer / Engineer",
+                        "url": "/research/US/Job=Front_End_Developer_%2F_Engineer/Salary",
+                        "profileCount": 1116,
+                        "range": {
+                            "10": 53196.72,
+                            "25": 65197.83,
+                            "50": 81199.04,
+                            "75": 99861.18,
+                            "90": 122293.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Graphic Designer",
+                        "url": "/research/US/Job=Senior_Graphic_Designer/Salary",
+                        "profileCount": 1115,
+                        "range": {
+                            "10": 47681.33,
+                            "25": 55450.62,
+                            "50": 65748.11,
+                            "75": 77824.25,
+                            "90": 89711.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 1113,
+                        "range": {
+                            "10": 58633.04,
+                            "25": 65722.75,
+                            "50": 74364.3,
+                            "75": 85190.7,
+                            "90": 97699.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1063,
+                        "range": {
+                            "10": 59079.17,
+                            "25": 66647.99,
+                            "50": 76049.16,
+                            "75": 88598.4,
+                            "90": 104788.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1058,
+                        "range": {
+                            "10": 36772.17,
+                            "25": 43382.2,
+                            "50": 51891,
+                            "75": 62823.98,
+                            "90": 74705.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1056,
+                        "range": {
+                            "10": 56097.92,
+                            "25": 73366.95,
+                            "50": 97841.39,
+                            "75": 129417.13,
+                            "90": 158128.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 990,
+                        "range": {
+                            "10": 92286.33,
+                            "25": 105999.8,
+                            "50": 124306.23,
+                            "75": 144491.61,
+                            "90": 163899.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 962,
+                        "range": {
+                            "10": 57778.97,
+                            "25": 71446.04,
+                            "50": 90402.26,
+                            "75": 113984.44,
+                            "90": 135860.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Designer",
+                        "url": "/research/US/Job=Web_Designer/Salary",
+                        "profileCount": 874,
+                        "range": {
+                            "10": 39349.97,
+                            "25": 45448.27,
+                            "50": 53767.94,
+                            "75": 65209.04,
+                            "90": 78671.12
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Web_Production_Manager/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Project Management, HTML, Web Content Management, People Management, Web Design, Cascading Style Sheets (CSS), Web Marketing, Adobe Photoshop, Graphic Design, Web Development, Process Improvement, Product Photography, Email Marketing, Search Engine Optimization (SEO), JavaScript",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-04-26T03:09:16.30778Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "38658.04",
+                            "percentile25": "49628.72",
+                            "median": "66203.77",
+                            "percentile75": "83619.67",
+                            "percentile90": "120188.47",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "42786.31",
+                            "percentile25": "54515.04",
+                            "median": "69948.4",
+                            "percentile75": "81139.74",
+                            "percentile90": "107235.02",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "510.64",
+                            "percentile25": "1206.93",
+                            "median": "4300",
+                            "percentile75": "7562.77",
+                            "percentile90": "8020.61",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 51,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A web production manager is something of a jack-of-all-trades when it comes to creating and presenting interesting content on websites, whether the sites belong to dedicated media enterprises or simply serve as virtual storefronts of businesses engaged in traditional commerce. These managers supervise the ongoing development of written and visual content for the web and also engage in a variety of supervisory roles to ensure the web presence they are hired to maintain is kept fresh and interesting at all times.\r\nGenerally, web production managers supervise a great deal of created content, and this can also include copy editing and supervision of copy writing. The production manager may be the final person to sign-off on writing assignments and freelance pitches to the website, and will typically act as - or supervise - an ad-hoc editor who makes the final determination about whether written content is acceptable for publication.\r\nWeb production managers also supervise art assets, including the clearing of photos and original graphics for legal use on a site. They may use freelance/staff art or photographers in this purpose, and will typically hand out assignments and/or have final approval on dedicated pitches, as well. They may also supervise any coding personnel, participate in coding, and ensure that approved web content - whether written, visual, or multimedia - adheres to the site's format in a visually pleasing way.\r\nThose in this position also work with social media personnel to help promote web content and site development, and may engage in supervising forum administration for sites with message boards or comment sections, as well. To work as a web production manager, practical experience is often the most valued commodity of applicants. A person must show prior practical experience in web production and copy writing/editing, as well as proficiency in web-coding languages such as HTML; however, some companies will instead prefer formal education requirements. Web production managers generally work normal to long hours in a computer office environment.",
+                    "name": "Web Production Manager",
+                    "url": "/research/US/Job=Web_Production_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

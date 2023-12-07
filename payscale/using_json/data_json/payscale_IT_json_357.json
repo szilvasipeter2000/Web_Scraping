@@ -1,0 +1,801 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Level Designer",
+                    "url": "/research/US/Job=Level_Designer/Salary",
+                    "compensation": 58614.782658560296,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Video Game Designer",
+                            "url": "/research/US/Job=Video_Game_Designer/Salary",
+                            "percent": 1,
+                            "compensation": 64992.49926300204,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Lead UX Designer",
+                                    "url": "/research/US/Job=Lead_UX_Designer/Salary",
+                                    "percent": 0.33,
+                                    "compensation": 111340.37989194512,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Video Game Designer",
+                                    "url": "/research/US/Job=Senior_Video_Game_Designer/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 92864.97068710685,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Level Designer",
+                                    "url": "/research/US/Job=Level_Designer/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 58614.782658560296,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Level Designer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Level_Designer/Salary",
+                    "defaultUrl": "/research/US/Job=Level_Designer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-05-10T02:43:32.54138Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Level Designer is $24.57 per hour.",
+                    "summarySalary": "The average pay for a Level Designer is $63,013 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 2500,
+                        "50": 10000,
+                        "75": 13058.19,
+                        "profileCount": 9
+                    },
+                    "hourlyRate": {
+                        "25": 20,
+                        "50": 24.57,
+                        "75": 30,
+                        "profileCount": 9
+                    },
+                    "profitSharing": {
+                        "50": 14000,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 41191.57,
+                        "25": 58346.04,
+                        "50": 63013.4,
+                        "75": 85551.65,
+                        "90": 101990.66,
+                        "profileCount": 35
+                    },
+                    "total": {
+                        "10": 39685.27,
+                        "25": 51721.15,
+                        "50": 63221.9,
+                        "75": 77493.94,
+                        "90": 114323.14,
+                        "profileCount": 44
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-05-10T02:43:32.54138Z",
+                        "profileCount": 44,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 44,
+                                "range": {
+                                    "10": 39685.27,
+                                    "25": 51721.15,
+                                    "50": 63221.9,
+                                    "75": 77493.94,
+                                    "90": 114323.14
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-05-10T02:43:32.54138Z",
+                        "profileCount": 9,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 20,
+                                    "50": 24.57,
+                                    "75": 30
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-05-10T02:43:32.54138Z",
+                        "profileCount": 35,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 35,
+                                "range": {
+                                    "10": 41191.57,
+                                    "25": 58346.04,
+                                    "50": 63013.4,
+                                    "75": 85551.65,
+                                    "90": 101990.66
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-05-10T02:43:32.54138Z",
+                        "profileCount": 23,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-05-10T02:43:32.54138Z",
+                        "profileCount": 28,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Ubisoft Entertainment Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/167d4f9d/Ubisoft-Entertainment-Inc.",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 60417.84
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/435fc740/Early-Career",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 61404.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/7e43e3a6/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 64691.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/d1a057ca/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 99500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/62b5a0aa/Los-Angeles-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 94244.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cary, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/8a109c55/Cary-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 60417.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/086a1b9d/Austin-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/5f7e978a/Seattle-WA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 56000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Game Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/345e9eef/Game-Design",
+                                "profileCount": 45,
+                                "range": {
+                                    "50": 63013.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Unreal Engine",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Hourly_Rate/60d7caf4/Unreal-Engine",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 60412.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Video/Computer Gaming Software",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/2c2c9f2e/Video-Computer-Gaming-Software",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 66132.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Unity Engine",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/2757aff6/Unity-Engine",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 59940.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/23efa057/Design",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 76750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C# Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/b63e0c19/C%23-Programming-Language",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 48000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Autodesk Maya",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/5b64ab97/Autodesk-Maya",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Adobe Photoshop",
+                                "displayName": null,
+                                "url": "/research/US/Job=Level_Designer/Salary/8e9d3490/Adobe-Photoshop",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 53000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 9,
+                        "score": 4.44
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Graphic Designer",
+                        "url": "/research/US/Job=Graphic_Designer/Salary",
+                        "profileCount": 2104,
+                        "range": {
+                            "10": 36445.53,
+                            "25": 41737.86,
+                            "50": 49331.36,
+                            "75": 58498.58,
+                            "90": 68578.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1394,
+                        "range": {
+                            "10": 66227.92,
+                            "25": 76719.78,
+                            "50": 91206.1,
+                            "75": 112173.08,
+                            "90": 133434.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 999,
+                        "range": {
+                            "10": 54282.91,
+                            "25": 63947.39,
+                            "50": 76400.93,
+                            "75": 91981.09,
+                            "90": 112025.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 692,
+                        "range": {
+                            "10": 92330.47,
+                            "25": 106037.58,
+                            "50": 124325.6,
+                            "75": 144492.9,
+                            "90": 163924.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Interior Designer",
+                        "url": "/research/US/Job=Interior_Designer/Salary",
+                        "profileCount": 670,
+                        "range": {
+                            "10": 40344,
+                            "25": 46732.3,
+                            "50": 54626.51,
+                            "75": 64693.46,
+                            "90": 75561.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Graphic Designer",
+                        "url": "/research/US/Job=Senior_Graphic_Designer/Salary",
+                        "profileCount": 547,
+                        "range": {
+                            "10": 47689.69,
+                            "25": 55450.76,
+                            "50": 65763.61,
+                            "75": 77826.27,
+                            "90": 89721.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Architectural Designer",
+                        "url": "/research/US/Job=Architectural_Designer/Salary",
+                        "profileCount": 465,
+                        "range": {
+                            "10": 44629.11,
+                            "25": 50345.93,
+                            "50": 57079.34,
+                            "75": 65144.26,
+                            "90": 74329.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 434,
+                        "range": {
+                            "10": 83033.03,
+                            "25": 96747.26,
+                            "50": 114516.79,
+                            "75": 132390.23,
+                            "90": 151999.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Art Director",
+                        "url": "/research/US/Job=Art_Director/Salary",
+                        "profileCount": 369,
+                        "range": {
+                            "10": 49268.91,
+                            "25": 59433.95,
+                            "50": 73069.58,
+                            "75": 89073.18,
+                            "90": 108574.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Landscape Architect",
+                        "url": "/research/US/Job=Landscape_Architect/Salary",
+                        "profileCount": 271,
+                        "range": {
+                            "10": 48756.49,
+                            "25": 55885.19,
+                            "50": 65517.98,
+                            "75": 77388.58,
+                            "90": 91948.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Coordinator",
+                        "url": "/research/US/Job=Marketing_Coordinator/Salary",
+                        "profileCount": 271,
+                        "range": {
+                            "10": 37024.1,
+                            "25": 41589.58,
+                            "50": 48482.24,
+                            "75": 55148.16,
+                            "90": 62519.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 263,
+                        "range": {
+                            "10": 50858.14,
+                            "25": 62302.35,
+                            "50": 76540.95,
+                            "75": 93348.02,
+                            "90": 110598.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Creative Director",
+                        "url": "/research/US/Job=Creative_Director/Salary",
+                        "profileCount": 262,
+                        "range": {
+                            "10": 51254.33,
+                            "25": 69675.68,
+                            "50": 92923.61,
+                            "75": 127162.92,
+                            "90": 161356.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Architect",
+                        "url": "/research/US/Job=Project_Architect/Salary",
+                        "profileCount": 260,
+                        "range": {
+                            "10": 58433.88,
+                            "25": 66641.59,
+                            "50": 76856.3,
+                            "75": 89195.49,
+                            "90": 104340.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Intern Architect",
+                        "url": "/research/US/Job=Intern_Architect/Salary",
+                        "profileCount": 258,
+                        "range": {
+                            "10": 39396.26,
+                            "25": 43623.17,
+                            "50": 49566.35,
+                            "75": 55106.13,
+                            "90": 61648
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Architect (but not Landscape or Naval)",
+                        "url": "/research/US/Job=Architect_(but_not_Landscape_or_Naval)/Salary",
+                        "profileCount": 250,
+                        "range": {
+                            "10": 53332.09,
+                            "25": 61083.68,
+                            "50": 72257.67,
+                            "75": 86432.01,
+                            "90": 102092.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Architect",
+                        "url": "/research/US/Job=Design_Architect/Salary",
+                        "profileCount": 244,
+                        "range": {
+                            "10": 48700.3,
+                            "25": 55977.15,
+                            "50": 66682,
+                            "75": 82206.64,
+                            "90": 109196.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Landscape Designer",
+                        "url": "/research/US/Job=Landscape_Designer/Salary",
+                        "profileCount": 221,
+                        "range": {
+                            "10": 41660.06,
+                            "25": 47649.04,
+                            "50": 53861,
+                            "75": 61500.79,
+                            "90": 69224.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Graphic Artist / Designer",
+                        "url": "/research/US/Job=Graphic_Artist_%2F_Designer/Salary",
+                        "profileCount": 213,
+                        "range": {
+                            "10": 34397.85,
+                            "25": 41395.07,
+                            "50": 50625.86,
+                            "75": 63443.12,
+                            "90": 76595.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Interior Designer",
+                        "url": "/research/US/Job=Senior_Interior_Designer/Salary",
+                        "profileCount": 197,
+                        "range": {
+                            "10": 55401.92,
+                            "25": 62710.05,
+                            "50": 72732.43,
+                            "75": 86073.21,
+                            "90": 100725.99
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Level_Designer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Game Design, Unreal Engine, Video/Computer Gaming Software, Unity Engine, Design, C# Programming Language, Autodesk Maya, Adobe Photoshop",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-05-10T02:43:32.54138Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "39685.27",
+                            "percentile25": "51721.15",
+                            "median": "63221.9",
+                            "percentile75": "77493.94",
+                            "percentile90": "114323.14",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "41191.57",
+                            "percentile25": "58346.04",
+                            "median": "63013.4",
+                            "percentile75": "85551.65",
+                            "percentile90": "101990.66",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "2500",
+                            "median": "10000",
+                            "percentile75": "13058.19",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 55,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Level Designer",
+                    "url": "/research/US/Job=Level_Designer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

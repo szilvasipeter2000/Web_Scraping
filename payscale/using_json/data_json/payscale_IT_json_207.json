@@ -1,0 +1,642 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Disaster Recovery Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Disaster_Recovery_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Disaster_Recovery_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-03-17T04:49:01.80385Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Disaster Recovery Analyst is $28.82 per hour.",
+                    "summarySalary": "The average pay for a Disaster Recovery Analyst is $85,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 3000,
+                        "50": 8000,
+                        "75": 9000,
+                        "profileCount": 7
+                    },
+                    "hourlyRate": {
+                        "50": 28.82,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 51825.37,
+                        "25": 71083.24,
+                        "50": 85000,
+                        "75": 99020.01,
+                        "90": 119236.32,
+                        "profileCount": 18
+                    },
+                    "total": {
+                        "10": 58240.93,
+                        "25": 69251.33,
+                        "50": 85000,
+                        "75": 107072.45,
+                        "90": 119637.82,
+                        "profileCount": 21
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-03-17T04:49:01.80385Z",
+                        "profileCount": 21,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": {
+                                    "10": 58240.93,
+                                    "25": 69251.33,
+                                    "50": 85000,
+                                    "75": 107072.45,
+                                    "90": 119637.82
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-03-17T04:49:01.80385Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 28.82
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-03-17T04:49:01.80385Z",
+                        "profileCount": 18,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": {
+                                    "10": 51825.37,
+                                    "25": 71083.24,
+                                    "50": 85000,
+                                    "75": 99020.01,
+                                    "90": 119236.32
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-03-17T04:49:01.80385Z",
+                        "profileCount": 13,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-03-17T04:49:01.80385Z",
+                        "profileCount": 14,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Analyst/Salary/535e6aa3/Early-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Analyst/Salary/49cf0930/Mid-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 79804.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Analyst/Salary/b7aa9b2d/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 97452.9
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Disaster Recovery",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Analyst/Salary/0ec267c4/Disaster-Recovery",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 86358.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Analyst/Salary/54123316/Project-Management",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 89319.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Test Planning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Analyst/Salary/7646d72a/Test-Planning",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 92368.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Policy Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Disaster_Recovery_Analyst/Hourly_Rate/f2be2662/Policy-Development",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 94332.98
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 8,
+                        "score": 3.75
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3119,
+                        "range": {
+                            "10": 51383.65,
+                            "25": 62712.55,
+                            "50": 77512.37,
+                            "75": 95951.82,
+                            "90": 117391.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1373,
+                        "range": {
+                            "10": 55901.4,
+                            "25": 63527.57,
+                            "50": 72594.51,
+                            "75": 85198.65,
+                            "90": 101319.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1053,
+                        "range": {
+                            "10": 58888.23,
+                            "25": 66386.57,
+                            "50": 75759.58,
+                            "75": 88212.16,
+                            "90": 104229.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 992,
+                        "range": {
+                            "10": 45792.59,
+                            "25": 55678.17,
+                            "50": 69712.52,
+                            "75": 87423.58,
+                            "90": 109092.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 819,
+                        "range": {
+                            "10": 59027.81,
+                            "25": 72593.04,
+                            "50": 90178.61,
+                            "75": 111039.85,
+                            "90": 131454.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 662,
+                        "range": {
+                            "10": 51131.67,
+                            "25": 61960.26,
+                            "50": 78089.87,
+                            "75": 97483.61,
+                            "90": 122334.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 627,
+                        "range": {
+                            "10": 57549.21,
+                            "25": 71227.26,
+                            "50": 90222.46,
+                            "75": 113663.37,
+                            "90": 135399.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 517,
+                        "range": {
+                            "10": 56021.61,
+                            "25": 62403.62,
+                            "50": 71243.54,
+                            "75": 85309.35,
+                            "90": 103716.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 508,
+                        "range": {
+                            "10": 62603.89,
+                            "25": 70956.87,
+                            "50": 80898.07,
+                            "75": 96429.1,
+                            "90": 119145.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 479,
+                        "range": {
+                            "10": 67848.49,
+                            "25": 80886.09,
+                            "50": 98180.16,
+                            "75": 119063.74,
+                            "90": 139917.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 462,
+                        "range": {
+                            "10": 87585.06,
+                            "25": 101818.57,
+                            "50": 118409.02,
+                            "75": 135339.07,
+                            "90": 153215.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Construction Project Manager",
+                        "url": "/research/US/Job=Construction_Project_Manager/Salary",
+                        "profileCount": 422,
+                        "range": {
+                            "10": 55531.88,
+                            "25": 67717.39,
+                            "50": 82824.74,
+                            "75": 101135.49,
+                            "90": 122653.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 389,
+                        "range": {
+                            "10": 55739.83,
+                            "25": 72953.42,
+                            "50": 97219.93,
+                            "75": 128684.33,
+                            "90": 156987.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 382,
+                        "range": {
+                            "10": 46904.94,
+                            "25": 56725.94,
+                            "50": 70181.72,
+                            "75": 86253.76,
+                            "90": 104568.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Project Manager, Construction",
+                        "url": "/research/US/Job=Assistant_Project_Manager%2C_Construction/Salary",
+                        "profileCount": 366,
+                        "range": {
+                            "10": 46794.45,
+                            "25": 54814.29,
+                            "50": 65283.83,
+                            "75": 76340.98,
+                            "90": 87619.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 361,
+                        "range": {
+                            "10": 39700.22,
+                            "25": 45292.52,
+                            "50": 53245.1,
+                            "75": 62785.42,
+                            "90": 73105.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 354,
+                        "range": {
+                            "10": 60363.78,
+                            "25": 68161.63,
+                            "50": 77676.6,
+                            "75": 90383.55,
+                            "90": 107230.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 353,
+                        "range": {
+                            "10": 40751.57,
+                            "25": 48584.52,
+                            "50": 59106.24,
+                            "75": 72429.08,
+                            "90": 87459.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 351,
+                        "range": {
+                            "10": 81820.65,
+                            "25": 91262.14,
+                            "50": 103028.22,
+                            "75": 120279.48,
+                            "90": 138369.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 344,
+                        "range": {
+                            "10": 58456.98,
+                            "25": 65502.97,
+                            "50": 74112.69,
+                            "75": 84915.59,
+                            "90": 97400.02
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Disaster_Recovery_Analyst/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Disaster Recovery, Project Management, Test Planning, Policy Development",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-03-17T04:49:01.80385Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58240.93",
+                            "percentile25": "69251.33",
+                            "median": "85000",
+                            "percentile75": "107072.45",
+                            "percentile90": "119637.82",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "51825.37",
+                            "percentile25": "71083.24",
+                            "median": "85000",
+                            "percentile75": "99020.01",
+                            "percentile90": "119236.32",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "3000",
+                            "median": "8000",
+                            "percentile75": "9000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 22,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Disaster Recovery Analyst",
+                    "url": "/research/US/Job=Disaster_Recovery_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

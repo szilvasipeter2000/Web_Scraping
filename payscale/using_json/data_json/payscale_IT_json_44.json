@@ -1,0 +1,757 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Build and Release Manager",
+                    "url": "/research/US/Job=Build_and_Release_Manager/Salary",
+                    "compensation": 97850.8503210665,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Project Manager, Information Technology (IT)",
+                            "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                            "percent": 1,
+                            "compensation": 88805.49118824165,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Project Manager, IT",
+                                    "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                                    "percent": 0.16,
+                                    "compensation": 114652.62916500734,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Project Manager, (Unspecified Type / General)",
+                                    "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 74208.60456383067,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Program Manager, IT",
+                                    "url": "/research/US/Job=Program_Manager%2C_IT/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 112126.7913333327,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Build and Release Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Build_and_Release_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Build_and_Release_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-03-23T22:39:33.8348Z",
+                "narratives": {
+                    "description": "Build-and-release managers oversee the implementation of software from the development stage through its release, as well as provide support, planning, and coordination for their company's departments which work to develop and release software.\r\nThese managers may work closely with software developers, producers, system administrators, and project managers, and may also serve as liaisons between the departments involved in software development. They must also ensure that all budgets and time constraints are met at all times, so strong managerial and teamwork skills are essential for the position.\r\nAfter software is released, build-and-release managers may have further duties to ensure that the software is functioning properly, such as troubleshooting or developing upgrades. Those in this position must develop standard build-and-release practices and coding systems for their companies (or specific departments within them), but should also be able to adapt to new situations, as each project will be unique.\r\nPrior work experience with code management and build-and-release systems and a bachelor’s degree or higher in a computer science-related field are generally required for this position.",
+                    "summaryHourly": "The average pay for a Build And Release Manager is $31.50 per hour.",
+                    "summarySalary": "The average pay for a Build And Release Manager is $102,044 per year."
+                },
+                "tasks": [
+                    "Coordinate and manage all activities pertaining to upcoming software releases.",
+                    "Offer tech support to development team and IT managers.",
+                    "Assess and improve upon current systems, methods, and processes.",
+                    "Test software throughout developmental process and authorize its release."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 3750,
+                        "50": 10173.65,
+                        "75": 23500,
+                        "profileCount": 9
+                    },
+                    "hourlyRate": {
+                        "50": 31.5,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 57782.76,
+                        "25": 85854.99,
+                        "50": 102044.27,
+                        "75": 137292.46,
+                        "90": 156158.54,
+                        "profileCount": 32
+                    },
+                    "total": {
+                        "10": 54382.39,
+                        "25": 83772.62,
+                        "50": 105698.28,
+                        "75": 137292.46,
+                        "90": 159831.25,
+                        "profileCount": 36
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-03-23T22:39:33.8348Z",
+                        "profileCount": 36,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 36,
+                                "range": {
+                                    "10": 54382.39,
+                                    "25": 83772.62,
+                                    "50": 105698.28,
+                                    "75": 137292.46,
+                                    "90": 159831.25
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-03-23T22:39:33.8348Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 31.5
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-03-23T22:39:33.8348Z",
+                        "profileCount": 32,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 32,
+                                "range": {
+                                    "10": 57782.76,
+                                    "25": 85854.99,
+                                    "50": 102044.27,
+                                    "75": 137292.46,
+                                    "90": 156158.54
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-03-23T22:39:33.8348Z",
+                        "profileCount": 16,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-03-23T22:39:33.8348Z",
+                        "profileCount": 27,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/b9c505a3/Early-Career",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 81890.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/db0d2869/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 98868.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/f4b2865b/Experienced",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 121500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/88c58789/Late-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 134604.73
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/c104aa06/San-Francisco-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 134062.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/bac28720/New-York-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Release Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/1a85886a/Release-Management",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 102304.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/d781feb6/Project-Management",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 107000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Continuous Integration (CI)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/655e751e/Continuous-Integration-CI",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 147454.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Team Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/f38f405d/Team-Management",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 98000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Development Operations (DevOps)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/37938965/Development-Operations-DevOps",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 120250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology Infrastructure Library (ITIL)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_and_Release_Manager/Salary/f50d273a/Information-Technology-Infrastructure-Library-ITIL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 177464.79
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3129,
+                        "range": {
+                            "10": 51383.65,
+                            "25": 62712.55,
+                            "50": 77512.37,
+                            "75": 95951.82,
+                            "90": 117391.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1371,
+                        "range": {
+                            "10": 55901.4,
+                            "25": 63527.57,
+                            "50": 72594.51,
+                            "75": 85198.65,
+                            "90": 101319.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1050,
+                        "range": {
+                            "10": 58888.23,
+                            "25": 66386.57,
+                            "50": 75759.58,
+                            "75": 88212.16,
+                            "90": 104229.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1043,
+                        "range": {
+                            "10": 45792.59,
+                            "25": 55678.17,
+                            "50": 69712.52,
+                            "75": 87423.58,
+                            "90": 109092.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 835,
+                        "range": {
+                            "10": 59027.81,
+                            "25": 72593.04,
+                            "50": 90178.61,
+                            "75": 111039.85,
+                            "90": 131454.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 666,
+                        "range": {
+                            "10": 57549.21,
+                            "25": 71227.26,
+                            "50": 90222.46,
+                            "75": 113663.37,
+                            "90": 135399.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 663,
+                        "range": {
+                            "10": 51131.67,
+                            "25": 61960.26,
+                            "50": 78089.87,
+                            "75": 97483.61,
+                            "90": 122334.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 527,
+                        "range": {
+                            "10": 87585.06,
+                            "25": 101818.57,
+                            "50": 118409.02,
+                            "75": 135339.07,
+                            "90": 153215.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 517,
+                        "range": {
+                            "10": 56021.61,
+                            "25": 62403.62,
+                            "50": 71243.54,
+                            "75": 85309.35,
+                            "90": 103716.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 502,
+                        "range": {
+                            "10": 62603.89,
+                            "25": 70956.87,
+                            "50": 80898.07,
+                            "75": 96429.1,
+                            "90": 119145.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 480,
+                        "range": {
+                            "10": 67848.49,
+                            "25": 80886.09,
+                            "50": 98180.16,
+                            "75": 119063.74,
+                            "90": 139917.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Construction Project Manager",
+                        "url": "/research/US/Job=Construction_Project_Manager/Salary",
+                        "profileCount": 422,
+                        "range": {
+                            "10": 55531.88,
+                            "25": 67717.39,
+                            "50": 82824.74,
+                            "75": 101135.49,
+                            "90": 122653.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 409,
+                        "range": {
+                            "10": 55739.83,
+                            "25": 72953.42,
+                            "50": 97219.93,
+                            "75": 128684.33,
+                            "90": 156987.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 386,
+                        "range": {
+                            "10": 46904.94,
+                            "25": 56725.94,
+                            "50": 70181.72,
+                            "75": 86253.76,
+                            "90": 104568.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Project Manager, Construction",
+                        "url": "/research/US/Job=Assistant_Project_Manager%2C_Construction/Salary",
+                        "profileCount": 366,
+                        "range": {
+                            "10": 46794.45,
+                            "25": 54814.29,
+                            "50": 65283.83,
+                            "75": 76340.98,
+                            "90": 87619.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 362,
+                        "range": {
+                            "10": 39700.22,
+                            "25": 45292.52,
+                            "50": 53245.1,
+                            "75": 62785.42,
+                            "90": 73105.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 355,
+                        "range": {
+                            "10": 40751.57,
+                            "25": 48584.52,
+                            "50": 59106.24,
+                            "75": 72429.08,
+                            "90": 87459.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 355,
+                        "range": {
+                            "10": 60363.78,
+                            "25": 68161.63,
+                            "50": 77676.6,
+                            "75": 90383.55,
+                            "90": 107230.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 348,
+                        "range": {
+                            "10": 81820.65,
+                            "25": 91262.14,
+                            "50": 103028.22,
+                            "75": 120279.48,
+                            "90": 138369.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 342,
+                        "range": {
+                            "10": 58456.98,
+                            "25": 65502.97,
+                            "50": 74112.69,
+                            "75": 84915.59,
+                            "90": 97400.02
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Build_and_Release_Manager/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Release Management, Project Management, Continuous Integration (CI), Team Management, Development Operations (DevOps), Information Technology Infrastructure Library (ITIL)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-03-23T22:39:33.8348Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "54382.39",
+                            "percentile25": "83772.62",
+                            "median": "105698.28",
+                            "percentile75": "137292.46",
+                            "percentile90": "159831.25",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "57782.76",
+                            "percentile25": "85854.99",
+                            "median": "102044.27",
+                            "percentile75": "137292.46",
+                            "percentile90": "156158.54",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "3750",
+                            "median": "10173.65",
+                            "percentile75": "23500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 42,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Build-and-release managers oversee the implementation of software from the development stage through its release, as well as provide support, planning, and coordination for their company's departments which work to develop and release software.\r\nThese managers may work closely with software developers, producers, system administrators, and project managers, and may also serve as liaisons between the departments involved in software development. They must also ensure that all budgets and time constraints are met at all times, so strong managerial and teamwork skills are essential for the position.\r\nAfter software is released, build-and-release managers may have further duties to ensure that the software is functioning properly, such as troubleshooting or developing upgrades. Those in this position must develop standard build-and-release practices and coding systems for their companies (or specific departments within them), but should also be able to adapt to new situations, as each project will be unique.\r\nPrior work experience with code management and build-and-release systems and a bachelor’s degree or higher in a computer science-related field are generally required for this position.",
+                    "name": "Build and Release Manager",
+                    "url": "/research/US/Job=Build_and_Release_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

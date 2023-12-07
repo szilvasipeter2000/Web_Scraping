@@ -1,0 +1,774 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "ASIC Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=ASIC_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=ASIC_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-09-14T13:49:16.81353Z",
+                "narratives": {
+                    "description": "ASIC (application-specific integrated circuit) engineers work to design  microchips for specific applications, such as transmission protocols, hand-held computers, and smartphones. Their work is different than that of engineers who work with general integrated circuits, such as microprocessors and random-access memory chips in personal computers. They generally work for companies in electronics, defense, and aerospace, as well as government institutions, and work with architecture, design, implementation, and system integration of a wide variety of integrated circuits.\r\nA bachelor's degree in electrical engineering or a related field is generally required for this position, and some employers may prefer candidates who have master's degrees and/or prior research experience. ASIC engineers who work for technology companies are often required to pass security clearance due to Export Control restrictions related to high-technology products. Many employers also require candidates to be U.S. Citizens or Lawful Permanent Resident of the United States. ASIC engineers may also be responsible for various projects and project management (planning, schedule, budget, cost and scope control, and risk management). They may interact with outside clients in addition to internal clients from other departments of their companies.\r\nASIC engineers work closely with employees of departments such as electrical design, mechanical design, and others which work on the same projects. They must work well in team-oriented environments and maintain confidentiality, and may be required to travel on occasion. Excellent interpersonal skills and oral and written communications skills are highly beneficial.",
+                    "summarySalary": "The average pay for an ASIC Engineer is $116,546 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 503.35,
+                        "25": 5042.06,
+                        "50": 10000,
+                        "75": 13734.43,
+                        "90": 21852.45,
+                        "profileCount": 10
+                    },
+                    "salary": {
+                        "10": 59179.54,
+                        "25": 91562.83,
+                        "50": 116546.26,
+                        "75": 155078.59,
+                        "90": 164507.5,
+                        "profileCount": 20
+                    },
+                    "total": {
+                        "10": 59419.09,
+                        "25": 91562.83,
+                        "50": 128394.14,
+                        "75": 162111.26,
+                        "90": 178888.47,
+                        "profileCount": 20
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-09-14T13:49:16.81353Z",
+                        "profileCount": 20,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 59419.09,
+                                    "25": 91562.83,
+                                    "50": 128394.14,
+                                    "75": 162111.26,
+                                    "90": 178888.47
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-09-14T13:49:16.81353Z",
+                        "profileCount": 20,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 59179.54,
+                                    "25": 91562.83,
+                                    "50": 116546.26,
+                                    "75": 155078.59,
+                                    "90": 164507.5
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-09-14T13:49:16.81353Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-09-14T13:49:16.81353Z",
+                        "profileCount": 16,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Juniper Networks, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/178df232/Juniper-Networks-Inc.",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 123804.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nvidia Corp",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/78cafa69/Nvidia-Corp",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 120767.89
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/b6e6b131/Entry-Level",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 104963.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/b6e6b131/Early-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 107886.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/b19a858c/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 121337.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/bf3e3507/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 127500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/3083e7fe/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 140000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/46a9f024/San-Jose-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 123000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sunnyvale, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/4e06d2d5/Sunnyvale-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 125683.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Clara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/073d86dc/Santa-Clara-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 120479.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fremont, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/131c6f04/Fremont-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 93480.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/a4b2a7f7/San-Diego-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 137568.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/18eaadd3/Minneapolis-MN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 88564.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/16bac2c3/Austin-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/1a84b01e/Los-Angeles-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 107000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Verilog",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/53b63d09/Verilog",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 116546.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Digital Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/7a609dc6/Digital-Design",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 121000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Simulation",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/a80eb3ef/Simulation",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 128935.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Engineering Design, Semiconductor",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/c4c8b49b/Engineering-Design-Semiconductor",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Perl",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/6dbb95da/Perl",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 123000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "VHSIC Hardware Description Language (VHDL)",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/817181f0/VHSIC-Hardware-Description-Language-VHDL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Verilog VHDL",
+                                "displayName": null,
+                                "url": "/research/US/Job=ASIC_Engineer/Salary/6772627a/Verilog-VHDL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 132500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 3.6
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Design Verification Engineer",
+                        "url": "/research/US/Job=Design_Verification_Engineer/Salary",
+                        "profileCount": 152,
+                        "range": {
+                            "10": 77891.18,
+                            "25": 92640.83,
+                            "50": 107364.45,
+                            "75": 126348.96,
+                            "90": 148475.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 72,
+                        "range": {
+                            "10": 80514.34,
+                            "25": 90151.42,
+                            "50": 101730.48,
+                            "75": 118876.24,
+                            "90": 136554.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Radio Frequency (RF) Engineer",
+                        "url": "/research/US/Job=Radio_Frequency_(RF)_Engineer/Salary",
+                        "profileCount": 61,
+                        "range": {
+                            "10": 66327.05,
+                            "25": 77028.13,
+                            "50": 92117.42,
+                            "75": 115199.66,
+                            "90": 135602.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 61,
+                        "range": {
+                            "10": 60882.44,
+                            "25": 69069.81,
+                            "50": 78737.07,
+                            "75": 93871.92,
+                            "90": 116861.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Radiation Therapist",
+                        "url": "/research/US/Job=Radiation_Therapist/Hourly_Rate",
+                        "profileCount": 59,
+                        "range": {
+                            "10": 55467.34,
+                            "25": 64387.45,
+                            "50": 74405.62,
+                            "75": 86596.23,
+                            "90": 98142.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Hardware Engineer",
+                        "url": "/research/US/Job=Hardware_Engineer/Salary",
+                        "profileCount": 56,
+                        "range": {
+                            "10": 66693.51,
+                            "25": 76501.05,
+                            "50": 89462.6,
+                            "75": 113280.44,
+                            "90": 137627.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Physical Design Engineer",
+                        "url": "/research/US/Job=Physical_Design_Engineer/Salary",
+                        "profileCount": 55,
+                        "range": {
+                            "10": 86620.4,
+                            "25": 100077.85,
+                            "50": 116475.62,
+                            "75": 139906.23,
+                            "90": 154949.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "ASIC Design Engineer",
+                        "url": "/research/US/Job=ASIC_Design_Engineer/Salary",
+                        "profileCount": 47,
+                        "range": {
+                            "10": 81491.95,
+                            "25": 89901.9,
+                            "50": 104200.88,
+                            "75": 120783.21,
+                            "90": 142641.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Design Engineer",
+                        "url": "/research/US/Job=Digital_Design_Engineer/Salary",
+                        "profileCount": 45,
+                        "range": {
+                            "10": 71848.78,
+                            "25": 83370.77,
+                            "50": 95902.84,
+                            "75": 110150.26,
+                            "90": 131218.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Hardware Design Engineer",
+                        "url": "/research/US/Job=Senior_Hardware_Design_Engineer/Salary",
+                        "profileCount": 45,
+                        "range": {
+                            "10": 92452.45,
+                            "25": 106479.35,
+                            "50": 127182.31,
+                            "75": 142915.31,
+                            "90": 163432.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 40,
+                        "range": {
+                            "10": 64609.21,
+                            "25": 74807.28,
+                            "50": 89086.05,
+                            "75": 110078.52,
+                            "90": 130577.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior ASIC Design Engineer",
+                        "url": "/research/US/Job=Senior_ASIC_Design_Engineer/Salary",
+                        "profileCount": 38,
+                        "range": {
+                            "10": 104737.01,
+                            "25": 115783.85,
+                            "50": 130991.95,
+                            "75": 152688.93,
+                            "90": 176726.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Designer",
+                        "url": "/research/US/Job=Digital_Designer/Salary",
+                        "profileCount": 36,
+                        "range": {
+                            "10": 42260.31,
+                            "25": 49086.34,
+                            "50": 58254.6,
+                            "75": 69084.44,
+                            "90": 79387.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Engineer, Analog and Mixed Signal",
+                        "url": "/research/US/Job=Design_Engineer%2C_Analog_and_Mixed_Signal/Salary",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 82305.36,
+                            "25": 91678.89,
+                            "50": 105702.25,
+                            "75": 128689.59,
+                            "90": 163178.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Engineer, Semiconductor",
+                        "url": "/research/US/Job=Principal_Engineer%2C_Semiconductor/Salary",
+                        "profileCount": 32,
+                        "range": {
+                            "10": 98530.14,
+                            "25": 124987.12,
+                            "50": 143429.52,
+                            "75": 173017.48,
+                            "90": 200630.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 31,
+                        "range": {
+                            "10": 59358.19,
+                            "25": 66832.3,
+                            "50": 76136.97,
+                            "75": 88431.73,
+                            "90": 105076.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Electrical Engineer",
+                        "url": "/research/US/Job=Senior_Electrical_Engineer/Salary",
+                        "profileCount": 27,
+                        "range": {
+                            "10": 85459.44,
+                            "25": 96021.25,
+                            "50": 108738.86,
+                            "75": 124781.46,
+                            "90": 143995.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Engineer",
+                        "url": "/research/US/Job=Design_Engineer/Salary",
+                        "profileCount": 26,
+                        "range": {
+                            "10": 54209.41,
+                            "25": 61604.59,
+                            "50": 70140.02,
+                            "75": 82733.99,
+                            "90": 101457.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Hardware Design Engineer",
+                        "url": "/research/US/Job=Hardware_Design_Engineer/Salary",
+                        "profileCount": 23,
+                        "range": {
+                            "10": 68118.71,
+                            "25": 76028.5,
+                            "50": 92766.2,
+                            "75": 116336.86,
+                            "90": 137455.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Engineer",
+                        "url": "/research/US/Job=Research_Engineer/Salary",
+                        "profileCount": 23,
+                        "range": {
+                            "10": 61411.94,
+                            "25": 71092.69,
+                            "50": 83965.66,
+                            "75": 103681.92,
+                            "90": 122308.31
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=ASIC_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Verilog, Digital Design, Simulation, Engineering Design, Semiconductor, Perl, VHSIC Hardware Description Language (VHDL), Verilog VHDL",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-09-14T13:49:16.81353Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "59419.09",
+                            "percentile25": "91562.83",
+                            "median": "128394.14",
+                            "percentile75": "162111.26",
+                            "percentile90": "178888.47",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "59179.54",
+                            "percentile25": "91562.83",
+                            "median": "116546.26",
+                            "percentile75": "155078.59",
+                            "percentile90": "164507.5",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "503.35",
+                            "percentile25": "5042.06",
+                            "median": "10000",
+                            "percentile75": "13734.43",
+                            "percentile90": "21852.45",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 23,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "ASIC (application-specific integrated circuit) engineers work to design  microchips for specific applications, such as transmission protocols, hand-held computers, and smartphones. Their work is different than that of engineers who work with general integrated circuits, such as microprocessors and random-access memory chips in personal computers. They generally work for companies in electronics, defense, and aerospace, as well as government institutions, and work with architecture, design, implementation, and system integration of a wide variety of integrated circuits.\r\nA bachelor's degree in electrical engineering or a related field is generally required for this position, and some employers may prefer candidates who have master's degrees and/or prior research experience. ASIC engineers who work for technology companies are often required to pass security clearance due to Export Control restrictions related to high-technology products. Many employers also require candidates to be U.S. Citizens or Lawful Permanent Resident of the United States. ASIC engineers may also be responsible for various projects and project management (planning, schedule, budget, cost and scope control, and risk management). They may interact with outside clients in addition to internal clients from other departments of their companies.\r\nASIC engineers work closely with employees of departments such as electrical design, mechanical design, and others which work on the same projects. They must work well in team-oriented environments and maintain confidentiality, and may be required to travel on occasion. Excellent interpersonal skills and oral and written communications skills are highly beneficial.",
+                    "name": "ASIC Engineer",
+                    "url": "/research/US/Job=ASIC_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

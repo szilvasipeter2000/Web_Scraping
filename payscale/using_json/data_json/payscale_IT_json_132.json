@@ -1,0 +1,817 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Configuration Management (CM) Manager",
+                    "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary",
+                    "compensation": 100619.84764656353,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Configuration Manager",
+                            "url": "/research/US/Job=Configuration_Manager/Salary",
+                            "percent": 1,
+                            "compensation": 86704.48897161258,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Configuration Management (CM) Manager",
+                                    "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary",
+                                    "percent": 0.21,
+                                    "compensation": 100619.84764656353,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Development Operations (DevOps) Engineer",
+                                    "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 94627.18934399256,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Configuration Management (CM) Analyst",
+                                    "url": "/research/US/Job=Configuration_Management_(CM)_Analyst/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 70369.94438874551,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Configuration Management (CM) Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-14T05:32:19.08381Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Configuration Management (CM) Manager is $34.17 per hour.",
+                    "summarySalary": "The average pay for a Configuration Management (CM) Manager is $98,315 per year."
+                },
+                "tasks": [
+                    "Identify, organize, and control software and hardware configuration changes.",
+                    "Identify and coordinate processes for version management, system build, backup and recovery, archiving, and change management.",
+                    "Support and facilitate auditing and reporting.",
+                    "Oversee baseline configurations for applications, software, and hardware assets."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 1634.06,
+                        "25": 2569.73,
+                        "50": 4182.69,
+                        "75": 7861.08,
+                        "90": 12429.67,
+                        "profileCount": 12
+                    },
+                    "hourlyRate": {
+                        "25": 33.02,
+                        "50": 34.17,
+                        "75": 40.59,
+                        "profileCount": 5
+                    },
+                    "profitSharing": {
+                        "50": 8895.83,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 68483.73,
+                        "25": 83982.22,
+                        "50": 98314.95,
+                        "75": 119021.83,
+                        "90": 136269.67,
+                        "profileCount": 54
+                    },
+                    "total": {
+                        "10": 68244.73,
+                        "25": 79255.8,
+                        "50": 98174.49,
+                        "75": 116868.58,
+                        "90": 138689.97,
+                        "profileCount": 59
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-14T05:32:19.08381Z",
+                        "profileCount": 59,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 59,
+                                "range": {
+                                    "10": 68244.73,
+                                    "25": 79255.8,
+                                    "50": 98174.49,
+                                    "75": 116868.58,
+                                    "90": 138689.97
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-11-14T05:32:19.08381Z",
+                        "profileCount": 5,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 33.02,
+                                    "50": 34.17,
+                                    "75": 40.59
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-14T05:32:19.08381Z",
+                        "profileCount": 54,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 54,
+                                "range": {
+                                    "10": 68483.73,
+                                    "25": 83982.22,
+                                    "50": 98314.95,
+                                    "75": 119021.83,
+                                    "90": 136269.67
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-14T05:32:19.08381Z",
+                        "profileCount": 22,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-14T05:32:19.08381Z",
+                        "profileCount": 28,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Northrop Grumman Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/311d2bc5/Northrop-Grumman-Corporation",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 120500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/db717087/Early-Career",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 70174.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/0b704389/Mid-Career",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 94000.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/92829949/Experienced",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 101885.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/b92c2589/Late-Career",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 117761.81
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/2ec975bd/San-Diego-CA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 91000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Melbourne, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/fc9d65b1/Melbourne-FL",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 109074.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/a5bdcdba/Washington-DC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 102439.02
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Change Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/32a800a2/Change-Management",
+                                "profileCount": 53,
+                                "range": {
+                                    "50": 100134.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hardware Configuration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/b177ecd0/Hardware-Configuration",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 94013.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/512b8d18/Data-Management",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 94516.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Team Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/f4c5868d/Team-Leadership",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 106373.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Configuration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/7bb58fca/Software-Configuration",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 94288.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Release Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/34d311d3/Release-Management",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 97913.2
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology Infrastructure Library (ITIL)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/98aafadc/Information-Technology-Infrastructure-Library-ITIL",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 111193.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/0305115a/Project-Management",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 88130.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Technical Writing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary/8f93f506/Technical-Writing",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 100910.89
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 11,
+                        "score": 3.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3222,
+                        "range": {
+                            "10": 52926.71,
+                            "25": 64305.12,
+                            "50": 79208.69,
+                            "75": 97879.13,
+                            "90": 119116.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1668,
+                        "range": {
+                            "10": 47346.26,
+                            "25": 57593.34,
+                            "50": 71635.22,
+                            "75": 89783.56,
+                            "90": 111875.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1410,
+                        "range": {
+                            "10": 57206.25,
+                            "25": 64949.43,
+                            "50": 74294.31,
+                            "75": 87165.42,
+                            "90": 103737.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1123,
+                        "range": {
+                            "10": 60034.46,
+                            "25": 68027.85,
+                            "50": 77832.6,
+                            "75": 90961.09,
+                            "90": 108357.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1009,
+                        "range": {
+                            "10": 57612.1,
+                            "25": 75074.37,
+                            "50": 100082.49,
+                            "75": 132355.03,
+                            "90": 161802.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 872,
+                        "range": {
+                            "10": 60533.27,
+                            "25": 74262.39,
+                            "50": 92463.13,
+                            "75": 113981.49,
+                            "90": 135378.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 708,
+                        "range": {
+                            "10": 52848.4,
+                            "25": 64363.41,
+                            "50": 80591.77,
+                            "75": 100689.36,
+                            "90": 124702.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 696,
+                        "range": {
+                            "10": 58802.67,
+                            "25": 72830.48,
+                            "50": 92036.74,
+                            "75": 116007.22,
+                            "90": 138338.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 640,
+                        "range": {
+                            "10": 46553.8,
+                            "25": 54457.95,
+                            "50": 63536.13,
+                            "75": 74731.67,
+                            "90": 88899.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 580,
+                        "range": {
+                            "10": 43271.13,
+                            "25": 54360.57,
+                            "50": 71631.04,
+                            "75": 95877.92,
+                            "90": 123986.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 544,
+                        "range": {
+                            "10": 88833.69,
+                            "25": 102871.56,
+                            "50": 119984.88,
+                            "75": 137375.63,
+                            "90": 155345.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 542,
+                        "range": {
+                            "10": 57614.99,
+                            "25": 64170.74,
+                            "50": 73422.46,
+                            "75": 87974.51,
+                            "90": 106749.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 529,
+                        "range": {
+                            "10": 63974.65,
+                            "25": 72462.22,
+                            "50": 82904.73,
+                            "75": 98755.32,
+                            "90": 122455.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 508,
+                        "range": {
+                            "10": 70314.14,
+                            "25": 83633.94,
+                            "50": 101010.2,
+                            "75": 121866.96,
+                            "90": 143021.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Project Manager",
+                        "url": "/research/US/Job=Technical_Project_Manager/Salary",
+                        "profileCount": 466,
+                        "range": {
+                            "10": 68035.96,
+                            "25": 82947.35,
+                            "50": 99796.65,
+                            "75": 121844.9,
+                            "90": 140440.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Construction Project Manager",
+                        "url": "/research/US/Job=Construction_Project_Manager/Salary",
+                        "profileCount": 433,
+                        "range": {
+                            "10": 57341.61,
+                            "25": 69073.56,
+                            "50": 84586.24,
+                            "75": 102783.95,
+                            "90": 123718.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Creative Director",
+                        "url": "/research/US/Job=Creative_Director/Salary",
+                        "profileCount": 432,
+                        "range": {
+                            "10": 52553.35,
+                            "25": 70687.25,
+                            "50": 94972.27,
+                            "75": 128855.04,
+                            "90": 164315.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 418,
+                        "range": {
+                            "10": 48302.86,
+                            "25": 58490.17,
+                            "50": 71934.49,
+                            "75": 88105.76,
+                            "90": 106984.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 413,
+                        "range": {
+                            "10": 34366.68,
+                            "25": 41777.32,
+                            "50": 50833.92,
+                            "75": 60015.89,
+                            "90": 67929.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 413,
+                        "range": {
+                            "10": 49291.98,
+                            "25": 56545.57,
+                            "50": 65602.94,
+                            "75": 74707.06,
+                            "90": 83660.31
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Change Management, Hardware Configuration, Data Management, Team Leadership, Software Configuration, Release Management, Information Technology Infrastructure Library (ITIL), Project Management, Technical Writing",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-14T05:32:19.08381Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "68244.73",
+                            "percentile25": "79255.8",
+                            "median": "98174.49",
+                            "percentile75": "116868.58",
+                            "percentile90": "138689.97",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "68483.73",
+                            "percentile25": "83982.22",
+                            "median": "98314.95",
+                            "percentile75": "119021.83",
+                            "percentile90": "136269.67",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1634.06",
+                            "percentile25": "2569.73",
+                            "median": "4182.69",
+                            "percentile75": "7861.08",
+                            "percentile90": "12429.67",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 74,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Configuration Management (CM) Manager",
+                    "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

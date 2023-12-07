@@ -1,0 +1,866 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "ERP Business Analyst",
+                    "url": "/research/US/Job=ERP_Business_Analyst/Salary",
+                    "compensation": 69931.38764511443,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 3,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Project Manager, (Unspecified Type / General)",
+                            "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                            "percent": 0.33,
+                            "compensation": 74208.60456383067,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Operations Manager",
+                                    "url": "/research/US/Job=Operations_Manager/Salary",
+                                    "percent": 0.02,
+                                    "compensation": 65328.36414059342,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Sr. Project Manager, Operations",
+                                    "url": "/research/US/Job=Sr._Project_Manager%2C_Operations/Salary",
+                                    "percent": 0.02,
+                                    "compensation": 99107.556384387,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Director of Operations",
+                                    "url": "/research/US/Job=Director_of_Operations/Salary",
+                                    "percent": 0.02,
+                                    "compensation": 91788.23970928165,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Sr. Business Analyst (Computer Software/Hardware/Systems)",
+                            "url": "/research/US/Job=Sr._Business_Analyst_(Computer_Software%2FHardware%2FSystems)/Salary",
+                            "percent": 0.33,
+                            "compensation": 93712.78351892272,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Business Analyst",
+                                    "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                                    "percent": 0.18,
+                                    "compensation": 84962.89248305504,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Business Systems Analyst",
+                                    "url": "/research/US/Job=Senior_Business_Systems_Analyst/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 93069.65520332425,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Product Manager, Software",
+                                    "url": "/research/US/Job=Product_Manager%2C_Software/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 96063.90136513123,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": {
+                            "jobTitle": "ERP Manager",
+                            "url": "/research/US/Job=ERP_Manager/Salary",
+                            "percent": 0.33,
+                            "compensation": 94773.89274845824,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "SAP Project Manager",
+                                    "url": "/research/US/Job=SAP_Project_Manager/Salary",
+                                    "percent": 0.31,
+                                    "compensation": 110726.90714828092,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Director",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                                    "percent": 0.23,
+                                    "compensation": 119787.52007147866,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.23,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "ERP Business Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=ERP_Business_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=ERP_Business_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-01T23:01:19.21454Z",
+                "narratives": {
+                    "summarySalary": "The average pay for an ERP Business Analyst is $74,989 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 700,
+                        "25": 1768.74,
+                        "50": 3064.66,
+                        "75": 5595.51,
+                        "90": 9842.03,
+                        "profileCount": 14
+                    },
+                    "salary": {
+                        "10": 58938.45,
+                        "25": 66074.47,
+                        "50": 74988.69,
+                        "75": 98236.52,
+                        "90": 113996.37,
+                        "profileCount": 44
+                    },
+                    "total": {
+                        "10": 60469.69,
+                        "25": 67754.99,
+                        "50": 76044.31,
+                        "75": 99867.2,
+                        "90": 115105.97,
+                        "profileCount": 45
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-01T23:01:19.21454Z",
+                        "profileCount": 45,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 45,
+                                "range": {
+                                    "10": 60469.69,
+                                    "25": 67754.99,
+                                    "50": 76044.31,
+                                    "75": 99867.2,
+                                    "90": 115105.97
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-01T23:01:19.21454Z",
+                        "profileCount": 44,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 44,
+                                "range": {
+                                    "10": 58938.45,
+                                    "25": 66074.47,
+                                    "50": 74988.69,
+                                    "75": 98236.52,
+                                    "90": 113996.37
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-01T23:01:19.21454Z",
+                        "profileCount": 21,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-01T23:01:19.21454Z",
+                        "profileCount": 25,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/82c52538/Early-Career",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 73263.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/c2f475db/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 72237.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/cb4d28eb/Experienced",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 82928.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/2dbc1c2c/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/429f2141/Raleigh-NC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/42c4d649/Dallas-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 65731.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/c576cc12/Houston-TX",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Greenville, South Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/ffcb8b8e/Greenville-SC",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 59900
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Enterprise Resource Planning (ERP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/73653f26/Enterprise-Resource-Planning-ERP",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 74552.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/7e81efff/Business-Analysis",
+                                "profileCount": 28,
+                                "range": {
+                                    "50": 67463.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/558fc05a/Data-Analysis",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 70030.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Functional Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/1cbe83d9/Functional-Analysis",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 68967.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/c48ab5ae/SQL",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 97924.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Requirements Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/935182f0/Requirements-Analysis",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 97850
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAP Enterprise Resource Planning (ERP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/dbaf491f/SAP-Enterprise-Resource-Planning-ERP",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle eBusiness Suite",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/f20fd8e9/Oracle-eBusiness-Suite",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAP Materials Management (SAP MM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=ERP_Business_Analyst/Salary/ab3cf21a/SAP-Materials-Management-SAP-MM",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 79000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 7,
+                        "score": 3.86
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2343,
+                        "range": {
+                            "10": 47862.23,
+                            "25": 55763.66,
+                            "50": 66044.94,
+                            "75": 77901.83,
+                            "90": 90487.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 1658,
+                        "range": {
+                            "10": 67143.63,
+                            "25": 76816.2,
+                            "50": 89064.69,
+                            "75": 103208.72,
+                            "90": 120515.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1512,
+                        "range": {
+                            "10": 66826.41,
+                            "25": 77376.61,
+                            "50": 91934.29,
+                            "75": 112917.92,
+                            "90": 134545.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 1505,
+                        "range": {
+                            "10": 53771.87,
+                            "25": 62473.82,
+                            "50": 73385.74,
+                            "75": 86889.97,
+                            "90": 103150.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 1137,
+                        "range": {
+                            "10": 54679.8,
+                            "25": 62878.6,
+                            "50": 72650.34,
+                            "75": 87259.75,
+                            "90": 101648.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 995,
+                        "range": {
+                            "10": 50437.65,
+                            "25": 57506.54,
+                            "50": 65537.6,
+                            "75": 75374.79,
+                            "90": 86628.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 990,
+                        "range": {
+                            "10": 49804.2,
+                            "25": 57345.89,
+                            "50": 66367.3,
+                            "75": 76877.72,
+                            "90": 87660.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 956,
+                        "range": {
+                            "10": 54781.22,
+                            "25": 64409.54,
+                            "50": 77065.23,
+                            "75": 92835.43,
+                            "90": 112739.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 777,
+                        "range": {
+                            "10": 93079.35,
+                            "25": 106995.4,
+                            "50": 125138.73,
+                            "75": 145333.1,
+                            "90": 164906.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 711,
+                        "range": {
+                            "10": 54297.94,
+                            "25": 62802.65,
+                            "50": 72943.84,
+                            "75": 84904.27,
+                            "90": 99424.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 689,
+                        "range": {
+                            "10": 65597.81,
+                            "25": 75487.79,
+                            "50": 87744.16,
+                            "75": 101950.33,
+                            "90": 117598.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 638,
+                        "range": {
+                            "10": 70955.07,
+                            "25": 82872.24,
+                            "50": 99235.3,
+                            "75": 119652.41,
+                            "90": 137854.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 558,
+                        "range": {
+                            "10": 68495.17,
+                            "25": 76664.66,
+                            "50": 86115.47,
+                            "75": 96733.51,
+                            "90": 108325.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 483,
+                        "range": {
+                            "10": 67335.33,
+                            "25": 79792.24,
+                            "50": 95516.75,
+                            "75": 116493.03,
+                            "90": 134945.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 470,
+                        "range": {
+                            "10": 84135.25,
+                            "25": 97820.52,
+                            "50": 116061.35,
+                            "75": 134146.21,
+                            "90": 154457.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 459,
+                        "range": {
+                            "10": 46803.29,
+                            "25": 53187.29,
+                            "50": 61697.23,
+                            "75": 72074.93,
+                            "90": 83867.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Product Manager, Software",
+                        "url": "/research/US/Job=Product_Manager%2C_Software/Salary",
+                        "profileCount": 439,
+                        "range": {
+                            "10": 72708.03,
+                            "25": 86957.08,
+                            "50": 104650.76,
+                            "75": 124102.01,
+                            "90": 141900.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 419,
+                        "range": {
+                            "10": 59802.33,
+                            "25": 73676.09,
+                            "50": 91793.87,
+                            "75": 112657.06,
+                            "90": 133862.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Analyst",
+                        "url": "/research/US/Job=Systems_Analyst/Salary",
+                        "profileCount": 418,
+                        "range": {
+                            "10": 50093.41,
+                            "25": 58728.68,
+                            "50": 69792.61,
+                            "75": 83826.2,
+                            "90": 98724.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Analytics Manager",
+                        "url": "/research/US/Job=Analytics_Manager/Salary",
+                        "profileCount": 401,
+                        "range": {
+                            "10": 73470.5,
+                            "25": 87467.39,
+                            "50": 103680.4,
+                            "75": 120291.44,
+                            "90": 135154.8
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=ERP_Business_Analyst/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Enterprise Resource Planning (ERP), Business Analysis, Data Analysis, Functional Analysis, SQL, Requirements Analysis, SAP Enterprise Resource Planning (ERP), Oracle eBusiness Suite, SAP Materials Management (SAP MM)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-01T23:01:19.21454Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "60469.69",
+                            "percentile25": "67754.99",
+                            "median": "76044.31",
+                            "percentile75": "99867.2",
+                            "percentile90": "115105.97",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58938.45",
+                            "percentile25": "66074.47",
+                            "median": "74988.69",
+                            "percentile75": "98236.52",
+                            "percentile90": "113996.37",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "700",
+                            "percentile25": "1768.74",
+                            "median": "3064.66",
+                            "percentile75": "5595.51",
+                            "percentile90": "9842.03",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 52,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "ERP Business Analyst",
+                    "url": "/research/US/Job=ERP_Business_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

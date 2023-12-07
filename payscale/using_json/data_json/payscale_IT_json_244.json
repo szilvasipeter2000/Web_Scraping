@@ -1,0 +1,602 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Geographic Information Systems (GIS) Mapper"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-12-04T23:52:30.85654Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Geographic Information Systems (GIS) Mapper is $22.00 per hour.",
+                    "summarySalary": "The average pay for a Geographic Information Systems (GIS) Mapper is $63,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "10": 12.08,
+                        "25": 14.74,
+                        "50": 22,
+                        "75": 27.75,
+                        "90": 43.98,
+                        "profileCount": 10
+                    },
+                    "salary": {
+                        "50": 63000,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "10": 25958.4,
+                        "25": 39539.16,
+                        "50": 47879.9,
+                        "75": 65599.68,
+                        "90": 92549.02,
+                        "profileCount": 14
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-12-04T23:52:30.85654Z",
+                        "profileCount": 14,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": {
+                                    "10": 25958.4,
+                                    "25": 39539.16,
+                                    "50": 47879.9,
+                                    "75": 65599.68,
+                                    "90": 92549.02
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-12-04T23:52:30.85654Z",
+                        "profileCount": 10,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 12.08,
+                                    "25": 14.74,
+                                    "50": 22,
+                                    "75": 27.75,
+                                    "90": 43.98
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-12-04T23:52:30.85654Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 63000
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-12-04T23:52:30.85654Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-12-04T23:52:30.85654Z",
+                        "profileCount": 8,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Hourly_Rate/eed80809/Early-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Hourly_Rate/b501a219/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 22.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Geographic Information Systems (GIS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Hourly_Rate/c7d5d031/Geographic-Information-Systems-GIS",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oral / Verbal Communication",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Hourly_Rate/55a28dc2/Oral-Verbal-Communication",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Autodesk AutoCAD Map 3D",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Salary/46919efc/Autodesk-AutoCAD-Map-3D",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 15
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1175,
+                        "range": {
+                            "10": 17.22,
+                            "25": 20.86,
+                            "50": 27.86,
+                            "75": 38.79,
+                            "90": 53.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Case Manager",
+                        "url": "/research/US/Job=Case_Manager/Salary",
+                        "profileCount": 417,
+                        "range": {
+                            "10": 14.83,
+                            "25": 16.51,
+                            "50": 19.2,
+                            "75": 24.17,
+                            "90": 33.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 280,
+                        "range": {
+                            "10": 19.76,
+                            "25": 26.28,
+                            "50": 40.5,
+                            "75": 60.97,
+                            "90": 80.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Recruiter",
+                        "url": "/research/US/Job=Recruiter/Salary",
+                        "profileCount": 221,
+                        "range": {
+                            "10": 14.78,
+                            "25": 17.02,
+                            "50": 20.04,
+                            "75": 25.03,
+                            "90": 32.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "High School Teacher",
+                        "url": "/research/US/Job=High_School_Teacher/Salary",
+                        "profileCount": 183,
+                        "range": {
+                            "10": 12.14,
+                            "25": 16.58,
+                            "50": 23.41,
+                            "75": 30.63,
+                            "90": 41.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Preschool Teacher, (but not Special Education)",
+                        "url": "/research/US/Job=Preschool_Teacher%2C_(but_not_Special_Education)/Hourly_Rate",
+                        "profileCount": 180,
+                        "range": {
+                            "10": 10.32,
+                            "25": 12.01,
+                            "50": 14.16,
+                            "75": 16.63,
+                            "90": 19.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Academic Advisor",
+                        "url": "/research/US/Job=Academic_Advisor/Salary",
+                        "profileCount": 150,
+                        "range": {
+                            "10": 14.83,
+                            "25": 17.11,
+                            "50": 19.6,
+                            "75": 23.17,
+                            "90": 25.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Analyst",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Analyst/Salary",
+                        "profileCount": 148,
+                        "range": {
+                            "10": 17.6,
+                            "25": 20.08,
+                            "50": 24.11,
+                            "75": 28.35,
+                            "90": 33.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Sales Associate",
+                        "url": "/research/US/Job=Retail_Sales_Associate/Hourly_Rate",
+                        "profileCount": 141,
+                        "range": {
+                            "10": 9.34,
+                            "25": 10.65,
+                            "50": 12.33,
+                            "75": 14.59,
+                            "90": 16.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Scientist",
+                        "url": "/research/US/Job=Environmental_Scientist/Salary",
+                        "profileCount": 139,
+                        "range": {
+                            "10": 17.05,
+                            "25": 19.99,
+                            "50": 23.32,
+                            "75": 27.14,
+                            "90": 31.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 136,
+                        "range": {
+                            "10": 23.14,
+                            "25": 26.93,
+                            "50": 31.67,
+                            "75": 37.24,
+                            "90": 44.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Associate",
+                        "url": "/research/US/Job=Customer_Service_Associate/Hourly_Rate",
+                        "profileCount": 116,
+                        "range": {
+                            "10": 10.08,
+                            "25": 11.32,
+                            "50": 12.9,
+                            "75": 15.14,
+                            "90": 17.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Training Coordinator",
+                        "url": "/research/US/Job=Training_Coordinator/Salary",
+                        "profileCount": 113,
+                        "range": {
+                            "10": 15.2,
+                            "25": 17.38,
+                            "50": 20.47,
+                            "75": 24.26,
+                            "90": 28.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Professor, Postsecondary / Higher Education",
+                        "url": "/research/US/Job=Assistant_Professor%2C_Postsecondary_%2F_Higher_Education/Salary",
+                        "profileCount": 111,
+                        "range": {
+                            "10": 15.34,
+                            "25": 21.38,
+                            "50": 32.74,
+                            "75": 52.08,
+                            "90": 96.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Elementary School Teacher",
+                        "url": "/research/US/Job=Elementary_School_Teacher/Salary",
+                        "profileCount": 107,
+                        "range": {
+                            "10": 11.25,
+                            "25": 13.56,
+                            "50": 18.58,
+                            "75": 26.51,
+                            "90": 36.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Technologist",
+                        "url": "/research/US/Job=Medical_Technologist/Hourly_Rate",
+                        "profileCount": 103,
+                        "range": {
+                            "10": 21.3,
+                            "25": 24.64,
+                            "50": 28.12,
+                            "75": 32.04,
+                            "90": 36.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Service Coordinator",
+                        "url": "/research/US/Job=Service_Coordinator/Hourly_Rate",
+                        "profileCount": 101,
+                        "range": {
+                            "10": 13.57,
+                            "25": 15.89,
+                            "50": 18.63,
+                            "75": 22.04,
+                            "90": 25.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automobile Service Advisor",
+                        "url": "/research/US/Job=Automobile_Service_Advisor/Salary",
+                        "profileCount": 97,
+                        "range": {
+                            "10": 11.67,
+                            "25": 13.3,
+                            "50": 15.62,
+                            "75": 18.84,
+                            "90": 22.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Specialist",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Specialist/Salary",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 18.5,
+                            "25": 20.66,
+                            "50": 23.19,
+                            "75": 27.13,
+                            "90": 32.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 85,
+                        "range": {
+                            "10": 15.21,
+                            "25": 17.66,
+                            "50": 20.95,
+                            "75": 25.46,
+                            "90": 29.82
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Hourly_Rate",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Geographic Information Systems (GIS), Oral / Verbal Communication, Autodesk AutoCAD Map 3D",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-12-04T23:52:30.85654Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "25958.4",
+                            "percentile25": "39539.16",
+                            "median": "47879.9",
+                            "percentile75": "65599.68",
+                            "percentile90": "92549.02",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": "12.08",
+                            "percentile25": "14.74",
+                            "median": "22",
+                            "percentile75": "27.75",
+                            "percentile90": "43.98",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 16,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Geographic Information Systems (GIS) Mapper",
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Mapper/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,671 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Mathematical Modeling Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Mathematical_Modeling_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2020-09-23T06:20:02.37422Z",
+                "narratives": {
+                    "description": "Mathematical modeling engineers are responsible for creating, modifying, and implementing mathematical models, as well as analyzing and facilitating mathematical capabilities using advanced tools to ensure the feasibility of company projects. Organization and close attention to detail are important in this position, as these engineers use personal computers and specialized software programs to develop and model mathematical strategies to facilitate and expedite their efforts and calculations. They must also be familiar with Microsoft Office programs such as word processing and spreadsheet programs to complete reports and keep data organized.\r\nThose in this position also utilize dispersion and graphical requirements to project potential results, and they are also responsible for planning and analyzing multiple mathematical models before deploying real versions. These engineers must work well in team settings to run simulations and troubleshoot modeling features, but also have the independence to work well on their own with minimal supervision.\r\nThese engineers also use simulators to optimize their calculations and facilitate future maintenance and generally work in a fast-paced environment with strict deadlines. They may test aerodynamic models to ensure that all properties and characteristics are in line with expectations and must be proficient with computer programming languages to create scripts and modify behaviors in mathematical models. They generally report their progress to a modeling manager within their department.\r\nA bachelor's degree in a relevant field is generally required for this position, and prior work experience in a mathematical modeling capacity is highly beneficial. Industry certifications are also helpful.",
+                    "summaryHourly": "The average pay for a Mathematical Modeling Engineer is $15.48 per hour.",
+                    "summarySalary": "The average pay for a Mathematical Modeling Engineer is $91,643 per year."
+                },
+                "tasks": [
+                    "Research mathematical principles and develop innovative models from them.",
+                    "Evaluate and document the details of interactions of quantities, symbols, magnitudes, and assumptions.",
+                    "Analyze project or issue details to target areas of investigation and development."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": -0.5,
+                        "25": 2947.91,
+                        "50": 5427.5,
+                        "75": 8138.92,
+                        "90": 49664.66,
+                        "profileCount": 10
+                    },
+                    "hourlyRate": {
+                        "50": 15.48,
+                        "profileCount": 2
+                    },
+                    "profitSharing": {
+                        "25": 21.62,
+                        "50": 3500,
+                        "75": 5652.48,
+                        "profileCount": 6
+                    },
+                    "salary": {
+                        "10": 61409.12,
+                        "25": 77343.34,
+                        "50": 91643.45,
+                        "75": 100534.93,
+                        "90": 111248.83,
+                        "profileCount": 20
+                    },
+                    "total": {
+                        "10": 33988.4,
+                        "25": 73549.56,
+                        "50": 93211.8,
+                        "75": 101441.32,
+                        "90": 117490.77,
+                        "profileCount": 22
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2020-09-23T06:20:02.37422Z",
+                        "profileCount": 22,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": {
+                                    "10": 33988.4,
+                                    "25": 73549.56,
+                                    "50": 93211.8,
+                                    "75": 101441.32,
+                                    "90": 117490.77
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2020-09-23T06:20:02.37422Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 15.48
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2020-09-23T06:20:02.37422Z",
+                        "profileCount": 20,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 61409.12,
+                                    "25": 77343.34,
+                                    "50": 91643.45,
+                                    "75": 100534.93,
+                                    "90": 111248.83
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2020-09-23T06:20:02.37422Z",
+                        "profileCount": 8,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2020-09-23T06:20:02.37422Z",
+                        "profileCount": 17,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary/94103143/Early-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 87298.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary/99f3d60e/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 91642.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary/463b82ca/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 99994.66
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary/a44adb33/Pittsburgh-PA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 88707.69
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Simulation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary/06680b0c/Simulation",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 88707.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Numerical Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary/d89ab2b4/Numerical-Modeling",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 90440.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary/0bb3b787/Data-Modeling",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 87000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary/01d81824/Software-Development",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 95833.33
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 246,
+                        "range": {
+                            "10": 105909.75,
+                            "25": 120580.38,
+                            "50": 137790.48,
+                            "75": 157760.08,
+                            "90": 177283.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 241,
+                        "range": {
+                            "10": 43322.86,
+                            "25": 50776.61,
+                            "50": 60715.14,
+                            "75": 72251.29,
+                            "90": 85307.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 232,
+                        "range": {
+                            "10": 66607.9,
+                            "25": 79568.82,
+                            "50": 96101.2,
+                            "75": 116111.3,
+                            "90": 134069.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 162,
+                        "range": {
+                            "10": 83314.6,
+                            "25": 98616.38,
+                            "50": 118204.57,
+                            "75": 138228.81,
+                            "90": 157984.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 157,
+                        "range": {
+                            "10": 46763.6,
+                            "25": 52988.21,
+                            "50": 61143.35,
+                            "75": 70711.09,
+                            "90": 81642.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Manager",
+                        "url": "/research/US/Job=Software_Development_Manager/Salary",
+                        "profileCount": 130,
+                        "range": {
+                            "10": 87080.6,
+                            "25": 104929.58,
+                            "50": 124734.79,
+                            "75": 145016.29,
+                            "90": 160701.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 94,
+                        "range": {
+                            "10": 63565.54,
+                            "25": 71798.04,
+                            "50": 81017.32,
+                            "75": 91061.66,
+                            "90": 101683.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 91,
+                        "range": {
+                            "10": 60657.12,
+                            "25": 69997.08,
+                            "50": 81301.44,
+                            "75": 93894.8,
+                            "90": 108830.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 61718.92,
+                            "25": 71891.57,
+                            "50": 86094.11,
+                            "75": 106809.97,
+                            "90": 127218.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Software Engineer",
+                        "url": "/research/US/Job=Staff_Software_Engineer/Salary",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 96611.72,
+                            "25": 118790.05,
+                            "50": 140188.37,
+                            "75": 162725.46,
+                            "90": 185328.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 75,
+                        "range": {
+                            "10": 49698.4,
+                            "25": 62960.78,
+                            "50": 80284.59,
+                            "75": 99781.59,
+                            "90": 120298.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 72,
+                        "range": {
+                            "10": 77197.57,
+                            "25": 86612.92,
+                            "50": 98319.25,
+                            "75": 114861.78,
+                            "90": 132210.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Architect",
+                        "url": "/research/US/Job=Data_Architect/Salary",
+                        "profileCount": 69,
+                        "range": {
+                            "10": 75776.6,
+                            "25": 97414.78,
+                            "50": 118457.9,
+                            "75": 137904.33,
+                            "90": 154350.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Water Resources Engineer",
+                        "url": "/research/US/Job=Water_Resources_Engineer/Salary",
+                        "profileCount": 67,
+                        "range": {
+                            "10": 55285.38,
+                            "25": 60222.97,
+                            "50": 67099.48,
+                            "75": 78608.98,
+                            "90": 95985.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Technical Consultant",
+                        "url": "/research/US/Job=Senior_Technical_Consultant/Salary",
+                        "profileCount": 62,
+                        "range": {
+                            "10": 72267.15,
+                            "25": 85552.77,
+                            "50": 101783.25,
+                            "75": 121526.95,
+                            "90": 141402.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 60,
+                        "range": {
+                            "10": 45323.05,
+                            "25": 51700.25,
+                            "50": 60844.75,
+                            "75": 70978.76,
+                            "90": 81780.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Consultant",
+                        "url": "/research/US/Job=Software_Consultant/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 55410.33,
+                            "25": 65748.53,
+                            "50": 76693.61,
+                            "75": 93091.87,
+                            "90": 112739.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 54,
+                        "range": {
+                            "10": 54553.29,
+                            "25": 61748.69,
+                            "50": 70205.83,
+                            "75": 80227.46,
+                            "90": 97886.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Firmware Engineer",
+                        "url": "/research/US/Job=Firmware_Engineer/Salary",
+                        "profileCount": 54,
+                        "range": {
+                            "10": 64737.36,
+                            "25": 72674.1,
+                            "50": 85081.5,
+                            "75": 103155.94,
+                            "90": 123130.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Engineer",
+                        "url": "/research/US/Job=Research_Engineer/Salary",
+                        "profileCount": 54,
+                        "range": {
+                            "10": 58952.17,
+                            "25": 69601.6,
+                            "50": 82784.12,
+                            "75": 101944.12,
+                            "90": 121350.95
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Mathematical_Modeling_Engineer/Salary",
+                    "occupationalCategory": "15-2020.00 - Mathematicians",
+                    "skills": "Simulation, Numerical Modeling, Data Modeling, Software Development",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2020-09-23T06:20:02.37422Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "33988.4",
+                            "percentile25": "73549.56",
+                            "median": "93211.8",
+                            "percentile75": "101441.32",
+                            "percentile90": "117490.77",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "61409.12",
+                            "percentile25": "77343.34",
+                            "median": "91643.45",
+                            "percentile75": "100534.93",
+                            "percentile90": "111248.83",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "-0.5",
+                            "percentile25": "2947.91",
+                            "median": "5427.5",
+                            "percentile75": "8138.92",
+                            "percentile90": "49664.66",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "21.62",
+                            "median": "3500",
+                            "percentile75": "5652.48",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 26,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Mathematical modeling engineers are responsible for creating, modifying, and implementing mathematical models, as well as analyzing and facilitating mathematical capabilities using advanced tools to ensure the feasibility of company projects. Organization and close attention to detail are important in this position, as these engineers use personal computers and specialized software programs to develop and model mathematical strategies to facilitate and expedite their efforts and calculations. They must also be familiar with Microsoft Office programs such as word processing and spreadsheet programs to complete reports and keep data organized.\r\nThose in this position also utilize dispersion and graphical requirements to project potential results, and they are also responsible for planning and analyzing multiple mathematical models before deploying real versions. These engineers must work well in team settings to run simulations and troubleshoot modeling features, but also have the independence to work well on their own with minimal supervision.\r\nThese engineers also use simulators to optimize their calculations and facilitate future maintenance and generally work in a fast-paced environment with strict deadlines. They may test aerodynamic models to ensure that all properties and characteristics are in line with expectations and must be proficient with computer programming languages to create scripts and modify behaviors in mathematical models. They generally report their progress to a modeling manager within their department.\r\nA bachelor's degree in a relevant field is generally required for this position, and prior work experience in a mathematical modeling capacity is highly beneficial. Industry certifications are also helpful.",
+                    "name": "Mathematical Modeling Engineer",
+                    "url": "/research/US/Job=Mathematical_Modeling_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

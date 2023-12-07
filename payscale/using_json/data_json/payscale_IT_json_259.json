@@ -1,0 +1,982 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Health Informatics Specialist",
+                    "url": "/research/US/Job=Health_Informatics_Specialist/Salary",
+                    "compensation": 64788.73212498886,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Business Analyst",
+                            "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                            "percent": 1,
+                            "compensation": 84962.89248305504,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Sr. Business Analyst (Computer Software/Hardware/Systems)",
+                                    "url": "/research/US/Job=Sr._Business_Analyst_(Computer_Software%2FHardware%2FSystems)/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 93712.78351892272,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Project Manager, (Unspecified Type / General)",
+                                    "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 74208.60456383067,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Product Owner",
+                                    "url": "/research/US/Job=Product_Owner/Salary",
+                                    "percent": 0.03,
+                                    "compensation": 85390.2934172276,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Health Informatics Specialist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Health_Informatics_Specialist/Salary",
+                    "defaultUrl": "/research/US/Job=Health_Informatics_Specialist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-15T08:23:28.61148Z",
+                "narratives": {
+                    "description": "A healthcare informatics specialist works in a healthcare institution to establish and maintain the information technology systems within the organization. This involves making sure that the systems comply to company policies, regulations, and the law. The specialist will be involved with research of technology systems and then plan for the implementation of the chosen system. Usually the ability to work on a team is important. Implementing a system may involve carrying out testing of the system before it is fully implemented and de-bugging and optimizing it as necessary. \r\nThe specialist will also troubleshoot systems whenever problems are encountered and give support to users of the systems throughout the organization. The specialist may be directly involved with employee training in order to familiarize them with systems. For this training, the specialist should determine employee needs and develop lesson plans. The specialist should keep up to date with developments in the field so that the systems can be updated if necessary. The job may also involve establishing networks and their security systems. This position may involve not only working with those in the company, but also working with customers in order to determine frustrations with online systems or ways to improve software. \r\nAdvanced computer skills and knowledge of networks are necessary in order to adequately carry out this job. Familiarity with healthcare software systems and Microsoft Office will also be needed. This position may require a bachelor’s degree in a field such as computer science.",
+                    "summaryHourly": "The average pay for a Health Informatics Specialist is $28.50 per hour.",
+                    "summarySalary": "The average pay for a Health Informatics Specialist is $73,148 per year."
+                },
+                "tasks": [
+                    "Participate in the development of health information technology protocols and policies to ensure compliance with regulations.",
+                    "Provide administrative/technical support to help troubleshoot and assist with problems faced by system users.",
+                    "Identify deficiencies in hospital informatics standards and develop plans to improve processes.",
+                    "Assess learning needs of hospital staff and develop training to improve employee knowledge."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 760.26,
+                        "25": 1017.36,
+                        "50": 2379.8,
+                        "75": 6664.18,
+                        "90": 10186.42,
+                        "profileCount": 21
+                    },
+                    "hourlyRate": {
+                        "10": 17.97,
+                        "25": 21.01,
+                        "50": 28.5,
+                        "75": 39.49,
+                        "90": 47,
+                        "profileCount": 44
+                    },
+                    "profitSharing": {
+                        "25": 2628.33,
+                        "50": 4800,
+                        "75": 7676.02,
+                        "profileCount": 6
+                    },
+                    "salary": {
+                        "10": 49378.93,
+                        "25": 60904.18,
+                        "50": 73147.96,
+                        "75": 92727.59,
+                        "90": 114000,
+                        "profileCount": 84
+                    },
+                    "total": {
+                        "10": 41168.45,
+                        "25": 54262.6,
+                        "50": 68936.33,
+                        "75": 88291.91,
+                        "90": 114456.44,
+                        "profileCount": 128
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-15T08:23:28.61148Z",
+                        "profileCount": 128,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 128,
+                                "range": {
+                                    "10": 41168.45,
+                                    "25": 54262.6,
+                                    "50": 68936.33,
+                                    "75": 88291.91,
+                                    "90": 114456.44
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-15T08:23:28.61148Z",
+                        "profileCount": 44,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 44,
+                                "range": {
+                                    "10": 17.97,
+                                    "25": 21.01,
+                                    "50": 28.5,
+                                    "75": 39.49,
+                                    "90": 47
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-15T08:23:28.61148Z",
+                        "profileCount": 84,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 84,
+                                "range": {
+                                    "10": 49378.93,
+                                    "25": 60904.18,
+                                    "50": 73147.96,
+                                    "75": 92727.59,
+                                    "90": 114000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-15T08:23:28.61148Z",
+                        "profileCount": 41,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-15T08:23:28.61148Z",
+                        "profileCount": 54,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 45,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 45,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 40,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Cigna Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/0c025db6/Cigna-Corporation",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 71215.54
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/1a56b353/Entry-Level",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 58958.11
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/1a56b353/Early-Career",
+                                "profileCount": 70,
+                                "range": {
+                                    "50": 67647.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/58f9b672/Mid-Career",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 77397.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/3ec40970/Experienced",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 104470.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/70ca59f0/Late-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 96895.48
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/f6fbc4f5/New-York-NY",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 92432.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Antonio, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/da2f9080/San-Antonio-TX",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 63980
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/53e043ba/Washington-DC",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 102000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Little Rock, Arkansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/eea0ba70/Little-Rock-AR",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 68000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/9caa3e28/Chicago-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 73697.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/fce77def/Minneapolis-MN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cincinnati, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/013ab8d5/Cincinnati-OH",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 73697.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/fd0a7441/Nashville-TN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/8275389e/Dallas-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 42000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/60fe9ff0/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 61041.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Hourly_Rate/39a1d9f4/Miami-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 47000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Orlando, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/d7f2996a/Orlando-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 48457.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Hourly_Rate/75a8180f/Tampa-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/2531b4b3/Atlanta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 57944.11
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Hourly_Rate/1340294b/San-Diego-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Health Care Informatics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/79ae8da3/Health-Care-Informatics",
+                                "profileCount": 83,
+                                "range": {
+                                    "50": 70171.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Electronic Medical Records (EMR)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/442b8454/Electronic-Medical-Records-EMR",
+                                "profileCount": 52,
+                                "range": {
+                                    "50": 74214.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/d7a55933/Data-Analysis",
+                                "profileCount": 42,
+                                "range": {
+                                    "50": 71220.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/04505cd9/Microsoft-Excel",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Clinical Information Systems",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/fabd128b/Clinical-Information-Systems",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 65059.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/15ee7a99/SAS",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 72128.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/753abe6a/Project-Management",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/90409493/SQL",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 98284.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Access",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/f5bcf950/Microsoft-Access",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 74377.71
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Epic Health Information Management System",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Salary/1e21a0a0/Epic-Health-Information-Management-System",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 77633.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Research Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Health_Informatics_Specialist/Hourly_Rate/46b4a915/Research-Analysis",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 10,
+                        "score": 4.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 4191,
+                        "range": {
+                            "10": 52568.16,
+                            "25": 63924.24,
+                            "50": 78841.81,
+                            "75": 97516.78,
+                            "90": 118822.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 3573,
+                        "range": {
+                            "10": 47951.09,
+                            "25": 55848.98,
+                            "50": 66117.27,
+                            "75": 78031.6,
+                            "90": 90597.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 2326,
+                        "range": {
+                            "10": 50586.85,
+                            "25": 57741.31,
+                            "50": 65834.35,
+                            "75": 75802.85,
+                            "90": 87119.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 2261,
+                        "range": {
+                            "10": 28092.88,
+                            "25": 32895.1,
+                            "50": 39177.45,
+                            "75": 46181.4,
+                            "90": 54027.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 2027,
+                        "range": {
+                            "10": 56689.47,
+                            "25": 64399.81,
+                            "50": 73671.59,
+                            "75": 86509,
+                            "90": 102851.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1947,
+                        "range": {
+                            "10": 59734.37,
+                            "25": 67545.26,
+                            "50": 77231.56,
+                            "75": 90220.47,
+                            "90": 107093.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1674,
+                        "range": {
+                            "10": 30863.58,
+                            "25": 36318.31,
+                            "50": 43046.09,
+                            "75": 51521.7,
+                            "90": 60788.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1527,
+                        "range": {
+                            "10": 67121.86,
+                            "25": 77719.48,
+                            "50": 92314.48,
+                            "75": 113243.37,
+                            "90": 134853.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1470,
+                        "range": {
+                            "10": 47011.95,
+                            "25": 57253.66,
+                            "50": 71261.38,
+                            "75": 89333.16,
+                            "90": 111551.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 1252,
+                        "range": {
+                            "10": 67392.66,
+                            "25": 77005.57,
+                            "50": 89317.77,
+                            "75": 103518.03,
+                            "90": 120782.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1197,
+                        "range": {
+                            "10": 43493.59,
+                            "25": 49457.13,
+                            "50": 55733.88,
+                            "75": 62608.23,
+                            "90": 69632.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1183,
+                        "range": {
+                            "10": 68742.11,
+                            "25": 76903.07,
+                            "50": 86367.1,
+                            "75": 97045.91,
+                            "90": 108710.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 1156,
+                        "range": {
+                            "10": 53692.08,
+                            "25": 62634.6,
+                            "50": 73698.47,
+                            "75": 87283.74,
+                            "90": 103606.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1150,
+                        "range": {
+                            "10": 59856.25,
+                            "25": 73643.63,
+                            "50": 91789.06,
+                            "75": 112569.7,
+                            "90": 133822.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 1126,
+                        "range": {
+                            "10": 50036.9,
+                            "25": 57610.91,
+                            "50": 66583.12,
+                            "75": 77057.02,
+                            "90": 88021.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 1028,
+                        "range": {
+                            "10": 57146.23,
+                            "25": 63681.25,
+                            "50": 72732.11,
+                            "75": 87382.79,
+                            "90": 106117.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 1026,
+                        "range": {
+                            "10": 56502.81,
+                            "25": 70311.81,
+                            "50": 87460.72,
+                            "75": 107470.27,
+                            "90": 126920.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 990,
+                        "range": {
+                            "10": 43845.42,
+                            "25": 48990.78,
+                            "50": 55858.35,
+                            "75": 65337.73,
+                            "90": 75179.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 986,
+                        "range": {
+                            "10": 65746.08,
+                            "25": 75771.21,
+                            "50": 88037.04,
+                            "75": 102303.79,
+                            "90": 117993.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 978,
+                        "range": {
+                            "10": 36871.97,
+                            "25": 43535.18,
+                            "50": 52312.8,
+                            "75": 62913.19,
+                            "90": 74168.22
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Health_Informatics_Specialist/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Health Care Informatics, Electronic Medical Records (EMR), Data Analysis, Microsoft Excel, Clinical Information Systems, SAS, Project Management, SQL, Microsoft Access, Epic Health Information Management System, Research Analysis",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-15T08:23:28.61148Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "41168.45",
+                            "percentile25": "54262.6",
+                            "median": "68936.33",
+                            "percentile75": "88291.91",
+                            "percentile90": "114456.44",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49378.93",
+                            "percentile25": "60904.18",
+                            "median": "73147.96",
+                            "percentile75": "92727.59",
+                            "percentile90": "114000",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "760.26",
+                            "percentile25": "1017.36",
+                            "median": "2379.8",
+                            "percentile75": "6664.18",
+                            "percentile90": "10186.42",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 137,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A healthcare informatics specialist works in a healthcare institution to establish and maintain the information technology systems within the organization. This involves making sure that the systems comply to company policies, regulations, and the law. The specialist will be involved with research of technology systems and then plan for the implementation of the chosen system. Usually the ability to work on a team is important. Implementing a system may involve carrying out testing of the system before it is fully implemented and de-bugging and optimizing it as necessary. \r\nThe specialist will also troubleshoot systems whenever problems are encountered and give support to users of the systems throughout the organization. The specialist may be directly involved with employee training in order to familiarize them with systems. For this training, the specialist should determine employee needs and develop lesson plans. The specialist should keep up to date with developments in the field so that the systems can be updated if necessary. The job may also involve establishing networks and their security systems. This position may involve not only working with those in the company, but also working with customers in order to determine frustrations with online systems or ways to improve software. \r\nAdvanced computer skills and knowledge of networks are necessary in order to adequately carry out this job. Familiarity with healthcare software systems and Microsoft Office will also be needed. This position may require a bachelor’s degree in a field such as computer science.",
+                    "name": "Health Informatics Specialist",
+                    "url": "/research/US/Job=Health_Informatics_Specialist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

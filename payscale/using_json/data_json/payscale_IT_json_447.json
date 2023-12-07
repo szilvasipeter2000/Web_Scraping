@@ -1,0 +1,653 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Product Support Specialist, Internet Services"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary",
+                    "defaultUrl": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-05-04T12:33:53.95315Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Product Support Specialist, Internet Services is $14.12 per hour.",
+                    "summarySalary": "The average pay for a Product Support Specialist, Internet Services is $49,579 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 2250,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "25": 13.25,
+                        "50": 14.12,
+                        "75": 15.27,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "50": 49578.57,
+                        "profileCount": 3
+                    },
+                    "total": {
+                        "25": 28347.21,
+                        "50": 31786.66,
+                        "75": 49209.04,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-05-04T12:33:53.95315Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 28347.21,
+                                    "50": 31786.66,
+                                    "75": 49209.04
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-05-04T12:33:53.95315Z",
+                        "profileCount": 5,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 13.25,
+                                    "50": 14.12,
+                                    "75": 15.27
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-05-04T12:33:53.95315Z",
+                        "profileCount": 3,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 49578.57
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-05-04T12:33:53.95315Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-05-04T12:33:53.95315Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Hourly_Rate/952965aa/Early-Career",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 12.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary/38712389/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 15.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary/77560022/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 14.6
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary/0824697a/Chicago-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Internet - Browsers",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary/d893f514/Internet---Browsers",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 15.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Customer Service",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary/27f0397b/Customer-Service",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 15.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Hourly_Rate/8bc7f864/Microsoft-Office",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Training Materials",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary/b8e6a1bb/Software-Training-Materials",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Exchange",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary/150f5ce7/Microsoft-Exchange",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 17.92
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 6,
+                        "score": 3.67
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 5031,
+                        "range": {
+                            "10": 13,
+                            "25": 15.01,
+                            "50": 17.31,
+                            "75": 20.25,
+                            "90": 23.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 3209,
+                        "range": {
+                            "10": 14.22,
+                            "25": 16.33,
+                            "50": 19.53,
+                            "75": 23.51,
+                            "90": 27.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 2942,
+                        "range": {
+                            "10": 11.04,
+                            "25": 13.12,
+                            "50": 15.55,
+                            "75": 18.16,
+                            "90": 20.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cashier",
+                        "url": "/research/US/Job=Cashier/Hourly_Rate",
+                        "profileCount": 2504,
+                        "range": {
+                            "10": 8.57,
+                            "25": 9.74,
+                            "50": 11.32,
+                            "75": 13.17,
+                            "90": 15.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sales Associate",
+                        "url": "/research/US/Job=Sales_Associate/Hourly_Rate",
+                        "profileCount": 2134,
+                        "range": {
+                            "10": 9.02,
+                            "25": 10.25,
+                            "50": 12.07,
+                            "75": 14.35,
+                            "90": 16.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 1748,
+                        "range": {
+                            "10": 13.17,
+                            "25": 14.85,
+                            "50": 16.81,
+                            "75": 19.22,
+                            "90": 21.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1740,
+                        "range": {
+                            "10": 11.99,
+                            "25": 14.27,
+                            "50": 16.81,
+                            "75": 20.44,
+                            "90": 24.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1436,
+                        "range": {
+                            "10": 14.26,
+                            "25": 16.91,
+                            "50": 20.84,
+                            "75": 25.71,
+                            "90": 31.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 1235,
+                        "range": {
+                            "10": 10.77,
+                            "25": 12.38,
+                            "50": 14.45,
+                            "75": 16.49,
+                            "90": 18.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1112,
+                        "range": {
+                            "10": 15.88,
+                            "25": 19.03,
+                            "50": 23.07,
+                            "75": 28.47,
+                            "90": 34.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 969,
+                        "range": {
+                            "10": 18.37,
+                            "25": 23.56,
+                            "50": 29.58,
+                            "75": 36.61,
+                            "90": 45.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 840,
+                        "range": {
+                            "10": 10.78,
+                            "25": 12.38,
+                            "50": 14.74,
+                            "75": 17.52,
+                            "90": 20.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Administrator",
+                        "url": "/research/US/Job=Office_Administrator/Hourly_Rate",
+                        "profileCount": 774,
+                        "range": {
+                            "10": 13.52,
+                            "25": 15.41,
+                            "50": 17.97,
+                            "75": 21.14,
+                            "90": 25.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Dental Assistant",
+                        "url": "/research/US/Job=Dental_Assistant/Hourly_Rate",
+                        "profileCount": 768,
+                        "range": {
+                            "10": 13.15,
+                            "25": 15.14,
+                            "50": 17.66,
+                            "75": 20.57,
+                            "90": 23.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 741,
+                        "range": {
+                            "10": 17.31,
+                            "25": 21.04,
+                            "50": 28.07,
+                            "75": 38.97,
+                            "90": 53.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 735,
+                        "range": {
+                            "10": 14.96,
+                            "25": 17.12,
+                            "50": 20.13,
+                            "75": 24.32,
+                            "90": 28.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Pharmacy Technician",
+                        "url": "/research/US/Job=Pharmacy_Technician/Hourly_Rate",
+                        "profileCount": 709,
+                        "range": {
+                            "10": 11.94,
+                            "25": 13.61,
+                            "50": 15.79,
+                            "75": 18.6,
+                            "90": 21.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 694,
+                        "range": {
+                            "10": 19.29,
+                            "25": 24.21,
+                            "50": 30.18,
+                            "75": 37.32,
+                            "90": 45.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 679,
+                        "range": {
+                            "10": 10.18,
+                            "25": 11.82,
+                            "50": 14.09,
+                            "75": 16.49,
+                            "90": 19.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Coordinator",
+                        "url": "/research/US/Job=Administrative_Coordinator/Hourly_Rate",
+                        "profileCount": 654,
+                        "range": {
+                            "10": 14.72,
+                            "25": 16.86,
+                            "50": 19.65,
+                            "75": 23.15,
+                            "90": 26.89
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Internet - Browsers, Customer Service, Microsoft Office, Software Training Materials, Microsoft Exchange",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-05-04T12:33:53.95315Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "28347.21",
+                            "median": "31786.66",
+                            "percentile75": "49209.04",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": "13.25",
+                            "median": "14.12",
+                            "percentile75": "15.27",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "2250",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Product Support Specialist, Internet Services",
+                    "url": "/research/US/Job=Product_Support_Specialist%2C_Internet_Services/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,815 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Network Operations Technician",
+                    "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate",
+                    "compensation": 49862.04315160753,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Network Operations Center (NOC) Technician",
+                            "url": "/research/US/Job=Network_Operations_Center_(NOC)_Technician/Hourly_Rate",
+                            "percent": 1,
+                            "compensation": 48988.333196721025,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Network Engineer",
+                                    "url": "/research/US/Job=Network_Engineer/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 73975.75710191249,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Incident Manager",
+                                    "url": "/research/US/Job=Incident_Manager/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 81096.64460877056,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Systems Administrator",
+                                    "url": "/research/US/Job=Systems_Administrator/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 62410.40987121457,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Network Operations Technician"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Network_Operations_Technician/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-23T07:06:21.17238Z",
+                "narratives": {
+                    "description": "Network operations technicians generally work in an office.   They are responsible for proactively monitoring their organization's computer systems to make sure that they run smoothly.  They are responsible for monitoring system alerts and for fixing them in accordance with their companies' standard operating procedures and policies.  They must make sure that their system's virus and firewall detection software is up to date.  \r\nNetwork operations technicians must be able to troubleshoot various system issues.  Therefore, strong analytical and problem solving skills are required.  They must be flexible and may work different shifts since companies' systems usually have to run 24/7. They usually must have a bachelor's degree in computer science, informational technology, or a related field.  However, years of working experience as network operations technicians may replace educational requirements.  They must have excellent interpersonal skills and exceptional oral and written communications skills.  Since they have to record systems issues and their solutions, knowledge of Microsoft Office, databases, email, internal chat platforms, and the internet are often required.  General knowledge of scripting automation related to software applications and operating systems is a plus.  \r\nNetwork operations technicians must continuously educate themselves due to frequent changes in technology. They must be self-motivated and be willing to learn.   They must be aware of various technology and software that are available in the market place.  Network operations technicians do not usually travel other than going to vendors' sites for training.  They may be required to coach, train, or mentor new network operations technicians.",
+                    "summaryHourly": "The average pay for a Network Operations Technician is $20.96 per hour.",
+                    "summarySalary": "The average pay for a Network Operations Technician is $57,831 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 1500,
+                        "50": 3000,
+                        "75": 4374.94,
+                        "profileCount": 9
+                    },
+                    "hourlyRate": {
+                        "10": 15.81,
+                        "25": 18.83,
+                        "50": 20.96,
+                        "75": 29.85,
+                        "90": 36.63,
+                        "profileCount": 26
+                    },
+                    "profitSharing": {
+                        "50": 2053.54,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 43242.66,
+                        "25": 48989.52,
+                        "50": 57831.08,
+                        "75": 63754.38,
+                        "90": 75240.17,
+                        "profileCount": 25
+                    },
+                    "total": {
+                        "10": 35843.52,
+                        "25": 42255.08,
+                        "50": 53401.01,
+                        "75": 64335.45,
+                        "90": 76215.63,
+                        "profileCount": 51
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-23T07:06:21.17238Z",
+                        "profileCount": 51,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 51,
+                                "range": {
+                                    "10": 35843.52,
+                                    "25": 42255.08,
+                                    "50": 53401.01,
+                                    "75": 64335.45,
+                                    "90": 76215.63
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-23T07:06:21.17238Z",
+                        "profileCount": 26,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 26,
+                                "range": {
+                                    "10": 15.81,
+                                    "25": 18.83,
+                                    "50": 20.96,
+                                    "75": 29.85,
+                                    "90": 36.63
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-23T07:06:21.17238Z",
+                        "profileCount": 25,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": {
+                                    "10": 43242.66,
+                                    "25": 48989.52,
+                                    "50": 57831.08,
+                                    "75": 63754.38,
+                                    "90": 75240.17
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-23T07:06:21.17238Z",
+                        "profileCount": 18,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-23T07:06:21.17238Z",
+                        "profileCount": 21,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "CenturyLink",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Salary/785ddc79/CenturyLink",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 20
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/d2a7dfc6/Entry-Level",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 19.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/d2a7dfc6/Early-Career",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 18.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/9c9edcfd/Mid-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/1e84c286/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/8ef8814f/Late-Career",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 30.43
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Greenville, South Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/854644a2/Greenville-SC",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 16.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/65432c71/Dallas-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 24.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/d4550723/St.-Louis-MO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 17.65
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Network Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/7daf8e93/Network-Support",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 22.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/b45eb9a2/Troubleshooting",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 25.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/9727382f/Network-Management-Administration",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 19.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 2)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/65673871/Help-Desk-Desktop-Support-Tier-2",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 19.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/a34b1560/Information-Technology-IT-Support",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 20.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cisco Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Salary/de3c952a/Cisco-Networking",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 24.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Customer Service",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/88943c93/Customer-Service",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Systems Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate/ff9d93ab/Systems-Troubleshooting",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 19
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 11,
+                        "score": 3.7
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 2661,
+                        "range": {
+                            "10": 11.33,
+                            "25": 13.51,
+                            "50": 15.96,
+                            "75": 18.62,
+                            "90": 21.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cashier",
+                        "url": "/research/US/Job=Cashier/Hourly_Rate",
+                        "profileCount": 2525,
+                        "range": {
+                            "10": 8.77,
+                            "25": 9.95,
+                            "50": 11.67,
+                            "75": 13.54,
+                            "90": 15.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2455,
+                        "range": {
+                            "10": 13.36,
+                            "25": 15.28,
+                            "50": 17.68,
+                            "75": 20.63,
+                            "90": 24.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sales Associate",
+                        "url": "/research/US/Job=Sales_Associate/Hourly_Rate",
+                        "profileCount": 2053,
+                        "range": {
+                            "10": 9.22,
+                            "25": 10.63,
+                            "50": 12.51,
+                            "75": 14.92,
+                            "90": 17.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1973,
+                        "range": {
+                            "10": 14.46,
+                            "25": 16.64,
+                            "50": 19.86,
+                            "75": 23.98,
+                            "90": 28.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1776,
+                        "range": {
+                            "10": 12.17,
+                            "25": 14.48,
+                            "50": 17.11,
+                            "75": 20.73,
+                            "90": 25.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 1452,
+                        "range": {
+                            "10": 13.46,
+                            "25": 15.14,
+                            "50": 17.21,
+                            "75": 19.64,
+                            "90": 22.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 1413,
+                        "range": {
+                            "10": 19.43,
+                            "25": 24.67,
+                            "50": 31.4,
+                            "75": 40.72,
+                            "90": 51.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 1371,
+                        "range": {
+                            "10": 16.33,
+                            "25": 19.28,
+                            "50": 23.38,
+                            "75": 28.22,
+                            "90": 33.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1298,
+                        "range": {
+                            "10": 17.55,
+                            "25": 21.21,
+                            "50": 26.75,
+                            "75": 34.8,
+                            "90": 45.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 1279,
+                        "range": {
+                            "10": 15.94,
+                            "25": 18.48,
+                            "50": 21.59,
+                            "75": 25.92,
+                            "90": 30.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 1230,
+                        "range": {
+                            "10": 14.8,
+                            "25": 17.17,
+                            "50": 20.51,
+                            "75": 24.72,
+                            "90": 29.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Technician",
+                        "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                        "profileCount": 1125,
+                        "range": {
+                            "10": 14.65,
+                            "25": 17.17,
+                            "50": 20.8,
+                            "75": 25.8,
+                            "90": 30.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 1093,
+                        "range": {
+                            "10": 15.62,
+                            "25": 18.43,
+                            "50": 22.05,
+                            "75": 27.1,
+                            "90": 32.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1061,
+                        "range": {
+                            "10": 14.57,
+                            "25": 17.3,
+                            "50": 21.32,
+                            "75": 26.23,
+                            "90": 32.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 982,
+                        "range": {
+                            "10": 10.91,
+                            "25": 12.57,
+                            "50": 14.69,
+                            "75": 16.82,
+                            "90": 19.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 945,
+                        "range": {
+                            "10": 18.12,
+                            "25": 21.75,
+                            "50": 26.53,
+                            "75": 31.42,
+                            "90": 36.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Specialist",
+                        "url": "/research/US/Job=Technical_Support_Specialist/Salary",
+                        "profileCount": 894,
+                        "range": {
+                            "10": 15.34,
+                            "25": 17.68,
+                            "50": 20.98,
+                            "75": 25.12,
+                            "90": 29.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 849,
+                        "range": {
+                            "10": 11.01,
+                            "25": 12.67,
+                            "50": 15.06,
+                            "75": 18.01,
+                            "90": 20.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Service Technician",
+                        "url": "/research/US/Job=HVAC_Service_Technician/Hourly_Rate",
+                        "profileCount": 809,
+                        "range": {
+                            "10": 16.47,
+                            "25": 19.68,
+                            "50": 24.37,
+                            "75": 29.45,
+                            "90": 35.48
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Network_Operations_Technician/Hourly_Rate",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Network Support, Troubleshooting, Network Management / Administration, Help Desk / Desktop Support (Tier 2), Information Technology (IT) Support, Cisco Networking, Customer Service, Systems Troubleshooting",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-23T07:06:21.17238Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "35843.52",
+                            "percentile25": "42255.08",
+                            "median": "53401.01",
+                            "percentile75": "64335.45",
+                            "percentile90": "76215.63",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": "15.81",
+                            "percentile25": "18.83",
+                            "median": "20.96",
+                            "percentile75": "29.85",
+                            "percentile90": "36.63",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "1500",
+                            "median": "3000",
+                            "percentile75": "4374.94",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 58,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Network operations technicians generally work in an office.   They are responsible for proactively monitoring their organization's computer systems to make sure that they run smoothly.  They are responsible for monitoring system alerts and for fixing them in accordance with their companies' standard operating procedures and policies.  They must make sure that their system's virus and firewall detection software is up to date.  \r\nNetwork operations technicians must be able to troubleshoot various system issues.  Therefore, strong analytical and problem solving skills are required.  They must be flexible and may work different shifts since companies' systems usually have to run 24/7. They usually must have a bachelor's degree in computer science, informational technology, or a related field.  However, years of working experience as network operations technicians may replace educational requirements.  They must have excellent interpersonal skills and exceptional oral and written communications skills.  Since they have to record systems issues and their solutions, knowledge of Microsoft Office, databases, email, internal chat platforms, and the internet are often required.  General knowledge of scripting automation related to software applications and operating systems is a plus.  \r\nNetwork operations technicians must continuously educate themselves due to frequent changes in technology. They must be self-motivated and be willing to learn.   They must be aware of various technology and software that are available in the market place.  Network operations technicians do not usually travel other than going to vendors' sites for training.  They may be required to coach, train, or mentor new network operations technicians.",
+                    "name": "Network Operations Technician",
+                    "url": "/research/US/Job=Network_Operations_Technician/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

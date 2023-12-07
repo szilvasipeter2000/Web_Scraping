@@ -1,0 +1,588 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Internal Support Engineer, IT"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Internal_Support_Engineer%2C_IT/Salary",
+                    "defaultUrl": "/research/US/Job=Internal_Support_Engineer%2C_IT/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-07-29T09:50:02.02962Z",
+                "narratives": {
+                    "description": "Information technology (IT) internal support engineers are based within IT department, and their primary responsibility is to support and maintain the company’s IT infrastructure and provide technical support to end-users within the company. They either work directly for the company or for a company that provides IT services to external organizations. \r\nTheir job duties include handling hardware and software support, resolving software errors, installing and updating software, installing and replacing hardware, and training end-users. They complete ongoing infrastructure,  maintenance, and system checks. Additionally, IT internal support engineers are responsible for arranging and implementing office moves, including reinstalling computers, hardware, and cabling.  They are responsible for adding new employees to the system, adding their username, setting up their email accounts, and installing their computer and other necessary hardware. In turn, when an employee leaves the company, they are also responsible for removing them from the system and removing computer and other equipment to storage. They monitor and track all hardware and equipment, making sure each piece of equipment is asset-tagged and documented. They also maintain all original software, making sure it is in a centrally located place and continually up to date.\r\nTypically, IT internal support engineers are required to have a bachelor’s degree and at least one to two years' experience within a similar environment. There are various certifications that some companies require, such as Microsoft certification or A+ certification. Most companies require these professionals to complete ongoing training to keep up to date with relevant technology; this training is usually provided by the company.\r\nWork hours vary for IT internal support engineers depending on the company. Most positions require these IT professionals' work hours to be the same as the end-users, as the internal support engineer needs to be available to provide support. If there are major infrastructure updates required, then these must be completed outside normal working hours to provide minimal disruption to company employees.",
+                    "summaryHourly": "The average pay for an Internal Support Engineer, IT is $17.13 per hour.",
+                    "summarySalary": "The average pay for an Internal Support Engineer, IT is $63,871 per year."
+                },
+                "tasks": [
+                    "Own designated software or hardware systems, and take responsibility for their maintenance and operation.",
+                    "Educate and assist with meetings, training materials, and goal-setting involving information technology (IT).",
+                    "Respond to technical requests and outages, resolving problems in a timely manner.",
+                    "Provide expertise and advice on appropriate use, forecasting needs and offering recommendations."
+                ],
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 17.13,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "25": 58566.55,
+                        "50": 63871.29,
+                        "75": 67563.44,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "25": 35875.7,
+                        "50": 58566.55,
+                        "75": 65546.83,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-07-29T09:50:02.02962Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 35875.7,
+                                    "50": 58566.55,
+                                    "75": 65546.83
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-07-29T09:50:02.02962Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 17.13
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-07-29T09:50:02.02962Z",
+                        "profileCount": 5,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 58566.55,
+                                    "50": 63871.29,
+                                    "75": 67563.44
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-07-29T09:50:02.02962Z",
+                        "profileCount": 6,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-07-29T09:50:02.02962Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Engineer%2C_IT/Salary/fdbba0c6/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 57500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Engineer%2C_IT/Salary/8b2ac2a2/Mid-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 60001.26
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "System Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Engineer%2C_IT/Salary/b87cc84c/System-Administration",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internal_Support_Engineer%2C_IT/Salary/3416a52b/Troubleshooting",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 66128.71
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 791,
+                        "range": {
+                            "10": 44366.82,
+                            "25": 51602.31,
+                            "50": 61865.06,
+                            "75": 73857.78,
+                            "90": 87325.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Technician",
+                        "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                        "profileCount": 640,
+                        "range": {
+                            "10": 29514.21,
+                            "25": 35972.08,
+                            "50": 45242.55,
+                            "75": 57497.98,
+                            "90": 70322.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 525,
+                        "range": {
+                            "10": 35094.7,
+                            "25": 41212.85,
+                            "50": 50283.74,
+                            "75": 61568.05,
+                            "90": 73215.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrician",
+                        "url": "/research/US/Job=Electrician/Hourly_Rate",
+                        "profileCount": 483,
+                        "range": {
+                            "10": 34826.61,
+                            "25": 44118.44,
+                            "50": 56523.07,
+                            "75": 73558.09,
+                            "90": 93307.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 345,
+                        "range": {
+                            "10": 37101.9,
+                            "25": 45434.88,
+                            "50": 56987.54,
+                            "75": 75849.61,
+                            "90": 98938.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automotive Service Technician / Mechanic",
+                        "url": "/research/US/Job=Automotive_Service_Technician_%2F_Mechanic/Hourly_Rate",
+                        "profileCount": 282,
+                        "range": {
+                            "10": 30471.54,
+                            "25": 39244.86,
+                            "50": 50079.71,
+                            "75": 65210.08,
+                            "90": 81356.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Specialist",
+                        "url": "/research/US/Job=Technical_Support_Specialist/Salary",
+                        "profileCount": 257,
+                        "range": {
+                            "10": 35587.18,
+                            "25": 41666.61,
+                            "50": 50857.68,
+                            "75": 63139.37,
+                            "90": 79176.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 248,
+                        "range": {
+                            "10": 35085.09,
+                            "25": 40823.57,
+                            "50": 49474.64,
+                            "75": 59664.87,
+                            "90": 72244.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Technician",
+                        "url": "/research/US/Job=HVAC_Technician/Hourly_Rate",
+                        "profileCount": 234,
+                        "range": {
+                            "10": 30502.53,
+                            "25": 39207.84,
+                            "50": 46227.88,
+                            "75": 59423.15,
+                            "90": 73345.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automotive Technician",
+                        "url": "/research/US/Job=Automotive_Technician/Hourly_Rate",
+                        "profileCount": 229,
+                        "range": {
+                            "10": 29917.47,
+                            "25": 39155.53,
+                            "50": 49878.29,
+                            "75": 64586.8,
+                            "90": 80721.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Service Technician",
+                        "url": "/research/US/Job=HVAC_Service_Technician/Hourly_Rate",
+                        "profileCount": 219,
+                        "range": {
+                            "10": 32051.38,
+                            "25": 40870.39,
+                            "50": 52078.2,
+                            "75": 66043.46,
+                            "90": 82461.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Diesel Mechanic",
+                        "url": "/research/US/Job=Diesel_Mechanic/Hourly_Rate",
+                        "profileCount": 216,
+                        "range": {
+                            "10": 29847.28,
+                            "25": 38765.88,
+                            "50": 48362.77,
+                            "75": 59362.61,
+                            "90": 72632.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrician Journeyman",
+                        "url": "/research/US/Job=Electrician_Journeyman/Hourly_Rate",
+                        "profileCount": 213,
+                        "range": {
+                            "10": 35536.06,
+                            "25": 44677.86,
+                            "50": 57894.32,
+                            "75": 74320.68,
+                            "90": 88997.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Administrator",
+                        "url": "/research/US/Job=Senior_Systems_Administrator/Salary",
+                        "profileCount": 212,
+                        "range": {
+                            "10": 61500.71,
+                            "25": 72409.19,
+                            "50": 84528.88,
+                            "75": 98281.7,
+                            "90": 113567.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Supervisor",
+                        "url": "/research/US/Job=Maintenance_Supervisor/Hourly_Rate",
+                        "profileCount": 208,
+                        "range": {
+                            "10": 40120.53,
+                            "25": 49304.43,
+                            "50": 61258.67,
+                            "75": 73957.02,
+                            "90": 87198.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Engineering Technician",
+                        "url": "/research/US/Job=Engineering_Technician/Hourly_Rate",
+                        "profileCount": 207,
+                        "range": {
+                            "10": 39006.33,
+                            "25": 45861.12,
+                            "50": 55262.72,
+                            "75": 66567.81,
+                            "90": 80450.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer, IT",
+                        "url": "/research/US/Job=Systems_Engineer%2C_IT/Salary",
+                        "profileCount": 192,
+                        "range": {
+                            "10": 51695.64,
+                            "25": 62073.73,
+                            "50": 75092.65,
+                            "75": 90775.81,
+                            "90": 108363.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Mechanic",
+                        "url": "/research/US/Job=Maintenance_Mechanic/Hourly_Rate",
+                        "profileCount": 190,
+                        "range": {
+                            "10": 31367.83,
+                            "25": 39066.24,
+                            "50": 49105.73,
+                            "75": 60404.07,
+                            "90": 74737.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electronics Technician",
+                        "url": "/research/US/Job=Electronics_Technician/Hourly_Rate",
+                        "profileCount": 174,
+                        "range": {
+                            "10": 35170.52,
+                            "25": 42317.28,
+                            "50": 52721.83,
+                            "75": 65801.92,
+                            "90": 79329.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 172,
+                        "range": {
+                            "10": 32629.32,
+                            "25": 38827.87,
+                            "50": 46725.22,
+                            "75": 57382.47,
+                            "90": 71371.67
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Internal_Support_Engineer%2C_IT/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "System Administration, Troubleshooting",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-07-29T09:50:02.02962Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "35875.7",
+                            "median": "58566.55",
+                            "percentile75": "65546.83",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "58566.55",
+                            "median": "63871.29",
+                            "percentile75": "67563.44",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 11,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Information technology (IT) internal support engineers are based within IT department, and their primary responsibility is to support and maintain the company’s IT infrastructure and provide technical support to end-users within the company. They either work directly for the company or for a company that provides IT services to external organizations. \r\nTheir job duties include handling hardware and software support, resolving software errors, installing and updating software, installing and replacing hardware, and training end-users. They complete ongoing infrastructure,  maintenance, and system checks. Additionally, IT internal support engineers are responsible for arranging and implementing office moves, including reinstalling computers, hardware, and cabling.  They are responsible for adding new employees to the system, adding their username, setting up their email accounts, and installing their computer and other necessary hardware. In turn, when an employee leaves the company, they are also responsible for removing them from the system and removing computer and other equipment to storage. They monitor and track all hardware and equipment, making sure each piece of equipment is asset-tagged and documented. They also maintain all original software, making sure it is in a centrally located place and continually up to date.\r\nTypically, IT internal support engineers are required to have a bachelor’s degree and at least one to two years' experience within a similar environment. There are various certifications that some companies require, such as Microsoft certification or A+ certification. Most companies require these professionals to complete ongoing training to keep up to date with relevant technology; this training is usually provided by the company.\r\nWork hours vary for IT internal support engineers depending on the company. Most positions require these IT professionals' work hours to be the same as the end-users, as the internal support engineer needs to be available to provide support. If there are major infrastructure updates required, then these must be completed outside normal working hours to provide minimal disruption to company employees.",
+                    "name": "Internal Support Engineer, IT",
+                    "url": "/research/US/Job=Internal_Support_Engineer%2C_IT/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,653 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Test / Quality Assurance (QA) Engineer, (Computer Networking)",
+                    "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary",
+                    "compensation": 90125,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Quality Assurance (QA) / Test Automation Engineer",
+                            "url": "/research/US/Job=Senior_Quality_Assurance_(QA)_%2F_Test_Automation_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 93473.88290648404,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Sr. Test / Quality Assurance (QA) Engineer, (Computer Software)",
+                                    "url": "/research/US/Job=Sr._Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Software)/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 94784.07373217962,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Quality Manager",
+                                    "url": "/research/US/Job=Quality_Manager/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 80339.94316583696,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Quality Assurance Manager",
+                                    "url": "/research/US/Job=Quality_Assurance_Manager/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 79976.88895956687,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Test / Quality Assurance (QA) Engineer, (Computer Networking)"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary",
+                    "defaultUrl": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-10-15T14:40:44.13056Z",
+                "narratives": {
+                    "description": "Test/quality assurance (QA) engineers for computer networking are responsible for a wide variety of tasks related to quality assurance for their organization. They must ensure that products produced by their company are high quality using automated and manual testing. They need to find and address issues from the networking side of products and make sure that problems are reported as they arise to other relevant staff. Additionally the test/QA engineer for computer networking administers stress and load tests for the networking part of a product. This job is generally full time and is performed in an office setting, which means that long periods of sitting are required. These individuals must work well with other testing and QA personnel, as well as any other individuals involved in the testing process.\r\nCompanies' requirements for test/QA engineers for computer networking may vary. Generally, though, companies require a bachelor's degree in a related field and/or substantial related experience. Experience in a Unix or Linux environment is required by most companies, as is experience with Python, C#, C, C++, JS, PHP, and other types of programming languages. These engineers must also possess strong technical and analytical skills in this position.",
+                    "summaryHourly": "The average pay for a Test / Quality Assurance (QA) Engineer, (Computer Networking) is $75.00 per hour.",
+                    "summarySalary": "The average pay for a Test / Quality Assurance (QA) Engineer, (Computer Networking) is $90,125 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 4913.18,
+                        "50": 5793.1,
+                        "75": 8138.92,
+                        "profileCount": 6
+                    },
+                    "hourlyRate": {
+                        "50": 75,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "25": 73697.64,
+                        "50": 90125,
+                        "75": 115849.55,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 75298.8,
+                        "50": 111250,
+                        "75": 143000,
+                        "profileCount": 9
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-10-15T14:40:44.13056Z",
+                        "profileCount": 9,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 75298.8,
+                                    "50": 111250,
+                                    "75": 143000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-10-15T14:40:44.13056Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 75
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-10-15T14:40:44.13056Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 73697.64,
+                                    "50": 90125,
+                                    "75": 115849.55
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-10-15T14:40:44.13056Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-10-15T14:40:44.13056Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary/1d1e1f9c/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary/74328f89/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary/9c95f280/San-Jose-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 114629.94
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary/a07a7f39/Python",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 107000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 829,
+                        "range": {
+                            "10": 60261.12,
+                            "25": 70362.56,
+                            "50": 84335.56,
+                            "75": 104403.42,
+                            "90": 124714.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 323,
+                        "range": {
+                            "10": 65209.6,
+                            "25": 78808.9,
+                            "50": 95987.35,
+                            "75": 115511.09,
+                            "90": 133803.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 268,
+                        "range": {
+                            "10": 49720.68,
+                            "25": 59224.73,
+                            "50": 70703.34,
+                            "75": 86316.68,
+                            "90": 103519.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 261,
+                        "range": {
+                            "10": 83443.2,
+                            "25": 97174.4,
+                            "50": 114695.95,
+                            "75": 134206.7,
+                            "90": 153277.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 120,
+                        "range": {
+                            "10": 42031.62,
+                            "25": 49849.99,
+                            "50": 59614.41,
+                            "75": 70910.91,
+                            "90": 83718.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 118,
+                        "range": {
+                            "10": 64383,
+                            "25": 76526.73,
+                            "50": 91559.16,
+                            "75": 112008.74,
+                            "90": 132046.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 111,
+                        "range": {
+                            "10": 74792.16,
+                            "25": 88053.26,
+                            "50": 102796.76,
+                            "75": 121631.03,
+                            "90": 140053.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 98,
+                        "range": {
+                            "10": 92969.29,
+                            "25": 107706.68,
+                            "50": 126126.61,
+                            "75": 145108.28,
+                            "90": 159899.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 93,
+                        "range": {
+                            "10": 51915.43,
+                            "25": 63484.48,
+                            "50": 76807.04,
+                            "75": 93398.69,
+                            "90": 113751.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 60,
+                        "range": {
+                            "10": 63206.26,
+                            "25": 76611.64,
+                            "50": 92983.39,
+                            "75": 115157.3,
+                            "90": 134714.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Machine Learning Engineer",
+                        "url": "/research/US/Job=Machine_Learning_Engineer/Salary",
+                        "profileCount": 54,
+                        "range": {
+                            "10": 74699.14,
+                            "25": 89412.43,
+                            "50": 111312.32,
+                            "75": 132390.86,
+                            "90": 152953.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 48,
+                        "range": {
+                            "10": 43495.53,
+                            "25": 50943.42,
+                            "50": 60221.59,
+                            "75": 69206.45,
+                            "90": 78689.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 48,
+                        "range": {
+                            "10": 52629.92,
+                            "25": 60450.09,
+                            "50": 68491.33,
+                            "75": 79239.96,
+                            "90": 95669.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Test / Quality Assurance (QA) Engineer (Computer Software)",
+                        "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer_(Computer_Software)/Salary",
+                        "profileCount": 44,
+                        "range": {
+                            "10": 46069.75,
+                            "25": 55807.99,
+                            "50": 69041.08,
+                            "75": 84498.82,
+                            "90": 100422.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 35,
+                        "range": {
+                            "10": 59501.46,
+                            "25": 68477.16,
+                            "50": 79702.52,
+                            "75": 92271.82,
+                            "90": 106719.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 34,
+                        "range": {
+                            "10": 49190.27,
+                            "25": 57668.52,
+                            "50": 68861.63,
+                            "75": 83872.23,
+                            "90": 99742.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 103194.43,
+                            "25": 118666.76,
+                            "50": 135509.67,
+                            "75": 154243.59,
+                            "90": 173530.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Site Reliability Engineer (SRE)",
+                        "url": "/research/US/Job=Site_Reliability_Engineer_(SRE)/Salary",
+                        "profileCount": 31,
+                        "range": {
+                            "10": 74820.44,
+                            "25": 92930.1,
+                            "50": 117153.28,
+                            "75": 138524.55,
+                            "90": 155553.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Engineer (SDE)",
+                        "url": "/research/US/Job=Software_Development_Engineer_(SDE)/Salary",
+                        "profileCount": 30,
+                        "range": {
+                            "10": 74419.15,
+                            "25": 91459.85,
+                            "50": 106633.12,
+                            "75": 121956.14,
+                            "90": 138473.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Analyst",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Analyst/Salary",
+                        "profileCount": 30,
+                        "range": {
+                            "10": 40457.38,
+                            "25": 46386.25,
+                            "50": 53903.76,
+                            "75": 63778.38,
+                            "90": 74842.01
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Python",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-10-15T14:40:44.13056Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "75298.8",
+                            "median": "111250",
+                            "percentile75": "143000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "73697.64",
+                            "median": "90125",
+                            "percentile75": "115849.55",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "4913.18",
+                            "median": "5793.1",
+                            "percentile75": "8138.92",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Test/quality assurance (QA) engineers for computer networking are responsible for a wide variety of tasks related to quality assurance for their organization. They must ensure that products produced by their company are high quality using automated and manual testing. They need to find and address issues from the networking side of products and make sure that problems are reported as they arise to other relevant staff. Additionally the test/QA engineer for computer networking administers stress and load tests for the networking part of a product. This job is generally full time and is performed in an office setting, which means that long periods of sitting are required. These individuals must work well with other testing and QA personnel, as well as any other individuals involved in the testing process.\r\nCompanies' requirements for test/QA engineers for computer networking may vary. Generally, though, companies require a bachelor's degree in a related field and/or substantial related experience. Experience in a Unix or Linux environment is required by most companies, as is experience with Python, C#, C, C++, JS, PHP, and other types of programming languages. These engineers must also possess strong technical and analytical skills in this position.",
+                    "name": "Test / Quality Assurance (QA) Engineer, (Computer Networking)",
+                    "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer%2C_(Computer_Networking)/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

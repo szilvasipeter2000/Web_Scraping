@@ -1,0 +1,559 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "High Speed Internet Technician"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=High_Speed_Internet_Technician/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=High_Speed_Internet_Technician/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-01-27T03:12:06.18805Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a High Speed Internet Technician is $18.00 per hour."
+                },
+                "tasks": [
+                    "Troubleshoot and configure WAN and LAN access for individuals, groups, and companies.",
+                    "Troubleshoot and communicate network functionality and access issues.",
+                    "Analyze, install, and maintain high-speed networking equipment."
+                ],
+                "compensation": {
+                    "hourlyRate": {
+                        "10": 10.07,
+                        "25": 14.25,
+                        "50": 18,
+                        "75": 21.36,
+                        "90": 64.56,
+                        "profileCount": 10
+                    },
+                    "total": {
+                        "10": 21084.42,
+                        "25": 27040,
+                        "50": 33280,
+                        "75": 44157.73,
+                        "90": 133351.24,
+                        "profileCount": 11
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-01-27T03:12:06.18805Z",
+                        "profileCount": 11,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 21084.42,
+                                    "25": 27040,
+                                    "50": 33280,
+                                    "75": 44157.73,
+                                    "90": 133351.24
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-01-27T03:12:06.18805Z",
+                        "profileCount": 10,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 10.07,
+                                    "25": 14.25,
+                                    "50": 18,
+                                    "75": 21.36,
+                                    "90": 64.56
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-01-27T03:12:06.18805Z",
+                        "profileCount": 8,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-01-27T03:12:06.18805Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=High_Speed_Internet_Technician/Hourly_Rate/06551ef1/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 14.42
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "IP Network",
+                                "displayName": null,
+                                "url": "/research/US/Job=High_Speed_Internet_Technician/Hourly_Rate/12bc1ff8/IP-Network",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 14.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Internet / WWW",
+                                "displayName": null,
+                                "url": "/research/US/Job=High_Speed_Internet_Technician/Hourly_Rate/55e89143/Internet-WWW",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 14.59
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Network Analyst",
+                        "url": "/research/US/Job=Network_Analyst/Salary",
+                        "profileCount": 21,
+                        "range": {
+                            "10": 17.51,
+                            "25": 21.48,
+                            "50": 25.23,
+                            "75": 29.12,
+                            "90": 35.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Security Engineer",
+                        "url": "/research/US/Job=Network_Security_Engineer/Salary",
+                        "profileCount": 9,
+                        "range": {
+                            "10": 22.15,
+                            "25": 28.96,
+                            "50": 43.26,
+                            "75": 59.13,
+                            "90": 76.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Telecommunications Network Engineer",
+                        "url": "/research/US/Job=Telecommunications_Network_Engineer/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 22.23,
+                            "25": 23.55,
+                            "50": 31.14,
+                            "75": 36.17,
+                            "90": 39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 18.48,
+                            "25": 23.79,
+                            "50": 30.52,
+                            "75": 40.73,
+                            "90": 50.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Low Voltage Electrician",
+                        "url": "/research/US/Job=Low_Voltage_Electrician/Hourly_Rate",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 14.98,
+                            "25": 17.11,
+                            "50": 20.47,
+                            "75": 25.46,
+                            "90": 32.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 20.51,
+                            "25": 28.63,
+                            "50": 38.44,
+                            "75": 50.54,
+                            "90": 65.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Specialist",
+                        "url": "/research/US/Job=Network_Specialist/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 16.78,
+                            "25": 19.87,
+                            "50": 24.08,
+                            "75": 31.1,
+                            "90": 37.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Installation Technician",
+                        "url": "/research/US/Job=Installation_Technician/Hourly_Rate",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 14.68,
+                            "25": 16.55,
+                            "50": 19.4,
+                            "75": 23.7,
+                            "90": 28.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security or Fire Alarm Systems Installer",
+                        "url": "/research/US/Job=Security_or_Fire_Alarm_Systems_Installer/Hourly_Rate",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 14.72,
+                            "25": 17.45,
+                            "50": 20.6,
+                            "75": 26.01,
+                            "90": 30.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 41.64,
+                            "25": 51.86,
+                            "50": 65.48,
+                            "75": 79.19,
+                            "90": 96.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 16.85,
+                            "25": 20.49,
+                            "50": 26.05,
+                            "75": 34.33,
+                            "90": 45.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 17.42,
+                            "25": 20.66,
+                            "50": 25.57,
+                            "75": 30.43,
+                            "90": 36.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 15.52,
+                            "25": 18.76,
+                            "50": 22.88,
+                            "75": 28.67,
+                            "90": 33.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Systems / Data Communications Analyst",
+                        "url": "/research/US/Job=Network_Systems_%2F_Data_Communications_Analyst/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "50": 33.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 17.58,
+                            "25": 20.48,
+                            "50": 25.16,
+                            "75": 30.69,
+                            "90": 37.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 16.98,
+                            "25": 22.32,
+                            "50": 30.82,
+                            "75": 46.41,
+                            "90": 78.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Alarm Technician",
+                        "url": "/research/US/Job=Alarm_Technician/Hourly_Rate",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 15.02,
+                            "25": 17.46,
+                            "50": 21.08,
+                            "75": 26.55,
+                            "90": 32.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Engineer",
+                        "url": "/research/US/Job=Technical_Support_Engineer/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 17.48,
+                            "25": 21.76,
+                            "50": 26.24,
+                            "75": 31.61,
+                            "90": 39.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 16.33,
+                            "25": 20.38,
+                            "50": 26.21,
+                            "75": 36.39,
+                            "90": 48.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Network Engineer",
+                        "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 33.97,
+                            "25": 40.24,
+                            "50": 50.81,
+                            "75": 68.72,
+                            "90": 83.52
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=High_Speed_Internet_Technician/Hourly_Rate",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "IP Network, Internet / WWW",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-01-27T03:12:06.18805Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "21084.42",
+                            "percentile25": "27040",
+                            "median": "33280",
+                            "percentile75": "44157.73",
+                            "percentile90": "133351.24",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": "10.07",
+                            "percentile25": "14.25",
+                            "median": "18",
+                            "percentile75": "21.36",
+                            "percentile90": "64.56",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 14,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "High Speed Internet Technician",
+                    "url": "/research/US/Job=High_Speed_Internet_Technician/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

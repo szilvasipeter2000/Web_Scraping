@@ -1,0 +1,778 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Network/Data Communications Manager",
+                    "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary",
+                    "compensation": 88178.23668220037,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Sr. Network Engineer",
+                            "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 100706.30073844077,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Network Engineer",
+                                    "url": "/research/US/Job=Network_Engineer/Salary",
+                                    "percent": 0.16,
+                                    "compensation": 73975.75710191249,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Network Architect",
+                                    "url": "/research/US/Job=Network_Architect/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 120655.3596968417,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Network/Data Communications Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Network%2FData_Communications_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-05-30T11:50:53.01262Z",
+                "narratives": {
+                    "description": "Network/data communications managers are primarily responsible for maintaining data-transmission networks and supporting data processing systems for a company or client, as well as managing staff members who install, monitor, and analyze equipment and software and resolve any errors. These managers must map out transmissions and find ways to improve data-transfers and communication, as well as identify security threats, and they also study each network for cost-effectiveness. Using collected statistics, they also monitor trends in data in order to maintain network connections and make necessary changes.\r\nNetwork/data communications managers typically hire and train their own teams in telecommunications and data processing, and additional training may occasionally be necessary depending on clients and their needs. These managers may also perform tests on communication systems to ensure proper functioning, both in-person and through built-in software and testing the data and coding.\r\nAspiring network/data communications managers should have at least two years of experience as a system programmer or one year in database administration or a similar position, and a bachelor's or master's degree in computer science or a related field may also be required. These managers should be experts in computers and programming and have strong analytical and problem-solving skills, as they must interpret large amounts of data on a regular basis and communicate this data in clear and understandable ways. Time-management and quality control are also important for both the managers and their teams of employees.",
+                    "summaryHourly": "The average pay for a Network/Data Communications Manager is $35.51 per hour.",
+                    "summarySalary": "The average pay for a Network/Data Communications Manager is $106,625 per year."
+                },
+                "tasks": [
+                    "Implement upgrade schedules to ensure facilities have required capacity and to react to unforeseen demand.",
+                    "Plan and schedule equipment acquisition and installation.",
+                    "Conduct studies of services, equipment capacity, data rates, and estimated costs.",
+                    "Analyze data and forecast user demand to determine equipment required.",
+                    "Report to management the status of all events per the escalation procedures."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 8000,
+                        "50": 14739.53,
+                        "75": 19725.8,
+                        "profileCount": 9
+                    },
+                    "hourlyRate": {
+                        "50": 35.51,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 60011.84,
+                        "25": 71596.66,
+                        "50": 106624.56,
+                        "75": 133271.51,
+                        "90": 170000,
+                        "profileCount": 19
+                    },
+                    "total": {
+                        "10": 58386.46,
+                        "25": 70895.11,
+                        "50": 106668.04,
+                        "75": 135354.88,
+                        "90": 174524.4,
+                        "profileCount": 23
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-05-30T11:50:53.01262Z",
+                        "profileCount": 23,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": {
+                                    "10": 58386.46,
+                                    "25": 70895.11,
+                                    "50": 106668.04,
+                                    "75": 135354.88,
+                                    "90": 174524.4
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-05-30T11:50:53.01262Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 35.51
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-05-30T11:50:53.01262Z",
+                        "profileCount": 19,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": {
+                                    "10": 60011.84,
+                                    "25": 71596.66,
+                                    "50": 106624.56,
+                                    "75": 133271.51,
+                                    "90": 170000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-05-30T11:50:53.01262Z",
+                        "profileCount": 10,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-05-30T11:50:53.01262Z",
+                        "profileCount": 15,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/a1d018bb/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/ba6047ca/Mid-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 80959.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/9b57dc8d/Experienced",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 89955.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/ee5177c9/Late-Career",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 128084.93
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/4ef4deb4/Atlanta-GA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/4e84901c/New-York-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 73500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Hourly_Rate/a462985b/Houston-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cisco Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/d36400f9/Cisco-Networking",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 100079.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Architecture / Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/3b8b2858/Network-Architecture-Design",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/ce763ed8/Network-Management-Administration",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 107000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/eae4299f/Leadership",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 103605.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Windows NT / 2000 / XP Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/cb6c7efb/Windows-NT-2000-XP-Networking",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Telephony",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/b155c63c/Telephony",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 132000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Exchange",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary/89ef2dbb/Microsoft-Exchange",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 83000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1816,
+                        "range": {
+                            "10": 46223.33,
+                            "25": 56197.05,
+                            "50": 70253.83,
+                            "75": 88030.02,
+                            "90": 109838.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 1376,
+                        "range": {
+                            "10": 54149.98,
+                            "25": 66092.89,
+                            "50": 79188.18,
+                            "75": 94848.88,
+                            "90": 113120.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1209,
+                        "range": {
+                            "10": 57775.12,
+                            "25": 71420.49,
+                            "50": 90446.41,
+                            "75": 114061.5,
+                            "90": 135931.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 1118,
+                        "range": {
+                            "10": 48198.7,
+                            "25": 62030.01,
+                            "50": 84590.94,
+                            "75": 123942.69,
+                            "90": 179967
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1051,
+                        "range": {
+                            "10": 36800.45,
+                            "25": 43395.42,
+                            "50": 51902.29,
+                            "75": 62802.64,
+                            "90": 74710.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 885,
+                        "range": {
+                            "10": 47921.37,
+                            "25": 55554.09,
+                            "50": 65571.03,
+                            "75": 77894.35,
+                            "90": 91847.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 785,
+                        "range": {
+                            "10": 45282.7,
+                            "25": 53652.42,
+                            "50": 64092.29,
+                            "75": 75933.67,
+                            "90": 88362.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 758,
+                        "range": {
+                            "10": 48371.56,
+                            "25": 55251.13,
+                            "50": 64114.6,
+                            "75": 72954.91,
+                            "90": 82090.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Network Engineer",
+                        "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                        "profileCount": 616,
+                        "range": {
+                            "10": 78212.43,
+                            "25": 90777.58,
+                            "50": 108330.51,
+                            "75": 126544.71,
+                            "90": 145974.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 604,
+                        "range": {
+                            "10": 58950.26,
+                            "25": 74027.71,
+                            "50": 92454.48,
+                            "75": 118315.57,
+                            "90": 142991.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 560,
+                        "range": {
+                            "10": 76711.04,
+                            "25": 108570.99,
+                            "50": 161912.75,
+                            "75": 239654.96,
+                            "90": 316122.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 530,
+                        "range": {
+                            "10": 35639.65,
+                            "25": 42010.1,
+                            "50": 49944.66,
+                            "75": 56979.52,
+                            "90": 63437.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 470,
+                        "range": {
+                            "10": 37779.33,
+                            "25": 44304.33,
+                            "50": 53040.36,
+                            "75": 62806.77,
+                            "90": 73433.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 441,
+                        "range": {
+                            "10": 73450.36,
+                            "25": 94898.99,
+                            "50": 123971.41,
+                            "75": 153324.55,
+                            "90": 178088.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 408,
+                        "range": {
+                            "10": 45852.56,
+                            "25": 53504.47,
+                            "50": 62407.13,
+                            "75": 73803.71,
+                            "90": 88170.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "President",
+                        "url": "/research/US/Job=President/Salary",
+                        "profileCount": 371,
+                        "range": {
+                            "10": 77792.54,
+                            "25": 110582.88,
+                            "50": 154297.85,
+                            "75": 208154.51,
+                            "90": 264722.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 349,
+                        "range": {
+                            "10": 80216.56,
+                            "25": 102396.28,
+                            "50": 135557.74,
+                            "75": 172582.73,
+                            "90": 205111.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 347,
+                        "range": {
+                            "10": 33721.31,
+                            "25": 41132.78,
+                            "50": 49851.12,
+                            "75": 58836.84,
+                            "90": 66368.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 347,
+                        "range": {
+                            "10": 46824.86,
+                            "25": 54843.81,
+                            "50": 64827.89,
+                            "75": 77125.56,
+                            "90": 91862.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 347,
+                        "range": {
+                            "10": 76541.18,
+                            "25": 102131.78,
+                            "50": 146640.02,
+                            "75": 196485.28,
+                            "90": 248114.77
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Network%2FData_Communications_Manager/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Cisco Networking, Network Architecture / Design, Network Management / Administration, Leadership, Windows NT / 2000 / XP Networking, Telephony, Microsoft Exchange",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-05-30T11:50:53.01262Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58386.46",
+                            "percentile25": "70895.11",
+                            "median": "106668.04",
+                            "percentile75": "135354.88",
+                            "percentile90": "174524.4",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "60011.84",
+                            "percentile25": "71596.66",
+                            "median": "106624.56",
+                            "percentile75": "133271.51",
+                            "percentile90": "170000",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "8000",
+                            "median": "14739.53",
+                            "percentile75": "19725.8",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 34,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Network/data communications managers are primarily responsible for maintaining data-transmission networks and supporting data processing systems for a company or client, as well as managing staff members who install, monitor, and analyze equipment and software and resolve any errors. These managers must map out transmissions and find ways to improve data-transfers and communication, as well as identify security threats, and they also study each network for cost-effectiveness. Using collected statistics, they also monitor trends in data in order to maintain network connections and make necessary changes.\r\nNetwork/data communications managers typically hire and train their own teams in telecommunications and data processing, and additional training may occasionally be necessary depending on clients and their needs. These managers may also perform tests on communication systems to ensure proper functioning, both in-person and through built-in software and testing the data and coding.\r\nAspiring network/data communications managers should have at least two years of experience as a system programmer or one year in database administration or a similar position, and a bachelor's or master's degree in computer science or a related field may also be required. These managers should be experts in computers and programming and have strong analytical and problem-solving skills, as they must interpret large amounts of data on a regular basis and communicate this data in clear and understandable ways. Time-management and quality control are also important for both the managers and their teams of employees.",
+                    "name": "Network/Data Communications Manager",
+                    "url": "/research/US/Job=Network%2FData_Communications_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

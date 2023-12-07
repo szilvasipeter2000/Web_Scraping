@@ -1,0 +1,746 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Senior Cloud Solutions Engineer",
+                    "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary",
+                    "compensation": 105400.95145205538,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Development Operations (DevOps) Engineer",
+                            "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                            "percent": 0.6,
+                            "compensation": 94627.18934399256,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Development Operations (DevOps) Engineer",
+                                    "url": "/research/US/Job=Senior_Development_Operations_(DevOps)_Engineer/Salary",
+                                    "percent": 0.26,
+                                    "compensation": 117417.46507382889,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Site Reliability Engineer (SRE)",
+                                    "url": "/research/US/Job=Site_Reliability_Engineer_(SRE)/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 117294.61449104133,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Software Engineer",
+                                    "url": "/research/US/Job=Software_Engineer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 85679.1994543505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Senior Systems Engineer (Computer Networking / IT)",
+                            "url": "/research/US/Job=Senior_Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                            "percent": 0.4,
+                            "compensation": 101135.16415719177,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Systems Engineer",
+                                    "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 105326.59037510879,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Director",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 119787.52007147866,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Cloud Solutions Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-15T07:15:20.94446Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Senior Cloud Solutions Engineer is $122,271 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 2013.41,
+                        "25": 4913.18,
+                        "50": 12209.51,
+                        "75": 25434.12,
+                        "90": 29493.45,
+                        "profileCount": 10
+                    },
+                    "salary": {
+                        "10": 84429.91,
+                        "25": 97210.63,
+                        "50": 122271.26,
+                        "75": 148235.05,
+                        "90": 167393.77,
+                        "profileCount": 18
+                    },
+                    "total": {
+                        "10": 85000.66,
+                        "25": 98263.52,
+                        "50": 130094.48,
+                        "75": 161267.41,
+                        "90": 213000,
+                        "profileCount": 19
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-15T07:15:20.94446Z",
+                        "profileCount": 19,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": {
+                                    "10": 85000.66,
+                                    "25": 98263.52,
+                                    "50": 130094.48,
+                                    "75": 161267.41,
+                                    "90": 213000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-15T07:15:20.94446Z",
+                        "profileCount": 18,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": {
+                                    "10": 84429.91,
+                                    "25": 97210.63,
+                                    "50": 122271.26,
+                                    "75": 148235.05,
+                                    "90": 167393.77
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-15T07:15:20.94446Z",
+                        "profileCount": 11,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-15T07:15:20.94446Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/05ca42fc/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 112500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/4afa0af4/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/567b1be9/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 150000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cloud Computing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/4a998a03/Cloud-Computing",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 131634.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Azure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/cbb51024/Microsoft-Azure",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 104964.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "System Architecture",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/81325d96/System-Architecture",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 137568.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon Web Services (AWS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/3b4a9985/Amazon-Web-Services-AWS",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Automation Scripting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/74632cf4/Automation-Scripting",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 146950.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Development Operations (DevOps)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary/55df97d6/Development-Operations-DevOps",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 142456.14
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 3.75
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 782,
+                        "range": {
+                            "10": 70277.75,
+                            "25": 84570.89,
+                            "50": 103373.18,
+                            "75": 127449.02,
+                            "90": 148108.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 494,
+                        "range": {
+                            "10": 66867.76,
+                            "25": 77429.2,
+                            "50": 91983.39,
+                            "75": 112961.29,
+                            "90": 134594.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Solutions Architect",
+                        "url": "/research/US/Job=Solutions_Architect/Salary",
+                        "profileCount": 402,
+                        "range": {
+                            "10": 80097.93,
+                            "25": 100217.05,
+                            "50": 125423.08,
+                            "75": 148623.88,
+                            "90": 168932.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 357,
+                        "range": {
+                            "10": 93194.94,
+                            "25": 107104.29,
+                            "50": 125289.97,
+                            "75": 145455.05,
+                            "90": 164992.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Site Reliability Engineer (SRE)",
+                        "url": "/research/US/Job=Site_Reliability_Engineer_(SRE)/Salary",
+                        "profileCount": 244,
+                        "range": {
+                            "10": 80094.96,
+                            "25": 99604.74,
+                            "50": 122861.24,
+                            "75": 144002.5,
+                            "90": 161900.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Solutions Architect",
+                        "url": "/research/US/Job=Senior_Solutions_Architect/Salary",
+                        "profileCount": 150,
+                        "range": {
+                            "10": 103245.71,
+                            "25": 123989.38,
+                            "50": 142655.82,
+                            "75": 160956.64,
+                            "90": 179478.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cloud Solutions Architect",
+                        "url": "/research/US/Job=Cloud_Solutions_Architect/Salary",
+                        "profileCount": 149,
+                        "range": {
+                            "10": 87645.59,
+                            "25": 109043.02,
+                            "50": 131931.3,
+                            "75": 153732.39,
+                            "90": 169478.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Architect",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Architect/Salary",
+                        "profileCount": 132,
+                        "range": {
+                            "10": 83355.03,
+                            "25": 102763.87,
+                            "50": 125486.28,
+                            "75": 145542.06,
+                            "90": 165599.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Enterprise Architect, IT",
+                        "url": "/research/US/Job=Enterprise_Architect%2C_IT/Salary",
+                        "profileCount": 128,
+                        "range": {
+                            "10": 102034.83,
+                            "25": 123069.66,
+                            "50": 143405.88,
+                            "75": 162151.41,
+                            "90": 180350.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 124,
+                        "range": {
+                            "10": 67348.27,
+                            "25": 79823.68,
+                            "50": 95525.13,
+                            "75": 116540.21,
+                            "90": 134960.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 112,
+                        "range": {
+                            "10": 84218.02,
+                            "25": 97893.15,
+                            "50": 116126.43,
+                            "75": 134182.78,
+                            "90": 154477.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 98,
+                        "range": {
+                            "10": 54781.22,
+                            "25": 64409.54,
+                            "50": 77065.23,
+                            "75": 92835.43,
+                            "90": 112739.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Systems Engineer",
+                        "url": "/research/US/Job=Principal_Systems_Engineer/Salary",
+                        "profileCount": 88,
+                        "range": {
+                            "10": 102983.64,
+                            "25": 118240.48,
+                            "50": 136855.71,
+                            "75": 155936.37,
+                            "90": 175339.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Architect",
+                        "url": "/research/US/Job=Systems_Architect/Salary",
+                        "profileCount": 86,
+                        "range": {
+                            "10": 76013.95,
+                            "25": 97650.15,
+                            "50": 121532.42,
+                            "75": 145211.24,
+                            "90": 170774.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 81,
+                        "range": {
+                            "10": 83822.1,
+                            "25": 97052.57,
+                            "50": 113537.59,
+                            "75": 133275.65,
+                            "90": 154595.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automation Engineer",
+                        "url": "/research/US/Job=Automation_Engineer/Salary",
+                        "profileCount": 72,
+                        "range": {
+                            "10": 60858.09,
+                            "25": 70702.64,
+                            "50": 82655.56,
+                            "75": 97425.58,
+                            "90": 116058.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 69,
+                        "range": {
+                            "10": 112793.06,
+                            "25": 128833.46,
+                            "50": 147592.05,
+                            "75": 167638.2,
+                            "90": 188714.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Engineer (SDE)",
+                        "url": "/research/US/Job=Software_Development_Engineer_(SDE)/Salary",
+                        "profileCount": 68,
+                        "range": {
+                            "10": 82744.43,
+                            "25": 97671.12,
+                            "50": 115619.84,
+                            "75": 133929.37,
+                            "90": 150904.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Consultant",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Consultant/Salary",
+                        "profileCount": 65,
+                        "range": {
+                            "10": 53355.29,
+                            "25": 66738.36,
+                            "50": 83593.43,
+                            "75": 108313.37,
+                            "90": 134329.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Architect",
+                        "url": "/research/US/Job=Technical_Architect/Salary",
+                        "profileCount": 62,
+                        "range": {
+                            "10": 81155.07,
+                            "25": 101057.44,
+                            "50": 125016.71,
+                            "75": 148136.79,
+                            "90": 167002.32
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Cloud Computing, Microsoft Azure, System Architecture, Amazon Web Services (AWS), Automation Scripting, Development Operations (DevOps)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-15T07:15:20.94446Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "85000.66",
+                            "percentile25": "98263.52",
+                            "median": "130094.48",
+                            "percentile75": "161267.41",
+                            "percentile90": "213000",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "84429.91",
+                            "percentile25": "97210.63",
+                            "median": "122271.26",
+                            "percentile75": "148235.05",
+                            "percentile90": "167393.77",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2013.41",
+                            "percentile25": "4913.18",
+                            "median": "12209.51",
+                            "percentile75": "25434.12",
+                            "percentile90": "29493.45",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 22,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Cloud Solutions Engineer",
+                    "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

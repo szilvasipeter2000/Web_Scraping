@@ -1,0 +1,618 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Taxonomy Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Taxonomy_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Taxonomy_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-07-21T07:26:51.81434Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Taxonomy Manager is $66,295 per year."
+                },
+                "tasks": [
+                    "Manage the overall taxonomy strategy and standards, training team and users to ensure compliance.",
+                    "Train and mentor taxonomy staff.",
+                    "Audit across groups and channels to ensure data are consistent and meet standards.",
+                    "Promote and forecast taxonomy and data quality initiatives.",
+                    "Identify data projects to increase usability and usefulness of taxonomy and data."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 12500,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "25": 58887.42,
+                        "50": 66295.22,
+                        "75": 112500,
+                        "profileCount": 9
+                    },
+                    "total": {
+                        "25": 58887.42,
+                        "50": 67000,
+                        "75": 122500,
+                        "profileCount": 9
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-07-21T07:26:51.81434Z",
+                        "profileCount": 9,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 58887.42,
+                                    "50": 67000,
+                                    "75": 122500
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-07-21T07:26:51.81434Z",
+                        "profileCount": 9,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 58887.42,
+                                    "50": 66295.22,
+                                    "75": 112500
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-07-21T07:26:51.81434Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-07-21T07:26:51.81434Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Manager/Salary/94343725/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 59515.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Manager/Salary/f560501a/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 70326.24
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Manager/Salary/7b856c3e/New-York-NY",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 59910.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Manager/Salary/c1cc9afb/Austin-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Manager/Salary/f0cc3ca7/Seattle-WA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Taxonomy",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Manager/Salary/63e196bb/Taxonomy",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 62925
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Taxonomy Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Manager/Salary/4e9d203e/Taxonomy-Development",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 63000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Knowledge",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Manager/Salary/09fbb134/Software-Knowledge",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 59383.07
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Implementation Specialist",
+                        "url": "/research/US/Job=Implementation_Specialist/Salary",
+                        "profileCount": 73,
+                        "range": {
+                            "10": 43094.63,
+                            "25": 49299.33,
+                            "50": 57024.67,
+                            "75": 67482.82,
+                            "90": 79871.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Legal Secretary",
+                        "url": "/research/US/Job=Legal_Secretary/Salary",
+                        "profileCount": 63,
+                        "range": {
+                            "10": 35319.49,
+                            "25": 44045.68,
+                            "50": 57557.27,
+                            "75": 71315.06,
+                            "90": 84497.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Dental Office Manager",
+                        "url": "/research/US/Job=Dental_Office_Manager/Hourly_Rate",
+                        "profileCount": 52,
+                        "range": {
+                            "10": 40340.54,
+                            "25": 46072.71,
+                            "50": 52626.97,
+                            "75": 61149.89,
+                            "90": 70065.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Tax Accountant",
+                        "url": "/research/US/Job=Senior_Tax_Accountant/Salary",
+                        "profileCount": 47,
+                        "range": {
+                            "10": 59301.01,
+                            "25": 65843.32,
+                            "50": 73785.94,
+                            "75": 83343.49,
+                            "90": 93261.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Trainer",
+                        "url": "/research/US/Job=Software_Trainer/Salary",
+                        "profileCount": 45,
+                        "range": {
+                            "10": 45464.86,
+                            "25": 51349.49,
+                            "50": 60035.34,
+                            "75": 73064.57,
+                            "90": 85471.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Support Specialist",
+                        "url": "/research/US/Job=Application_Support_Specialist/Salary",
+                        "profileCount": 43,
+                        "range": {
+                            "10": 42557.54,
+                            "25": 50026,
+                            "50": 60611.6,
+                            "75": 73778.64,
+                            "90": 89815.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automobile Service Advisor",
+                        "url": "/research/US/Job=Automobile_Service_Advisor/Salary",
+                        "profileCount": 43,
+                        "range": {
+                            "10": 24202.69,
+                            "25": 32475.18,
+                            "50": 42744.56,
+                            "75": 55159.94,
+                            "90": 71589.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 43,
+                        "range": {
+                            "10": 34432.07,
+                            "25": 39804.58,
+                            "50": 48279.52,
+                            "75": 57910.84,
+                            "90": 69869.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Consultant",
+                        "url": "/research/US/Job=Software_Consultant/Salary",
+                        "profileCount": 42,
+                        "range": {
+                            "10": 59605.61,
+                            "25": 68791.36,
+                            "50": 81054.18,
+                            "75": 98675.33,
+                            "90": 119540.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Registered Dental Hygienist (RDH)",
+                        "url": "/research/US/Job=Registered_Dental_Hygienist_(RDH)/Hourly_Rate",
+                        "profileCount": 40,
+                        "range": {
+                            "10": 41039.87,
+                            "25": 51165.24,
+                            "50": 63083.63,
+                            "75": 73557.75,
+                            "90": 83980.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Tax Accountant",
+                        "url": "/research/US/Job=Tax_Accountant/Salary",
+                        "profileCount": 39,
+                        "range": {
+                            "10": 45139.22,
+                            "25": 51325.32,
+                            "50": 57891.68,
+                            "75": 65331.19,
+                            "90": 76290.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Inside Sales Representative",
+                        "url": "/research/US/Job=Inside_Sales_Representative/Salary",
+                        "profileCount": 36,
+                        "range": {
+                            "10": 33346.55,
+                            "25": 39362.69,
+                            "50": 46202.49,
+                            "75": 55360.96,
+                            "90": 65499.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Specialist",
+                        "url": "/research/US/Job=Customer_Service_Specialist/Hourly_Rate",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 33006.14,
+                            "25": 38715.32,
+                            "50": 44551.91,
+                            "75": 52848.8,
+                            "90": 62404.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Analyst, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Analyst%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 28,
+                        "range": {
+                            "10": 40683.51,
+                            "25": 48223.27,
+                            "50": 56689.37,
+                            "75": 68358.23,
+                            "90": 79915.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Senior_Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 28,
+                        "range": {
+                            "10": 35351.73,
+                            "25": 40671.38,
+                            "50": 49107.21,
+                            "75": 58647.44,
+                            "90": 69446.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 27,
+                        "range": {
+                            "10": 37577.81,
+                            "25": 43291.03,
+                            "50": 51511.66,
+                            "75": 62053.94,
+                            "90": 75726.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Support Specialist",
+                        "url": "/research/US/Job=Software_Support_Specialist/Salary",
+                        "profileCount": 24,
+                        "range": {
+                            "10": 37112.59,
+                            "25": 42899.94,
+                            "50": 49133.29,
+                            "75": 59178.23,
+                            "90": 73799.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Technician",
+                        "url": "/research/US/Job=Help_Desk_Technician/Hourly_Rate",
+                        "profileCount": 20,
+                        "range": {
+                            "10": 31936.54,
+                            "25": 36883.2,
+                            "50": 43609.78,
+                            "75": 51025.58,
+                            "90": 59982.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Analyst",
+                        "url": "/research/US/Job=Software_Analyst/Salary",
+                        "profileCount": 18,
+                        "range": {
+                            "10": 49753.32,
+                            "25": 58487.67,
+                            "50": 67920.29,
+                            "75": 82458.91,
+                            "90": 100644.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Entry Clerk",
+                        "url": "/research/US/Job=Data_Entry_Clerk/Hourly_Rate",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 24235.16,
+                            "25": 30479.68,
+                            "50": 35627.91,
+                            "75": 43650.06,
+                            "90": 52521.8
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Taxonomy_Manager/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Taxonomy, Taxonomy Development, Software Knowledge",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-07-21T07:26:51.81434Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "58887.42",
+                            "median": "67000",
+                            "percentile75": "122500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "58887.42",
+                            "median": "66295.22",
+                            "percentile75": "112500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "12500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 10,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Taxonomy Manager",
+                    "url": "/research/US/Job=Taxonomy_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

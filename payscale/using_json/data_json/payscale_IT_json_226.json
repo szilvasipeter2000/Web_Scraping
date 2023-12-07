@@ -1,0 +1,644 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Executive - Network Management & IT Security"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary",
+                    "defaultUrl": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-08-28T01:51:55.55434Z",
+                "narratives": {
+                    "description": "An executive in network management and IT security is a senior manager who oversees implementation of networks and related security within a company. The position also involves devising a plan for network infrastructure and modifying it as necessary.\r\nThese executives must make sure that company electronics such as computer systems and mobile phones are able to connect to company networks securely and efficiently. They may oversee a group of IT specialists in a company who carry out tasks such as setting up and maintaining networks and troubleshooting them when problems arise.\r\nAnother important role these executives may have is making sure the company has a functioning system to adequately back up data. They must stay up-to-date with new developments in order to continuously provide the best and most secure network, hardware, and software possible. Another important part of the job is choosing an anti-virus system and implementing it throughout the network.\r\nThose in this position must also ensure that employees are up-to-date in training, and may have to devise lesson plans for this training. Because this is a management position, applicants will usually have to prove many years of experience in the field. A minimum of a Bachelor’s degree in an information technology-related field is usually required, and some positions require a Master’s degree.",
+                    "summaryHourly": "The average pay for an Executive - Network Management & IT Security is $26.50 per hour.",
+                    "summarySalary": "The average pay for an Executive - Network Management & IT Security is $85,500 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 1200,
+                        "50": 17000,
+                        "75": 25490.2,
+                        "profileCount": 5
+                    },
+                    "hourlyRate": {
+                        "50": 26.5,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 30201.21,
+                        "25": 49132.74,
+                        "50": 85500,
+                        "75": 138870.3,
+                        "90": 175434.82,
+                        "profileCount": 10
+                    },
+                    "total": {
+                        "10": 32100,
+                        "25": 42842.89,
+                        "50": 75496.69,
+                        "75": 122083.78,
+                        "90": 193561.87,
+                        "profileCount": 14
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-08-28T01:51:55.55434Z",
+                        "profileCount": 14,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": {
+                                    "10": 32100,
+                                    "25": 42842.89,
+                                    "50": 75496.69,
+                                    "75": 122083.78,
+                                    "90": 193561.87
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-08-28T01:51:55.55434Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 26.5
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-08-28T01:51:55.55434Z",
+                        "profileCount": 10,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 30201.21,
+                                    "25": 49132.74,
+                                    "50": 85500,
+                                    "75": 138870.3,
+                                    "90": 175434.82
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-08-28T01:51:55.55434Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-08-28T01:51:55.55434Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary/00c03326/Early-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary/e9e886e4/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary/5f22a3d4/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 65597
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary/8d412051/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 175601
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary/ad4ea4fc/Atlanta-GA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 121789.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary/f4ee542f/IT-Security-%26-Infrastructure",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 136500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary/f59e9904/Network-Management-Administration",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 68500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1083,
+                        "range": {
+                            "10": 56454.39,
+                            "25": 70111.43,
+                            "50": 89225.58,
+                            "75": 112743.08,
+                            "90": 134313.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 545,
+                        "range": {
+                            "10": 71582.4,
+                            "25": 93312.64,
+                            "50": 122558.2,
+                            "75": 151402.65,
+                            "90": 176257.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 465,
+                        "range": {
+                            "10": 46357.26,
+                            "25": 54118.48,
+                            "50": 64053.8,
+                            "75": 76237.27,
+                            "90": 89324.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 408,
+                        "range": {
+                            "10": 43648.08,
+                            "25": 51589.38,
+                            "50": 61949.23,
+                            "75": 73744.07,
+                            "90": 86670.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 397,
+                        "range": {
+                            "10": 52341.22,
+                            "25": 63639.8,
+                            "50": 76960.97,
+                            "75": 92040.97,
+                            "90": 109878.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 255,
+                        "range": {
+                            "10": 52544.87,
+                            "25": 61635.8,
+                            "50": 74199.66,
+                            "75": 91122.48,
+                            "90": 113704.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Network Engineer",
+                        "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                        "profileCount": 232,
+                        "range": {
+                            "10": 75993.28,
+                            "25": 88323.65,
+                            "50": 103522.88,
+                            "75": 122213.74,
+                            "90": 140596.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 228,
+                        "range": {
+                            "10": 45065.66,
+                            "25": 53087.97,
+                            "50": 62906.32,
+                            "75": 74792.6,
+                            "90": 88519.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 186,
+                        "range": {
+                            "10": 39427.75,
+                            "25": 47227.15,
+                            "50": 58258.23,
+                            "75": 75277.74,
+                            "90": 97940.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 173,
+                        "range": {
+                            "10": 51698.52,
+                            "25": 62827.29,
+                            "50": 75413.34,
+                            "75": 90056.22,
+                            "90": 106682.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer",
+                        "url": "/research/US/Job=Security_Engineer/Salary",
+                        "profileCount": 170,
+                        "range": {
+                            "10": 65284.98,
+                            "25": 78282.26,
+                            "50": 96595.63,
+                            "75": 119457.75,
+                            "90": 141649.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Officer (CIO)",
+                        "url": "/research/US/Job=Chief_Information_Officer_(CIO)/Salary",
+                        "profileCount": 149,
+                        "range": {
+                            "10": 99850.94,
+                            "25": 128663.59,
+                            "50": 170265.81,
+                            "75": 211602.8,
+                            "90": 253926.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Senior_Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 140,
+                        "range": {
+                            "10": 71581.2,
+                            "25": 86532.98,
+                            "50": 103077.43,
+                            "75": 124235.75,
+                            "90": 143702.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 134,
+                        "range": {
+                            "10": 35683.02,
+                            "25": 41178.86,
+                            "50": 49946.62,
+                            "75": 62361.07,
+                            "90": 76257.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Analyst",
+                        "url": "/research/US/Job=Security_Analyst/Salary",
+                        "profileCount": 124,
+                        "range": {
+                            "10": 50179.37,
+                            "25": 59374.95,
+                            "50": 70591.38,
+                            "75": 83363.32,
+                            "90": 99039.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Engineer",
+                        "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                        "profileCount": 115,
+                        "range": {
+                            "10": 67970.57,
+                            "25": 78535.52,
+                            "50": 95203.37,
+                            "75": 117420.91,
+                            "90": 136064.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Administrator",
+                        "url": "/research/US/Job=Senior_Systems_Administrator/Salary",
+                        "profileCount": 107,
+                        "range": {
+                            "10": 64084.63,
+                            "25": 74689.85,
+                            "50": 87201.31,
+                            "75": 101608.79,
+                            "90": 118672.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Architect, IT",
+                        "url": "/research/US/Job=Security_Architect%2C_IT/Salary",
+                        "profileCount": 107,
+                        "range": {
+                            "10": 88011.33,
+                            "25": 107963.57,
+                            "50": 130585.27,
+                            "75": 151757.34,
+                            "90": 174201.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Manager",
+                        "url": "/research/US/Job=Information_Security_Manager/Salary",
+                        "profileCount": 93,
+                        "range": {
+                            "10": 80561.81,
+                            "25": 98160.26,
+                            "50": 119887.93,
+                            "75": 138018.93,
+                            "90": 154713.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Technology Officer (CTO)",
+                        "url": "/research/US/Job=Chief_Technology_Officer_(CTO)/Salary",
+                        "profileCount": 89,
+                        "range": {
+                            "10": 91940.61,
+                            "25": 124964.27,
+                            "50": 166433.77,
+                            "75": 205752.79,
+                            "90": 249824.09
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "IT Security & Infrastructure, Network Management / Administration",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-08-28T01:51:55.55434Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "32100",
+                            "percentile25": "42842.89",
+                            "median": "75496.69",
+                            "percentile75": "122083.78",
+                            "percentile90": "193561.87",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "30201.21",
+                            "percentile25": "49132.74",
+                            "median": "85500",
+                            "percentile75": "138870.3",
+                            "percentile90": "175434.82",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "1200",
+                            "median": "17000",
+                            "percentile75": "25490.2",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 17,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "An executive in network management and IT security is a senior manager who oversees implementation of networks and related security within a company. The position also involves devising a plan for network infrastructure and modifying it as necessary.\r\nThese executives must make sure that company electronics such as computer systems and mobile phones are able to connect to company networks securely and efficiently. They may oversee a group of IT specialists in a company who carry out tasks such as setting up and maintaining networks and troubleshooting them when problems arise.\r\nAnother important role these executives may have is making sure the company has a functioning system to adequately back up data. They must stay up-to-date with new developments in order to continuously provide the best and most secure network, hardware, and software possible. Another important part of the job is choosing an anti-virus system and implementing it throughout the network.\r\nThose in this position must also ensure that employees are up-to-date in training, and may have to devise lesson plans for this training. Because this is a management position, applicants will usually have to prove many years of experience in the field. A minimum of a Bachelor’s degree in an information technology-related field is usually required, and some positions require a Master’s degree.",
+                    "name": "Executive - Network Management & IT Security",
+                    "url": "/research/US/Job=Executive_-_Network_Management_%26_IT_Security/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

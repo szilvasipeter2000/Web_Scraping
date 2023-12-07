@@ -1,0 +1,324 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Picture Archiving and Communication System (PACS)/Radiology Information Systems (RIS) Assistant",
+                    "url": "/research/US/Job=Picture_Archiving_and_Communication_System_(PACS)%2FRadiology_Information_Systems_(RIS)_Assistant/Hourly_Rate",
+                    "compensation": 16.5,
+                    "isHourly": true,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Cardiac Sonographer",
+                            "url": "/research/US/Job=Cardiac_Sonographer/Hourly_Rate",
+                            "percent": 1,
+                            "compensation": 65158.8007004606,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Echocardiographer",
+                                    "url": "/research/US/Job=Echocardiographer/Hourly_Rate",
+                                    "percent": 0.43,
+                                    "compensation": 65333.28062660806,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Sonographer",
+                                    "url": "/research/US/Job=Sonographer/Hourly_Rate",
+                                    "percent": 0.2,
+                                    "compensation": 61669.53838953107,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Cardiovascular Technologist",
+                                    "url": "/research/US/Job=Cardiovascular_Technologist/Hourly_Rate",
+                                    "percent": 0.08,
+                                    "compensation": 57636.51945861257,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Picture Archiving and Communication System (PACS)/Radiology Information Systems (RIS) Assistant"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Picture_Archiving_and_Communication_System_(PACS)%2FRadiology_Information_Systems_(RIS)_Assistant/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Picture_Archiving_and_Communication_System_(PACS)%2FRadiology_Information_Systems_(RIS)_Assistant/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2020-11-01T22:59:31.40939Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Picture Archiving And Communication System (PACS)/Radiology Information Systems (RIS) Assistant is $18.00 per hour."
+                },
+                "tasks": [
+                    "Support RIS and PACS technologists, radiologists and staff, perform system operations, develop and update application configurations.",
+                    "Clean and stock exam rooms.",
+                    "Maintain and update training documents and software application updates.",
+                    "Assist with paperwork, patient studies, reports, orders, and exams."
+                ],
+                "compensation": {
+                    "hourlyRate": {
+                        "25": 15,
+                        "50": 18,
+                        "75": 22,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "25": 31200,
+                        "50": 37440,
+                        "75": 45760,
+                        "profileCount": 5
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2020-11-01T22:59:31.40939Z",
+                        "profileCount": 5,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 31200,
+                                    "50": 37440,
+                                    "75": 45760
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2020-11-01T22:59:31.40939Z",
+                        "profileCount": 5,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 15,
+                                    "50": 18,
+                                    "75": 22
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2020-11-01T22:59:31.40939Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2020-11-01T22:59:31.40939Z",
+                        "profileCount": 3,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Picture_Archiving_and_Communication_System_(PACS)%2FRadiology_Information_Systems_(RIS)_Assistant/Hourly_Rate/6918cb7b/Early-Career",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 22.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Picture_Archiving_and_Communication_System_(PACS)%2FRadiology_Information_Systems_(RIS)_Assistant/Hourly_Rate/f9c02c15/Experienced",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 22.21
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Picture_Archiving_and_Communication_System_(PACS)%2FRadiology_Information_Systems_(RIS)_Assistant/Hourly_Rate",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2020-11-01T22:59:31.40939Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "31200",
+                            "median": "37440",
+                            "percentile75": "45760",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "HOUR",
+                            "percentile10": null,
+                            "percentile25": "15",
+                            "median": "18",
+                            "percentile75": "22",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Picture Archiving and Communication System (PACS)/Radiology Information Systems (RIS) Assistant",
+                    "url": "/research/US/Job=Picture_Archiving_and_Communication_System_(PACS)%2FRadiology_Information_Systems_(RIS)_Assistant/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

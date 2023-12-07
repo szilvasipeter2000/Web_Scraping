@@ -1,0 +1,645 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Cloud Software Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-15T04:04:43.64315Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Senior Cloud Software Engineer is $154,983 per year."
+                },
+                "tasks": [
+                    "Participate in full software development lifecycle.",
+                    "Develop and support large cloud systems.",
+                    "Utilize cloud infrastructure tools."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 1510.06,
+                        "25": 4860.53,
+                        "50": 11919.46,
+                        "75": 13381.22,
+                        "90": 99329.31,
+                        "profileCount": 10
+                    },
+                    "profitSharing": {
+                        "50": 13166.5,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 101911.76,
+                        "25": 123699.36,
+                        "50": 154983.25,
+                        "75": 180996.03,
+                        "90": 193436.69,
+                        "profileCount": 14
+                    },
+                    "total": {
+                        "10": 106915.89,
+                        "25": 132081.81,
+                        "50": 169083.1,
+                        "75": 191351.49,
+                        "90": 239578.5,
+                        "profileCount": 14
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-15T04:04:43.64315Z",
+                        "profileCount": 14,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": {
+                                    "10": 106915.89,
+                                    "25": 132081.81,
+                                    "50": 169083.1,
+                                    "75": 191351.49,
+                                    "90": 239578.5
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-15T04:04:43.64315Z",
+                        "profileCount": 14,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": {
+                                    "10": 101911.76,
+                                    "25": 123699.36,
+                                    "50": 154983.25,
+                                    "75": 180996.03,
+                                    "90": 193436.69
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-15T04:04:43.64315Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-15T04:04:43.64315Z",
+                        "profileCount": 11,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary/6c955f50/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 165626.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary/e47d9e24/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 157500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary/fce44014/Linux",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 114000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon Web Services (AWS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary/b8038a95/Amazon-Web-Services-AWS",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cloud Computing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary/f0157f6d/Cloud-Computing",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 165626.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "JavaScript",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary/3e40168c/JavaScript",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 131969.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary/263dd811/Java",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary/b506b4c8/Python",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 1
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 5457,
+                        "range": {
+                            "10": 67327.69,
+                            "25": 77943.69,
+                            "50": 92564.86,
+                            "75": 113541.99,
+                            "90": 135083.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 2598,
+                        "range": {
+                            "10": 94153.82,
+                            "25": 108099.27,
+                            "50": 126162.85,
+                            "75": 146318.78,
+                            "90": 166038.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 2312,
+                        "range": {
+                            "10": 55284.18,
+                            "25": 64954.96,
+                            "50": 77682.84,
+                            "75": 93645.51,
+                            "90": 113542.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1200,
+                        "range": {
+                            "10": 85248.69,
+                            "25": 98935.26,
+                            "50": 117220.38,
+                            "75": 135365.32,
+                            "90": 155773.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 767,
+                        "range": {
+                            "10": 43914.16,
+                            "25": 51880.81,
+                            "50": 63567.35,
+                            "75": 78128.73,
+                            "90": 93213.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 670,
+                        "range": {
+                            "10": 59107.77,
+                            "25": 70018.36,
+                            "50": 83772.65,
+                            "75": 102845.06,
+                            "90": 123555.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 658,
+                        "range": {
+                            "10": 70896.6,
+                            "25": 83008.42,
+                            "50": 99693.77,
+                            "75": 120000.95,
+                            "90": 138379.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 543,
+                        "range": {
+                            "10": 70821.08,
+                            "25": 85453.09,
+                            "50": 104528.67,
+                            "75": 128958.2,
+                            "90": 150180.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 475,
+                        "range": {
+                            "10": 113522.33,
+                            "25": 129861.94,
+                            "50": 148403.91,
+                            "75": 168478.88,
+                            "90": 189807.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Front End Developer / Engineer",
+                        "url": "/research/US/Job=Front_End_Developer_%2F_Engineer/Salary",
+                        "profileCount": 456,
+                        "range": {
+                            "10": 54376.26,
+                            "25": 66501.74,
+                            "50": 82607.33,
+                            "75": 101329.76,
+                            "90": 124878.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 438,
+                        "range": {
+                            "10": 90387.73,
+                            "25": 107180.16,
+                            "50": 127481.75,
+                            "75": 146671.81,
+                            "90": 166256.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 430,
+                        "range": {
+                            "10": 67684.25,
+                            "25": 80136.24,
+                            "50": 96082.16,
+                            "75": 117162.7,
+                            "90": 135516.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 409,
+                        "range": {
+                            "10": 59319.56,
+                            "25": 68239.28,
+                            "50": 76498.69,
+                            "75": 86542.46,
+                            "90": 105177.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 382,
+                        "range": {
+                            "10": 53798.74,
+                            "25": 62787.51,
+                            "50": 75774.55,
+                            "75": 90177.76,
+                            "90": 106782.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 370,
+                        "range": {
+                            "10": 49817.06,
+                            "25": 58295.12,
+                            "50": 66829.17,
+                            "75": 76242.88,
+                            "90": 85481.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Java Developer",
+                        "url": "/research/US/Job=Java_Developer/Salary",
+                        "profileCount": 290,
+                        "range": {
+                            "10": 57885.59,
+                            "25": 70515.52,
+                            "50": 84923.08,
+                            "75": 102605.92,
+                            "90": 122833.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Full Stack Software Developer",
+                        "url": "/research/US/Job=Full_Stack_Software_Developer/Salary",
+                        "profileCount": 275,
+                        "range": {
+                            "10": 58623.51,
+                            "25": 70413.08,
+                            "50": 84177.36,
+                            "75": 102231.55,
+                            "90": 120830.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 271,
+                        "range": {
+                            "10": 48271.19,
+                            "25": 56220.78,
+                            "50": 66496.58,
+                            "75": 78423.45,
+                            "90": 91064.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Engineer (SDE)",
+                        "url": "/research/US/Job=Software_Development_Engineer_(SDE)/Salary",
+                        "profileCount": 266,
+                        "range": {
+                            "10": 83373.46,
+                            "25": 98079.84,
+                            "50": 115831.02,
+                            "75": 134064,
+                            "90": 150895.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Solutions Architect",
+                        "url": "/research/US/Job=Solutions_Architect/Salary",
+                        "profileCount": 266,
+                        "range": {
+                            "10": 80500.32,
+                            "25": 101116.45,
+                            "50": 126543.07,
+                            "75": 149928.58,
+                            "90": 170390.71
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Linux, Amazon Web Services (AWS), Cloud Computing, JavaScript, Java, Python",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-15T04:04:43.64315Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "106915.89",
+                            "percentile25": "132081.81",
+                            "median": "169083.1",
+                            "percentile75": "191351.49",
+                            "percentile90": "239578.5",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "101911.76",
+                            "percentile25": "123699.36",
+                            "median": "154983.25",
+                            "percentile75": "180996.03",
+                            "percentile90": "193436.69",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1510.06",
+                            "percentile25": "4860.53",
+                            "median": "11919.46",
+                            "percentile75": "13381.22",
+                            "percentile90": "99329.31",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "13166.5",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 16,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Cloud Software Engineer",
+                    "url": "/research/US/Job=Senior_Cloud_Software_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

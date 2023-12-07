@@ -1,0 +1,732 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Powertrain Control Systems & Software Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-08-05T13:38:00.22788Z",
+                "narratives": {
+                    "description": "The engines and motor systems that drive large equipment (including cars, trucks, trains, and ships) are called powertrains. A powertrain control systems and software engineer works to develop or improve the way these systems function. The engineer is primarily concerned with efficiency from a speed, cooling, fuel consumption, and safety standpoint; these engineers also take the environmental effects of their powertrains into account. \r\nThe control of a powertrain typically involves how it can be throttled up and down, and how that affects the rest of the equipment. The powertrain control systems engineer develops intricate software and sensors to help assess the efficiency, heat, and power used by the powertrain. The software developed by this engineer then automates the process of mitigating negative factors such as heat buildup or friction. The software may also increase fuel as necessary, as well as throttle down in the case of excess emissions.\r\nTypically this employee works with a dedicated team in development for new powertrain technology, but engineering teams assisting customer service may also use a powertrain control systems and software engineer if consumer or quality control issues with an existing engine or power system require investigation and improvement. Powertrain control systems and software engineers typically work in an office or design and development laboratory environment during regular business hours.\r\nAn engineer in this field typically has at least a bachelor's degree in mechanical engineering, computer engineering, or a related discipline.  The software developed by this engineer for controlling the powertrain requires a strong background in both computer technology and engineering. ",
+                    "summaryHourly": "The average pay for a Powertrain Control Systems & Software Engineer is $38.00 per hour.",
+                    "summarySalary": "The average pay for a Powertrain Control Systems & Software Engineer is $91,436 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 0,
+                        "25": 3821.44,
+                        "50": 5650,
+                        "75": 10154.55,
+                        "90": 12255.43,
+                        "profileCount": 16
+                    },
+                    "hourlyRate": {
+                        "25": 35.08,
+                        "50": 38,
+                        "75": 41.81,
+                        "profileCount": 8
+                    },
+                    "profitSharing": {
+                        "50": 4000,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 71274.23,
+                        "25": 78826.21,
+                        "50": 91435.53,
+                        "75": 103468.28,
+                        "90": 113834.02,
+                        "profileCount": 37
+                    },
+                    "total": {
+                        "10": 71402.51,
+                        "25": 80173.67,
+                        "50": 91282.22,
+                        "75": 103236.1,
+                        "90": 117703.77,
+                        "profileCount": 45
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-08-05T13:38:00.22788Z",
+                        "profileCount": 45,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 45,
+                                "range": {
+                                    "10": 71402.51,
+                                    "25": 80173.67,
+                                    "50": 91282.22,
+                                    "75": 103236.1,
+                                    "90": 117703.77
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-08-05T13:38:00.22788Z",
+                        "profileCount": 8,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 35.08,
+                                    "50": 38,
+                                    "75": 41.81
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-08-05T13:38:00.22788Z",
+                        "profileCount": 37,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 37,
+                                "range": {
+                                    "10": 71274.23,
+                                    "25": 78826.21,
+                                    "50": 91435.53,
+                                    "75": 103468.28,
+                                    "90": 113834.02
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-08-05T13:38:00.22788Z",
+                        "profileCount": 29,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 26,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-08-05T13:38:00.22788Z",
+                        "profileCount": 36,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 33,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 30,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 27,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "FCA Corp",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/abb26c3c/FCA-Corp",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 88437.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "General Motors Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/ea7d54bd/General-Motors-Corporation",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 88988.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chrysler Group LLC.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/728d71f8/Chrysler-Group-LLC.",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 98078.45
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/0f93afdd/Entry-Level",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 72792.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/0f93afdd/Early-Career",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 83033
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/24325856/Mid-Career",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 99206.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/00479067/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 105105.97
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Auburn Hills, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/657082de/Auburn-Hills-MI",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 89607.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Detroit, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/67fc7775/Detroit-MI",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 80472.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dearborn, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/c89684e0/Dearborn-MI",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 74500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milford, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/347f5005/Milford-MI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 87352.18
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Matlab",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/54cd07e9/Matlab",
+                                "profileCount": 39,
+                                "range": {
+                                    "50": 91622.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Controls",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/18e45d61/Controls",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 91459.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Simulation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/95048c1c/Simulation",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 90500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plug-in Hybrid Electric Vehicles/Electric Vehicles (PHEV/EV)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary/948a8830/Plug-in-Hybrid-Electric-Vehicles-Electric-Vehicles-PHEV-EV",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 3.8
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 376,
+                        "range": {
+                            "10": 53578.08,
+                            "25": 61203.53,
+                            "50": 70376.86,
+                            "75": 82380.48,
+                            "90": 98529.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 325,
+                        "range": {
+                            "10": 57875.56,
+                            "25": 65282.95,
+                            "50": 75183.76,
+                            "75": 90237.6,
+                            "90": 110396.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Controls Engineer",
+                        "url": "/research/US/Job=Controls_Engineer/Salary",
+                        "profileCount": 298,
+                        "range": {
+                            "10": 57874.36,
+                            "25": 65617.55,
+                            "50": 76353.45,
+                            "75": 88953.3,
+                            "90": 102644.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Aerospace Engineer",
+                        "url": "/research/US/Job=Aerospace_Engineer/Salary",
+                        "profileCount": 203,
+                        "range": {
+                            "10": 61428.34,
+                            "25": 70099.97,
+                            "50": 83512.29,
+                            "75": 102662.46,
+                            "90": 128824.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Control Systems Engineer",
+                        "url": "/research/US/Job=Control_Systems_Engineer/Salary",
+                        "profileCount": 129,
+                        "range": {
+                            "10": 61061.55,
+                            "25": 68987.97,
+                            "50": 79668.09,
+                            "75": 96669.97,
+                            "90": 115940.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 113,
+                        "range": {
+                            "10": 76025.75,
+                            "25": 85574.75,
+                            "50": 97251.61,
+                            "75": 113173.2,
+                            "90": 130843.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 99,
+                        "range": {
+                            "10": 78400.49,
+                            "25": 89749.93,
+                            "50": 104154.88,
+                            "75": 122501.75,
+                            "90": 142977.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrician Journeyman",
+                        "url": "/research/US/Job=Electrician_Journeyman/Hourly_Rate",
+                        "profileCount": 96,
+                        "range": {
+                            "10": 35536.06,
+                            "25": 44677.86,
+                            "50": 57894.32,
+                            "75": 74320.68,
+                            "90": 88997.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Service Technician",
+                        "url": "/research/US/Job=HVAC_Service_Technician/Hourly_Rate",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 32051.38,
+                            "25": 40870.39,
+                            "50": 52078.2,
+                            "75": 66043.46,
+                            "90": 82461.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 66,
+                        "range": {
+                            "10": 51893.38,
+                            "25": 59587.92,
+                            "50": 68570.03,
+                            "75": 80783.32,
+                            "90": 97003.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Technician",
+                        "url": "/research/US/Job=HVAC_Technician/Hourly_Rate",
+                        "profileCount": 65,
+                        "range": {
+                            "10": 30502.53,
+                            "25": 39207.84,
+                            "50": 46227.88,
+                            "75": 59423.15,
+                            "90": 73345.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Radio Frequency (RF) Engineer",
+                        "url": "/research/US/Job=Radio_Frequency_(RF)_Engineer/Salary",
+                        "profileCount": 61,
+                        "range": {
+                            "10": 59927.18,
+                            "25": 71485.98,
+                            "50": 85102.89,
+                            "75": 103588.13,
+                            "90": 124975.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Aerospace Systems Engineer",
+                        "url": "/research/US/Job=Aerospace_Systems_Engineer/Salary",
+                        "profileCount": 55,
+                        "range": {
+                            "10": 65121.02,
+                            "25": 71274.11,
+                            "50": 81401.29,
+                            "75": 97403.9,
+                            "90": 118257.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 52,
+                        "range": {
+                            "10": 60744.21,
+                            "25": 70922.87,
+                            "50": 84936.72,
+                            "75": 105351.42,
+                            "90": 125421.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Engineer",
+                        "url": "/research/US/Job=Research_Engineer/Salary",
+                        "profileCount": 52,
+                        "range": {
+                            "10": 58434.31,
+                            "25": 68891.51,
+                            "50": 82236.88,
+                            "75": 100776.6,
+                            "90": 120254.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Electrical Engineer",
+                        "url": "/research/US/Job=Senior_Electrical_Engineer/Salary",
+                        "profileCount": 46,
+                        "range": {
+                            "10": 81094.25,
+                            "25": 91176.92,
+                            "50": 102338.28,
+                            "75": 119142.04,
+                            "90": 135473.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Structural Engineer",
+                        "url": "/research/US/Job=Structural_Engineer/Salary",
+                        "profileCount": 43,
+                        "range": {
+                            "10": 53164.59,
+                            "25": 59902.63,
+                            "50": 68026,
+                            "75": 80302.48,
+                            "90": 96837.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Master Electrician",
+                        "url": "/research/US/Job=Master_Electrician/Hourly_Rate",
+                        "profileCount": 41,
+                        "range": {
+                            "10": 42312.33,
+                            "25": 52670.75,
+                            "50": 67156.7,
+                            "75": 86179.72,
+                            "90": 103475.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Optical Engineer",
+                        "url": "/research/US/Job=Optical_Engineer/Salary",
+                        "profileCount": 40,
+                        "range": {
+                            "10": 62461.2,
+                            "25": 73866.39,
+                            "50": 88604.94,
+                            "75": 113166.97,
+                            "90": 133706.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Industrial Electrician",
+                        "url": "/research/US/Job=Industrial_Electrician/Hourly_Rate",
+                        "profileCount": 36,
+                        "range": {
+                            "10": 40232.5,
+                            "25": 50048.02,
+                            "50": 61477.94,
+                            "75": 77020.87,
+                            "90": 97166.02
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "Matlab, Controls, Simulation, Plug-in Hybrid Electric Vehicles/Electric Vehicles (PHEV/EV)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-08-05T13:38:00.22788Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "71402.51",
+                            "percentile25": "80173.67",
+                            "median": "91282.22",
+                            "percentile75": "103236.1",
+                            "percentile90": "117703.77",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "71274.23",
+                            "percentile25": "78826.21",
+                            "median": "91435.53",
+                            "percentile75": "103468.28",
+                            "percentile90": "113834.02",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "0",
+                            "percentile25": "3821.44",
+                            "median": "5650",
+                            "percentile75": "10154.55",
+                            "percentile90": "12255.43",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 59,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "The engines and motor systems that drive large equipment (including cars, trucks, trains, and ships) are called powertrains. A powertrain control systems and software engineer works to develop or improve the way these systems function. The engineer is primarily concerned with efficiency from a speed, cooling, fuel consumption, and safety standpoint; these engineers also take the environmental effects of their powertrains into account. \r\nThe control of a powertrain typically involves how it can be throttled up and down, and how that affects the rest of the equipment. The powertrain control systems engineer develops intricate software and sensors to help assess the efficiency, heat, and power used by the powertrain. The software developed by this engineer then automates the process of mitigating negative factors such as heat buildup or friction. The software may also increase fuel as necessary, as well as throttle down in the case of excess emissions.\r\nTypically this employee works with a dedicated team in development for new powertrain technology, but engineering teams assisting customer service may also use a powertrain control systems and software engineer if consumer or quality control issues with an existing engine or power system require investigation and improvement. Powertrain control systems and software engineers typically work in an office or design and development laboratory environment during regular business hours.\r\nAn engineer in this field typically has at least a bachelor's degree in mechanical engineering, computer engineering, or a related discipline.  The software developed by this engineer for controlling the powertrain requires a strong background in both computer technology and engineering. ",
+                    "name": "Powertrain Control Systems & Software Engineer",
+                    "url": "/research/US/Job=Powertrain_Control_Systems_%26_Software_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

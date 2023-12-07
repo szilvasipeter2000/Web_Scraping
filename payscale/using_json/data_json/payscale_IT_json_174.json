@@ -1,0 +1,630 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Data Warehouse Administrator"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Data_Warehouse_Administrator/Salary",
+                    "defaultUrl": "/research/US/Job=Data_Warehouse_Administrator/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2021-12-06T08:21:58.49072Z",
+                "narratives": {
+                    "description": "Data warehouse administrators are responsible for the day-to-day activities of running a computer data warehouse. A wide degree of competency in computer programming is required for this position, and tasks include archiving, tracking data changes, migration, and monitoring data systems. Some troubleshooting and resolving performance issues is also necessary, so strong interpersonal and analytical skills are beneficial.\r\nData warehouse administrators generally serve as supervisors within a data warehouse and oversee other technicians to ensure that everything runs smoothly. In addition to having direct reports, they themselves may report to a higher-level supervisor. They work exclusively indoors, typically in an office setting within a larger building which houses computer hardware and servers. While they may perform the majority of their duties from a desk, some troubleshooting within the network may be necessary. A typical day involves filing a large number of support tickets for various departments and assigning and overseeing troubleshooting measures, and although they work primarily during regular business hours, some positions have the potential for emergencies which require data warehouse administrators to be on-call at all times.\r\nA great deal of experience in systems administration is required for this position, and an associate's or bachelor's degree in computer science or a related field may also be required by employers.",
+                    "summaryHourly": "The average pay for a Data Warehouse Administrator is $15.00 per hour.",
+                    "summarySalary": "The average pay for a Data Warehouse Administrator is $72,375 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "25": 13.48,
+                        "50": 15,
+                        "75": 23.3,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "10": 50683.71,
+                        "25": 67496.97,
+                        "50": 72374.59,
+                        "75": 90000,
+                        "90": 143017.23,
+                        "profileCount": 11
+                    },
+                    "total": {
+                        "10": 28500.15,
+                        "25": 50704.03,
+                        "50": 68488.59,
+                        "75": 82541.36,
+                        "90": 103252.01,
+                        "profileCount": 16
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2021-12-06T08:21:58.49072Z",
+                        "profileCount": 16,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 28500.15,
+                                    "25": 50704.03,
+                                    "50": 68488.59,
+                                    "75": 82541.36,
+                                    "90": 103252.01
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2021-12-06T08:21:58.49072Z",
+                        "profileCount": 5,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 13.48,
+                                    "50": 15,
+                                    "75": 23.3
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2021-12-06T08:21:58.49072Z",
+                        "profileCount": 11,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 50683.71,
+                                    "25": 67496.97,
+                                    "50": 72374.59,
+                                    "75": 90000,
+                                    "90": 143017.23
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2021-12-06T08:21:58.49072Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2021-12-06T08:21:58.49072Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Administrator/Salary/13b7d801/Early-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 71898.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Administrator/Salary/47faad2f/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85963.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Administrator/Salary/bc96b94f/Late-Career",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 94000.86
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Administrator/Salary/41b6d783/Houston-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Warehouse",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Administrator/Hourly_Rate/9b81eb51/Data-Warehouse",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Word",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Administrator/Hourly_Rate/ba511010/Microsoft-Word",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Administrator/Salary/96bf1153/Oracle",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 72000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Administrator/Hourly_Rate/2378a0a2/Microsoft-Office",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 3557,
+                        "range": {
+                            "10": 29470.96,
+                            "25": 34382.04,
+                            "50": 40431.46,
+                            "75": 48879.77,
+                            "90": 57574.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1890,
+                        "range": {
+                            "10": 34776.76,
+                            "25": 40926.89,
+                            "50": 49702.15,
+                            "75": 59763.4,
+                            "90": 70615.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1416,
+                        "range": {
+                            "10": 40140.8,
+                            "25": 48187.12,
+                            "50": 58163.27,
+                            "75": 70057.67,
+                            "90": 82249.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1300,
+                        "range": {
+                            "10": 56121.1,
+                            "25": 63580.1,
+                            "50": 72603.8,
+                            "75": 84807.44,
+                            "90": 100696.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 983,
+                        "range": {
+                            "10": 54000.28,
+                            "25": 61468.2,
+                            "50": 70560.1,
+                            "75": 82790.14,
+                            "90": 99093.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 969,
+                        "range": {
+                            "10": 49884.19,
+                            "25": 60729.14,
+                            "50": 75568.09,
+                            "75": 93358.98,
+                            "90": 114408
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 738,
+                        "range": {
+                            "10": 53441.43,
+                            "25": 60009.64,
+                            "50": 68493.4,
+                            "75": 82115.66,
+                            "90": 100478.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 720,
+                        "range": {
+                            "10": 59909.2,
+                            "25": 67887.9,
+                            "50": 77615.74,
+                            "75": 92588.27,
+                            "90": 115110.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 679,
+                        "range": {
+                            "10": 43859.38,
+                            "25": 53408.35,
+                            "50": 67486.67,
+                            "75": 85169.12,
+                            "90": 106706.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 617,
+                        "range": {
+                            "10": 29322.42,
+                            "25": 34080.03,
+                            "50": 40064.84,
+                            "75": 47940.9,
+                            "90": 55707.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 530,
+                        "range": {
+                            "10": 42811.77,
+                            "25": 49010.79,
+                            "50": 55931.78,
+                            "75": 64073.37,
+                            "90": 72646.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 515,
+                        "range": {
+                            "10": 48917.69,
+                            "25": 57677.28,
+                            "50": 69252.57,
+                            "75": 82109.78,
+                            "90": 95697.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Assistant",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Assistant/Hourly_Rate",
+                        "profileCount": 460,
+                        "range": {
+                            "10": 32318.47,
+                            "25": 36569.17,
+                            "50": 41616.85,
+                            "75": 48846.5,
+                            "90": 55614.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Paralegal",
+                        "url": "/research/US/Job=Paralegal/Salary",
+                        "profileCount": 456,
+                        "range": {
+                            "10": 35076,
+                            "25": 40846.06,
+                            "50": 49727.86,
+                            "75": 60843.98,
+                            "90": 72486.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 447,
+                        "range": {
+                            "10": 44850.98,
+                            "25": 52509.06,
+                            "50": 62505.13,
+                            "75": 74493.43,
+                            "90": 87388.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 443,
+                        "range": {
+                            "10": 40822.26,
+                            "25": 46330.63,
+                            "50": 52182.83,
+                            "75": 58907.35,
+                            "90": 65378.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 437,
+                        "range": {
+                            "10": 38499.3,
+                            "25": 43768.91,
+                            "50": 51147.11,
+                            "75": 60573.56,
+                            "90": 71041.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Coordinator",
+                        "url": "/research/US/Job=Administrative_Coordinator/Hourly_Rate",
+                        "profileCount": 432,
+                        "range": {
+                            "10": 34817.58,
+                            "25": 39699.74,
+                            "50": 46611.9,
+                            "75": 55835.53,
+                            "90": 65770.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 428,
+                        "range": {
+                            "10": 58089.14,
+                            "25": 71137.77,
+                            "50": 88817.77,
+                            "75": 109554.97,
+                            "90": 128961.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 427,
+                        "range": {
+                            "10": 40886.98,
+                            "25": 46704.83,
+                            "50": 52241.53,
+                            "75": 61361.6,
+                            "90": 71570.38
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Data_Warehouse_Administrator/Salary",
+                    "occupationalCategory": "15-1060.00 - Database Administrators",
+                    "skills": "Data Warehouse, Microsoft Word, Oracle, Microsoft Office",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2021-12-06T08:21:58.49072Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "28500.15",
+                            "percentile25": "50704.03",
+                            "median": "68488.59",
+                            "percentile75": "82541.36",
+                            "percentile90": "103252.01",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "50683.71",
+                            "percentile25": "67496.97",
+                            "median": "72374.59",
+                            "percentile75": "90000",
+                            "percentile90": "143017.23",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 16,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Data warehouse administrators are responsible for the day-to-day activities of running a computer data warehouse. A wide degree of competency in computer programming is required for this position, and tasks include archiving, tracking data changes, migration, and monitoring data systems. Some troubleshooting and resolving performance issues is also necessary, so strong interpersonal and analytical skills are beneficial.\r\nData warehouse administrators generally serve as supervisors within a data warehouse and oversee other technicians to ensure that everything runs smoothly. In addition to having direct reports, they themselves may report to a higher-level supervisor. They work exclusively indoors, typically in an office setting within a larger building which houses computer hardware and servers. While they may perform the majority of their duties from a desk, some troubleshooting within the network may be necessary. A typical day involves filing a large number of support tickets for various departments and assigning and overseeing troubleshooting measures, and although they work primarily during regular business hours, some positions have the potential for emergencies which require data warehouse administrators to be on-call at all times.\r\nA great deal of experience in systems administration is required for this position, and an associate's or bachelor's degree in computer science or a related field may also be required by employers.",
+                    "name": "Data Warehouse Administrator",
+                    "url": "/research/US/Job=Data_Warehouse_Administrator/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

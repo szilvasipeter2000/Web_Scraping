@@ -1,0 +1,622 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Public Key Infrastructure (PKI) Specialist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary",
+                    "defaultUrl": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-10-25T18:49:31.25555Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Public Key Infrastructure (PKI) Specialist is $55.00 per hour.",
+                    "summarySalary": "The average pay for a Public Key Infrastructure (PKI) Specialist is $99,839 per year."
+                },
+                "tasks": [
+                    "Install, maintain and trouble shoot PKI software.",
+                    "Provide assistance to personnel and customers.",
+                    "Act as local registration authority."
+                ],
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 55,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "25": 89813.05,
+                        "50": 99839.24,
+                        "75": 104823.33,
+                        "profileCount": 7
+                    },
+                    "total": {
+                        "10": 52711.06,
+                        "25": 89813.05,
+                        "50": 102330.23,
+                        "75": 116386.54,
+                        "90": 133351.24,
+                        "profileCount": 11
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-10-25T18:49:31.25555Z",
+                        "profileCount": 11,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 52711.06,
+                                    "25": 89813.05,
+                                    "50": 102330.23,
+                                    "75": 116386.54,
+                                    "90": 133351.24
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-10-25T18:49:31.25555Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 55
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-10-25T18:49:31.25555Z",
+                        "profileCount": 7,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 89813.05,
+                                    "50": 99839.24,
+                                    "75": 104823.33
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-10-25T18:49:31.25555Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-10-25T18:49:31.25555Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary/f8ae3950/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 68466.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary/c0ac6937/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 78500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary/3f71a29b/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "PKI (Public Key Infrastructure)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary/662d73a6/PKI-Public-Key-Infrastructure",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Policies and Procedures",
+                                "displayName": null,
+                                "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary/138fc4bd/Security-Policies-and-Procedures",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary/5e3037a0/IT-Security-%26-Infrastructure",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Computer Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary/8c1e89f3/Computer-Security",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 611,
+                        "range": {
+                            "10": 52787.37,
+                            "25": 61869.75,
+                            "50": 74620.57,
+                            "75": 91513.58,
+                            "90": 113887.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 345,
+                        "range": {
+                            "10": 56530.99,
+                            "25": 70282.1,
+                            "50": 89347.71,
+                            "75": 112799.69,
+                            "90": 134551.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Analyst",
+                        "url": "/research/US/Job=Security_Analyst/Salary",
+                        "profileCount": 310,
+                        "range": {
+                            "10": 50242.71,
+                            "25": 59466.69,
+                            "50": 70561.97,
+                            "75": 83446.53,
+                            "90": 99149.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 310,
+                        "range": {
+                            "10": 71855.62,
+                            "25": 93450.12,
+                            "50": 122657.26,
+                            "75": 151401.73,
+                            "90": 176265.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer",
+                        "url": "/research/US/Job=Security_Engineer/Salary",
+                        "profileCount": 269,
+                        "range": {
+                            "10": 65492.01,
+                            "25": 78468.83,
+                            "50": 96640.9,
+                            "75": 119575.55,
+                            "90": 142126.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Manager",
+                        "url": "/research/US/Job=Information_Security_Manager/Salary",
+                        "profileCount": 244,
+                        "range": {
+                            "10": 80403.41,
+                            "25": 98434.1,
+                            "50": 120195.85,
+                            "75": 138482.56,
+                            "90": 155035.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Manager",
+                        "url": "/research/US/Job=Security_Manager/Salary",
+                        "profileCount": 219,
+                        "range": {
+                            "10": 46520.91,
+                            "25": 56637.09,
+                            "50": 73272.29,
+                            "75": 101765.05,
+                            "90": 131777.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Supervisor",
+                        "url": "/research/US/Job=Security_Supervisor/Hourly_Rate",
+                        "profileCount": 214,
+                        "range": {
+                            "10": 33973.85,
+                            "25": 41125.55,
+                            "50": 52145.14,
+                            "75": 67041.57,
+                            "90": 92572.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Officer",
+                        "url": "/research/US/Job=Information_Security_Officer/Salary",
+                        "profileCount": 183,
+                        "range": {
+                            "10": 60489.03,
+                            "25": 76485.42,
+                            "50": 95410.46,
+                            "75": 118328.23,
+                            "90": 140822.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Engineer",
+                        "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                        "profileCount": 180,
+                        "range": {
+                            "10": 67879.93,
+                            "25": 78534.3,
+                            "50": 94907.97,
+                            "75": 116715.66,
+                            "90": 135036.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Analyst",
+                        "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                        "profileCount": 177,
+                        "range": {
+                            "10": 54306.59,
+                            "25": 64712.47,
+                            "50": 77204.32,
+                            "75": 95282.98,
+                            "90": 116123.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Architect, IT",
+                        "url": "/research/US/Job=Security_Architect%2C_IT/Salary",
+                        "profileCount": 147,
+                        "range": {
+                            "10": 88185.21,
+                            "25": 107884.56,
+                            "50": 130989.19,
+                            "75": 151953.74,
+                            "90": 173977.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Security Officer",
+                        "url": "/research/US/Job=Chief_Information_Security_Officer/Salary",
+                        "profileCount": 136,
+                        "range": {
+                            "10": 108985.57,
+                            "25": 139599.69,
+                            "50": 172642.99,
+                            "75": 201759.48,
+                            "90": 232489.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Engineer",
+                        "url": "/research/US/Job=Cyber_Security_Engineer/Salary",
+                        "profileCount": 132,
+                        "range": {
+                            "10": 69951.08,
+                            "25": 80858.11,
+                            "50": 99332.91,
+                            "75": 120919.71,
+                            "90": 140303.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Officer (CIO)",
+                        "url": "/research/US/Job=Chief_Information_Officer_(CIO)/Salary",
+                        "profileCount": 127,
+                        "range": {
+                            "10": 99699.63,
+                            "25": 127887.38,
+                            "50": 169817.61,
+                            "75": 209879.83,
+                            "90": 253249.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Consultant, (Computing / Networking / Information Technology)",
+                        "url": "/research/US/Job=Security_Consultant%2C_(Computing_%2F_Networking_%2F_Information_Technology)/Salary",
+                        "profileCount": 122,
+                        "range": {
+                            "10": 63701.01,
+                            "25": 71970.38,
+                            "50": 89104.39,
+                            "75": 115044.79,
+                            "90": 142470.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Network Engineer",
+                        "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                        "profileCount": 106,
+                        "range": {
+                            "10": 76306.55,
+                            "25": 88358.77,
+                            "50": 103758.37,
+                            "75": 122791.29,
+                            "90": 141488.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Facility Security Officer (FSO)",
+                        "url": "/research/US/Job=Facility_Security_Officer_(FSO)/Salary",
+                        "profileCount": 106,
+                        "range": {
+                            "10": 50741.02,
+                            "25": 61236.54,
+                            "50": 73617.44,
+                            "75": 89068.56,
+                            "90": 104169.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Correctional Officer",
+                        "url": "/research/US/Job=Correctional_Officer/Hourly_Rate",
+                        "profileCount": 99,
+                        "range": {
+                            "10": 31898.28,
+                            "25": 34656.35,
+                            "50": 40698.38,
+                            "75": 52557.13,
+                            "90": 72313.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Security Engineer",
+                        "url": "/research/US/Job=Network_Security_Engineer/Salary",
+                        "profileCount": 88,
+                        "range": {
+                            "10": 61690.63,
+                            "25": 77251.13,
+                            "50": 93200.25,
+                            "75": 114523.23,
+                            "90": 134630.4
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "PKI (Public Key Infrastructure), Security Policies and Procedures, IT Security & Infrastructure, Computer Security",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-10-25T18:49:31.25555Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "52711.06",
+                            "percentile25": "89813.05",
+                            "median": "102330.23",
+                            "percentile75": "116386.54",
+                            "percentile90": "133351.24",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "89813.05",
+                            "median": "99839.24",
+                            "percentile75": "104823.33",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 12,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Public Key Infrastructure (PKI) Specialist",
+                    "url": "/research/US/Job=Public_Key_Infrastructure_(PKI)_Specialist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

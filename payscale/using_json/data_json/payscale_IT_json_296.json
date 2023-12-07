@@ -1,0 +1,816 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Information Security Associate",
+                    "url": "/research/US/Job=Information_Security_Associate/Salary",
+                    "compensation": 61392.18275348503,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Security Consultant, (Computing / Networking / Information Technology)",
+                            "url": "/research/US/Job=Security_Consultant%2C_(Computing_%2F_Networking_%2F_Information_Technology)/Salary",
+                            "percent": 1,
+                            "compensation": 86185.70152600734,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Cyber Security Analyst",
+                                    "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 75882.70800189902,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Security Consultant",
+                                    "url": "/research/US/Job=Senior_Security_Consultant/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 108821.75717771599,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Security Engineer",
+                                    "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 94982.51161430652,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Information Security Associate"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Information_Security_Associate/Salary",
+                    "defaultUrl": "/research/US/Job=Information_Security_Associate/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-02-14T07:53:33.96116Z",
+                "narratives": {
+                    "description": "Information security associates usually work in an office setting and deal with a number of departments. They usually work nine to five but may be needed during special projects. They typically act as a liaison between other departments within the company when it comes to information security. For this reason, information security associates must have good people skills to successfully deal with a number of co-workers. Prior work experience is usually required, and a bachelor's degree is almost always required with a particular focus on information systems. \r\nSecurity associates usually report to the head of information security. They assist them on any day to day problems that may occur. The duties of an information security associate are vast. The most important task is to assure that information systems are not compromised by harmful spam or cyber attacks. Security associates must test the system on a regular basis and make sure updates are applied in a timely manner. They must also balance the IT needs of other departments in the company and make sure all computer systems are working efficiently. For this reason, an extensive background in computers is required. Security associates must also be up to date on all of the latest technology happenings. Since technology changes so fast, security associates need to read and keep up with the most up to date literature in their field. Ideal candidates have excellent computer skills, are well organized, and can deal with a number of personalities on a daily basis. Ideal candidates must also be able to juggle multiple tasks and keep calm under pressure.",
+                    "summaryHourly": "The average pay for an Information Security Associate is $20.95 per hour.",
+                    "summarySalary": "The average pay for an Information Security Associate is $65,000 per year."
+                },
+                "tasks": [
+                    "Audit, review, develop and implement data security policies, procedures, design and architecture to safeguard company information.",
+                    "Train staff on security rules and policies for log-ins and passwords.",
+                    "Determine and grant access levels based on the principle of least privilege to mitigate exposure of safeguarded information."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 2060.84,
+                        "25": 3500,
+                        "50": 8000,
+                        "75": 11478.26,
+                        "90": 50670.25,
+                        "profileCount": 13
+                    },
+                    "hourlyRate": {
+                        "50": 20.95,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 48929.3,
+                        "25": 56163.71,
+                        "50": 65000,
+                        "75": 85026.63,
+                        "90": 127232.83,
+                        "profileCount": 30
+                    },
+                    "total": {
+                        "10": 43580.95,
+                        "25": 54034.02,
+                        "50": 65077.96,
+                        "75": 86612.09,
+                        "90": 134814.81,
+                        "profileCount": 34
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-02-14T07:53:33.96116Z",
+                        "profileCount": 34,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 34,
+                                "range": {
+                                    "10": 43580.95,
+                                    "25": 54034.02,
+                                    "50": 65077.96,
+                                    "75": 86612.09,
+                                    "90": 134814.81
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-02-14T07:53:33.96116Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 20.95
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-02-14T07:53:33.96116Z",
+                        "profileCount": 30,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 30,
+                                "range": {
+                                    "10": 48929.3,
+                                    "25": 56163.71,
+                                    "50": 65000,
+                                    "75": 85026.63,
+                                    "90": 127232.83
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-02-14T07:53:33.96116Z",
+                        "profileCount": 21,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-02-14T07:53:33.96116Z",
+                        "profileCount": 29,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/563f4258/Entry-Level",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 56873.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/563f4258/Early-Career",
+                                "profileCount": 37,
+                                "range": {
+                                    "50": 61393.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/8351b6c9/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/613b2838/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 109926.79
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/0b3be951/New-York-NY",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 99000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/53f27a2f/Chicago-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/f26b5037/Irvine-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 65734.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Antonio, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/32e3a88c/San-Antonio-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bridgewater, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/ef5e8789/Bridgewater-NJ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 46414.73
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cyber Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/7cb0004c/Cyber-Security",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Policies and Procedures",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/fd797705/Security-Policies-and-Procedures",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 59778.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Risk Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/078b5f6f/Security-Risk-Management",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 66466.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Computer Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/7ab94677/Computer-Security",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 68784.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Testing and Auditing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/1e03a51f/Security-Testing-and-Auditing",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 58498.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/6f3ab518/IT-Security-%26-Infrastructure",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 61445.11
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Risk",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/bd765924/IT-Risk",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 63076.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Information and Event Management (SIEM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Security_Associate/Salary/58911f64/Security-Information-and-Event-Management-SIEM",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 88200
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 7,
+                        "score": 4.14
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 1297,
+                        "range": {
+                            "10": 54534.01,
+                            "25": 63384.98,
+                            "50": 75568.89,
+                            "75": 91833.07,
+                            "90": 112633.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Analyst",
+                        "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                        "profileCount": 729,
+                        "range": {
+                            "10": 54715.87,
+                            "25": 65449.78,
+                            "50": 78809.69,
+                            "75": 96474.83,
+                            "90": 117516.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Analyst",
+                        "url": "/research/US/Job=Security_Analyst/Salary",
+                        "profileCount": 623,
+                        "range": {
+                            "10": 51545.55,
+                            "25": 61083.6,
+                            "50": 72419.07,
+                            "75": 85727.9,
+                            "90": 101514.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer",
+                        "url": "/research/US/Job=Security_Engineer/Salary",
+                        "profileCount": 613,
+                        "range": {
+                            "10": 66485.59,
+                            "25": 79901.02,
+                            "50": 97884.25,
+                            "75": 121424.84,
+                            "90": 144579.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Manager",
+                        "url": "/research/US/Job=Information_Security_Manager/Salary",
+                        "profileCount": 568,
+                        "range": {
+                            "10": 82067.7,
+                            "25": 99597.63,
+                            "50": 122170.58,
+                            "75": 139722.32,
+                            "90": 155990.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Engineer",
+                        "url": "/research/US/Job=Cyber_Security_Engineer/Salary",
+                        "profileCount": 441,
+                        "range": {
+                            "10": 71013.43,
+                            "25": 81858.45,
+                            "50": 99964.51,
+                            "75": 123806.49,
+                            "90": 144628.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Manager",
+                        "url": "/research/US/Job=Security_Manager/Salary",
+                        "profileCount": 414,
+                        "range": {
+                            "10": 48609.03,
+                            "25": 59068.26,
+                            "50": 76399.67,
+                            "75": 106189.54,
+                            "90": 139039.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 387,
+                        "range": {
+                            "10": 57524.15,
+                            "25": 71213.3,
+                            "50": 90227,
+                            "75": 113614.44,
+                            "90": 135400.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Engineer",
+                        "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                        "profileCount": 377,
+                        "range": {
+                            "10": 69289.04,
+                            "25": 79918.15,
+                            "50": 96810.87,
+                            "75": 118976.6,
+                            "90": 138460.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Officer",
+                        "url": "/research/US/Job=Information_Security_Officer/Salary",
+                        "profileCount": 373,
+                        "range": {
+                            "10": 62627.52,
+                            "25": 79409.02,
+                            "50": 98145.04,
+                            "75": 119857.65,
+                            "90": 143984.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 355,
+                        "range": {
+                            "10": 73231.2,
+                            "25": 94621.43,
+                            "50": 123601.54,
+                            "75": 153060.57,
+                            "90": 177861.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Consultant, (Computing / Networking / Information Technology)",
+                        "url": "/research/US/Job=Security_Consultant%2C_(Computing_%2F_Networking_%2F_Information_Technology)/Salary",
+                        "profileCount": 306,
+                        "range": {
+                            "10": 64979.66,
+                            "25": 74766.12,
+                            "50": 92365.66,
+                            "75": 118431.85,
+                            "90": 146976.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Security Officer",
+                        "url": "/research/US/Job=Chief_Information_Security_Officer/Salary",
+                        "profileCount": 297,
+                        "range": {
+                            "10": 110272.38,
+                            "25": 141541.28,
+                            "50": 173186.99,
+                            "75": 203091.24,
+                            "90": 233110.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Supervisor",
+                        "url": "/research/US/Job=Security_Supervisor/Hourly_Rate",
+                        "profileCount": 290,
+                        "range": {
+                            "10": 34763.38,
+                            "25": 42079.42,
+                            "50": 54467.08,
+                            "75": 71006.97,
+                            "90": 98215.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Architect, IT",
+                        "url": "/research/US/Job=Security_Architect%2C_IT/Salary",
+                        "profileCount": 263,
+                        "range": {
+                            "10": 91240.46,
+                            "25": 109762.4,
+                            "50": 133763.42,
+                            "75": 156162.34,
+                            "90": 179687.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Auditor",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Auditor/Salary",
+                        "profileCount": 193,
+                        "range": {
+                            "10": 56495.79,
+                            "25": 63339.48,
+                            "50": 74585.19,
+                            "75": 88794.68,
+                            "90": 108049.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Security Consultant",
+                        "url": "/research/US/Job=Senior_Security_Consultant/Salary",
+                        "profileCount": 190,
+                        "range": {
+                            "10": 80349.46,
+                            "25": 95065.02,
+                            "50": 115467.87,
+                            "75": 135650.86,
+                            "90": 153828.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Specialist",
+                        "url": "/research/US/Job=Information_Security_Specialist/Salary",
+                        "profileCount": 176,
+                        "range": {
+                            "10": 53613.52,
+                            "25": 64215.06,
+                            "50": 79116.24,
+                            "75": 99190.99,
+                            "90": 126356.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Information Technology (IT) Auditor",
+                        "url": "/research/US/Job=Senior_Information_Technology_(IT)_Auditor/Salary",
+                        "profileCount": 170,
+                        "range": {
+                            "10": 75034.23,
+                            "25": 82734.29,
+                            "50": 90819.7,
+                            "75": 101912.21,
+                            "90": 117566.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Facility Security Officer (FSO)",
+                        "url": "/research/US/Job=Facility_Security_Officer_(FSO)/Salary",
+                        "profileCount": 168,
+                        "range": {
+                            "10": 53694.94,
+                            "25": 63999.39,
+                            "50": 76758.85,
+                            "75": 91701.23,
+                            "90": 107386.83
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Information_Security_Associate/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Cyber Security, Security Policies and Procedures, Security Risk Management, Computer Security, Security Testing and Auditing, IT Security & Infrastructure, IT Risk, Security Information and Event Management (SIEM)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-02-14T07:53:33.96116Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "43580.95",
+                            "percentile25": "54034.02",
+                            "median": "65077.96",
+                            "percentile75": "86612.09",
+                            "percentile90": "134814.81",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "48929.3",
+                            "percentile25": "56163.71",
+                            "median": "65000",
+                            "percentile75": "85026.63",
+                            "percentile90": "127232.83",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2060.84",
+                            "percentile25": "3500",
+                            "median": "8000",
+                            "percentile75": "11478.26",
+                            "percentile90": "50670.25",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 55,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Information security associates usually work in an office setting and deal with a number of departments. They usually work nine to five but may be needed during special projects. They typically act as a liaison between other departments within the company when it comes to information security. For this reason, information security associates must have good people skills to successfully deal with a number of co-workers. Prior work experience is usually required, and a bachelor's degree is almost always required with a particular focus on information systems. \r\nSecurity associates usually report to the head of information security. They assist them on any day to day problems that may occur. The duties of an information security associate are vast. The most important task is to assure that information systems are not compromised by harmful spam or cyber attacks. Security associates must test the system on a regular basis and make sure updates are applied in a timely manner. They must also balance the IT needs of other departments in the company and make sure all computer systems are working efficiently. For this reason, an extensive background in computers is required. Security associates must also be up to date on all of the latest technology happenings. Since technology changes so fast, security associates need to read and keep up with the most up to date literature in their field. Ideal candidates have excellent computer skills, are well organized, and can deal with a number of personalities on a daily basis. Ideal candidates must also be able to juggle multiple tasks and keep calm under pressure.",
+                    "name": "Information Security Associate",
+                    "url": "/research/US/Job=Information_Security_Associate/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,641 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Wireless Network Optimization Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2021-03-22T11:27:41.00196Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Wireless Network Optimization Engineer is $32.11 per hour.",
+                    "summarySalary": "The average pay for a Wireless Network Optimization Engineer is $87,511 per year."
+                },
+                "tasks": [
+                    "Design, plan and optimize radio frequency (RF) networks.",
+                    "Test and calibrate data and systems.",
+                    "Plan, design and implement optimization using RF optimization tools."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 2900,
+                        "profileCount": 2
+                    },
+                    "hourlyRate": {
+                        "50": 32.11,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 45957.87,
+                        "25": 61041.89,
+                        "50": 87511.18,
+                        "75": 103792.12,
+                        "90": 117445.69,
+                        "profileCount": 12
+                    },
+                    "total": {
+                        "10": 39779.2,
+                        "25": 58958.11,
+                        "50": 89497.21,
+                        "75": 102569.96,
+                        "90": 114782.61,
+                        "profileCount": 14
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2021-03-22T11:27:41.00196Z",
+                        "profileCount": 14,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": {
+                                    "10": 39779.2,
+                                    "25": 58958.11,
+                                    "50": 89497.21,
+                                    "75": 102569.96,
+                                    "90": 114782.61
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2021-03-22T11:27:41.00196Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 32.11
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2021-03-22T11:27:41.00196Z",
+                        "profileCount": 12,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": {
+                                    "10": 45957.87,
+                                    "25": 61041.89,
+                                    "50": 87511.18,
+                                    "75": 103792.12,
+                                    "90": 117445.69
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2021-03-22T11:27:41.00196Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2021-03-22T11:27:41.00196Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary/ab5a983b/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary/449f0233/Mid-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 72000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary/a2ce7ab7/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110011.21
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Wireless",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary/9eddcc94/Wireless",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cisco Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary/ea2fd6dc/Cisco-Networking",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Wireless Data Communications",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary/8e044585/Wireless-Data-Communications",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary/c6086bc2/Design",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 661,
+                        "range": {
+                            "10": 50966.89,
+                            "25": 61521.65,
+                            "50": 74980.09,
+                            "75": 90040.49,
+                            "90": 108338.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Graphic Designer",
+                        "url": "/research/US/Job=Graphic_Designer/Salary",
+                        "profileCount": 460,
+                        "range": {
+                            "10": 33940.09,
+                            "25": 39336.25,
+                            "50": 46115.74,
+                            "75": 54834.04,
+                            "90": 64656.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Interior Designer",
+                        "url": "/research/US/Job=Interior_Designer/Salary",
+                        "profileCount": 345,
+                        "range": {
+                            "10": 36790.64,
+                            "25": 42816.08,
+                            "50": 50340.66,
+                            "75": 60312.71,
+                            "90": 70867.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Network Engineer",
+                        "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                        "profileCount": 275,
+                        "range": {
+                            "10": 74128.63,
+                            "25": 87436.05,
+                            "50": 101756.72,
+                            "75": 119948.16,
+                            "90": 138251.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 262,
+                        "range": {
+                            "10": 42723.85,
+                            "25": 50303.73,
+                            "50": 60289.72,
+                            "75": 72104.97,
+                            "90": 83680.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Architectural Designer",
+                        "url": "/research/US/Job=Architectural_Designer/Salary",
+                        "profileCount": 232,
+                        "range": {
+                            "10": 41983.35,
+                            "25": 47676.3,
+                            "50": 53708.58,
+                            "75": 61858.63,
+                            "90": 70958.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Architect",
+                        "url": "/research/US/Job=Project_Architect/Salary",
+                        "profileCount": 154,
+                        "range": {
+                            "10": 54710.16,
+                            "25": 62991.94,
+                            "50": 73102.17,
+                            "75": 84471.32,
+                            "90": 98759.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 148,
+                        "range": {
+                            "10": 54883.36,
+                            "25": 69102.56,
+                            "50": 88858.5,
+                            "75": 112758.37,
+                            "90": 134022.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Graphic Designer",
+                        "url": "/research/US/Job=Senior_Graphic_Designer/Salary",
+                        "profileCount": 144,
+                        "range": {
+                            "10": 45386.58,
+                            "25": 52718.48,
+                            "50": 62644.83,
+                            "75": 74511.24,
+                            "90": 87029.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Architect (but not Landscape or Naval)",
+                        "url": "/research/US/Job=Architect_(but_not_Landscape_or_Naval)/Salary",
+                        "profileCount": 143,
+                        "range": {
+                            "10": 48701.6,
+                            "25": 55704.63,
+                            "50": 67024,
+                            "75": 82097.45,
+                            "90": 100002.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Art Director",
+                        "url": "/research/US/Job=Art_Director/Salary",
+                        "profileCount": 140,
+                        "range": {
+                            "10": 45579.49,
+                            "25": 55055.06,
+                            "50": 68893.99,
+                            "75": 84581.4,
+                            "90": 103364.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Landscape Architect",
+                        "url": "/research/US/Job=Landscape_Architect/Salary",
+                        "profileCount": 137,
+                        "range": {
+                            "10": 44560.1,
+                            "25": 50975.34,
+                            "50": 59949.95,
+                            "75": 70708.25,
+                            "90": 83525.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 133,
+                        "range": {
+                            "10": 34314.31,
+                            "25": 39804.73,
+                            "50": 47925.8,
+                            "75": 59008.32,
+                            "90": 73128.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Creative Director",
+                        "url": "/research/US/Job=Creative_Director/Salary",
+                        "profileCount": 132,
+                        "range": {
+                            "10": 48564.54,
+                            "25": 64525.07,
+                            "50": 88818.55,
+                            "75": 122968.63,
+                            "90": 155419.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Architect",
+                        "url": "/research/US/Job=Design_Architect/Salary",
+                        "profileCount": 127,
+                        "range": {
+                            "10": 44803.64,
+                            "25": 51543.38,
+                            "50": 62081.44,
+                            "75": 80284.59,
+                            "90": 105461.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 123,
+                        "range": {
+                            "10": 50788.24,
+                            "25": 62024.25,
+                            "50": 74889.98,
+                            "75": 90539.96,
+                            "90": 108569.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Interior Designer",
+                        "url": "/research/US/Job=Senior_Interior_Designer/Salary",
+                        "profileCount": 116,
+                        "range": {
+                            "10": 52277.57,
+                            "25": 60267.44,
+                            "50": 69995.76,
+                            "75": 82388.31,
+                            "90": 96959.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 114,
+                        "range": {
+                            "10": 45293.3,
+                            "25": 52564.64,
+                            "50": 62884.93,
+                            "75": 74924.08,
+                            "90": 88512.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Radio Frequency (RF) Engineer",
+                        "url": "/research/US/Job=Radio_Frequency_(RF)_Engineer/Salary",
+                        "profileCount": 112,
+                        "range": {
+                            "10": 63369.03,
+                            "25": 74680.03,
+                            "50": 88063.55,
+                            "75": 110404.87,
+                            "90": 131696.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Landscape Designer",
+                        "url": "/research/US/Job=Landscape_Designer/Salary",
+                        "profileCount": 112,
+                        "range": {
+                            "10": 39185.14,
+                            "25": 44622.22,
+                            "50": 50351.17,
+                            "75": 57266.15,
+                            "90": 65204.93
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Wireless, Cisco Networking, Wireless Data Communications, Design",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2021-03-22T11:27:41.00196Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "39779.2",
+                            "percentile25": "58958.11",
+                            "median": "89497.21",
+                            "percentile75": "102569.96",
+                            "percentile90": "114782.61",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "45957.87",
+                            "percentile25": "61041.89",
+                            "median": "87511.18",
+                            "percentile75": "103792.12",
+                            "percentile90": "117445.69",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "2900",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 18,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Wireless Network Optimization Engineer",
+                    "url": "/research/US/Job=Wireless_Network_Optimization_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

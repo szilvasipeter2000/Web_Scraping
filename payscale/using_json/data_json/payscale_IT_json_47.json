@@ -1,0 +1,868 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Business Analyst, Data Warehouse",
+                    "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary",
+                    "compensation": 72431.92644667724,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Project Manager, Information Technology (IT)",
+                            "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                            "percent": 0.5,
+                            "compensation": 88805.49118824165,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Project Manager, IT",
+                                    "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                                    "percent": 0.16,
+                                    "compensation": 114652.62916500734,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Project Manager, (Unspecified Type / General)",
+                                    "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 74208.60456383067,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Program Manager, IT",
+                                    "url": "/research/US/Job=Program_Manager%2C_IT/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 112126.7913333327,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Reporting Analyst",
+                            "url": "/research/US/Job=Reporting_Analyst/Salary",
+                            "percent": 0.5,
+                            "compensation": 58431.35068637627,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Data Analyst",
+                                    "url": "/research/US/Job=Data_Analyst/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 60530.1113782577,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Data Analyst",
+                                    "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 80913.95129275061,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Business Analyst (Unspecified Type)",
+                                    "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 60537.87073728789,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Business Analyst, Data Warehouse"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary",
+                    "defaultUrl": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-08-16T10:29:14.05237Z",
+                "narratives": {
+                    "description": "Business analysts of data warehouses work in a variety of fields, from healthcare to auto claims and even banking. A four-year bachelor's degree in business and knowledge of SQL servers and SQL queries are generally required for this position, and these analysts spend many days working in warehouses in teams or alone; some may also supervise other employees.\r\nThese analysts typically work during traditional weekly business hours, and some overtime may be expected. They may work with customers either directly or indirectly. The work can be both mental and physical; they generally work long days in an office filled with filing medical and insurance claims, and may also supervise other employees or spend time in a warehouse dealing with computer software. Some even work with technology in a healthcare facility, such as a hospital, or even an online company such as Google. SQL data knowledge is the most important requirement for this position.",
+                    "summaryHourly": "The average pay for a Business Analyst, Data Warehouse is $25.49 per hour.",
+                    "summarySalary": "The average pay for a Business Analyst, Data Warehouse is $78,104 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 1479.49,
+                        "25": 2975,
+                        "50": 5895.81,
+                        "75": 9715.29,
+                        "90": 10121.11,
+                        "profileCount": 17
+                    },
+                    "hourlyRate": {
+                        "25": 20.17,
+                        "50": 25.49,
+                        "75": 35.34,
+                        "profileCount": 6
+                    },
+                    "profitSharing": {
+                        "50": 1500,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 60479.43,
+                        "25": 67975.83,
+                        "50": 78103.52,
+                        "75": 95002.06,
+                        "90": 109906.49,
+                        "profileCount": 41
+                    },
+                    "total": {
+                        "10": 53269.86,
+                        "25": 68263.44,
+                        "50": 77007.39,
+                        "75": 95344.88,
+                        "90": 111828.47,
+                        "profileCount": 47
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-08-16T10:29:14.05237Z",
+                        "profileCount": 47,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 47,
+                                "range": {
+                                    "10": 53269.86,
+                                    "25": 68263.44,
+                                    "50": 77007.39,
+                                    "75": 95344.88,
+                                    "90": 111828.47
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-08-16T10:29:14.05237Z",
+                        "profileCount": 6,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 20.17,
+                                    "50": 25.49,
+                                    "75": 35.34
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-08-16T10:29:14.05237Z",
+                        "profileCount": 41,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 41,
+                                "range": {
+                                    "10": 60479.43,
+                                    "25": 67975.83,
+                                    "50": 78103.52,
+                                    "75": 95002.06,
+                                    "90": 109906.49
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-08-16T10:29:14.05237Z",
+                        "profileCount": 30,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-08-16T10:29:14.05237Z",
+                        "profileCount": 41,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 36,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 34,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 32,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Amazon.com Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/8e9cb0d6/Amazon.com-Inc",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/a102aeeb/Entry-Level",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/a102aeeb/Early-Career",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 70235.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/0a7ace5b/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 90616.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/ceaced09/Experienced",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 95006.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/1c5cee1b/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 96373.06
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/896060de/Seattle-WA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 62500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/daf3eabf/Data-Analysis",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 83666.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/c6655539/Microsoft-Excel",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 73280.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/2ac42659/SQL",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 82432.12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Warehouse",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/bcd6d887/Data-Warehouse",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 81496.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Intelligence",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/8f5607d9/Business-Intelligence",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tableau Software",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/9084752e/Tableau-Software",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 66128.71
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/3a1657d5/Business-Analysis",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 79804.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/c4b8d9f6/Microsoft-SQL-Server",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/a01e77b2/Python",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 89000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "R",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary/c6ad3823/R",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 66000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 15,
+                        "score": 3.79
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 3903,
+                        "range": {
+                            "10": 45654.44,
+                            "25": 53643.78,
+                            "50": 63434.69,
+                            "75": 75061.95,
+                            "90": 87786.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 2912,
+                        "range": {
+                            "10": 64584.45,
+                            "25": 74788.87,
+                            "50": 89070.03,
+                            "75": 110070.18,
+                            "90": 130583.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1989,
+                        "range": {
+                            "10": 49190.86,
+                            "25": 55469.95,
+                            "50": 63295.37,
+                            "75": 72723.27,
+                            "90": 83774.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 1711,
+                        "range": {
+                            "10": 65194.84,
+                            "25": 74690.23,
+                            "50": 87086.51,
+                            "75": 100838.45,
+                            "90": 117643.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1632,
+                        "range": {
+                            "10": 29876.3,
+                            "25": 34885.48,
+                            "50": 40892.54,
+                            "75": 49484.44,
+                            "90": 58441.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1551,
+                        "range": {
+                            "10": 52389.88,
+                            "25": 61955.8,
+                            "50": 74119.8,
+                            "75": 89510.19,
+                            "90": 108190.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 1534,
+                        "range": {
+                            "10": 69082.85,
+                            "25": 81277.28,
+                            "50": 97631.48,
+                            "75": 118410.45,
+                            "90": 136301.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 1418,
+                        "range": {
+                            "10": 51597.7,
+                            "25": 60538.79,
+                            "50": 71176.05,
+                            "75": 84294.41,
+                            "90": 100111.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 1408,
+                        "range": {
+                            "10": 52509.29,
+                            "25": 60884.05,
+                            "50": 71484.01,
+                            "75": 82964.31,
+                            "90": 97841.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 1368,
+                        "range": {
+                            "10": 48078.45,
+                            "25": 54877.85,
+                            "50": 63885.5,
+                            "75": 73771.56,
+                            "90": 84628.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1284,
+                        "range": {
+                            "10": 90134.05,
+                            "25": 103172.15,
+                            "50": 121758.56,
+                            "75": 141865.08,
+                            "90": 161536.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1147,
+                        "range": {
+                            "10": 41433.01,
+                            "25": 47163.02,
+                            "50": 53137.75,
+                            "75": 59680.33,
+                            "90": 66080.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 1112,
+                        "range": {
+                            "10": 63540.25,
+                            "25": 73270.53,
+                            "50": 85528.5,
+                            "75": 99656.74,
+                            "90": 114350.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1107,
+                        "range": {
+                            "10": 66014.51,
+                            "25": 74290.05,
+                            "50": 83469.63,
+                            "75": 93611.99,
+                            "90": 105253.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 1055,
+                        "range": {
+                            "10": 53141.44,
+                            "25": 61190.2,
+                            "50": 71007.9,
+                            "75": 85065.41,
+                            "90": 100382.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 977,
+                        "range": {
+                            "10": 50565.98,
+                            "25": 61589.8,
+                            "50": 76379.65,
+                            "75": 94507.48,
+                            "90": 115818.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 969,
+                        "range": {
+                            "10": 41562.76,
+                            "25": 47077.33,
+                            "50": 52808.82,
+                            "75": 61860.96,
+                            "90": 71758.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Developer",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Developer/Salary",
+                        "profileCount": 898,
+                        "range": {
+                            "10": 59310.13,
+                            "25": 69371.81,
+                            "50": 83030.75,
+                            "75": 98266.49,
+                            "90": 115548.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 858,
+                        "range": {
+                            "10": 57420.43,
+                            "25": 64611.85,
+                            "50": 73604.12,
+                            "75": 85894.63,
+                            "90": 101485.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 805,
+                        "range": {
+                            "10": 80178.67,
+                            "25": 93633.22,
+                            "50": 110774.95,
+                            "75": 129093.6,
+                            "90": 148292.48
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Data Analysis, Microsoft Excel, SQL, Data Warehouse, Business Intelligence, Tableau Software, Business Analysis, Microsoft SQL Server, Python, R",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-08-16T10:29:14.05237Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "53269.86",
+                            "percentile25": "68263.44",
+                            "median": "77007.39",
+                            "percentile75": "95344.88",
+                            "percentile90": "111828.47",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "60479.43",
+                            "percentile25": "67975.83",
+                            "median": "78103.52",
+                            "percentile75": "95002.06",
+                            "percentile90": "109906.49",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1479.49",
+                            "percentile25": "2975",
+                            "median": "5895.81",
+                            "percentile75": "9715.29",
+                            "percentile90": "10121.11",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 56,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Business analysts of data warehouses work in a variety of fields, from healthcare to auto claims and even banking. A four-year bachelor's degree in business and knowledge of SQL servers and SQL queries are generally required for this position, and these analysts spend many days working in warehouses in teams or alone; some may also supervise other employees.\r\nThese analysts typically work during traditional weekly business hours, and some overtime may be expected. They may work with customers either directly or indirectly. The work can be both mental and physical; they generally work long days in an office filled with filing medical and insurance claims, and may also supervise other employees or spend time in a warehouse dealing with computer software. Some even work with technology in a healthcare facility, such as a hospital, or even an online company such as Google. SQL data knowledge is the most important requirement for this position.",
+                    "name": "Business Analyst, Data Warehouse",
+                    "url": "/research/US/Job=Business_Analyst%2C_Data_Warehouse/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

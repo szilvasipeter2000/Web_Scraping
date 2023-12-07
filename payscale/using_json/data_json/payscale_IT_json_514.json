@@ -1,0 +1,761 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Senior Actuarial Associate",
+                    "url": "/research/US/Job=Senior_Actuarial_Associate/Salary",
+                    "compensation": 88691.69076957322,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Actuary",
+                            "url": "/research/US/Job=Actuary/Salary",
+                            "percent": 0.88,
+                            "compensation": 90839.19696495747,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Chief Actuary",
+                                    "url": "/research/US/Job=Chief_Actuary/Salary",
+                                    "percent": 0.23,
+                                    "compensation": 203555.13628066253,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Actuarial Manager",
+                                    "url": "/research/US/Job=Actuarial_Manager/Salary",
+                                    "percent": 0.23,
+                                    "compensation": 123294.21670285639,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Consulting Actuary",
+                                    "url": "/research/US/Job=Consulting_Actuary/Salary",
+                                    "percent": 0.17,
+                                    "compensation": 122634.44247045489,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Senior Actuary",
+                            "url": "/research/US/Job=Senior_Actuary/Salary",
+                            "percent": 0.12,
+                            "compensation": 130581.70203546766,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 2,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Actuary",
+                                    "url": "/research/US/Job=Actuary/Salary",
+                                    "percent": 0.75,
+                                    "compensation": 90839.19696495747,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Analytics Manager",
+                                    "url": "/research/US/Job=Analytics_Manager/Salary",
+                                    "percent": 0.25,
+                                    "compensation": 95414.99734088505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Actuarial Associate"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Actuarial_Associate/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Actuarial_Associate/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-03T05:41:38.74446Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Senior Actuarial Associate is $99,580 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 3878.32,
+                        "25": 6386.99,
+                        "50": 9826.35,
+                        "75": 13000,
+                        "90": 14957.39,
+                        "profileCount": 15
+                    },
+                    "profitSharing": {
+                        "50": 3500,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 87970.13,
+                        "25": 91628.41,
+                        "50": 99579.57,
+                        "75": 107278.32,
+                        "90": 133802.04,
+                        "profileCount": 23
+                    },
+                    "total": {
+                        "10": 89293.22,
+                        "25": 93842.19,
+                        "50": 103262.82,
+                        "75": 118906.23,
+                        "90": 134907.6,
+                        "profileCount": 24
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-03T05:41:38.74446Z",
+                        "profileCount": 24,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": {
+                                    "10": 89293.22,
+                                    "25": 93842.19,
+                                    "50": 103262.82,
+                                    "75": 118906.23,
+                                    "90": 134907.6
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-03T05:41:38.74446Z",
+                        "profileCount": 23,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": {
+                                    "10": 87970.13,
+                                    "25": 91628.41,
+                                    "50": 99579.57,
+                                    "75": 107278.32,
+                                    "90": 133802.04
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-03T05:41:38.74446Z",
+                        "profileCount": 9,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-03T05:41:38.74446Z",
+                        "profileCount": 16,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/df597d74/Early-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 93569.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/f1a24014/Mid-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 102672.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/9be99999/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 109000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/079ccff9/New-York-NY",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Newark, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/5355bb94/Newark-NJ",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 87015.55
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/0c8524dd/Microsoft-Excel",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 100487.87
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Financial Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/01adec6a/Financial-Modeling",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 99182.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "VBA",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/3c86a243/VBA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 99681.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Insurance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/d33e7f1c/Insurance",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 92497.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/e50cc2a0/Data-Analysis",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 103466.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Financial Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Actuarial_Associate/Salary/bef5461c/Financial-Analysis",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90240.4
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 3977,
+                        "range": {
+                            "10": 50690.78,
+                            "25": 57917.56,
+                            "50": 66056.3,
+                            "75": 76046.99,
+                            "90": 87470.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 2597,
+                        "range": {
+                            "10": 68841.72,
+                            "25": 77097.81,
+                            "50": 86612.41,
+                            "75": 97280.51,
+                            "90": 108936.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2511,
+                        "range": {
+                            "10": 48082.08,
+                            "25": 56030.64,
+                            "50": 66306.15,
+                            "75": 78212.44,
+                            "90": 90706.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1651,
+                        "range": {
+                            "10": 31021.43,
+                            "25": 36530.44,
+                            "50": 43343.99,
+                            "75": 51755.07,
+                            "90": 61091.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 1462,
+                        "range": {
+                            "10": 44002.68,
+                            "25": 49157.93,
+                            "50": 56184.47,
+                            "75": 65734.97,
+                            "90": 75535.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1440,
+                        "range": {
+                            "10": 43645.55,
+                            "25": 49608.14,
+                            "50": 55969.19,
+                            "75": 62933.64,
+                            "90": 70031.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 1178,
+                        "range": {
+                            "10": 57311.49,
+                            "25": 64455.26,
+                            "50": 73239.31,
+                            "75": 82713.43,
+                            "90": 91811.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Controller",
+                        "url": "/research/US/Job=Financial_Controller/Salary",
+                        "profileCount": 1058,
+                        "range": {
+                            "10": 62324.82,
+                            "25": 75037.85,
+                            "50": 91511.15,
+                            "75": 111700.83,
+                            "90": 132394.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Finance Manager",
+                        "url": "/research/US/Job=Finance_Manager/Salary",
+                        "profileCount": 1024,
+                        "range": {
+                            "10": 57443.22,
+                            "25": 77648.02,
+                            "50": 99634.99,
+                            "75": 118237.27,
+                            "90": 133929.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 933,
+                        "range": {
+                            "10": 52759.71,
+                            "25": 64102.09,
+                            "50": 79011.22,
+                            "75": 97691.07,
+                            "90": 118944.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 848,
+                        "range": {
+                            "10": 59857.57,
+                            "25": 67777.88,
+                            "50": 77530.87,
+                            "75": 90577.11,
+                            "90": 107737.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 840,
+                        "range": {
+                            "10": 50104.7,
+                            "25": 57774.08,
+                            "50": 66870.39,
+                            "75": 77403.8,
+                            "90": 88376.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 754,
+                        "range": {
+                            "10": 67474.97,
+                            "25": 77188.62,
+                            "50": 89594.84,
+                            "75": 103880.77,
+                            "90": 121185.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounting Manager",
+                        "url": "/research/US/Job=Accounting_Manager/Salary",
+                        "profileCount": 731,
+                        "range": {
+                            "10": 55136.89,
+                            "25": 65948.22,
+                            "50": 80454.57,
+                            "75": 96506.11,
+                            "90": 111112.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 687,
+                        "range": {
+                            "10": 36984.03,
+                            "25": 43690.91,
+                            "50": 52498.25,
+                            "75": 63203.96,
+                            "90": 74496.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 628,
+                        "range": {
+                            "10": 56956.61,
+                            "25": 64698.25,
+                            "50": 74072.12,
+                            "75": 86910.96,
+                            "90": 103330.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 617,
+                        "range": {
+                            "10": 65959.04,
+                            "25": 76181.25,
+                            "50": 88617.14,
+                            "75": 102741.78,
+                            "90": 118387.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 590,
+                        "range": {
+                            "10": 46972.62,
+                            "25": 53478.36,
+                            "50": 62046.86,
+                            "75": 72603.13,
+                            "90": 84358.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 548,
+                        "range": {
+                            "10": 53877.27,
+                            "25": 62917.58,
+                            "50": 73892.76,
+                            "75": 87508.98,
+                            "90": 103857.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Underwriter",
+                        "url": "/research/US/Job=Underwriter/Salary",
+                        "profileCount": 519,
+                        "range": {
+                            "10": 46288.69,
+                            "25": 53804.85,
+                            "50": 64699.09,
+                            "75": 77691.74,
+                            "90": 93850.43
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Actuarial_Associate/Salary",
+                    "occupationalCategory": "15-2010.00 - Actuaries",
+                    "skills": "Microsoft Excel, Financial Modeling, VBA, Insurance, Data Analysis, Financial Analysis",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-03T05:41:38.74446Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "89293.22",
+                            "percentile25": "93842.19",
+                            "median": "103262.82",
+                            "percentile75": "118906.23",
+                            "percentile90": "134907.6",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "87970.13",
+                            "percentile25": "91628.41",
+                            "median": "99579.57",
+                            "percentile75": "107278.32",
+                            "percentile90": "133802.04",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "3878.32",
+                            "percentile25": "6386.99",
+                            "median": "9826.35",
+                            "percentile75": "13000",
+                            "percentile90": "14957.39",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 29,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Actuarial Associate",
+                    "url": "/research/US/Job=Senior_Actuarial_Associate/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

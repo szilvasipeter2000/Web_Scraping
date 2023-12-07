@@ -1,0 +1,787 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Associate Video Game Producer",
+                    "url": "/research/US/Job=Associate_Video_Game_Producer/Salary",
+                    "compensation": 54625.34193207194,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Video Game Producer",
+                            "url": "/research/US/Job=Video_Game_Producer/Salary",
+                            "percent": 1,
+                            "compensation": 80023.03854651556,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Digital Producer",
+                                    "url": "/research/US/Job=Digital_Producer/Salary",
+                                    "percent": 0.33,
+                                    "compensation": 62953.997157958125,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Product Manager",
+                                    "url": "/research/US/Job=Senior_Product_Manager/Salary",
+                                    "percent": 0.22,
+                                    "compensation": 124666.56595993102,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Senior Video Game Producer",
+                                    "url": "/research/US/Job=Senior_Video_Game_Producer/Salary",
+                                    "percent": 0.22,
+                                    "compensation": 117242.55319148945,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Associate Video Game Producer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Associate_Video_Game_Producer/Salary",
+                    "defaultUrl": "/research/US/Job=Associate_Video_Game_Producer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-05-15T02:48:13.32436Z",
+                "narratives": {
+                    "description": "Associate video game producers are responsible for working on teams with other producers to oversee the development of video games, either at various stages of production or from start to finish. Those in this position work primarily in indoor environments, though light travel may occasionally be required.\r\nAssociate video game producers generally work traditional weekly business hours, but may work irregular hours depending on their employer. Formal educational requirements may vary; some employers require a bachelor’s degree in a field such as game design, business, or digital media. Experience with various computer programming languages is often required, as are courses in digital modeling, animation, media, and communications.\r\nAssociate video game producers have a variety of responsibilities, including: developing games for a variety of consoles and operating systems; serving as a liaison among development staff; maintaining budgets and schedules; overseeing creative and technical development of products; making arrangements for testing groups; submitting ideas to various publishers; and consulting among various teams which work on multiple products.",
+                    "summaryHourly": "The average pay for an Associate Video Game Producer is $27.25 per hour.",
+                    "summarySalary": "The average pay for an Associate Video Game Producer is $52,402 per year."
+                },
+                "tasks": [
+                    "Negotiate contracts and licensing deals.",
+                    "Ensure the timely delivery of promised milestones.",
+                    "Coordinate beta testing efforts and focus groups.",
+                    "Develop and maintain production goals and budgets.",
+                    "Act as the liaison between development staff and stockholders."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 2000,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "50": 27.25,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 39731.72,
+                        "25": 45781.42,
+                        "50": 52402.34,
+                        "75": 60528.99,
+                        "90": 70657.07,
+                        "profileCount": 12
+                    },
+                    "total": {
+                        "10": 38713.94,
+                        "25": 45000,
+                        "50": 55000,
+                        "75": 60713.95,
+                        "90": 69596.65,
+                        "profileCount": 15
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-05-15T02:48:13.32436Z",
+                        "profileCount": 15,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": {
+                                    "10": 38713.94,
+                                    "25": 45000,
+                                    "50": 55000,
+                                    "75": 60713.95,
+                                    "90": 69596.65
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-05-15T02:48:13.32436Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 27.25
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-05-15T02:48:13.32436Z",
+                        "profileCount": 12,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": {
+                                    "10": 39731.72,
+                                    "25": 45781.42,
+                                    "50": 52402.34,
+                                    "75": 60528.99,
+                                    "90": 70657.07
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-05-15T02:48:13.32436Z",
+                        "profileCount": 9,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-05-15T02:48:13.32436Z",
+                        "profileCount": 12,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/f623c1c1/Entry-Level",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 52402.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/f623c1c1/Early-Career",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/b8bcb401/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/b2de35c9/Los-Angeles-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cary, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/1e8414a3/Cary-NC",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 49000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/415de196/Dallas-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 58500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Albany, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Hourly_Rate/ddca79f3/Albany-NY",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/2a645fb9/New-York-NY",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 53500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/7453e96d/Project-Management",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "JIRA",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/73ec6010/JIRA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Product Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/479e1ee6/Product-Development",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/12fe5153/Microsoft-Office",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 40000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Organizational Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Hourly_Rate/efbbbfb2/Organizational-Development",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Game Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/30f4aa02/Game-Design",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 66500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scrum",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Video_Game_Producer/Salary/7d8a69fa/Scrum",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 4.25
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3875,
+                        "range": {
+                            "10": 51601.88,
+                            "25": 62977.52,
+                            "50": 77794.8,
+                            "75": 96405.63,
+                            "90": 117801.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 3014,
+                        "range": {
+                            "10": 30546.53,
+                            "25": 35884.35,
+                            "50": 42291.85,
+                            "75": 50826.47,
+                            "90": 59988.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 2133,
+                        "range": {
+                            "10": 59111.85,
+                            "25": 66693.92,
+                            "50": 76095.12,
+                            "75": 88634.51,
+                            "90": 104851.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 2068,
+                        "range": {
+                            "10": 56112.22,
+                            "25": 63714.78,
+                            "50": 72815.69,
+                            "75": 85474.09,
+                            "90": 101665.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1873,
+                        "range": {
+                            "10": 36429.3,
+                            "25": 42960.18,
+                            "50": 51622.77,
+                            "75": 62024.45,
+                            "90": 73234.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1577,
+                        "range": {
+                            "10": 42239.74,
+                            "25": 50532.61,
+                            "50": 61442.86,
+                            "75": 73711.88,
+                            "90": 86498.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1416,
+                        "range": {
+                            "10": 46218.16,
+                            "25": 56185.31,
+                            "50": 70225.04,
+                            "75": 87999.59,
+                            "90": 109760.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1123,
+                        "range": {
+                            "10": 59211.35,
+                            "25": 72795.77,
+                            "50": 90537.31,
+                            "75": 111533.44,
+                            "90": 131580.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 1027,
+                        "range": {
+                            "10": 62892.72,
+                            "25": 71218.34,
+                            "50": 81268.54,
+                            "75": 96911.65,
+                            "90": 119852.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 993,
+                        "range": {
+                            "10": 56420.78,
+                            "25": 62874.51,
+                            "50": 71798.36,
+                            "75": 86209.41,
+                            "90": 104500.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 934,
+                        "range": {
+                            "10": 57808.9,
+                            "25": 71440.91,
+                            "50": 90419.41,
+                            "75": 114013.34,
+                            "90": 135902.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 892,
+                        "range": {
+                            "10": 51238.14,
+                            "25": 62200.58,
+                            "50": 78386.4,
+                            "75": 97969.1,
+                            "90": 122685.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 815,
+                        "range": {
+                            "10": 82141.87,
+                            "25": 91641.28,
+                            "50": 103400.44,
+                            "75": 120815.95,
+                            "90": 138954.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 698,
+                        "range": {
+                            "10": 39817.9,
+                            "25": 45440.74,
+                            "50": 53458.33,
+                            "75": 62999.97,
+                            "90": 73495.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 647,
+                        "range": {
+                            "10": 68539.07,
+                            "25": 81654.35,
+                            "50": 98952.71,
+                            "75": 119925.66,
+                            "90": 140965.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 612,
+                        "range": {
+                            "10": 50770.99,
+                            "25": 60182.66,
+                            "50": 71818.58,
+                            "75": 84948.44,
+                            "90": 98330.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Engineer",
+                        "url": "/research/US/Job=Design_Engineer/Salary",
+                        "profileCount": 610,
+                        "range": {
+                            "10": 55798.01,
+                            "25": 63116.06,
+                            "50": 71769.22,
+                            "75": 84704.78,
+                            "90": 104378.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Project Manager, Construction",
+                        "url": "/research/US/Job=Assistant_Project_Manager%2C_Construction/Salary",
+                        "profileCount": 575,
+                        "range": {
+                            "10": 47017.21,
+                            "25": 55020.6,
+                            "50": 65586.98,
+                            "75": 76767.07,
+                            "90": 88083.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 564,
+                        "range": {
+                            "10": 53015.86,
+                            "25": 61735.23,
+                            "50": 72583.82,
+                            "75": 85901.36,
+                            "90": 101874.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 553,
+                        "range": {
+                            "10": 40940.64,
+                            "25": 48828.76,
+                            "50": 59344.04,
+                            "75": 72593.85,
+                            "90": 87634.69
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Associate_Video_Game_Producer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Project Management, JIRA, Product Development, Microsoft Office, Organizational Development, Game Design, Scrum",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-05-15T02:48:13.32436Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "38713.94",
+                            "percentile25": "45000",
+                            "median": "55000",
+                            "percentile75": "60713.95",
+                            "percentile90": "69596.65",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "39731.72",
+                            "percentile25": "45781.42",
+                            "median": "52402.34",
+                            "percentile75": "60528.99",
+                            "percentile90": "70657.07",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "2000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 24,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Associate video game producers are responsible for working on teams with other producers to oversee the development of video games, either at various stages of production or from start to finish. Those in this position work primarily in indoor environments, though light travel may occasionally be required.\r\nAssociate video game producers generally work traditional weekly business hours, but may work irregular hours depending on their employer. Formal educational requirements may vary; some employers require a bachelor’s degree in a field such as game design, business, or digital media. Experience with various computer programming languages is often required, as are courses in digital modeling, animation, media, and communications.\r\nAssociate video game producers have a variety of responsibilities, including: developing games for a variety of consoles and operating systems; serving as a liaison among development staff; maintaining budgets and schedules; overseeing creative and technical development of products; making arrangements for testing groups; submitting ideas to various publishers; and consulting among various teams which work on multiple products.",
+                    "name": "Associate Video Game Producer",
+                    "url": "/research/US/Job=Associate_Video_Game_Producer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

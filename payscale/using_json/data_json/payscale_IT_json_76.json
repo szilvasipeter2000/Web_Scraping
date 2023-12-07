@@ -1,0 +1,621 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Change/Release Coordinator",
+                    "url": "/research/US/Job=Change%2FRelease_Coordinator/Salary",
+                    "compensation": 67591.84781357806,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Network Administrator",
+                            "url": "/research/US/Job=Network_Administrator/Salary",
+                            "percent": 1,
+                            "compensation": 59530.86951295828,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Network Engineer",
+                                    "url": "/research/US/Job=Network_Engineer/Salary",
+                                    "percent": 0.16,
+                                    "compensation": 73975.75710191249,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Systems Administrator",
+                                    "url": "/research/US/Job=Systems_Administrator/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 62410.40987121457,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Change/Release Coordinator"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Change%2FRelease_Coordinator/Salary",
+                    "defaultUrl": "/research/US/Job=Change%2FRelease_Coordinator/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-12-07T22:41:52.81839Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Change/Release Coordinator is $66,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "25": 55410.63,
+                        "50": 66000,
+                        "75": 98722.67,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "25": 52079.66,
+                        "50": 62025.5,
+                        "75": 75738.07,
+                        "profileCount": 6
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-12-07T22:41:52.81839Z",
+                        "profileCount": 6,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 52079.66,
+                                    "50": 62025.5,
+                                    "75": 75738.07
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-12-07T22:41:52.81839Z",
+                        "profileCount": 5,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 55410.63,
+                                    "50": 66000,
+                                    "75": 98722.67
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-12-07T22:41:52.81839Z",
+                        "profileCount": 2,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-12-07T22:41:52.81839Z",
+                        "profileCount": 3,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Change%2FRelease_Coordinator/Salary/8b533e43/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 67591.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Change%2FRelease_Coordinator/Salary/b3f0cf68/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Change%2FRelease_Coordinator/Salary/8856cc6c/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 89924.15
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Release Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Change%2FRelease_Coordinator/Salary/daff6127/Release-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 67591.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Change%2FRelease_Coordinator/Salary/2d7af8dc/Information-Technology-IT-Support",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 454,
+                        "range": {
+                            "10": 38482.5,
+                            "25": 44221.63,
+                            "50": 52804.51,
+                            "75": 63362.53,
+                            "90": 76588.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 436,
+                        "range": {
+                            "10": 39913.92,
+                            "25": 48270.35,
+                            "50": 59141.31,
+                            "75": 75444.18,
+                            "90": 98843.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 418,
+                        "range": {
+                            "10": 35079.21,
+                            "25": 40657.37,
+                            "50": 49127.53,
+                            "75": 59217.78,
+                            "90": 71194.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 310,
+                        "range": {
+                            "10": 57220.76,
+                            "25": 70805.25,
+                            "50": 89853.66,
+                            "75": 113225.53,
+                            "90": 135196.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Analyst, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Analyst%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 130,
+                        "range": {
+                            "10": 41513.09,
+                            "25": 49098.67,
+                            "50": 58364.36,
+                            "75": 69968.7,
+                            "90": 81414.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Desktop Support Technician",
+                        "url": "/research/US/Job=Desktop_Support_Technician/Hourly_Rate",
+                        "profileCount": 122,
+                        "range": {
+                            "10": 38481.21,
+                            "25": 43131.78,
+                            "50": 49995.71,
+                            "75": 58386.2,
+                            "90": 67681.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 120,
+                        "range": {
+                            "10": 47324.36,
+                            "25": 55057.36,
+                            "50": 64990.2,
+                            "75": 77179.83,
+                            "90": 90883.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Analyst",
+                        "url": "/research/US/Job=Technical_Support_Analyst/Salary",
+                        "profileCount": 114,
+                        "range": {
+                            "10": 39473.97,
+                            "25": 45917.78,
+                            "50": 53148.76,
+                            "75": 63330.66,
+                            "90": 78411.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Specialist",
+                        "url": "/research/US/Job=Technical_Support_Specialist/Salary",
+                        "profileCount": 114,
+                        "range": {
+                            "10": 39051.64,
+                            "25": 45226.71,
+                            "50": 54369.7,
+                            "75": 67433.77,
+                            "90": 81647.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Technician",
+                        "url": "/research/US/Job=Help_Desk_Technician/Hourly_Rate",
+                        "profileCount": 108,
+                        "range": {
+                            "10": 32261.7,
+                            "25": 37589.14,
+                            "50": 44280.82,
+                            "75": 51722.98,
+                            "90": 60776.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Support Analyst",
+                        "url": "/research/US/Job=Application_Support_Analyst/Salary",
+                        "profileCount": 104,
+                        "range": {
+                            "10": 47240.19,
+                            "25": 55330.41,
+                            "50": 65188.01,
+                            "75": 78004.22,
+                            "90": 93465.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Service Desk Analyst",
+                        "url": "/research/US/Job=Service_Desk_Analyst/Hourly_Rate",
+                        "profileCount": 94,
+                        "range": {
+                            "10": 36293.25,
+                            "25": 40804.03,
+                            "50": 48692.48,
+                            "75": 56579.14,
+                            "90": 64710.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Manager",
+                        "url": "/research/US/Job=Technical_Support_Manager/Salary",
+                        "profileCount": 81,
+                        "range": {
+                            "10": 53807.24,
+                            "25": 66083.7,
+                            "50": 83673.73,
+                            "75": 105457.79,
+                            "90": 126827.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Service Delivery Manager",
+                        "url": "/research/US/Job=Service_Delivery_Manager/Salary",
+                        "profileCount": 70,
+                        "range": {
+                            "10": 56473.46,
+                            "25": 69323.49,
+                            "50": 90290.68,
+                            "75": 116727.28,
+                            "90": 138162.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 67,
+                        "range": {
+                            "10": 54061.39,
+                            "25": 62926.75,
+                            "50": 75122.81,
+                            "75": 91671.93,
+                            "90": 112809.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Program Manager, IT",
+                        "url": "/research/US/Job=Program_Manager%2C_IT/Salary",
+                        "profileCount": 66,
+                        "range": {
+                            "10": 75711.85,
+                            "25": 95712.89,
+                            "50": 116549.98,
+                            "75": 136065.96,
+                            "90": 154076.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Operations Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Operations_Manager/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 64018.77,
+                            "25": 77988.95,
+                            "50": 95892.57,
+                            "75": 117145.93,
+                            "90": 135497.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Officer (CIO)",
+                        "url": "/research/US/Job=Chief_Information_Officer_(CIO)/Salary",
+                        "profileCount": 54,
+                        "range": {
+                            "10": 100831.43,
+                            "25": 130054.28,
+                            "50": 171513.34,
+                            "75": 215322.32,
+                            "90": 257850.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Support Specialist",
+                        "url": "/research/US/Job=Application_Support_Specialist/Salary",
+                        "profileCount": 53,
+                        "range": {
+                            "10": 43474.37,
+                            "25": 51096.61,
+                            "50": 61913.41,
+                            "75": 75939.38,
+                            "90": 91777.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Engineer",
+                        "url": "/research/US/Job=Support_Engineer/Salary",
+                        "profileCount": 51,
+                        "range": {
+                            "10": 48204.28,
+                            "25": 57274.02,
+                            "50": 71540.61,
+                            "75": 86363.08,
+                            "90": 102435.82
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Change%2FRelease_Coordinator/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Release Management, Information Technology (IT) Support",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-12-07T22:41:52.81839Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "52079.66",
+                            "median": "62025.5",
+                            "percentile75": "75738.07",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "55410.63",
+                            "median": "66000",
+                            "percentile75": "98722.67",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Change/Release Coordinator",
+                    "url": "/research/US/Job=Change%2FRelease_Coordinator/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,732 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Program Analyst (Unspecified Type)",
+                    "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary",
+                    "compensation": 62505.65968786091,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Business Administrator",
+                            "url": "/research/US/Job=Business_Administrator/Salary",
+                            "percent": 0.5,
+                            "compensation": 54958.60914943902,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Office Manager",
+                                    "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                                    "percent": 0.14,
+                                    "compensation": 48376.83954596336,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Administrative Assistant",
+                                    "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                                    "percent": 0.08,
+                                    "compensation": 39520.48078952134,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Business Manager",
+                                    "url": "/research/US/Job=Business_Manager/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 61584.82551042442,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Configuration Management (CM) Analyst",
+                            "url": "/research/US/Job=Configuration_Management_(CM)_Analyst/Salary",
+                            "percent": 0.5,
+                            "compensation": 70369.94438874551,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Configuration Management (CM) Specialist",
+                                    "url": "/research/US/Job=Configuration_Management_(CM)_Specialist/Salary",
+                                    "percent": 0.21,
+                                    "compensation": 63760.83070531276,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Validation Engineer",
+                                    "url": "/research/US/Job=Validation_Engineer/Salary",
+                                    "percent": 0.18,
+                                    "compensation": 77138.52472795945,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Configuration Management (CM) Manager",
+                                    "url": "/research/US/Job=Configuration_Management_(CM)_Manager/Salary",
+                                    "percent": 0.16,
+                                    "compensation": 100619.84764656353,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Program Analyst (Unspecified Type)"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary",
+                    "defaultUrl": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-06-29T09:44:03.19394Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Program Analyst (Unspecified Type) is $31.50 per hour.",
+                    "summarySalary": "The average pay for a Program Analyst (Unspecified Type) is $55,300 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 31.5,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 38808.87,
+                        "25": 50052.69,
+                        "50": 55300.41,
+                        "75": 64696.88,
+                        "90": 97871.41,
+                        "profileCount": 12
+                    },
+                    "total": {
+                        "10": 41500,
+                        "25": 49267.76,
+                        "50": 55300.41,
+                        "75": 69689.49,
+                        "90": 91600,
+                        "profileCount": 14
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-06-29T09:44:03.19394Z",
+                        "profileCount": 14,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": {
+                                    "10": 41500,
+                                    "25": 49267.76,
+                                    "50": 55300.41,
+                                    "75": 69689.49,
+                                    "90": 91600
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-06-29T09:44:03.19394Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 31.5
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-06-29T09:44:03.19394Z",
+                        "profileCount": 12,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": {
+                                    "10": 38808.87,
+                                    "25": 50052.69,
+                                    "50": 55300.41,
+                                    "75": 64696.88,
+                                    "90": 97871.41
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-06-29T09:44:03.19394Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-06-29T09:44:03.19394Z",
+                        "profileCount": 9,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary/5ad5edd9/Early-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 55300.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary/837726fb/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 62500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary/8e8f00f4/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 66000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Entry",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary/f740c709/Data-Entry",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Writing Procedures & Documentation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary/0170eaa3/Writing-Procedures-%26-Documentation",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 62500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary/d9925e36/Microsoft-Excel",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 58750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary/c89dde13/Data-Analysis",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 53512.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Collection",
+                                "displayName": null,
+                                "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary/cbc031f2/Data-Collection",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 45000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 3763,
+                        "range": {
+                            "10": 30751.6,
+                            "25": 36156.54,
+                            "50": 42753.93,
+                            "75": 51270.68,
+                            "90": 60434.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2591,
+                        "range": {
+                            "10": 47708.31,
+                            "25": 55674.52,
+                            "50": 65915.95,
+                            "75": 77750.8,
+                            "90": 90381.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1941,
+                        "range": {
+                            "10": 50380.75,
+                            "25": 57446.22,
+                            "50": 65499.35,
+                            "75": 75378.02,
+                            "90": 86601.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 1358,
+                        "range": {
+                            "10": 30920.39,
+                            "25": 36304.8,
+                            "50": 42560.27,
+                            "75": 50751.86,
+                            "90": 60109.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1188,
+                        "range": {
+                            "10": 43228.32,
+                            "25": 49167.95,
+                            "50": 55393.6,
+                            "75": 62202.77,
+                            "90": 69256.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1042,
+                        "range": {
+                            "10": 68422.89,
+                            "25": 76593.61,
+                            "50": 86051.12,
+                            "75": 96624.84,
+                            "90": 108223.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 990,
+                        "range": {
+                            "10": 43469.71,
+                            "25": 48777.73,
+                            "50": 55522.45,
+                            "75": 64908.44,
+                            "90": 74791.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 927,
+                        "range": {
+                            "10": 52330.4,
+                            "25": 63644.05,
+                            "50": 78562.7,
+                            "75": 97325.37,
+                            "90": 118632.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 846,
+                        "range": {
+                            "10": 59489.31,
+                            "25": 67177.07,
+                            "50": 76738.36,
+                            "75": 89514.44,
+                            "90": 106066.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 749,
+                        "range": {
+                            "10": 49769.29,
+                            "25": 57225.44,
+                            "50": 66285.72,
+                            "75": 76810.75,
+                            "90": 87613.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 688,
+                        "range": {
+                            "10": 36679.06,
+                            "25": 43316.31,
+                            "50": 52034.86,
+                            "75": 62572.27,
+                            "90": 73883.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 677,
+                        "range": {
+                            "10": 67059.68,
+                            "25": 76723.1,
+                            "50": 88962.58,
+                            "75": 103028.67,
+                            "90": 120308.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 623,
+                        "range": {
+                            "10": 56512.21,
+                            "25": 64177.21,
+                            "50": 73367.83,
+                            "75": 86057.13,
+                            "90": 102295.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 596,
+                        "range": {
+                            "10": 56789.92,
+                            "25": 63978.5,
+                            "50": 72696.79,
+                            "75": 82114.57,
+                            "90": 91277.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 596,
+                        "range": {
+                            "10": 25776.97,
+                            "25": 30198.81,
+                            "50": 36285.24,
+                            "75": 42992.19,
+                            "90": 52037.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounts Payable Specialist",
+                        "url": "/research/US/Job=Accounts_Payable_Specialist/Hourly_Rate",
+                        "profileCount": 592,
+                        "range": {
+                            "10": 38505.2,
+                            "25": 42592.22,
+                            "50": 48747.48,
+                            "75": 55589.67,
+                            "90": 63286.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Pharmacy Technician",
+                        "url": "/research/US/Job=Pharmacy_Technician/Hourly_Rate",
+                        "profileCount": 590,
+                        "range": {
+                            "10": 27397.64,
+                            "25": 32537.58,
+                            "50": 40045.8,
+                            "75": 47051.56,
+                            "90": 57931.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 585,
+                        "range": {
+                            "10": 46591.69,
+                            "25": 53041.6,
+                            "50": 61495.2,
+                            "75": 71844.56,
+                            "90": 83659.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 578,
+                        "range": {
+                            "10": 65439.2,
+                            "25": 75398.41,
+                            "50": 87635.85,
+                            "75": 101826.29,
+                            "90": 117461.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 541,
+                        "range": {
+                            "10": 53584.17,
+                            "25": 62349.27,
+                            "50": 73281.68,
+                            "75": 86799.86,
+                            "90": 103088.86
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary",
+                    "occupationalCategory": "15-2030.00 - Operations Research Analysts",
+                    "skills": "Data Entry, Writing Procedures & Documentation, Microsoft Excel, Data Analysis, Data Collection",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-06-29T09:44:03.19394Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "41500",
+                            "percentile25": "49267.76",
+                            "median": "55300.41",
+                            "percentile75": "69689.49",
+                            "percentile90": "91600",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "38808.87",
+                            "percentile25": "50052.69",
+                            "median": "55300.41",
+                            "percentile75": "64696.88",
+                            "percentile90": "97871.41",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 16,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Program Analyst (Unspecified Type)",
+                    "url": "/research/US/Job=Program_Analyst_(Unspecified_Type)/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

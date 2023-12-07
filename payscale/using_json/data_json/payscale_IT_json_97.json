@@ -1,0 +1,822 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Cloud Solutions Engineer",
+                    "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary",
+                    "compensation": 87463.04132241049,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Cloud Solutions Engineer",
+                            "url": "/research/US/Job=Senior_Cloud_Solutions_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 105400.95145205538,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 2,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Development Operations (DevOps) Engineer",
+                                    "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                                    "percent": 0.6,
+                                    "compensation": 94627.18934399256,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Systems Engineer (Computer Networking / IT)",
+                                    "url": "/research/US/Job=Senior_Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                                    "percent": 0.4,
+                                    "compensation": 101135.16415719177,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Cloud Solutions Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Cloud_Solutions_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-17T01:52:43.97245Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Cloud Solutions Engineer is $42.63 per hour.",
+                    "summarySalary": "The average pay for a Cloud Solutions Engineer is $98,899 per year."
+                },
+                "tasks": [
+                    "Communicate clients concerns to engineering team and product improvements to clients.",
+                    "Lead engineer-client interactions and product demonstrations.",
+                    "Facilitate technical training for client specific use case."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 2027.35,
+                        "25": 4500.94,
+                        "50": 7917.95,
+                        "75": 11918.54,
+                        "90": 26630.12,
+                        "profileCount": 51
+                    },
+                    "hourlyRate": {
+                        "50": 42.63,
+                        "profileCount": 3
+                    },
+                    "profitSharing": {
+                        "25": 2370,
+                        "50": 6878.45,
+                        "75": 18000,
+                        "profileCount": 7
+                    },
+                    "salary": {
+                        "10": 70301.48,
+                        "25": 81276.51,
+                        "50": 98898.82,
+                        "75": 125342.47,
+                        "90": 143638.17,
+                        "profileCount": 99
+                    },
+                    "total": {
+                        "10": 70878.05,
+                        "25": 86600.91,
+                        "50": 104568.86,
+                        "75": 129749.07,
+                        "90": 149535.32,
+                        "profileCount": 102
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-17T01:52:43.97245Z",
+                        "profileCount": 102,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 102,
+                                "range": {
+                                    "10": 70878.05,
+                                    "25": 86600.91,
+                                    "50": 104568.86,
+                                    "75": 129749.07,
+                                    "90": 149535.32
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-11-17T01:52:43.97245Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 42.63
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-17T01:52:43.97245Z",
+                        "profileCount": 99,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 99,
+                                "range": {
+                                    "10": 70301.48,
+                                    "25": 81276.51,
+                                    "50": 98898.82,
+                                    "75": 125342.47,
+                                    "90": 143638.17
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-17T01:52:43.97245Z",
+                        "profileCount": 54,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 52,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-17T01:52:43.97245Z",
+                        "profileCount": 61,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 53,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 53,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 52,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/64cf0816/Early-Career",
+                                "profileCount": 74,
+                                "range": {
+                                    "50": 89948.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/ea0cc924/Mid-Career",
+                                "profileCount": 39,
+                                "range": {
+                                    "50": 105698.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/74b8f25a/Experienced",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/d1b07e33/Late-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/352a1b16/Houston-TX",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/61d07706/Austin-TX",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 102000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/aae0ace4/New-York-NY",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 159914.16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/7243dfb5/Dallas-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/f8f98a9d/Atlanta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 117500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cloud Computing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/cfae6082/Cloud-Computing",
+                                "profileCount": 101,
+                                "range": {
+                                    "50": 103537.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon Web Services (AWS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/c290e92e/Amazon-Web-Services-AWS",
+                                "profileCount": 66,
+                                "range": {
+                                    "50": 112373.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Azure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/79fc006a/Microsoft-Azure",
+                                "profileCount": 66,
+                                "range": {
+                                    "50": 93290.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/02a842ec/IT-Security-%26-Infrastructure",
+                                "profileCount": 60,
+                                "range": {
+                                    "50": 99305.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Automation Scripting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/898384e5/Automation-Scripting",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 89797.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/789e1ea1/Linux",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 109649.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/f9785488/Python",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 87031.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Enterprise Solutions",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/a81b76c0/Enterprise-Solutions",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 132257.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Customer Service",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/38042aa7/Customer-Service",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 104486.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary/fddd5a74/Network-Management-Administration",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110543.33
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 19,
+                        "score": 3.65
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 2665,
+                        "range": {
+                            "10": 31032.88,
+                            "25": 36734.07,
+                            "50": 43295.41,
+                            "75": 51374.32,
+                            "90": 61016.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cashier",
+                        "url": "/research/US/Job=Cashier/Hourly_Rate",
+                        "profileCount": 2526,
+                        "range": {
+                            "10": 12700.18,
+                            "25": 19331.57,
+                            "50": 24748.31,
+                            "75": 35499.58,
+                            "90": 49401.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2456,
+                        "range": {
+                            "10": 31127.09,
+                            "25": 36685.91,
+                            "50": 43560.5,
+                            "75": 52020.66,
+                            "90": 61435.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 2336,
+                        "range": {
+                            "10": 67327.69,
+                            "25": 77943.69,
+                            "50": 92564.86,
+                            "75": 113541.99,
+                            "90": 135083.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sales Associate",
+                        "url": "/research/US/Job=Sales_Associate/Hourly_Rate",
+                        "profileCount": 2063,
+                        "range": {
+                            "10": 27827.33,
+                            "25": 37302.93,
+                            "50": 49088.32,
+                            "75": 63068.61,
+                            "90": 79897.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1962,
+                        "range": {
+                            "10": 37026.97,
+                            "25": 43784.37,
+                            "50": 52658.62,
+                            "75": 63363.85,
+                            "90": 74648.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1785,
+                        "range": {
+                            "10": 37740.74,
+                            "25": 44350.92,
+                            "50": 53114.83,
+                            "75": 64106.86,
+                            "90": 75974.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 1457,
+                        "range": {
+                            "10": 27902.73,
+                            "25": 32983.64,
+                            "50": 39342.24,
+                            "75": 46481.89,
+                            "90": 54296.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1283,
+                        "range": {
+                            "10": 58802.67,
+                            "25": 72830.48,
+                            "50": 92036.74,
+                            "75": 116007.22,
+                            "90": 138338.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1074,
+                        "range": {
+                            "10": 94153.82,
+                            "25": 108099.27,
+                            "50": 126162.85,
+                            "75": 146318.78,
+                            "90": 166038.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1055,
+                        "range": {
+                            "10": 47346.26,
+                            "25": 57593.34,
+                            "50": 71635.22,
+                            "75": 89783.56,
+                            "90": 111875.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 985,
+                        "range": {
+                            "10": 26072.85,
+                            "25": 30533.6,
+                            "50": 36739.45,
+                            "75": 43207.89,
+                            "90": 51412.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 849,
+                        "range": {
+                            "10": 34366.68,
+                            "25": 41777.32,
+                            "50": 50833.92,
+                            "75": 60015.89,
+                            "90": 67929.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Dental Assistant",
+                        "url": "/research/US/Job=Dental_Assistant/Hourly_Rate",
+                        "profileCount": 770,
+                        "range": {
+                            "10": 27138.78,
+                            "25": 31819.16,
+                            "50": 38828.9,
+                            "75": 46930.88,
+                            "90": 56830.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 735,
+                        "range": {
+                            "10": 48681.48,
+                            "25": 56715.83,
+                            "50": 67152.05,
+                            "75": 79863.35,
+                            "90": 94360.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 729,
+                        "range": {
+                            "10": 70821.08,
+                            "25": 85453.09,
+                            "50": 104528.67,
+                            "75": 128958.2,
+                            "90": 150180.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 727,
+                        "range": {
+                            "10": 74819.36,
+                            "25": 96355.55,
+                            "50": 125338.94,
+                            "75": 154996.9,
+                            "90": 179777.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Pharmacy Technician",
+                        "url": "/research/US/Job=Pharmacy_Technician/Hourly_Rate",
+                        "profileCount": 721,
+                        "range": {
+                            "10": 28113.24,
+                            "25": 33735.65,
+                            "50": 40777.64,
+                            "75": 48912.79,
+                            "90": 58359.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 685,
+                        "range": {
+                            "10": 36112.3,
+                            "25": 43045.91,
+                            "50": 50671.65,
+                            "75": 58066.02,
+                            "90": 64544.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Store Manager",
+                        "url": "/research/US/Job=Assistant_Store_Manager/Hourly_Rate",
+                        "profileCount": 648,
+                        "range": {
+                            "10": 38176.89,
+                            "25": 45435.86,
+                            "50": 53086.17,
+                            "75": 60832.77,
+                            "90": 68398.12
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Cloud_Solutions_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Cloud Computing, Amazon Web Services (AWS), Microsoft Azure, IT Security & Infrastructure, Automation Scripting, Linux, Python, Enterprise Solutions, Customer Service, Network Management / Administration",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-17T01:52:43.97245Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "70878.05",
+                            "percentile25": "86600.91",
+                            "median": "104568.86",
+                            "percentile75": "129749.07",
+                            "percentile90": "149535.32",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "70301.48",
+                            "percentile25": "81276.51",
+                            "median": "98898.82",
+                            "percentile75": "125342.47",
+                            "percentile90": "143638.17",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2027.35",
+                            "percentile25": "4500.94",
+                            "median": "7917.95",
+                            "percentile75": "11918.54",
+                            "percentile90": "26630.12",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 158,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Cloud Solutions Engineer",
+                    "url": "/research/US/Job=Cloud_Solutions_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

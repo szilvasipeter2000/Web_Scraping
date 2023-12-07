@@ -1,0 +1,933 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Data Warehouse Manager",
+                    "url": "/research/US/Job=Data_Warehouse_Manager/Salary",
+                    "compensation": 121157.20568988999,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Business Intelligence (BI) Developer",
+                            "url": "/research/US/Job=Business_Intelligence_(BI)_Developer/Salary",
+                            "percent": 1,
+                            "compensation": 79800.7574601421,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Business Intelligence (BI) Architect",
+                                    "url": "/research/US/Job=Business_Intelligence_(BI)_Architect/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 112152.73018526846,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Data Engineer",
+                                    "url": "/research/US/Job=Data_Engineer/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 92064.38922341476,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Business Intelligence Manager",
+                                    "url": "/research/US/Job=Business_Intelligence_Manager/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 101648.03892055331,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Data Warehouse Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Data_Warehouse_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Data_Warehouse_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-02-06T10:23:42.83959Z",
+                "narratives": {
+                    "description": "Data warehouse managers oversee the storage of data in facilities, analyzing this data as needed for departments within their organization. They are primarily responsible for evaluating data using metrics related to performance and usage, as well as analyzing data load and monitoring job usage of data. The data warehouse manager is given various data warehouse tasks by upper management, department chairs and other parties within their organization; they must ensure data systems are fully functional to ensure they can provide these stakeholders with necessary data. \r\nData warehouse managers also conduct process automation, monitor operations, and develop stable data solutions. They may be in charge of identifying potential risks relating to data storage and transfer, as well as working to mitigate these risks as needed. The data warehouse manager should work to develop standard policies and systems surrounding the data warehouse. Additionally, data warehouse managers must keep up to date with the latest data warehouse developments in order to continuously improve their organization's systems. \r\nThis is a management position that generally requires previous supervisory experience in addition to experience in a relevant role. At least a bachelor's degree in engineering or another relevant field is needed as well. ",
+                    "summarySalary": "The average pay for a Data Warehouse Manager is $129,849 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 4864.51,
+                        "25": 5895.81,
+                        "50": 9000,
+                        "75": 13225.74,
+                        "90": 19266.14,
+                        "profileCount": 18
+                    },
+                    "salary": {
+                        "10": 98470.52,
+                        "25": 111347.17,
+                        "50": 129849.17,
+                        "75": 145817.89,
+                        "90": 171140.17,
+                        "profileCount": 32
+                    },
+                    "total": {
+                        "10": 100991.81,
+                        "25": 113784.2,
+                        "50": 136422,
+                        "75": 154063.16,
+                        "90": 174608.3,
+                        "profileCount": 32
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-02-06T10:23:42.83959Z",
+                        "profileCount": 32,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 32,
+                                "range": {
+                                    "10": 100991.81,
+                                    "25": 113784.2,
+                                    "50": 136422,
+                                    "75": 154063.16,
+                                    "90": 174608.3
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-02-06T10:23:42.83959Z",
+                        "profileCount": 32,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 32,
+                                "range": {
+                                    "10": 98470.52,
+                                    "25": 111347.17,
+                                    "50": 129849.17,
+                                    "75": 145817.89,
+                                    "90": 171140.17
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-02-06T10:23:42.83959Z",
+                        "profileCount": 16,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-02-06T10:23:42.83959Z",
+                        "profileCount": 26,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/134924f3/Early-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 98763.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/c8fb0481/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 112649.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/18560919/Experienced",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 127206.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/d9967ee3/Late-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 142500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Cleveland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/5a3b791b/Cleveland-OH",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 122000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/832fbe66/Denver-CO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 134652.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richmond, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/3f3669fc/Richmond-VA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 86476.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/2a83c697/Seattle-WA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 123870.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/31d2a7b4/Los-Angeles-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 164535.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/63322b9d/Irvine-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 162410.16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/362f4a83/Columbus-OH",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 111569.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/1b0513e8/New-York-NY",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 147395.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/16e76912/Portland-OR",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 134814.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Providence, Rhode Island",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/d5dfee91/Providence-RI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Aberdeen, South Dakota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/e76e0674/Aberdeen-SD",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 97959.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "College Station, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/49ca1f18/College-Station-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 92333.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plano, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/c956dfcf/Plano-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 118224.1
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Newport News, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/427da114/Newport-News-VA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 63000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Stamford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/1e415e5f/Stamford-CT",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/d7367ba8/Washington-DC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 160000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/b5586849/Miami-FL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 112500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/6d303b28/Atlanta-GA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 103400
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/f0f6de25/Minneapolis-MN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 139935.71
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Warehouse",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/08cc9a8f/Data-Warehouse",
+                                "profileCount": 38,
+                                "range": {
+                                    "50": 127836.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Intelligence",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/58795f8d/Business-Intelligence",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 124800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/b6ddf577/Project-Management",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 128644.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ETL (Extract, transform, load)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/96e8d2a8/ETL-Extract-transform-load",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/5e95f3a2/Microsoft-SQL-Server",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 135000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/a5715d8b/SQL",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 123855.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database Management & Reporting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/6a3cc09b/Database-Management-%26-Reporting",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 129548.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Informatica",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/02024e9e/Informatica",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Agile Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/f2861e92/Agile-Software-Development",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 111000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "PL/SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Warehouse_Manager/Salary/fbaba302/PL-SQL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 116000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3192,
+                        "range": {
+                            "10": 51540.11,
+                            "25": 62879.8,
+                            "50": 77736.08,
+                            "75": 96269.36,
+                            "90": 117601.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 2017,
+                        "range": {
+                            "10": 65967.56,
+                            "25": 76405.04,
+                            "50": 90899.79,
+                            "75": 111920.08,
+                            "90": 133071.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1540,
+                        "range": {
+                            "10": 46636.92,
+                            "25": 54823.4,
+                            "50": 64979.88,
+                            "75": 76730.5,
+                            "90": 89303.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1379,
+                        "range": {
+                            "10": 55800.98,
+                            "25": 63441.22,
+                            "50": 72514.67,
+                            "75": 85110.47,
+                            "90": 101223.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1316,
+                        "range": {
+                            "10": 53870.65,
+                            "25": 63558.59,
+                            "50": 75917.38,
+                            "75": 91467.67,
+                            "90": 111211.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1202,
+                        "range": {
+                            "10": 58915,
+                            "25": 72413.75,
+                            "50": 90053,
+                            "75": 110954.43,
+                            "90": 131180.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1047,
+                        "range": {
+                            "10": 58779.81,
+                            "25": 66266.21,
+                            "50": 75637.37,
+                            "75": 88110.08,
+                            "90": 104032.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1033,
+                        "range": {
+                            "10": 91869.84,
+                            "25": 105521.15,
+                            "50": 123973.04,
+                            "75": 144225.95,
+                            "90": 163817.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1003,
+                        "range": {
+                            "10": 45876.84,
+                            "25": 55790.16,
+                            "50": 69819.47,
+                            "75": 87522.37,
+                            "90": 109144.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 922,
+                        "range": {
+                            "10": 57467.71,
+                            "25": 71146.73,
+                            "50": 90181.48,
+                            "75": 113531.29,
+                            "90": 135328.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 897,
+                        "range": {
+                            "10": 66262.78,
+                            "25": 75854.83,
+                            "50": 88158.72,
+                            "75": 101933.21,
+                            "90": 118938
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Developer",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Developer/Salary",
+                        "profileCount": 884,
+                        "range": {
+                            "10": 60108.42,
+                            "25": 70962.83,
+                            "50": 84410.06,
+                            "75": 99221.64,
+                            "90": 116344.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 766,
+                        "range": {
+                            "10": 53268.45,
+                            "25": 61615.27,
+                            "50": 71822.43,
+                            "75": 83416.4,
+                            "90": 97447.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 723,
+                        "range": {
+                            "10": 87628.84,
+                            "25": 101854.06,
+                            "50": 118287.87,
+                            "75": 135137.3,
+                            "90": 153046.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 713,
+                        "range": {
+                            "10": 52642.82,
+                            "25": 61466.14,
+                            "50": 72222.38,
+                            "75": 85487.53,
+                            "90": 101565.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 690,
+                        "range": {
+                            "10": 82403.21,
+                            "25": 96189.83,
+                            "50": 113558.19,
+                            "75": 131826.4,
+                            "90": 151300.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 659,
+                        "range": {
+                            "10": 51029.84,
+                            "25": 61863.23,
+                            "50": 77914.41,
+                            "75": 97247.99,
+                            "90": 121978.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 648,
+                        "range": {
+                            "10": 66700,
+                            "25": 78975.38,
+                            "50": 94406.14,
+                            "75": 115081,
+                            "90": 133881.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Product Manager, Software",
+                        "url": "/research/US/Job=Product_Manager%2C_Software/Salary",
+                        "profileCount": 564,
+                        "range": {
+                            "10": 71416.81,
+                            "25": 85513.19,
+                            "50": 103082.22,
+                            "75": 122932.42,
+                            "90": 140247.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 518,
+                        "range": {
+                            "10": 53829.13,
+                            "25": 61805.34,
+                            "50": 71662.15,
+                            "75": 85757.98,
+                            "90": 100448.93
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Data_Warehouse_Manager/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Data Warehouse, Business Intelligence, Project Management, ETL (Extract, transform, load), Microsoft SQL Server, SQL, Database Management & Reporting, Informatica, Agile Software Development, PL/SQL",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-02-06T10:23:42.83959Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "100991.81",
+                            "percentile25": "113784.2",
+                            "median": "136422",
+                            "percentile75": "154063.16",
+                            "percentile90": "174608.3",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "98470.52",
+                            "percentile25": "111347.17",
+                            "median": "129849.17",
+                            "percentile75": "145817.89",
+                            "percentile90": "171140.17",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "4864.51",
+                            "percentile25": "5895.81",
+                            "median": "9000",
+                            "percentile75": "13225.74",
+                            "percentile90": "19266.14",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 51,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Data warehouse managers oversee the storage of data in facilities, analyzing this data as needed for departments within their organization. They are primarily responsible for evaluating data using metrics related to performance and usage, as well as analyzing data load and monitoring job usage of data. The data warehouse manager is given various data warehouse tasks by upper management, department chairs and other parties within their organization; they must ensure data systems are fully functional to ensure they can provide these stakeholders with necessary data. \r\nData warehouse managers also conduct process automation, monitor operations, and develop stable data solutions. They may be in charge of identifying potential risks relating to data storage and transfer, as well as working to mitigate these risks as needed. The data warehouse manager should work to develop standard policies and systems surrounding the data warehouse. Additionally, data warehouse managers must keep up to date with the latest data warehouse developments in order to continuously improve their organization's systems. \r\nThis is a management position that generally requires previous supervisory experience in addition to experience in a relevant role. At least a bachelor's degree in engineering or another relevant field is needed as well. ",
+                    "name": "Data Warehouse Manager",
+                    "url": "/research/US/Job=Data_Warehouse_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

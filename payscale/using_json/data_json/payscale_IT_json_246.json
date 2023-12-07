@@ -1,0 +1,536 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Geographic Information Systems (GIS) Programmer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Programmer/Salary",
+                    "defaultUrl": "/research/US/Job=Geographic_Information_Systems_(GIS)_Programmer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2018-08-09T08:58:17.04742Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Geographic Information Systems (GIS) Programmer is $71,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "50": 71000,
+                        "profileCount": 2
+                    },
+                    "total": {
+                        "50": 62400,
+                        "profileCount": 3
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2018-08-09T08:58:17.04742Z",
+                        "profileCount": 3,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 62400
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2018-08-09T08:58:17.04742Z",
+                        "profileCount": 2,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 71000
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2018-08-09T08:58:17.04742Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2018-08-09T08:58:17.04742Z",
+                        "profileCount": 3,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Programmer/Salary/83046ae4/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 53500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Programmer/Salary/a263eb3c/Python",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Geographic Information Systems (GIS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Programmer/Salary/30f38b26/Geographic-Information-Systems-GIS",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 64000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 883,
+                        "range": {
+                            "10": 60603.13,
+                            "25": 70747.42,
+                            "50": 84761.94,
+                            "75": 105104.78,
+                            "90": 125269.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 363,
+                        "range": {
+                            "10": 65769.85,
+                            "25": 79204.5,
+                            "50": 96105.93,
+                            "75": 115736.38,
+                            "90": 133885.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 282,
+                        "range": {
+                            "10": 49855.37,
+                            "25": 59403.84,
+                            "50": 70867.66,
+                            "75": 86350.35,
+                            "90": 103442.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 278,
+                        "range": {
+                            "10": 84059.25,
+                            "25": 97667.53,
+                            "50": 115269.71,
+                            "75": 134774.4,
+                            "90": 153799.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Analyst",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Analyst/Salary",
+                        "profileCount": 154,
+                        "range": {
+                            "10": 40614.77,
+                            "25": 46637.81,
+                            "50": 53944.59,
+                            "75": 63762.33,
+                            "90": 74973.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 137,
+                        "range": {
+                            "10": 50309.42,
+                            "25": 57296.91,
+                            "50": 65823.27,
+                            "75": 79761.2,
+                            "90": 98023.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 137,
+                        "range": {
+                            "10": 42395.48,
+                            "25": 50083.01,
+                            "50": 59945.65,
+                            "75": 71290.66,
+                            "90": 84254.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 136,
+                        "range": {
+                            "10": 64422.07,
+                            "25": 76682.35,
+                            "50": 91605.08,
+                            "75": 112139.25,
+                            "90": 131527.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 124,
+                        "range": {
+                            "10": 75302.75,
+                            "25": 88472.58,
+                            "50": 103307.43,
+                            "75": 122135.3,
+                            "90": 140716.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Environmental Scientist",
+                        "url": "/research/US/Job=Environmental_Scientist/Salary",
+                        "profileCount": 121,
+                        "range": {
+                            "10": 38858.39,
+                            "25": 44080.56,
+                            "50": 51361.76,
+                            "75": 62259.86,
+                            "90": 76470.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 108,
+                        "range": {
+                            "10": 93197.23,
+                            "25": 107576.86,
+                            "50": 126057.5,
+                            "75": 145255.63,
+                            "90": 160222.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 99,
+                        "range": {
+                            "10": 52142.28,
+                            "25": 63669.15,
+                            "50": 77174.91,
+                            "75": 93932.64,
+                            "90": 114327.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Specialist",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Specialist/Salary",
+                        "profileCount": 92,
+                        "range": {
+                            "10": 39590.34,
+                            "25": 44244.74,
+                            "50": 51448.33,
+                            "75": 61150.13,
+                            "90": 72207.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geographic Information Systems (GIS) Technician",
+                        "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate",
+                        "profileCount": 71,
+                        "range": {
+                            "10": 33312.75,
+                            "25": 38888.44,
+                            "50": 44475.59,
+                            "75": 50977.98,
+                            "90": 61036.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Machine Learning Engineer",
+                        "url": "/research/US/Job=Machine_Learning_Engineer/Salary",
+                        "profileCount": 70,
+                        "range": {
+                            "10": 74810.26,
+                            "25": 88726.42,
+                            "50": 110729.83,
+                            "75": 132639.06,
+                            "90": 153257.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Water Resources Engineer",
+                        "url": "/research/US/Job=Water_Resources_Engineer/Salary",
+                        "profileCount": 65,
+                        "range": {
+                            "10": 54441.88,
+                            "25": 59494.42,
+                            "50": 66295.11,
+                            "75": 77124.21,
+                            "90": 94919.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 63,
+                        "range": {
+                            "10": 63771.67,
+                            "25": 77113.75,
+                            "50": 93358.57,
+                            "75": 115734.15,
+                            "90": 135103.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Geospatial Analyst",
+                        "url": "/research/US/Job=Geospatial_Analyst/Salary",
+                        "profileCount": 62,
+                        "range": {
+                            "10": 40460.14,
+                            "25": 49000.88,
+                            "50": 59215.76,
+                            "75": 76168.82,
+                            "90": 92030.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Transportation Planner",
+                        "url": "/research/US/Job=Transportation_Planner/Salary",
+                        "profileCount": 59,
+                        "range": {
+                            "10": 42364.85,
+                            "25": 49172.34,
+                            "50": 57556.85,
+                            "75": 68182.97,
+                            "90": 79847.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Urban Planner",
+                        "url": "/research/US/Job=Urban_Planner/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 41149.17,
+                            "25": 47521.59,
+                            "50": 55945.94,
+                            "75": 67627.54,
+                            "90": 85818.82
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Geographic_Information_Systems_(GIS)_Programmer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Python, Geographic Information Systems (GIS)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2018-08-09T08:58:17.04742Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "62400",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "71000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Geographic Information Systems (GIS) Programmer",
+                    "url": "/research/US/Job=Geographic_Information_Systems_(GIS)_Programmer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

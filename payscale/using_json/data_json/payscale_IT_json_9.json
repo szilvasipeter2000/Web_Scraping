@@ -1,0 +1,812 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Alliance Manager, Enterprise Software",
+                    "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary",
+                    "compensation": 103508.26299289534,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Strategic Partnership Manager",
+                            "url": "/research/US/Job=Strategic_Partnership_Manager/Salary",
+                            "percent": 0.6,
+                            "compensation": 78104.62666726991,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Business Development Director",
+                                    "url": "/research/US/Job=Business_Development_Director/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 103845.64733068799,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Vice President (VP), Business Development",
+                                    "url": "/research/US/Job=Vice_President_(VP)%2C_Business_Development/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 134564.94391745332,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Director of Strategic Alliances",
+                                    "url": "/research/US/Job=Director_of_Strategic_Alliances/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 121066.46752722787,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Senior Marketing Manager",
+                            "url": "/research/US/Job=Senior_Marketing_Manager/Salary",
+                            "percent": 0.4,
+                            "compensation": 98831.71150427654,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Marketing Director",
+                                    "url": "/research/US/Job=Marketing_Director/Salary",
+                                    "percent": 0.31,
+                                    "compensation": 87911.19122321739,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Vice President (VP), Marketing",
+                                    "url": "/research/US/Job=Vice_President_(VP)%2C_Marketing/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 147315.7577942771,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Marketing Manager",
+                                    "url": "/research/US/Job=Marketing_Manager/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 65377.345493279194,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Alliance Manager, Enterprise Software"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary",
+                    "defaultUrl": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-22T07:17:52.64263Z",
+                "narratives": {
+                    "summarySalary": "The average pay for an Alliance Manager, Enterprise Software is $98,870 per year."
+                },
+                "tasks": [
+                    "Reach out to prospective clients, identify their needs and match them to products.",
+                    "Research competitors and trends to identify opportunities and risks.",
+                    "Maintain and update existing relationships, building strong connections."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 2027.35,
+                        "25": 11250,
+                        "50": 25000,
+                        "75": 36597.09,
+                        "90": 123290.72,
+                        "profileCount": 11
+                    },
+                    "salary": {
+                        "10": 77262.32,
+                        "25": 81930.73,
+                        "50": 98869.63,
+                        "75": 129267.78,
+                        "90": 151639.72,
+                        "profileCount": 24
+                    },
+                    "total": {
+                        "10": 81827.66,
+                        "25": 89396.13,
+                        "50": 110990.99,
+                        "75": 138171.5,
+                        "90": 171492.73,
+                        "profileCount": 24
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-22T07:17:52.64263Z",
+                        "profileCount": 24,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": {
+                                    "10": 81827.66,
+                                    "25": 89396.13,
+                                    "50": 110990.99,
+                                    "75": 138171.5,
+                                    "90": 171492.73
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-22T07:17:52.64263Z",
+                        "profileCount": 24,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": {
+                                    "10": 77262.32,
+                                    "25": 81930.73,
+                                    "50": 98869.63,
+                                    "75": 129267.78,
+                                    "90": 151639.72
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-22T07:17:52.64263Z",
+                        "profileCount": 13,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-22T07:17:52.64263Z",
+                        "profileCount": 15,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Relias Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/f9885d3f/Relias-Learning",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/93740f49/Early-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 92494.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/096145dc/Mid-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/9734e963/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/0549df8b/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 124391.25
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/8c6f5e41/New-York-NY",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 101736.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/8437d9a3/San-Francisco-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/e71e0379/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 122641.26
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Strategic Partners",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/0968acde/Strategic-Partners",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 91233.16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/57f9f512/Business-Development",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Channel Sales",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/aca69bf5/Channel-Sales",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategy",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/41b34f2d/Strategy",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/d6ea8946/Strategic-Project-Management",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 103090.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Account Sales",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/16a24f91/Account-Sales",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 97461.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Strategy",
+                                "displayName": null,
+                                "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary/21120f77/Business-Strategy",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 837,
+                        "range": {
+                            "10": 52484.26,
+                            "25": 63826.76,
+                            "50": 78748.38,
+                            "75": 97469.01,
+                            "90": 118819.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Executive",
+                        "url": "/research/US/Job=Account_Executive/Salary",
+                        "profileCount": 620,
+                        "range": {
+                            "10": 41489.46,
+                            "25": 50023.75,
+                            "50": 61437.24,
+                            "75": 77578.26,
+                            "90": 100238.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 446,
+                        "range": {
+                            "10": 41542.58,
+                            "25": 49538.93,
+                            "50": 60212.15,
+                            "75": 73693.74,
+                            "90": 89010.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 429,
+                        "range": {
+                            "10": 77030.75,
+                            "25": 109481.19,
+                            "50": 162549.32,
+                            "75": 240563.76,
+                            "90": 318731.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Regional Sales Manager",
+                        "url": "/research/US/Job=Regional_Sales_Manager/Salary",
+                        "profileCount": 406,
+                        "range": {
+                            "10": 52988.52,
+                            "25": 68526.83,
+                            "50": 86588.4,
+                            "75": 107311.74,
+                            "90": 127823.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Product Manager",
+                        "url": "/research/US/Job=Senior_Product_Manager/Salary",
+                        "profileCount": 382,
+                        "range": {
+                            "10": 94869.6,
+                            "25": 111936.14,
+                            "50": 130929.92,
+                            "75": 149009.73,
+                            "90": 165003.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Development Manager",
+                        "url": "/research/US/Job=Business_Development_Manager/Salary",
+                        "profileCount": 340,
+                        "range": {
+                            "10": 49284.79,
+                            "25": 61185.69,
+                            "50": 79467.77,
+                            "75": 102079.96,
+                            "90": 129929.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 268,
+                        "range": {
+                            "10": 74050.04,
+                            "25": 95779.06,
+                            "50": 124740.62,
+                            "75": 154235.92,
+                            "90": 178932.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Management Consultant",
+                        "url": "/research/US/Job=Management_Consultant/Salary",
+                        "profileCount": 262,
+                        "range": {
+                            "10": 64923.44,
+                            "25": 76484.55,
+                            "50": 93385.45,
+                            "75": 119471.58,
+                            "90": 151935.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Product Manager, Software",
+                        "url": "/research/US/Job=Product_Manager%2C_Software/Salary",
+                        "profileCount": 232,
+                        "range": {
+                            "10": 72699.64,
+                            "25": 86961.22,
+                            "50": 104753.29,
+                            "75": 124199.1,
+                            "90": 142012.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager Sales",
+                        "url": "/research/US/Job=Account_Manager_Sales/Salary",
+                        "profileCount": 231,
+                        "range": {
+                            "10": 40366.89,
+                            "25": 49248.8,
+                            "50": 63200.6,
+                            "75": 81655.26,
+                            "90": 104263.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sales Director",
+                        "url": "/research/US/Job=Sales_Director/Salary",
+                        "profileCount": 226,
+                        "range": {
+                            "10": 58291.82,
+                            "25": 77959.37,
+                            "50": 104880.85,
+                            "75": 139101.03,
+                            "90": 164524.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "President",
+                        "url": "/research/US/Job=President/Salary",
+                        "profileCount": 219,
+                        "range": {
+                            "10": 78630.08,
+                            "25": 112587.92,
+                            "50": 155934.06,
+                            "75": 210263.56,
+                            "90": 266418.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Consultant",
+                        "url": "/research/US/Job=Business_Consultant/Salary",
+                        "profileCount": 207,
+                        "range": {
+                            "10": 54765.53,
+                            "25": 65736.02,
+                            "50": 79485.85,
+                            "75": 97815.93,
+                            "90": 120591.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Inside Sales Representative",
+                        "url": "/research/US/Job=Inside_Sales_Representative/Salary",
+                        "profileCount": 190,
+                        "range": {
+                            "10": 34791.93,
+                            "25": 40649.94,
+                            "50": 48954.68,
+                            "75": 58324.07,
+                            "90": 67861.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Outside Sales Representative",
+                        "url": "/research/US/Job=Outside_Sales_Representative/Salary",
+                        "profileCount": 187,
+                        "range": {
+                            "10": 34642.86,
+                            "25": 42455.45,
+                            "50": 53512.54,
+                            "75": 68889.18,
+                            "90": 86294.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Strategy",
+                        "url": "/research/US/Job=Director_of_Strategy/Salary",
+                        "profileCount": 183,
+                        "range": {
+                            "10": 83419.47,
+                            "25": 110311.51,
+                            "50": 137400.47,
+                            "75": 166452.07,
+                            "90": 189881.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 177,
+                        "range": {
+                            "10": 88265.75,
+                            "25": 102439.55,
+                            "50": 119429.44,
+                            "75": 136751.45,
+                            "90": 154656.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Sales",
+                        "url": "/research/US/Job=Director_of_Sales/Salary",
+                        "profileCount": 172,
+                        "range": {
+                            "10": 54361.71,
+                            "25": 72596.66,
+                            "50": 99771.12,
+                            "75": 131755.65,
+                            "90": 157513.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Business Development",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Business_Development/Salary",
+                        "profileCount": 170,
+                        "range": {
+                            "10": 84754.38,
+                            "25": 107901.03,
+                            "50": 143076.84,
+                            "75": 175148.97,
+                            "90": 204168.77
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Strategic Partners, Business Development, Channel Sales, Strategy, Strategic Project Management, Account Sales, Business Strategy",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-22T07:17:52.64263Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "81827.66",
+                            "percentile25": "89396.13",
+                            "median": "110990.99",
+                            "percentile75": "138171.5",
+                            "percentile90": "171492.73",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "77262.32",
+                            "percentile25": "81930.73",
+                            "median": "98869.63",
+                            "percentile75": "129267.78",
+                            "percentile90": "151639.72",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2027.35",
+                            "percentile25": "11250",
+                            "median": "25000",
+                            "percentile75": "36597.09",
+                            "percentile90": "123290.72",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 28,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Alliance Manager, Enterprise Software",
+                    "url": "/research/US/Job=Alliance_Manager%2C_Enterprise_Software/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

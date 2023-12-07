@@ -1,0 +1,662 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Medical Application Specialist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Medical_Application_Specialist/Salary",
+                    "defaultUrl": "/research/US/Job=Medical_Application_Specialist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-05-24T13:03:41.49764Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Medical Application Specialist is $24.73 per hour.",
+                    "summarySalary": "The average pay for a Medical Application Specialist is $65,000 per year."
+                },
+                "tasks": [
+                    "Manage software set up and configuration, creating shortcuts and lists to enable usability.",
+                    "Troubleshoot, maintain, update, and replace hardware.",
+                    "Train staff in software usage, how to get assistance, and common mistakes.",
+                    "Maintain documentation and instructions for different user and IT audiences.",
+                    "Review and update work flow and interfaces, working with users."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 1220.84,
+                        "50": 3750,
+                        "75": 9826.35,
+                        "profileCount": 8
+                    },
+                    "hourlyRate": {
+                        "25": 19.86,
+                        "50": 24.73,
+                        "75": 27.76,
+                        "profileCount": 6
+                    },
+                    "salary": {
+                        "10": 36442.38,
+                        "25": 47000,
+                        "50": 65000,
+                        "75": 92000,
+                        "90": 133954.6,
+                        "profileCount": 15
+                    },
+                    "total": {
+                        "10": 38012.78,
+                        "25": 45450.55,
+                        "50": 57204.9,
+                        "75": 84952.94,
+                        "90": 128222.35,
+                        "profileCount": 21
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-05-24T13:03:41.49764Z",
+                        "profileCount": 21,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": {
+                                    "10": 38012.78,
+                                    "25": 45450.55,
+                                    "50": 57204.9,
+                                    "75": 84952.94,
+                                    "90": 128222.35
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-05-24T13:03:41.49764Z",
+                        "profileCount": 6,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 19.86,
+                                    "50": 24.73,
+                                    "75": 27.76
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-05-24T13:03:41.49764Z",
+                        "profileCount": 15,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": {
+                                    "10": 36442.38,
+                                    "25": 47000,
+                                    "50": 65000,
+                                    "75": 92000,
+                                    "90": 133954.6
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-05-24T13:03:41.49764Z",
+                        "profileCount": 8,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-05-24T13:03:41.49764Z",
+                        "profileCount": 13,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Medical_Application_Specialist/Hourly_Rate/0ce1fd6a/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 54666.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Medical_Application_Specialist/Salary/81f60783/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Medical_Application_Specialist/Salary/610ed63d/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 69500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Medical_Application_Specialist/Salary/d70323d3/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 73395.1
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Training",
+                                "displayName": null,
+                                "url": "/research/US/Job=Medical_Application_Specialist/Salary/bad58109/Training",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Medical_Application_Specialist/Salary/af8c89ee/Troubleshooting",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Product Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Medical_Application_Specialist/Salary/15775383/Product-Support",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 77419.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Medical Devices",
+                                "displayName": null,
+                                "url": "/research/US/Job=Medical_Application_Specialist/Salary/c713cc89/Medical-Devices",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Maintenance Technician",
+                        "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                        "profileCount": 823,
+                        "range": {
+                            "10": 32722.86,
+                            "25": 39542.87,
+                            "50": 50226.54,
+                            "75": 62552.9,
+                            "90": 78752.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 658,
+                        "range": {
+                            "10": 38680.57,
+                            "25": 46113.95,
+                            "50": 56207.06,
+                            "75": 68333.31,
+                            "90": 79268.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrician",
+                        "url": "/research/US/Job=Electrician/Hourly_Rate",
+                        "profileCount": 520,
+                        "range": {
+                            "10": 38498.25,
+                            "25": 47325.41,
+                            "50": 61080.96,
+                            "75": 80232.24,
+                            "90": 100731.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 342,
+                        "range": {
+                            "10": 36800.45,
+                            "25": 43395.42,
+                            "50": 51902.29,
+                            "75": 62802.64,
+                            "90": 74710.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automotive Service Technician / Mechanic",
+                        "url": "/research/US/Job=Automotive_Service_Technician_%2F_Mechanic/Hourly_Rate",
+                        "profileCount": 334,
+                        "range": {
+                            "10": 33317.08,
+                            "25": 41798.62,
+                            "50": 54021.26,
+                            "75": 72085.01,
+                            "90": 90120.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 320,
+                        "range": {
+                            "10": 35639.65,
+                            "25": 42010.1,
+                            "50": 49944.66,
+                            "75": 56979.52,
+                            "90": 63437.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Specialist",
+                        "url": "/research/US/Job=Technical_Support_Specialist/Salary",
+                        "profileCount": 302,
+                        "range": {
+                            "10": 39435.78,
+                            "25": 45701.33,
+                            "50": 54828.92,
+                            "75": 67676.99,
+                            "90": 82110.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 298,
+                        "range": {
+                            "10": 50764.49,
+                            "25": 60178.87,
+                            "50": 71828.45,
+                            "75": 84972.29,
+                            "90": 98360.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 273,
+                        "range": {
+                            "10": 45852.56,
+                            "25": 53504.47,
+                            "50": 62407.13,
+                            "75": 73803.71,
+                            "90": 88170.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Engineering Technician",
+                        "url": "/research/US/Job=Engineering_Technician/Hourly_Rate",
+                        "profileCount": 260,
+                        "range": {
+                            "10": 42477.36,
+                            "25": 50432.85,
+                            "50": 61397.94,
+                            "75": 74906.22,
+                            "90": 86834.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Technician",
+                        "url": "/research/US/Job=HVAC_Technician/Hourly_Rate",
+                        "profileCount": 258,
+                        "range": {
+                            "10": 34717.36,
+                            "25": 42956.23,
+                            "50": 53679.3,
+                            "75": 68437.5,
+                            "90": 83320.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Supervisor",
+                        "url": "/research/US/Job=Maintenance_Supervisor/Hourly_Rate",
+                        "profileCount": 243,
+                        "range": {
+                            "10": 44633.72,
+                            "25": 54005.97,
+                            "50": 67049.02,
+                            "75": 80446.9,
+                            "90": 93931.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 240,
+                        "range": {
+                            "10": 39060.55,
+                            "25": 44899.08,
+                            "50": 53792.16,
+                            "75": 64368.53,
+                            "90": 77930.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 238,
+                        "range": {
+                            "10": 37779.33,
+                            "25": 44304.33,
+                            "50": 53040.36,
+                            "75": 62806.77,
+                            "90": 73433.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automotive Technician",
+                        "url": "/research/US/Job=Automotive_Technician/Hourly_Rate",
+                        "profileCount": 232,
+                        "range": {
+                            "10": 34124.28,
+                            "25": 44718.32,
+                            "50": 56012.83,
+                            "75": 74367.7,
+                            "90": 94533.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrician Journeyman",
+                        "url": "/research/US/Job=Electrician_Journeyman/Hourly_Rate",
+                        "profileCount": 229,
+                        "range": {
+                            "10": 35601.2,
+                            "25": 49660.31,
+                            "50": 63729.79,
+                            "75": 78024.82,
+                            "90": 95153.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Diesel Mechanic",
+                        "url": "/research/US/Job=Diesel_Mechanic/Hourly_Rate",
+                        "profileCount": 229,
+                        "range": {
+                            "10": 31564.53,
+                            "25": 43197.81,
+                            "50": 54217.56,
+                            "75": 66704.8,
+                            "90": 83156.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 226,
+                        "range": {
+                            "10": 44871.56,
+                            "25": 51040.27,
+                            "50": 58701.44,
+                            "75": 67147.75,
+                            "90": 75814.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Service Technician",
+                        "url": "/research/US/Job=HVAC_Service_Technician/Hourly_Rate",
+                        "profileCount": 222,
+                        "range": {
+                            "10": 34645.14,
+                            "25": 44881.87,
+                            "50": 56721.3,
+                            "75": 71695.21,
+                            "90": 88506.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Mechanic",
+                        "url": "/research/US/Job=Maintenance_Mechanic/Hourly_Rate",
+                        "profileCount": 221,
+                        "range": {
+                            "10": 33008.56,
+                            "25": 41286.29,
+                            "50": 52374.6,
+                            "75": 64998.87,
+                            "90": 78197.85
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Medical_Application_Specialist/Salary",
+                    "occupationalCategory": "15-2040.00 - Statisticians",
+                    "skills": "Training, Troubleshooting, Product Support, Medical Devices",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-05-24T13:03:41.49764Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "38012.78",
+                            "percentile25": "45450.55",
+                            "median": "57204.9",
+                            "percentile75": "84952.94",
+                            "percentile90": "128222.35",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "36442.38",
+                            "percentile25": "47000",
+                            "median": "65000",
+                            "percentile75": "92000",
+                            "percentile90": "133954.6",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "1220.84",
+                            "median": "3750",
+                            "percentile75": "9826.35",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 24,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Medical Application Specialist",
+                    "url": "/research/US/Job=Medical_Application_Specialist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,632 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Search Marketing Analyst",
+                    "url": "/research/US/Job=Search_Marketing_Analyst/Salary",
+                    "compensation": 53495.32710280374,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Search Marketing Analyst",
+                            "url": "/research/US/Job=Senior_Search_Marketing_Analyst/Salary",
+                            "percent": 1,
+                            "compensation": 66783.31498602075,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 0
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Search Marketing Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Search_Marketing_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Search_Marketing_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2021-07-19T01:17:32.06896Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Search Marketing Analyst is $58,400 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 700,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "25": 52079.66,
+                        "50": 58400,
+                        "75": 70118.54,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 52079.66,
+                        "50": 58900,
+                        "75": 70334.01,
+                        "profileCount": 6
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2021-07-19T01:17:32.06896Z",
+                        "profileCount": 6,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 52079.66,
+                                    "50": 58900,
+                                    "75": 70334.01
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2021-07-19T01:17:32.06896Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 52079.66,
+                                    "50": 58400,
+                                    "75": 70118.54
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2021-07-19T01:17:32.06896Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2021-07-19T01:17:32.06896Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/215ea98e/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 54000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/9b71fc6a/New-York-NY",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 52000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/4f98c9ad/Data-Analysis",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 48979.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Search Engine Optimization (SEO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/517abb5d/Search-Engine-Optimization-SEO",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 46451.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Google Ad Words",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/5896a24c/Google-Ad-Words",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 61800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/d801e508/Microsoft-Excel",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 61800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Google Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/f5708eb7/Google-Analytics",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 52500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/d7bbb0ed/Web-Analytics",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 46000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Search Engine Marketing (SEM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Marketing_Analyst/Salary/28b1647b/Search-Engine-Marketing-SEM",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2193,
+                        "range": {
+                            "10": 44143.42,
+                            "25": 51558.54,
+                            "50": 61710.35,
+                            "75": 73589.87,
+                            "90": 86497.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1807,
+                        "range": {
+                            "10": 48033.42,
+                            "25": 54096.3,
+                            "50": 61988.26,
+                            "75": 71526.36,
+                            "90": 82529.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1625,
+                        "range": {
+                            "10": 29214.02,
+                            "25": 33982.03,
+                            "50": 40153.77,
+                            "75": 48467.47,
+                            "90": 57061.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1119,
+                        "range": {
+                            "10": 40530.45,
+                            "25": 45978.57,
+                            "50": 51778.26,
+                            "75": 58445.16,
+                            "90": 64850.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 984,
+                        "range": {
+                            "10": 64612.22,
+                            "25": 72750.1,
+                            "50": 82037.49,
+                            "75": 91961.49,
+                            "90": 103024.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 953,
+                        "range": {
+                            "10": 40540.1,
+                            "25": 46492.2,
+                            "50": 51926.61,
+                            "75": 61084.04,
+                            "90": 71345.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 918,
+                        "range": {
+                            "10": 49490.52,
+                            "25": 60286.19,
+                            "50": 75061.61,
+                            "75": 92814.2,
+                            "90": 113558.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 833,
+                        "range": {
+                            "10": 55364.98,
+                            "25": 62902.37,
+                            "50": 72010.35,
+                            "75": 84003.13,
+                            "90": 99860.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 680,
+                        "range": {
+                            "10": 46207.38,
+                            "25": 52748.75,
+                            "50": 61836.13,
+                            "75": 71793.18,
+                            "90": 82519.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 675,
+                        "range": {
+                            "10": 34393.53,
+                            "25": 40576.78,
+                            "50": 49265.65,
+                            "75": 59226.39,
+                            "90": 70125.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 659,
+                        "range": {
+                            "10": 63949.56,
+                            "25": 73767.23,
+                            "50": 86054.91,
+                            "75": 99624.09,
+                            "90": 116069.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Manager",
+                        "url": "/research/US/Job=Digital_Marketing_Manager/Salary",
+                        "profileCount": 628,
+                        "range": {
+                            "10": 45760.26,
+                            "25": 55270.2,
+                            "50": 68036.49,
+                            "75": 82999.48,
+                            "90": 99455.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 608,
+                        "range": {
+                            "10": 53503.75,
+                            "25": 60957.77,
+                            "50": 70002.88,
+                            "75": 82266.59,
+                            "90": 98580.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 571,
+                        "range": {
+                            "10": 53843.67,
+                            "25": 60780.35,
+                            "50": 69232.91,
+                            "75": 78214.9,
+                            "90": 87015.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 530,
+                        "range": {
+                            "10": 50736.72,
+                            "25": 59359.32,
+                            "50": 69784.06,
+                            "75": 82535.75,
+                            "90": 98368.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 506,
+                        "range": {
+                            "10": 61831.76,
+                            "25": 71075.16,
+                            "50": 82594.88,
+                            "75": 96131.57,
+                            "90": 111282.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 500,
+                        "range": {
+                            "10": 42359.04,
+                            "25": 49440.23,
+                            "50": 58071.27,
+                            "75": 67568.57,
+                            "90": 79098.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 479,
+                        "range": {
+                            "10": 52712.44,
+                            "25": 59402.96,
+                            "50": 67727.75,
+                            "75": 81283.93,
+                            "90": 99578.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 447,
+                        "range": {
+                            "10": 57986.38,
+                            "25": 65295.48,
+                            "50": 74407.84,
+                            "75": 87163.88,
+                            "90": 103181.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Specialist",
+                        "url": "/research/US/Job=Digital_Marketing_Specialist/Salary",
+                        "profileCount": 446,
+                        "range": {
+                            "10": 37348.98,
+                            "25": 43090.49,
+                            "50": 50413.66,
+                            "75": 59546.51,
+                            "90": 69013.15
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Search_Marketing_Analyst/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Data Analysis, Search Engine Optimization (SEO), Google Ad Words, Microsoft Excel, Google Analytics, Web Analytics, Search Engine Marketing (SEM)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2021-07-19T01:17:32.06896Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "52079.66",
+                            "median": "58900",
+                            "percentile75": "70334.01",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "52079.66",
+                            "median": "58400",
+                            "percentile75": "70118.54",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "700",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Search Marketing Analyst",
+                    "url": "/research/US/Job=Search_Marketing_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

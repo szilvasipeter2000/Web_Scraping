@@ -1,0 +1,579 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Nursing Informatics Director"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Nursing_Informatics_Director/Salary",
+                    "defaultUrl": "/research/US/Job=Nursing_Informatics_Director/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-07-11T16:01:04.00211Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Nursing Informatics Director is $96,500 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "50": 96500,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "25": 75986.84,
+                        "50": 98550.4,
+                        "75": 124481.93,
+                        "profileCount": 5
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-07-11T16:01:04.00211Z",
+                        "profileCount": 5,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 75986.84,
+                                    "50": 98550.4,
+                                    "75": 124481.93
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-07-11T16:01:04.00211Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 96500
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-07-11T16:01:04.00211Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-07-11T16:01:04.00211Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Director/Salary/5948243d/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 108418.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Director/Salary/49027c6d/Experienced",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 116458.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Director/Salary/53979ac1/Late-Career",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 85963.85
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Electronic Medical Records (EMR)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Director/Salary/cc57fa1d/Electronic-Medical-Records-EMR",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 117249.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Director/Salary/a44463da/Project-Management",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 116873.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Electronic Health Records (EHR)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Director/Salary/6f6ebee9/Electronic-Health-Records-EHR",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 96500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nursing Informatics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Director/Salary/6a23c75e/Nursing-Informatics",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 116873.42
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3159,
+                        "range": {
+                            "10": 52330.4,
+                            "25": 63644.05,
+                            "50": 78562.7,
+                            "75": 97325.37,
+                            "90": 118632.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 2252,
+                        "range": {
+                            "10": 27735.03,
+                            "25": 32535.45,
+                            "50": 38887.53,
+                            "75": 45816,
+                            "90": 54266.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1385,
+                        "range": {
+                            "10": 56512.21,
+                            "25": 64177.21,
+                            "50": 73367.83,
+                            "75": 86057.13,
+                            "90": 102295.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1074,
+                        "range": {
+                            "10": 59544.94,
+                            "25": 67244.89,
+                            "50": 76827.22,
+                            "75": 89644.94,
+                            "90": 106236.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1015,
+                        "range": {
+                            "10": 46748.85,
+                            "25": 56830.13,
+                            "50": 70886.58,
+                            "75": 88784.27,
+                            "90": 110832.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 828,
+                        "range": {
+                            "10": 59873.43,
+                            "25": 73514,
+                            "50": 91445.22,
+                            "75": 112106.7,
+                            "90": 132963.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant (Certified)",
+                        "url": "/research/US/Job=Medical_Assistant_(Certified)/Hourly_Rate",
+                        "profileCount": 797,
+                        "range": {
+                            "10": 29272.74,
+                            "25": 33546.23,
+                            "50": 38376.91,
+                            "75": 45158.26,
+                            "90": 53871.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 678,
+                        "range": {
+                            "10": 51651.87,
+                            "25": 62874.47,
+                            "50": 79247.76,
+                            "75": 98915.33,
+                            "90": 123130.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 643,
+                        "range": {
+                            "10": 58177.95,
+                            "25": 71959.17,
+                            "50": 91098.63,
+                            "75": 114682.54,
+                            "90": 136772.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 529,
+                        "range": {
+                            "10": 56919.18,
+                            "25": 63429.96,
+                            "50": 72402.08,
+                            "75": 86810.4,
+                            "90": 105134.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 510,
+                        "range": {
+                            "10": 63415.82,
+                            "25": 71761.55,
+                            "50": 81970.33,
+                            "75": 97610.34,
+                            "90": 120551.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 492,
+                        "range": {
+                            "10": 69348.14,
+                            "25": 82438.61,
+                            "50": 99803.02,
+                            "75": 120761.49,
+                            "90": 142214.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 464,
+                        "range": {
+                            "10": 88197.65,
+                            "25": 102263.16,
+                            "50": 119244.91,
+                            "75": 136632.79,
+                            "90": 154317.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Medical Assistant (CMA)",
+                        "url": "/research/US/Job=Certified_Medical_Assistant_(CMA)/Hourly_Rate",
+                        "profileCount": 463,
+                        "range": {
+                            "10": 28198.02,
+                            "25": 32847.59,
+                            "50": 37770.2,
+                            "75": 44968.1,
+                            "90": 52541.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Construction Project Manager",
+                        "url": "/research/US/Job=Construction_Project_Manager/Salary",
+                        "profileCount": 427,
+                        "range": {
+                            "10": 56536.97,
+                            "25": 68414.43,
+                            "50": 83785.18,
+                            "75": 102225.05,
+                            "90": 123298.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 414,
+                        "range": {
+                            "10": 56859.6,
+                            "25": 74120.3,
+                            "50": 98576.65,
+                            "75": 130377.94,
+                            "90": 159293.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 397,
+                        "range": {
+                            "10": 47639.27,
+                            "25": 57642.92,
+                            "50": 71058.49,
+                            "75": 87207.72,
+                            "90": 105763.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Project Manager, Construction",
+                        "url": "/research/US/Job=Assistant_Project_Manager%2C_Construction/Salary",
+                        "profileCount": 371,
+                        "range": {
+                            "10": 47835.04,
+                            "25": 55627.11,
+                            "50": 66095.12,
+                            "75": 77424.8,
+                            "90": 88733.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 366,
+                        "range": {
+                            "10": 40056.79,
+                            "25": 45880.71,
+                            "50": 53984.38,
+                            "75": 63506.55,
+                            "90": 74011
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Registered Medical Assistant (RMA)",
+                        "url": "/research/US/Job=Registered_Medical_Assistant_(RMA)/Hourly_Rate",
+                        "profileCount": 363,
+                        "range": {
+                            "10": 26347.95,
+                            "25": 31095.21,
+                            "50": 37555.54,
+                            "75": 44544.03,
+                            "90": 49228.49
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Nursing_Informatics_Director/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Electronic Medical Records (EMR), Project Management, Electronic Health Records (EHR), Nursing Informatics",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-07-11T16:01:04.00211Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "75986.84",
+                            "median": "98550.4",
+                            "percentile75": "124481.93",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "96500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Nursing Informatics Director",
+                    "url": "/research/US/Job=Nursing_Informatics_Director/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

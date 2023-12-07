@@ -1,0 +1,841 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "WebSphere Administrator",
+                    "url": "/research/US/Job=WebSphere_Administrator/Salary",
+                    "compensation": 98858.95838379738,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Development Operations (DevOps) Engineer",
+                            "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 94627.18934399256,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Development Operations (DevOps) Engineer",
+                                    "url": "/research/US/Job=Senior_Development_Operations_(DevOps)_Engineer/Salary",
+                                    "percent": 0.26,
+                                    "compensation": 117417.46507382889,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Site Reliability Engineer (SRE)",
+                                    "url": "/research/US/Job=Site_Reliability_Engineer_(SRE)/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 117294.61449104133,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Software Engineer",
+                                    "url": "/research/US/Job=Software_Engineer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 85679.1994543505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "WebSphere Administrator"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=WebSphere_Administrator/Salary",
+                    "defaultUrl": "/research/US/Job=WebSphere_Administrator/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-07-02T03:34:57.70746Z",
+                "narratives": {
+                    "description": "WebSphere administrators are employees in the information technology (IT) field who specialize in IBM's WebSphere technology, which is typically used for business websites. WebSphere is a suite of Java-based tools that include an application server, Java programs, and servlets, among others. \r\nTo become a WebSphere administrator, an individual must have experience and/or familiarity with these tools, typically in a junior capacity for a minimum of five years. Because companies use different system setups, specific knowledge and qualifications for these positions may vary widely. However, most administrator positions require extensive knowledge of Windows Server Technologies, Linux, and VMware, as well as an understanding of server hardware, networking, and network storage. Some companies prefer WebSphere administrators to be well versed in Microsoft SQL Server, IBM D2 database, and Apache Web Server, as well as have Cisco certification.\r\nWebSphere administrators may have a college degree, but prior experience and demonstrable skills are often employers' chief required qualifications. Administrators need to have strong troubleshooting skills to fix issues quickly and effectively, as well as good organizational skills to track problems and their resolution. \r\nWebSphere administrators most often work in an office setting during normal business hours, although some remote work may be possible. Depending on the size of the business, administrators may need to be on call to solve problems outside of business hours.",
+                    "summaryHourly": "The average pay for a Websphere Administrator is $50.00 per hour.",
+                    "summarySalary": "The average pay for a Websphere Administrator is $103,461 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 4913.18,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "50": 50,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 68658.09,
+                        "25": 91411.47,
+                        "50": 103461.08,
+                        "75": 119937.21,
+                        "90": 123956.96,
+                        "profileCount": 16
+                    },
+                    "total": {
+                        "10": 70469.48,
+                        "25": 91915.03,
+                        "50": 105387.21,
+                        "75": 120015.28,
+                        "90": 124404.27,
+                        "profileCount": 20
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-07-02T03:34:57.70746Z",
+                        "profileCount": 20,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 70469.48,
+                                    "25": 91915.03,
+                                    "50": 105387.21,
+                                    "75": 120015.28,
+                                    "90": 124404.27
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-07-02T03:34:57.70746Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 50
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-07-02T03:34:57.70746Z",
+                        "profileCount": 16,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 68658.09,
+                                    "25": 91411.47,
+                                    "50": 103461.08,
+                                    "75": 119937.21,
+                                    "90": 123956.96
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-07-02T03:34:57.70746Z",
+                        "profileCount": 12,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-07-02T03:34:57.70746Z",
+                        "profileCount": 17,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Cognizant Technology Solutions Corp",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/ff6fa753/Cognizant-Technology-Solutions-Corp",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 67020.65
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/1f213616/Early-Career",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 74218
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/e065ab65/Mid-Career",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 100491.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/ae752320/Experienced",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 102059.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/941e1ac8/Late-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/ca82d985/New-York-NY",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/0ff49243/Charlotte-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 111839.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/62e7f057/Chicago-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sacramento, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/d7722401/Sacramento-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 67500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/25fc9468/Minneapolis-MN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 82722.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jacksonville, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/044870ed/Jacksonville-FL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 104076.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/7d6138bb/Columbus-OH",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Hourly_Rate/318be583/Dallas-TX",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 83000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/b8d9e727/Atlanta-GA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/c3c0af1d/Boston-MA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 93730
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "IBM WebSphere",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/3d2ec5a4/IBM-WebSphere",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 93426.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache HTTP Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/b2db7fe7/Apache-HTTP-Server",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 107441.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "UNIX",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/976c0335/UNIX",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/fefd12a4/Linux",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 88437.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IBM AIX",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/47da90a2/IBM-AIX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78834
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IBM MQ Series",
+                                "displayName": null,
+                                "url": "/research/US/Job=WebSphere_Administrator/Salary/2803b57b/IBM-MQ-Series",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 3.75
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 861,
+                        "range": {
+                            "10": 64439.95,
+                            "25": 74664.34,
+                            "50": 88903.77,
+                            "75": 109867.2,
+                            "90": 130377.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 424,
+                        "range": {
+                            "10": 89865.16,
+                            "25": 102929.68,
+                            "50": 121571.69,
+                            "75": 141601.92,
+                            "90": 161292.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 268,
+                        "range": {
+                            "10": 52142.95,
+                            "25": 61855.37,
+                            "50": 74000.78,
+                            "75": 89461.82,
+                            "90": 108013.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 218,
+                        "range": {
+                            "10": 79821.95,
+                            "25": 93235.93,
+                            "50": 110168.66,
+                            "75": 128606.19,
+                            "90": 147839.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 215,
+                        "range": {
+                            "10": 46271,
+                            "25": 53998.62,
+                            "50": 63908.17,
+                            "75": 76094.78,
+                            "90": 89281.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 169,
+                        "range": {
+                            "10": 81527.68,
+                            "25": 94267.05,
+                            "50": 110036.44,
+                            "75": 129475.07,
+                            "90": 150421.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 149,
+                        "range": {
+                            "10": 66636.99,
+                            "25": 80378.37,
+                            "50": 98998.87,
+                            "75": 121948.87,
+                            "90": 142720.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer, IT",
+                        "url": "/research/US/Job=Systems_Engineer%2C_IT/Salary",
+                        "profileCount": 147,
+                        "range": {
+                            "10": 53420.1,
+                            "25": 63955.08,
+                            "50": 76973.24,
+                            "75": 92247.46,
+                            "90": 109478.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 137,
+                        "range": {
+                            "10": 51685.9,
+                            "25": 62616.22,
+                            "50": 75502.53,
+                            "75": 90099.66,
+                            "90": 106759.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Linux System Administrator",
+                        "url": "/research/US/Job=Linux_System_Administrator/Salary",
+                        "profileCount": 132,
+                        "range": {
+                            "10": 51145.4,
+                            "25": 62310.63,
+                            "50": 78161.99,
+                            "75": 94434.25,
+                            "90": 110114.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 121,
+                        "range": {
+                            "10": 109997.21,
+                            "25": 124779.77,
+                            "50": 142878.16,
+                            "75": 162680.67,
+                            "90": 182794.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 112,
+                        "range": {
+                            "10": 56294.72,
+                            "25": 70156.11,
+                            "50": 89372.94,
+                            "75": 112851.14,
+                            "90": 134347.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 86,
+                        "range": {
+                            "10": 56751.38,
+                            "25": 67289.22,
+                            "50": 80722.14,
+                            "75": 99518.07,
+                            "90": 120084.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Site Reliability Engineer (SRE)",
+                        "url": "/research/US/Job=Site_Reliability_Engineer_(SRE)/Salary",
+                        "profileCount": 78,
+                        "range": {
+                            "10": 76511.44,
+                            "25": 95388.06,
+                            "50": 117936.65,
+                            "75": 139610.21,
+                            "90": 157688.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Administrator",
+                        "url": "/research/US/Job=Senior_Systems_Administrator/Salary",
+                        "profileCount": 77,
+                        "range": {
+                            "10": 63804.49,
+                            "25": 74549.1,
+                            "50": 87058.61,
+                            "75": 101486.58,
+                            "90": 118387.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Senior_Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 65,
+                        "range": {
+                            "10": 70780.6,
+                            "25": 85998.2,
+                            "50": 102412.01,
+                            "75": 123463.66,
+                            "90": 143300.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 65,
+                        "range": {
+                            "10": 60694.45,
+                            "25": 68892.34,
+                            "50": 78614.35,
+                            "75": 93796.6,
+                            "90": 116933.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 64,
+                        "range": {
+                            "10": 52076.49,
+                            "25": 63308.94,
+                            "50": 76725.97,
+                            "75": 91867.29,
+                            "90": 109918.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Embedded Software Engineer",
+                        "url": "/research/US/Job=Embedded_Software_Engineer/Salary",
+                        "profileCount": 64,
+                        "range": {
+                            "10": 64488.88,
+                            "25": 73413.37,
+                            "50": 83548.15,
+                            "75": 98653.56,
+                            "90": 118231.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Engineer",
+                        "url": "/research/US/Job=Technical_Support_Engineer/Salary",
+                        "profileCount": 57,
+                        "range": {
+                            "10": 46302.24,
+                            "25": 55130.72,
+                            "50": 67310.17,
+                            "75": 81128.93,
+                            "90": 97627.42
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=WebSphere_Administrator/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "IBM WebSphere, Apache HTTP Server, UNIX, Linux, IBM AIX, IBM MQ Series",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-07-02T03:34:57.70746Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "70469.48",
+                            "percentile25": "91915.03",
+                            "median": "105387.21",
+                            "percentile75": "120015.28",
+                            "percentile90": "124404.27",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "68658.09",
+                            "percentile25": "91411.47",
+                            "median": "103461.08",
+                            "percentile75": "119937.21",
+                            "percentile90": "123956.96",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "4913.18",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 27,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "WebSphere administrators are employees in the information technology (IT) field who specialize in IBM's WebSphere technology, which is typically used for business websites. WebSphere is a suite of Java-based tools that include an application server, Java programs, and servlets, among others. \r\nTo become a WebSphere administrator, an individual must have experience and/or familiarity with these tools, typically in a junior capacity for a minimum of five years. Because companies use different system setups, specific knowledge and qualifications for these positions may vary widely. However, most administrator positions require extensive knowledge of Windows Server Technologies, Linux, and VMware, as well as an understanding of server hardware, networking, and network storage. Some companies prefer WebSphere administrators to be well versed in Microsoft SQL Server, IBM D2 database, and Apache Web Server, as well as have Cisco certification.\r\nWebSphere administrators may have a college degree, but prior experience and demonstrable skills are often employers' chief required qualifications. Administrators need to have strong troubleshooting skills to fix issues quickly and effectively, as well as good organizational skills to track problems and their resolution. \r\nWebSphere administrators most often work in an office setting during normal business hours, although some remote work may be possible. Depending on the size of the business, administrators may need to be on call to solve problems outside of business hours.",
+                    "name": "WebSphere Administrator",
+                    "url": "/research/US/Job=WebSphere_Administrator/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

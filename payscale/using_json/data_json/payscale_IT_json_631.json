@@ -1,0 +1,723 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Vice President (VP), Information Systems (IS)"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary",
+                    "defaultUrl": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-14T04:34:44.56459Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Vice President (VP), Information Systems (IS) is $55.66 per hour.",
+                    "summarySalary": "The average pay for a Vice President (VP), Information Systems (IS) is $110,867 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 3930.54,
+                        "50": 10994.9,
+                        "75": 15179,
+                        "profileCount": 6
+                    },
+                    "hourlyRate": {
+                        "50": 55.66,
+                        "profileCount": 2
+                    },
+                    "profitSharing": {
+                        "25": 10148.14,
+                        "50": 17590.77,
+                        "75": 43438.34,
+                        "profileCount": 8
+                    },
+                    "salary": {
+                        "10": 95410.87,
+                        "25": 98607.12,
+                        "50": 110867.13,
+                        "75": 153091.82,
+                        "90": 209839.4,
+                        "profileCount": 18
+                    },
+                    "total": {
+                        "10": 104239.11,
+                        "25": 110218.34,
+                        "50": 120190.83,
+                        "75": 150043.41,
+                        "90": 252053.14,
+                        "profileCount": 20
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-14T04:34:44.56459Z",
+                        "profileCount": 20,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 104239.11,
+                                    "25": 110218.34,
+                                    "50": 120190.83,
+                                    "75": 150043.41,
+                                    "90": 252053.14
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-08-14T04:34:44.56459Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 55.66
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-14T04:34:44.56459Z",
+                        "profileCount": 18,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": {
+                                    "10": 95410.87,
+                                    "25": 98607.12,
+                                    "50": 110867.13,
+                                    "75": 153091.82,
+                                    "90": 209839.4
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-14T04:34:44.56459Z",
+                        "profileCount": 10,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-14T04:34:44.56459Z",
+                        "profileCount": 12,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/a0b6e45f/Mid-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 100368.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/d4dc05e7/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/edeb8aad/Late-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 158500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/6f7e1bef/Los-Angeles-CA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 166742.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tyler, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/ab786529/Tyler-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 96500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/31090f7f/Chicago-IL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 150000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/c55440b2/Leadership",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 106058.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/b535b6e5/Project-Management",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 102415.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Planning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/818bb394/Strategic-Planning",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 101015.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/6a6b8ec4/IT-Security-%26-Infrastructure",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 122000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/58d199f5/IT-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 141250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Development Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/37070cec/Software-Development-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 161975.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary/b8fe50c1/Network-Management-Administration",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3201,
+                        "range": {
+                            "10": 52484.26,
+                            "25": 63826.76,
+                            "50": 78748.38,
+                            "75": 97469.01,
+                            "90": 118819.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 2867,
+                        "range": {
+                            "10": 46907.66,
+                            "25": 57091.4,
+                            "50": 71160.89,
+                            "75": 89241.6,
+                            "90": 111432.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 2153,
+                        "range": {
+                            "10": 58345.92,
+                            "25": 72201.7,
+                            "50": 91280.1,
+                            "75": 114966.03,
+                            "90": 137085.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 1981,
+                        "range": {
+                            "10": 48443.8,
+                            "25": 62456.26,
+                            "50": 85115.52,
+                            "75": 124622.63,
+                            "90": 181025.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 1855,
+                        "range": {
+                            "10": 74041.18,
+                            "25": 95795.34,
+                            "50": 124712.68,
+                            "75": 154187.29,
+                            "90": 178926.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1401,
+                        "range": {
+                            "10": 56630.3,
+                            "25": 64357.32,
+                            "50": 73628.39,
+                            "75": 86448.52,
+                            "90": 102787.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1300,
+                        "range": {
+                            "10": 57023.68,
+                            "25": 74292.78,
+                            "50": 98853.64,
+                            "75": 130781.73,
+                            "90": 159923.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 1181,
+                        "range": {
+                            "10": 59465.08,
+                            "25": 74635.8,
+                            "50": 93481.82,
+                            "75": 119787.04,
+                            "90": 144318.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1088,
+                        "range": {
+                            "10": 59673.48,
+                            "25": 67451.85,
+                            "50": 77099.73,
+                            "75": 90059.46,
+                            "90": 106913.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1070,
+                        "range": {
+                            "10": 37255.77,
+                            "25": 43906.41,
+                            "50": 52485.52,
+                            "75": 63420.22,
+                            "90": 75352.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 990,
+                        "range": {
+                            "10": 77030.75,
+                            "25": 109481.19,
+                            "50": 162549.32,
+                            "75": 240563.76,
+                            "90": 318731.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 958,
+                        "range": {
+                            "10": 88294.87,
+                            "25": 102479.96,
+                            "50": 119443.49,
+                            "75": 136783.61,
+                            "90": 154677.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Officer (CIO)",
+                        "url": "/research/US/Job=Chief_Information_Officer_(CIO)/Salary",
+                        "profileCount": 923,
+                        "range": {
+                            "10": 102036.66,
+                            "25": 132347.68,
+                            "50": 173707.18,
+                            "75": 218985.61,
+                            "90": 261255.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 909,
+                        "range": {
+                            "10": 59826,
+                            "25": 73694.44,
+                            "50": 91804.58,
+                            "75": 112637.73,
+                            "90": 133826.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 816,
+                        "range": {
+                            "10": 81530,
+                            "25": 103990.06,
+                            "50": 137608.06,
+                            "75": 174717.64,
+                            "90": 207568.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 795,
+                        "range": {
+                            "10": 48787.4,
+                            "25": 55886.88,
+                            "50": 64864.44,
+                            "75": 73960.26,
+                            "90": 82973.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 693,
+                        "range": {
+                            "10": 52075.17,
+                            "25": 63509.32,
+                            "50": 80006.32,
+                            "75": 99792.4,
+                            "90": 124112.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "President",
+                        "url": "/research/US/Job=President/Salary",
+                        "profileCount": 690,
+                        "range": {
+                            "10": 78630.08,
+                            "25": 112587.92,
+                            "50": 155934.06,
+                            "75": 210263.56,
+                            "90": 266418.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 666,
+                        "range": {
+                            "10": 77337.78,
+                            "25": 102853.14,
+                            "50": 147148.25,
+                            "75": 197349.13,
+                            "90": 249329.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Program Manager, Non-Profit Organization",
+                        "url": "/research/US/Job=Program_Manager%2C_Non-Profit_Organization/Salary",
+                        "profileCount": 598,
+                        "range": {
+                            "10": 41543.89,
+                            "25": 48750.25,
+                            "50": 58150.62,
+                            "75": 69670.29,
+                            "90": 83294.56
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Leadership, Project Management, Strategic Planning, IT Security & Infrastructure, IT Management, Software Development Management, Network Management / Administration",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-14T04:34:44.56459Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "104239.11",
+                            "percentile25": "110218.34",
+                            "median": "120190.83",
+                            "percentile75": "150043.41",
+                            "percentile90": "252053.14",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "95410.87",
+                            "percentile25": "98607.12",
+                            "median": "110867.13",
+                            "percentile75": "153091.82",
+                            "percentile90": "209839.4",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "3930.54",
+                            "median": "10994.9",
+                            "percentile75": "15179",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "10148.14",
+                            "median": "17590.77",
+                            "percentile75": "43438.34",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 26,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Vice President (VP), Information Systems (IS)",
+                    "url": "/research/US/Job=Vice_President_(VP)%2C_Information_Systems_(IS)/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

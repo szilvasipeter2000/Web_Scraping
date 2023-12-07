@@ -1,0 +1,883 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 4,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Java Programmer",
+                    "url": "/research/US/Job=Java_Programmer/Salary",
+                    "compensation": 64043.84384092939,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 3,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Java Developer",
+                            "url": "/research/US/Job=Senior_Java_Developer/Salary",
+                            "percent": 0.43,
+                            "compensation": 101876.59631414841,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Software Engineer",
+                                    "url": "/research/US/Job=Software_Engineer/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 85679.1994543505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Sr. Software Engineer / Developer / Programmer",
+                                    "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 104281.41056938967,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Senior Data Engineer",
+                            "url": "/research/US/Job=Senior_Data_Engineer/Salary",
+                            "percent": 0.29,
+                            "compensation": 124168.8882977295,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 1,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Data Engineering Manager",
+                                    "url": "/research/US/Job=Data_Engineering_Manager/Salary",
+                                    "percent": 1,
+                                    "compensation": 131734.78120827785,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": {
+                            "jobTitle": "Java Developer",
+                            "url": "/research/US/Job=Java_Developer/Salary",
+                            "percent": 0.29,
+                            "compensation": 74300.1980806386,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Java Developer",
+                                    "url": "/research/US/Job=Senior_Java_Developer/Salary",
+                                    "percent": 0.33,
+                                    "compensation": 101876.59631414841,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Software Engineer",
+                                    "url": "/research/US/Job=Software_Engineer/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 85679.1994543505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Java Programmer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Java_Programmer/Salary",
+                    "defaultUrl": "/research/US/Job=Java_Programmer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-11-16T07:25:16.7352Z",
+                "narratives": {
+                    "description": "Java programmers perform a number of tasks in the Java language. They perform coding and design tasks, as well as testing and implementation. These programmers must have substantial knowledge of Java, including the Java threading model, developing Java multithreaded applications, and relational database modeling and/or design. They must also perform peer code reviews, as well as effectively communicate with the project lead on any developmental efforts/concerns. Other necessary skills include understanding object-oriented design concepts and application layering. In addition to correcting any errors or deficiencies in code, they must also learn and use new technologies as they are released (if they are necessary). \r\nA Java programmer should be able to learn quickly, multitask, and adapt quickly to changing circumstances in a fast-paced setting. They must also follow standard programming and company practices, as well as prioritize workload to consistently meet deadlines. A Java programmer should be able to work independently, but also collaborate with colleagues in a team environment; additionally, they must work with a project architect or technical lead to confirm technical designs. \r\nWork experience in the financial industry may be helpful, but it is not always required. A mobile technology and development background may be beneficial, as may an understanding architectural concepts such as SOA, SSO, and Enterprise Service Bus.",
+                    "summaryHourly": "The average pay for a Java Programmer is $28.07 per hour.",
+                    "summarySalary": "The average pay for a Java Programmer is $65,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 5000,
+                        "profileCount": 2
+                    },
+                    "hourlyRate": {
+                        "25": 20.28,
+                        "50": 28.07,
+                        "75": 49.13,
+                        "profileCount": 8
+                    },
+                    "salary": {
+                        "10": 45009.41,
+                        "25": 51910.43,
+                        "50": 65000,
+                        "75": 81826.9,
+                        "90": 100402.13,
+                        "profileCount": 19
+                    },
+                    "total": {
+                        "10": 42528.53,
+                        "25": 49572.06,
+                        "50": 65000,
+                        "75": 83576.1,
+                        "90": 105775.89,
+                        "profileCount": 27
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-11-16T07:25:16.7352Z",
+                        "profileCount": 27,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 27,
+                                "range": {
+                                    "10": 42528.53,
+                                    "25": 49572.06,
+                                    "50": 65000,
+                                    "75": 83576.1,
+                                    "90": 105775.89
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-11-16T07:25:16.7352Z",
+                        "profileCount": 8,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 20.28,
+                                    "50": 28.07,
+                                    "75": 49.13
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-11-16T07:25:16.7352Z",
+                        "profileCount": 19,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": {
+                                    "10": 45009.41,
+                                    "25": 51910.43,
+                                    "50": 65000,
+                                    "75": 81826.9,
+                                    "90": 100402.13
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-11-16T07:25:16.7352Z",
+                        "profileCount": 13,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-11-16T07:25:16.7352Z",
+                        "profileCount": 18,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/a607b025/Entry-Level",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 49721.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/a607b025/Early-Career",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 53242.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/17d06fdc/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 81349.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/4f1da23a/Experienced",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 89319.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/522f4d8a/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/ed1fae4b/New-York-NY",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 98263.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/db00fb07/Chicago-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 58000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/55fce69a/Los-Angeles-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/a53465e6/Washington-DC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/8b9358b4/Java",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 63871.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/8e35944d/SQL",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 55858.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Spring",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/87b64008/Spring",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 69000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C++ Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/8a5a3bef/C%2B%2B-Programming-Language",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 73363.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "JavaScript",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/57ce4251/JavaScript",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 72413.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java/J2EE",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/65088215/Java-J2EE",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C# Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/a4ddd76a/C%23-Programming-Language",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": ".NET",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/ae193171/.NET",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "VB.Net",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/ee1683e2/VB.Net",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 74232.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ASP.NET Framework",
+                                "displayName": null,
+                                "url": "/research/US/Job=Java_Programmer/Salary/c6439ed7/ASP.NET-Framework",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 57500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 2.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 8647,
+                        "range": {
+                            "10": 64682.46,
+                            "25": 74927.07,
+                            "50": 89239.8,
+                            "75": 110233.74,
+                            "90": 130814.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 5012,
+                        "range": {
+                            "10": 52550.46,
+                            "25": 62094.87,
+                            "50": 74229.1,
+                            "75": 89687.61,
+                            "90": 108444.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 4579,
+                        "range": {
+                            "10": 90424.87,
+                            "25": 103429.64,
+                            "50": 121970.85,
+                            "75": 142064.51,
+                            "90": 161663.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 2523,
+                        "range": {
+                            "10": 80671.91,
+                            "25": 94113.82,
+                            "50": 111216.13,
+                            "75": 129597.57,
+                            "90": 148811.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 1069,
+                        "range": {
+                            "10": 42151.33,
+                            "25": 50221.41,
+                            "50": 61059.3,
+                            "75": 74715.53,
+                            "90": 90055.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1033,
+                        "range": {
+                            "10": 57367.03,
+                            "25": 67617.55,
+                            "50": 81118.84,
+                            "75": 99980.9,
+                            "90": 120687.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 938,
+                        "range": {
+                            "10": 51640.27,
+                            "25": 60393.11,
+                            "50": 72462.93,
+                            "75": 86724.6,
+                            "90": 102780.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 881,
+                        "range": {
+                            "10": 49813.41,
+                            "25": 60387.89,
+                            "50": 74389.72,
+                            "75": 91554.62,
+                            "90": 108540.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 829,
+                        "range": {
+                            "10": 45809.06,
+                            "25": 53756.32,
+                            "50": 63632.49,
+                            "75": 75202.88,
+                            "90": 88039.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 777,
+                        "range": {
+                            "10": 49674.48,
+                            "25": 57056.74,
+                            "50": 67836.55,
+                            "75": 80781.94,
+                            "90": 97645.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 756,
+                        "range": {
+                            "10": 86805.93,
+                            "25": 102523.22,
+                            "50": 122632.33,
+                            "75": 142164.72,
+                            "90": 162140.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 657,
+                        "range": {
+                            "10": 57012.22,
+                            "25": 65445.4,
+                            "50": 74042.04,
+                            "75": 83599.28,
+                            "90": 101887.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 650,
+                        "range": {
+                            "10": 110068.46,
+                            "25": 125100.4,
+                            "50": 143287.27,
+                            "75": 163117.62,
+                            "90": 183368.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Java Developer",
+                        "url": "/research/US/Job=Java_Developer/Salary",
+                        "profileCount": 642,
+                        "range": {
+                            "10": 54881.69,
+                            "25": 66530.24,
+                            "50": 80743.77,
+                            "75": 97710.1,
+                            "90": 117965.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 636,
+                        "range": {
+                            "10": 46803.7,
+                            "25": 54896.82,
+                            "50": 64146.72,
+                            "75": 73550.26,
+                            "90": 82548.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Architect",
+                        "url": "/research/US/Job=Software_Architect/Salary",
+                        "profileCount": 522,
+                        "range": {
+                            "10": 91881.76,
+                            "25": 109868.39,
+                            "50": 129271.21,
+                            "75": 150242.18,
+                            "90": 173677.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Front End Developer / Engineer",
+                        "url": "/research/US/Job=Front_End_Developer_%2F_Engineer/Salary",
+                        "profileCount": 448,
+                        "range": {
+                            "10": 50722.23,
+                            "25": 62879.09,
+                            "50": 78419.96,
+                            "75": 96694.35,
+                            "90": 119040.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Java Developer",
+                        "url": "/research/US/Job=Senior_Java_Developer/Salary",
+                        "profileCount": 396,
+                        "range": {
+                            "10": 82031.82,
+                            "25": 93078.86,
+                            "50": 109648.58,
+                            "75": 125958.76,
+                            "90": 143114.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior .NET Developer / Programmer",
+                        "url": "/research/US/Job=Senior_.NET_Developer_%2F_Programmer/Salary",
+                        "profileCount": 359,
+                        "range": {
+                            "10": 77905.33,
+                            "25": 88480.7,
+                            "50": 102414.29,
+                            "75": 118364.83,
+                            "90": 131027.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Manager",
+                        "url": "/research/US/Job=Software_Development_Manager/Salary",
+                        "profileCount": 358,
+                        "range": {
+                            "10": 90340.99,
+                            "25": 108999.9,
+                            "50": 128736.34,
+                            "75": 148510.25,
+                            "90": 166513.94
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Java_Programmer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "Java, SQL, Spring, C++ Programming Language, JavaScript, Java/J2EE, C# Programming Language, .NET, VB.Net, ASP.NET Framework",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-11-16T07:25:16.7352Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "42528.53",
+                            "percentile25": "49572.06",
+                            "median": "65000",
+                            "percentile75": "83576.1",
+                            "percentile90": "105775.89",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "45009.41",
+                            "percentile25": "51910.43",
+                            "median": "65000",
+                            "percentile75": "81826.9",
+                            "percentile90": "100402.13",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 40,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Java programmers perform a number of tasks in the Java language. They perform coding and design tasks, as well as testing and implementation. These programmers must have substantial knowledge of Java, including the Java threading model, developing Java multithreaded applications, and relational database modeling and/or design. They must also perform peer code reviews, as well as effectively communicate with the project lead on any developmental efforts/concerns. Other necessary skills include understanding object-oriented design concepts and application layering. In addition to correcting any errors or deficiencies in code, they must also learn and use new technologies as they are released (if they are necessary). \r\nA Java programmer should be able to learn quickly, multitask, and adapt quickly to changing circumstances in a fast-paced setting. They must also follow standard programming and company practices, as well as prioritize workload to consistently meet deadlines. A Java programmer should be able to work independently, but also collaborate with colleagues in a team environment; additionally, they must work with a project architect or technical lead to confirm technical designs. \r\nWork experience in the financial industry may be helpful, but it is not always required. A mobile technology and development background may be beneficial, as may an understanding architectural concepts such as SOA, SSO, and Enterprise Service Bus.",
+                    "name": "Java Programmer",
+                    "url": "/research/US/Job=Java_Programmer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,789 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Information Systems (IS) Supervisor",
+                    "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary",
+                    "compensation": 71308.28844871622,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Service Delivery Manager",
+                            "url": "/research/US/Job=Service_Delivery_Manager/Salary",
+                            "percent": 0.6,
+                            "compensation": 85882.73927565597,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Director",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 119787.52007147866,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Project Manager, (Unspecified Type / General)",
+                                    "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 74208.60456383067,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Risk Manager",
+                            "url": "/research/US/Job=Risk_Manager/Salary",
+                            "percent": 0.4,
+                            "compensation": 86913.66910919959,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Risk Manager",
+                                    "url": "/research/US/Job=Senior_Risk_Manager/Salary",
+                                    "percent": 0.2,
+                                    "compensation": 119467.78318729732,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Director, Risk Management / Risk Control",
+                                    "url": "/research/US/Job=Director%2C_Risk_Management_%2F_Risk_Control/Salary",
+                                    "percent": 0.17,
+                                    "compensation": 114471.66680598109,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Risk Management Director",
+                                    "url": "/research/US/Job=Risk_Management_Director/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 119470.86892089639,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Information Systems (IS) Supervisor"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary",
+                    "defaultUrl": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-07T03:17:02.83158Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for an Information Systems (IS) Supervisor is $35.00 per hour.",
+                    "summarySalary": "The average pay for an Information Systems (IS) Supervisor is $78,421 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 4878.42,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "25": 19.13,
+                        "50": 35,
+                        "75": 50.95,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "10": 64013.88,
+                        "25": 69060.7,
+                        "50": 78421.47,
+                        "75": 100786.21,
+                        "90": 122149.34,
+                        "profileCount": 17
+                    },
+                    "total": {
+                        "10": 41077.79,
+                        "25": 68996.9,
+                        "50": 78282.62,
+                        "75": 97341.47,
+                        "90": 120394.09,
+                        "profileCount": 22
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-07T03:17:02.83158Z",
+                        "profileCount": 22,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": {
+                                    "10": 41077.79,
+                                    "25": 68996.9,
+                                    "50": 78282.62,
+                                    "75": 97341.47,
+                                    "90": 120394.09
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-08-07T03:17:02.83158Z",
+                        "profileCount": 5,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 19.13,
+                                    "50": 35,
+                                    "75": 50.95
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-07T03:17:02.83158Z",
+                        "profileCount": 17,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": {
+                                    "10": 64013.88,
+                                    "25": 69060.7,
+                                    "50": 78421.47,
+                                    "75": 100786.21,
+                                    "90": 122149.34
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-07T03:17:02.83158Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-07T03:17:02.83158Z",
+                        "profileCount": 8,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/a3382b05/Early-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 81554.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/b5902b95/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 65697.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/b545b415/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 75496.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/4782fb87/Late-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 96465.89
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "System Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/afd40b5c/System-Administration",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 63340
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/6ab6134f/Project-Management",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 78405.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Team Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/78e9e991/Team-Leadership",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 78441.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "People Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/4e28830c/People-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 78886.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/993e91d0/Microsoft-Office",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 65758.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/13176d5c/Information-Technology-IT-Support",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 68000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cisco Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary/4657e501/Cisco-Networking",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 73000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3.67
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 4012,
+                        "range": {
+                            "10": 52442.34,
+                            "25": 63803.53,
+                            "50": 78740.64,
+                            "75": 97464.19,
+                            "90": 118798.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 3914,
+                        "range": {
+                            "10": 46876.78,
+                            "25": 57060.45,
+                            "50": 71132.18,
+                            "75": 89201.54,
+                            "90": 111400.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2677,
+                        "range": {
+                            "10": 30811.05,
+                            "25": 36263.41,
+                            "50": 42950.25,
+                            "75": 51448.02,
+                            "90": 60700.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 2100,
+                        "range": {
+                            "10": 56626.17,
+                            "25": 64340.79,
+                            "50": 73610.24,
+                            "75": 86429.69,
+                            "90": 102726.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 2069,
+                        "range": {
+                            "10": 59665.76,
+                            "25": 67435.23,
+                            "50": 77082.68,
+                            "75": 90042.03,
+                            "90": 106917.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1733,
+                        "range": {
+                            "10": 58332.16,
+                            "25": 72151.91,
+                            "50": 91241.39,
+                            "75": 114959.04,
+                            "90": 137091.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1628,
+                        "range": {
+                            "10": 56993.89,
+                            "25": 74249.71,
+                            "50": 98759.14,
+                            "75": 130704.48,
+                            "90": 159840.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1624,
+                        "range": {
+                            "10": 36771.63,
+                            "25": 43464.92,
+                            "50": 52207.17,
+                            "75": 62788.11,
+                            "90": 74069.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 1486,
+                        "range": {
+                            "10": 48384.66,
+                            "25": 56236.46,
+                            "50": 66531.25,
+                            "75": 79100.74,
+                            "90": 93431.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1419,
+                        "range": {
+                            "10": 42795.08,
+                            "25": 51043.74,
+                            "50": 62130.31,
+                            "75": 74679.03,
+                            "90": 87586.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1354,
+                        "range": {
+                            "10": 37226.45,
+                            "25": 43814.51,
+                            "50": 52371.67,
+                            "75": 63279.29,
+                            "90": 75214.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 1299,
+                        "range": {
+                            "10": 46241.28,
+                            "25": 54074.16,
+                            "50": 63037.13,
+                            "75": 74384.17,
+                            "90": 88639.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 1199,
+                        "range": {
+                            "10": 48741.53,
+                            "25": 55857.44,
+                            "50": 64846.35,
+                            "75": 73931.63,
+                            "90": 82954.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1151,
+                        "range": {
+                            "10": 59802.33,
+                            "25": 73676.09,
+                            "50": 91793.87,
+                            "75": 112657.06,
+                            "90": 133862.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 1059,
+                        "range": {
+                            "10": 42830.35,
+                            "25": 54000.42,
+                            "50": 71210.24,
+                            "75": 95492.58,
+                            "90": 123607.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 1051,
+                        "range": {
+                            "10": 63604,
+                            "25": 71957.33,
+                            "50": 82202.59,
+                            "75": 97928.71,
+                            "90": 120986.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 1013,
+                        "range": {
+                            "10": 57079.85,
+                            "25": 63597.01,
+                            "50": 72668.9,
+                            "75": 87279.07,
+                            "90": 105887.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 932,
+                        "range": {
+                            "10": 52009.67,
+                            "25": 63427.06,
+                            "50": 79959.02,
+                            "75": 99736.07,
+                            "90": 124040.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 843,
+                        "range": {
+                            "10": 40744.57,
+                            "25": 49352.23,
+                            "50": 60606.99,
+                            "75": 77276.28,
+                            "90": 99470.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Supervisor",
+                        "url": "/research/US/Job=Customer_Service_Supervisor/Hourly_Rate",
+                        "profileCount": 835,
+                        "range": {
+                            "10": 40240.52,
+                            "25": 47205.99,
+                            "50": 55255.68,
+                            "75": 64039.86,
+                            "90": 73031.52
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "System Administration, Project Management, Team Leadership, People Management, Microsoft Office, Information Technology (IT) Support, Cisco Networking",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-07T03:17:02.83158Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "41077.79",
+                            "percentile25": "68996.9",
+                            "median": "78282.62",
+                            "percentile75": "97341.47",
+                            "percentile90": "120394.09",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "64013.88",
+                            "percentile25": "69060.7",
+                            "median": "78421.47",
+                            "percentile75": "100786.21",
+                            "percentile90": "122149.34",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "4878.42",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 26,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Information Systems (IS) Supervisor",
+                    "url": "/research/US/Job=Information_Systems_(IS)_Supervisor/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,666 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Integration/Test Manager, Data Processing Systems"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary",
+                    "defaultUrl": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-09-18T23:30:21.14638Z",
+                "narratives": {
+                    "description": "Positions for integration/test managers of data processing systems are available at many companies in the information technology industry. Educational requirements generally begin with a bachelor’s degree in computer science, but many openings also require master’s degrees as well. Experience in a similar role is typically required, although specific requirements depend on the company and available positions; everything from entry-level positions to senior positions requiring extensive backgrounds in the field are available. In addition to expertise in relevant computer skills, these managers must have excellent written communication skills to document testing and oral communication skills to work with colleagues.\r\nSpecific knowledge of various technologies may be required for some jobs, as the languages and software environment for each company may differ. Specialized knowledge may be required for some systems, while others are easily learned with related experience and learning skills. Some basic tasks performed by integration/test managers of data processing systems include writing and executing test plans based on established product requirements and client demands, resolving any related issues under strict deadlines, and ensuring tasks are completed with minimal errors. Excellent attention to detail and the ability to stay organized are important factors in job success.\r\nGenerally speaking, these managers work in an indoor office environment, but some positions may require travel or teleconferencing work to handle remote clients or offices. Many positions involve a certain level of independence, but reporting to clients and supervisors is common, and some positions involve a team that must be led during the testing procedures. Work hours are commonly limited to typical business operating hours, but overtime and flexibility may be required.",
+                    "summaryHourly": "The average pay for an Integration/Test Manager, Data Processing Systems is $20.00 per hour.",
+                    "summarySalary": "The average pay for an Integration/Test Manager, Data Processing Systems is $96,371 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 4000,
+                        "50": 6000,
+                        "75": 10000,
+                        "profileCount": 7
+                    },
+                    "hourlyRate": {
+                        "50": 20,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 58722.84,
+                        "25": 73128.18,
+                        "50": 96371.18,
+                        "75": 103516.64,
+                        "90": 119490.45,
+                        "profileCount": 16
+                    },
+                    "total": {
+                        "10": 41600,
+                        "25": 65000,
+                        "50": 94400,
+                        "75": 110248.35,
+                        "90": 119031.68,
+                        "profileCount": 19
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-09-18T23:30:21.14638Z",
+                        "profileCount": 19,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": {
+                                    "10": 41600,
+                                    "25": 65000,
+                                    "50": 94400,
+                                    "75": 110248.35,
+                                    "90": 119031.68
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-09-18T23:30:21.14638Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 20
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-09-18T23:30:21.14638Z",
+                        "profileCount": 16,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 58722.84,
+                                    "25": 73128.18,
+                                    "50": 96371.18,
+                                    "75": 103516.64,
+                                    "90": 119490.45
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-09-18T23:30:21.14638Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-09-18T23:30:21.14638Z",
+                        "profileCount": 13,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/b1c54276/Early-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 60678.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/caa14041/Mid-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 82608.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/8d31a4d5/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 106000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/c7219847/Late-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 101736.48
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/db5d70d9/Washington-DC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 101442.75
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "System Integration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/b7780e52/System-Integration",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 88232.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Team Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/6e7d53cb/Team-Management",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 94000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/a10c13ca/Project-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/fbf6fa1c/Data-Analysis",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 89013.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Team Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary/9fc0c3aa/Team-Leadership",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 99713.75
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3283,
+                        "range": {
+                            "10": 50563.28,
+                            "25": 61585.95,
+                            "50": 76369.75,
+                            "75": 94519.08,
+                            "90": 115838.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1678,
+                        "range": {
+                            "10": 44788.31,
+                            "25": 54474.11,
+                            "50": 68438.94,
+                            "75": 85991.76,
+                            "90": 107290.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1409,
+                        "range": {
+                            "10": 45632.94,
+                            "25": 53632.09,
+                            "50": 63442.29,
+                            "75": 75096.45,
+                            "90": 87848.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1345,
+                        "range": {
+                            "10": 54968.24,
+                            "25": 62363.16,
+                            "50": 71394.88,
+                            "75": 83494.08,
+                            "90": 99635.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1026,
+                        "range": {
+                            "10": 57462.09,
+                            "25": 64660.6,
+                            "50": 73654.54,
+                            "75": 85942.5,
+                            "90": 101511.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 873,
+                        "range": {
+                            "10": 49224.14,
+                            "25": 55501.89,
+                            "50": 63313.27,
+                            "75": 72725.98,
+                            "90": 83789.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 871,
+                        "range": {
+                            "10": 54360.03,
+                            "25": 71600.46,
+                            "50": 95551.49,
+                            "75": 125990.81,
+                            "90": 154104.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 825,
+                        "range": {
+                            "10": 58698.08,
+                            "25": 72019.33,
+                            "50": 89198.88,
+                            "75": 109814.67,
+                            "90": 129617.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 747,
+                        "range": {
+                            "10": 65286.35,
+                            "25": 74733.08,
+                            "50": 87130.61,
+                            "75": 100825.44,
+                            "90": 117662.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 656,
+                        "range": {
+                            "10": 44110.85,
+                            "25": 51599.72,
+                            "50": 60453.43,
+                            "75": 71562.47,
+                            "90": 86042.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 655,
+                        "range": {
+                            "10": 50116.97,
+                            "25": 60431.53,
+                            "50": 76313.32,
+                            "75": 94865.78,
+                            "90": 120161.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 631,
+                        "range": {
+                            "10": 56525.41,
+                            "25": 70160.07,
+                            "50": 89271.23,
+                            "75": 112805.93,
+                            "90": 134364.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 625,
+                        "range": {
+                            "10": 59358.19,
+                            "25": 66832.3,
+                            "50": 76136.97,
+                            "75": 88431.73,
+                            "90": 105076.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 608,
+                        "range": {
+                            "10": 51619.05,
+                            "25": 60550.57,
+                            "50": 71177.61,
+                            "75": 84373.99,
+                            "90": 100190.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 527,
+                        "range": {
+                            "10": 48201.01,
+                            "25": 54940.71,
+                            "50": 63947.78,
+                            "75": 73843.55,
+                            "90": 84676.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 509,
+                        "range": {
+                            "10": 39787.44,
+                            "25": 47042.93,
+                            "50": 57554.86,
+                            "75": 70683.92,
+                            "90": 85797.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 500,
+                        "range": {
+                            "10": 40866.91,
+                            "25": 51434.74,
+                            "50": 68115.67,
+                            "75": 90987.67,
+                            "90": 119779.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 499,
+                        "range": {
+                            "10": 54730.52,
+                            "25": 61025.65,
+                            "50": 69548.32,
+                            "75": 83155.73,
+                            "90": 101829.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 499,
+                        "range": {
+                            "10": 60882.44,
+                            "25": 69069.81,
+                            "50": 78737.07,
+                            "75": 93871.92,
+                            "90": 116861.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 492,
+                        "range": {
+                            "10": 53698.61,
+                            "25": 67871.18,
+                            "50": 84314.99,
+                            "75": 103226.71,
+                            "90": 123389.88
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "System Integration, Team Management, Project Management, Data Analysis, Team Leadership",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-09-18T23:30:21.14638Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "41600",
+                            "percentile25": "65000",
+                            "median": "94400",
+                            "percentile75": "110248.35",
+                            "percentile90": "119031.68",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58722.84",
+                            "percentile25": "73128.18",
+                            "median": "96371.18",
+                            "percentile75": "103516.64",
+                            "percentile90": "119490.45",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "4000",
+                            "median": "6000",
+                            "percentile75": "10000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 27,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Positions for integration/test managers of data processing systems are available at many companies in the information technology industry. Educational requirements generally begin with a bachelor’s degree in computer science, but many openings also require master’s degrees as well. Experience in a similar role is typically required, although specific requirements depend on the company and available positions; everything from entry-level positions to senior positions requiring extensive backgrounds in the field are available. In addition to expertise in relevant computer skills, these managers must have excellent written communication skills to document testing and oral communication skills to work with colleagues.\r\nSpecific knowledge of various technologies may be required for some jobs, as the languages and software environment for each company may differ. Specialized knowledge may be required for some systems, while others are easily learned with related experience and learning skills. Some basic tasks performed by integration/test managers of data processing systems include writing and executing test plans based on established product requirements and client demands, resolving any related issues under strict deadlines, and ensuring tasks are completed with minimal errors. Excellent attention to detail and the ability to stay organized are important factors in job success.\r\nGenerally speaking, these managers work in an indoor office environment, but some positions may require travel or teleconferencing work to handle remote clients or offices. Many positions involve a certain level of independence, but reporting to clients and supervisors is common, and some positions involve a team that must be led during the testing procedures. Work hours are commonly limited to typical business operating hours, but overtime and flexibility may be required.",
+                    "name": "Integration/Test Manager, Data Processing Systems",
+                    "url": "/research/US/Job=Integration%2FTest_Manager%2C_Data_Processing_Systems/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

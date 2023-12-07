@@ -1,0 +1,813 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Integrated Circuit (IC) Designer",
+                    "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary",
+                    "compensation": 100677.91114330624,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Integrated Circuits (IC) Design Engineer",
+                            "url": "/research/US/Job=Senior_Integrated_Circuits_(IC)_Design_Engineer/Salary",
+                            "percent": 0.67,
+                            "compensation": 113609.09986430331,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 2,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Design Engineer, Analog and Mixed Signal",
+                                    "url": "/research/US/Job=Design_Engineer%2C_Analog_and_Mixed_Signal/Salary",
+                                    "percent": 0.5,
+                                    "compensation": 102083.25490522433,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Physical Design Engineer",
+                                    "url": "/research/US/Job=Physical_Design_Engineer/Salary",
+                                    "percent": 0.5,
+                                    "compensation": 107773.54426627053,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Senior IC Layout Engineer",
+                            "url": "/research/US/Job=Senior_IC_Layout_Engineer/Salary",
+                            "percent": 0.33,
+                            "compensation": 110159.96973555964,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 1,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Level and Layout Designer",
+                                    "url": "/research/US/Job=Senior_Level_and_Layout_Designer/Salary",
+                                    "percent": 1,
+                                    "compensation": 95212.79543845789,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Integrated Circuit (IC) Designer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary",
+                    "defaultUrl": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-14T06:16:42.55474Z",
+                "narratives": {
+                    "description": "Of all technological innovations in the last several decades, few have proven as vital as the integrated circuit. Computational electronics that once required bulky vacuum tubes and acres of space are now made so small that they fit in your pocket. Advances in integrated circuitry and semiconductors are the brain-children of integrated circuit designers; using their expertise in both electronics and computers, the integrated circuit designer builds the framework for the layout of circuitry to perform any manner of tasks, and designs the circuitry to maximize capabilities while minimizing waste heat, inefficiency and other safety issues.\r\n\r\nIn a typical environment, the integrated circuit designer will collaborate with other departments to envision their concepts and work to figure out how best to realize them. Using this information, the integrated circuit designer, with the use of computer-aided design software and other tools, maps out the design of the circuitry and tests its efficiency in a virtual environment. When a design works as intended in a virtual environment, it is sent to manufacturing to build physical models of the circuitry. The integrated circuit designer will test these models and make all necessary changes until a final, finished prototype is ready to be sent for active production.\r\n\r\nThe integrated circuit designer will often draft specification reports and other documentation for the circuitry they have designed. Integrated circuit design is an advanced field - though it is possible for applicants with an Associate's degree to find a position, employment prospects are greatly bolstered with a Bachelor's degree in Engineering or Computer Engineering. Training and experience with CAD and microprocessor architecture are commonly preferred. There are also certificate programs for non-specialized engineering students; applicants must obtain licensure through state examination, and a minimum of four years of work experience in the field is required for most positions.",
+                    "summaryHourly": "The average pay for an Integrated Circuit (IC) Designer is $30.01 per hour.",
+                    "summarySalary": "The average pay for an Integrated Circuit (IC) Designer is $119,332 per year."
+                },
+                "tasks": [
+                    "Design, simulate, synthesize, and verify of RTL code (Verilog/VHDL) for digital sub-systems of system-on-a-chip (SOC) ICs.",
+                    "Participate in specification discussion, architecture selection and translate specifications into electrical schematics.",
+                    "Use programming languages (C, Perl, TCL etc.) to improve the efficiency of the design and verification tasks.",
+                    "Work with Layout Team on place/route and timing closure.",
+                    "Design and verify microprocessor based digital systems."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 623.01,
+                        "50": 2576.67,
+                        "75": 10173.65,
+                        "profileCount": 7
+                    },
+                    "hourlyRate": {
+                        "25": 27,
+                        "50": 30.01,
+                        "75": 37,
+                        "profileCount": 7
+                    },
+                    "profitSharing": {
+                        "50": 8500,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 46368.9,
+                        "25": 100367.5,
+                        "50": 119331.63,
+                        "75": 150019.2,
+                        "90": 174524.4,
+                        "profileCount": 13
+                    },
+                    "total": {
+                        "10": 54777.44,
+                        "25": 64500.93,
+                        "50": 104019.77,
+                        "75": 127742.57,
+                        "90": 162246.45,
+                        "profileCount": 20
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-14T06:16:42.55474Z",
+                        "profileCount": 20,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 54777.44,
+                                    "25": 64500.93,
+                                    "50": 104019.77,
+                                    "75": 127742.57,
+                                    "90": 162246.45
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-10-14T06:16:42.55474Z",
+                        "profileCount": 7,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 27,
+                                    "50": 30.01,
+                                    "75": 37
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-14T06:16:42.55474Z",
+                        "profileCount": 13,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 46368.9,
+                                    "25": 100367.5,
+                                    "50": 119331.63,
+                                    "75": 150019.2,
+                                    "90": 174524.4
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-14T06:16:42.55474Z",
+                        "profileCount": 9,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-14T06:16:42.55474Z",
+                        "profileCount": 11,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Broadcom Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/3062c1cd/Broadcom-Corporation",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/b2674e32/Entry-Level",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 87776.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/b2674e32/Early-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 100840.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/fb04e411/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 118733.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/924be5ff/Experienced",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 134498.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/65347a86/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 146551.8
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/94468a6e/San-Jose-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/76b963e2/Dallas-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Clara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/6ca7b1c6/Santa-Clara-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 97786.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sunnyvale, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/54d744c3/Sunnyvale-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 108500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cadence Electronic Design Software",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/ad4f4337/Cadence-Electronic-Design-Software",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Verilog",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/171c7eb5/Verilog",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 87400
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Engineering Design, Semiconductor",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/388797bf/Engineering-Design-Semiconductor",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 105171.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Simulation Program with Integrated Circuits Emphasis (SPICE)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/aaab4fd5/Simulation-Program-with-Integrated-Circuits-Emphasis-SPICE",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 122528.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Engineering Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary/84fe2d18/Engineering-Design",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 101469.99
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 2412,
+                        "range": {
+                            "10": 59879.41,
+                            "25": 67812.05,
+                            "50": 77579.73,
+                            "75": 90631.73,
+                            "90": 107805.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 1447,
+                        "range": {
+                            "10": 63917.24,
+                            "25": 72363.91,
+                            "50": 82766.95,
+                            "75": 98557.69,
+                            "90": 122087.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1102,
+                        "range": {
+                            "10": 56974.74,
+                            "25": 64728.94,
+                            "50": 74104.3,
+                            "75": 86927.21,
+                            "90": 103385.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 955,
+                        "range": {
+                            "10": 57468,
+                            "25": 63945.8,
+                            "50": 73198.44,
+                            "75": 87813.02,
+                            "90": 106556.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Engineer",
+                        "url": "/research/US/Job=Design_Engineer/Salary",
+                        "profileCount": 831,
+                        "range": {
+                            "10": 56555.18,
+                            "25": 63893.04,
+                            "50": 72929.96,
+                            "75": 86253.11,
+                            "90": 106501.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 696,
+                        "range": {
+                            "10": 83441.76,
+                            "25": 93275.74,
+                            "50": 105965.83,
+                            "75": 123113.59,
+                            "90": 142022.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Structural Engineer",
+                        "url": "/research/US/Job=Structural_Engineer/Salary",
+                        "profileCount": 590,
+                        "range": {
+                            "10": 60384.99,
+                            "25": 67016.29,
+                            "50": 75878.19,
+                            "75": 89230.62,
+                            "90": 106160.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Electrical Engineer",
+                        "url": "/research/US/Job=Senior_Electrical_Engineer/Salary",
+                        "profileCount": 454,
+                        "range": {
+                            "10": 87998.43,
+                            "25": 98511.05,
+                            "50": 113598.57,
+                            "75": 129816.85,
+                            "90": 148224.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Design Engineer",
+                        "url": "/research/US/Job=Mechanical_Design_Engineer/Salary",
+                        "profileCount": 440,
+                        "range": {
+                            "10": 59704.12,
+                            "25": 67190.51,
+                            "50": 76372.17,
+                            "75": 87698.99,
+                            "90": 101285.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 350,
+                        "range": {
+                            "10": 59609.14,
+                            "25": 66839.11,
+                            "50": 75688.21,
+                            "75": 86652.41,
+                            "90": 99471.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 314,
+                        "range": {
+                            "10": 84320.48,
+                            "25": 97532.43,
+                            "50": 114073.11,
+                            "75": 133572.71,
+                            "90": 154964.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 310,
+                        "range": {
+                            "10": 61352.51,
+                            "25": 69431.11,
+                            "50": 79027.56,
+                            "75": 91945.37,
+                            "90": 109398.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Aerospace Engineer",
+                        "url": "/research/US/Job=Aerospace_Engineer/Salary",
+                        "profileCount": 285,
+                        "range": {
+                            "10": 67883.59,
+                            "25": 77118.4,
+                            "50": 91162.4,
+                            "75": 113349.28,
+                            "90": 139681
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 277,
+                        "range": {
+                            "10": 70295.57,
+                            "25": 83482.96,
+                            "50": 100654.93,
+                            "75": 121531.22,
+                            "90": 142811.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Product Engineer",
+                        "url": "/research/US/Job=Product_Engineer/Salary",
+                        "profileCount": 238,
+                        "range": {
+                            "10": 60646.25,
+                            "25": 67673.55,
+                            "50": 76576.42,
+                            "75": 88165.53,
+                            "90": 103244.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Engineering",
+                        "url": "/research/US/Job=Director_of_Engineering/Salary",
+                        "profileCount": 232,
+                        "range": {
+                            "10": 101466.72,
+                            "25": 127101.16,
+                            "50": 153386.57,
+                            "75": 180177.77,
+                            "90": 203699.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Engineer",
+                        "url": "/research/US/Job=Staff_Engineer/Salary",
+                        "profileCount": 218,
+                        "range": {
+                            "10": 59833.41,
+                            "25": 70238.8,
+                            "50": 109779.81,
+                            "75": 142572.54,
+                            "90": 168830.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Applications Engineer",
+                        "url": "/research/US/Job=Applications_Engineer/Salary",
+                        "profileCount": 214,
+                        "range": {
+                            "10": 59609.08,
+                            "25": 67780.65,
+                            "50": 78962.61,
+                            "75": 94012.9,
+                            "90": 114449.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer in Training",
+                        "url": "/research/US/Job=Civil_Engineer_in_Training/Salary",
+                        "profileCount": 198,
+                        "range": {
+                            "10": 51976.89,
+                            "25": 57891,
+                            "50": 63170.57,
+                            "75": 68259.55,
+                            "90": 73390.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Designer",
+                        "url": "/research/US/Job=Mechanical_Designer/Salary",
+                        "profileCount": 194,
+                        "range": {
+                            "10": 49853.42,
+                            "25": 56419.42,
+                            "50": 65040.23,
+                            "75": 74720.82,
+                            "90": 85702.73
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "Cadence Electronic Design Software, Verilog, Engineering Design, Semiconductor, Simulation Program with Integrated Circuits Emphasis (SPICE), Engineering Design",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-14T06:16:42.55474Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "54777.44",
+                            "percentile25": "64500.93",
+                            "median": "104019.77",
+                            "percentile75": "127742.57",
+                            "percentile90": "162246.45",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "46368.9",
+                            "percentile25": "100367.5",
+                            "median": "119331.63",
+                            "percentile75": "150019.2",
+                            "percentile90": "174524.4",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "623.01",
+                            "median": "2576.67",
+                            "percentile75": "10173.65",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "8500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 21,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Of all technological innovations in the last several decades, few have proven as vital as the integrated circuit. Computational electronics that once required bulky vacuum tubes and acres of space are now made so small that they fit in your pocket. Advances in integrated circuitry and semiconductors are the brain-children of integrated circuit designers; using their expertise in both electronics and computers, the integrated circuit designer builds the framework for the layout of circuitry to perform any manner of tasks, and designs the circuitry to maximize capabilities while minimizing waste heat, inefficiency and other safety issues.\r\n\r\nIn a typical environment, the integrated circuit designer will collaborate with other departments to envision their concepts and work to figure out how best to realize them. Using this information, the integrated circuit designer, with the use of computer-aided design software and other tools, maps out the design of the circuitry and tests its efficiency in a virtual environment. When a design works as intended in a virtual environment, it is sent to manufacturing to build physical models of the circuitry. The integrated circuit designer will test these models and make all necessary changes until a final, finished prototype is ready to be sent for active production.\r\n\r\nThe integrated circuit designer will often draft specification reports and other documentation for the circuitry they have designed. Integrated circuit design is an advanced field - though it is possible for applicants with an Associate's degree to find a position, employment prospects are greatly bolstered with a Bachelor's degree in Engineering or Computer Engineering. Training and experience with CAD and microprocessor architecture are commonly preferred. There are also certificate programs for non-specialized engineering students; applicants must obtain licensure through state examination, and a minimum of four years of work experience in the field is required for most positions.",
+                    "name": "Integrated Circuit (IC) Designer",
+                    "url": "/research/US/Job=Integrated_Circuit_(IC)_Designer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

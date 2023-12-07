@@ -1,0 +1,806 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Senior Mobile Developer",
+                    "url": "/research/US/Job=Senior_Mobile_Developer/Salary",
+                    "compensation": 109723.93379497356,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Principal Software Engineer",
+                            "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 137333.59701278113,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Software Engineering Manager",
+                                    "url": "/research/US/Job=Software_Engineering_Manager/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 138025.95204528156,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Software Architect",
+                                    "url": "/research/US/Job=Software_Architect/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 124249.53019932956,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Mobile Developer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Mobile_Developer/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Mobile_Developer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-16T04:40:25.38591Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Senior Mobile Developer is $131,862 per year."
+                },
+                "tasks": [
+                    "Build mobile applications using multiple technology platforms.",
+                    "Analyze and optimize the performance of both front and back-end code.",
+                    "Develop, test, release and maintain scalable mobile applications."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 515.21,
+                        "25": 2625.77,
+                        "50": 8000,
+                        "75": 12800.3,
+                        "90": 18569.74,
+                        "profileCount": 13
+                    },
+                    "salary": {
+                        "10": 88817.77,
+                        "25": 114079.65,
+                        "50": 131862.11,
+                        "75": 152365.63,
+                        "90": 169530.36,
+                        "profileCount": 47
+                    },
+                    "total": {
+                        "10": 85675.44,
+                        "25": 112845.55,
+                        "50": 135969.89,
+                        "75": 154167.67,
+                        "90": 172398.81,
+                        "profileCount": 48
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-16T04:40:25.38591Z",
+                        "profileCount": 48,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 48,
+                                "range": {
+                                    "10": 85675.44,
+                                    "25": 112845.55,
+                                    "50": 135969.89,
+                                    "75": 154167.67,
+                                    "90": 172398.81
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-16T04:40:25.38591Z",
+                        "profileCount": 47,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 47,
+                                "range": {
+                                    "10": 88817.77,
+                                    "25": 114079.65,
+                                    "50": 131862.11,
+                                    "75": 152365.63,
+                                    "90": 169530.36
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-16T04:40:25.38591Z",
+                        "profileCount": 16,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-16T04:40:25.38591Z",
+                        "profileCount": 23,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/a01e280b/Early-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 96698.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/565f4c4a/Mid-Career",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 119189.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/8b6f82a1/Experienced",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 123974.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/346632f9/Late-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 131690.86
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/7b77c5a0/Austin-TX",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 129807.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/f86aba72/Chicago-IL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 107000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/d3c851c8/New-York-NY",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/7a05f314/Seattle-WA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 132292.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/b586e7ce/San-Francisco-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 147517.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/bba72868/Dallas-TX",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 118459.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/dd9dcc4c/Minneapolis-MN",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 108479.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/3b7776d1/Portland-OR",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Mobile applications development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/d95ec0fc/Mobile-applications-development",
+                                "profileCount": 46,
+                                "range": {
+                                    "50": 127832.09
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "iOS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/437f0874/iOS",
+                                "profileCount": 28,
+                                "range": {
+                                    "50": 117770.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Android Software Development Kit (SDK)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/4ff61ea5/Android-Software-Development-Kit-SDK",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 128161.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Swift Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/e9b74a4d/Swift-Programming-Language",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 118988.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Objective-C",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/76896496/Objective-C",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 110552.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kotlin Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/8d14524c/Kotlin-Programming-Language",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 122066.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "iOS SDK",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/42479c02/iOS-SDK",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 128657.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "React.js",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Mobile_Developer/Salary/7b4324ae/React.js",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 96160.25
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 844,
+                        "range": {
+                            "10": 67221.27,
+                            "25": 77850.21,
+                            "50": 92458.49,
+                            "75": 113361.06,
+                            "90": 134939.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 437,
+                        "range": {
+                            "10": 93918.56,
+                            "25": 107872.75,
+                            "50": 125952.1,
+                            "75": 146145.75,
+                            "90": 165855.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "iOS Developer",
+                        "url": "/research/US/Job=iOS_Developer/Salary",
+                        "profileCount": 388,
+                        "range": {
+                            "10": 66444.74,
+                            "25": 82018.78,
+                            "50": 100022.1,
+                            "75": 123885.04,
+                            "90": 146356.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 254,
+                        "range": {
+                            "10": 55138.24,
+                            "25": 64770.86,
+                            "50": 77468.19,
+                            "75": 93395.23,
+                            "90": 113260.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Front End Developer / Engineer",
+                        "url": "/research/US/Job=Front_End_Developer_%2F_Engineer/Salary",
+                        "profileCount": 200,
+                        "range": {
+                            "10": 54195.4,
+                            "25": 66388.04,
+                            "50": 82558.33,
+                            "75": 101313.13,
+                            "90": 124753.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 169,
+                        "range": {
+                            "10": 84973.16,
+                            "25": 98618.39,
+                            "50": 116835.3,
+                            "75": 134896.95,
+                            "90": 155306.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Android Software Developer",
+                        "url": "/research/US/Job=Android_Software_Developer/Salary",
+                        "profileCount": 156,
+                        "range": {
+                            "10": 61260.89,
+                            "25": 77801.97,
+                            "50": 97131.47,
+                            "75": 124907.87,
+                            "90": 142134.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mobile Applications Developer",
+                        "url": "/research/US/Job=Mobile_Applications_Developer/Salary",
+                        "profileCount": 156,
+                        "range": {
+                            "10": 53489.91,
+                            "25": 65614.21,
+                            "50": 82075.89,
+                            "75": 104113.84,
+                            "90": 132172.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Full Stack Software Developer",
+                        "url": "/research/US/Job=Full_Stack_Software_Developer/Salary",
+                        "profileCount": 95,
+                        "range": {
+                            "10": 58623.51,
+                            "25": 70413.08,
+                            "50": 84177.36,
+                            "75": 102231.55,
+                            "90": 120830.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 88,
+                        "range": {
+                            "10": 43926.42,
+                            "25": 51903.03,
+                            "50": 63568.84,
+                            "75": 78114.85,
+                            "90": 93170.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 73,
+                        "range": {
+                            "10": 90387.61,
+                            "25": 107073.76,
+                            "50": 127330.49,
+                            "75": 146524.06,
+                            "90": 166105.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 69,
+                        "range": {
+                            "10": 59015.02,
+                            "25": 69941,
+                            "50": 83739.34,
+                            "75": 102831.1,
+                            "90": 123457.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 60,
+                        "range": {
+                            "10": 49797.86,
+                            "25": 58250.44,
+                            "50": 66795.51,
+                            "75": 76218.39,
+                            "90": 85436.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 47,
+                        "range": {
+                            "10": 59123.52,
+                            "25": 68001.01,
+                            "50": 76407.22,
+                            "75": 86335.63,
+                            "90": 104750.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Full Stack Software Engineer",
+                        "url": "/research/US/Job=Full_Stack_Software_Engineer/Salary",
+                        "profileCount": 40,
+                        "range": {
+                            "10": 69426.94,
+                            "25": 80700.75,
+                            "50": 97757.79,
+                            "75": 117643.59,
+                            "90": 136587.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mobile Engineer",
+                        "url": "/research/US/Job=Mobile_Engineer/Salary",
+                        "profileCount": 34,
+                        "range": {
+                            "10": 60831.24,
+                            "25": 72077.46,
+                            "50": 101057.38,
+                            "75": 119303.63,
+                            "90": 132452.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Engineer (SDE)",
+                        "url": "/research/US/Job=Software_Development_Engineer_(SDE)/Salary",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 82840.18,
+                            "25": 97806.31,
+                            "50": 115614.49,
+                            "75": 133999.95,
+                            "90": 150820.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Web Developer",
+                        "url": "/research/US/Job=Senior_Web_Developer/Salary",
+                        "profileCount": 31,
+                        "range": {
+                            "10": 67273.03,
+                            "25": 78880.13,
+                            "50": 91564.88,
+                            "75": 109583.2,
+                            "90": 129563.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 28,
+                        "range": {
+                            "10": 113239.85,
+                            "25": 129521.37,
+                            "50": 148132.15,
+                            "75": 168269.93,
+                            "90": 189337.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 27,
+                        "range": {
+                            "10": 53705.82,
+                            "25": 62654.06,
+                            "50": 75421.71,
+                            "75": 89799.1,
+                            "90": 106123.18
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Mobile_Developer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "Mobile applications development, iOS, Android Software Development Kit (SDK), Swift Programming Language, Objective-C, Kotlin Programming Language, iOS SDK, React.js",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-16T04:40:25.38591Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "85675.44",
+                            "percentile25": "112845.55",
+                            "median": "135969.89",
+                            "percentile75": "154167.67",
+                            "percentile90": "172398.81",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "88817.77",
+                            "percentile25": "114079.65",
+                            "median": "131862.11",
+                            "percentile75": "152365.63",
+                            "percentile90": "169530.36",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "515.21",
+                            "percentile25": "2625.77",
+                            "median": "8000",
+                            "percentile75": "12800.3",
+                            "percentile90": "18569.74",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 53,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Mobile Developer",
+                    "url": "/research/US/Job=Senior_Mobile_Developer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

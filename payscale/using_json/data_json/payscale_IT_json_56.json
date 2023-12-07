@@ -1,0 +1,764 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Business Integration Analyst",
+                    "url": "/research/US/Job=Business_Integration_Analyst/Salary",
+                    "compensation": 74476.94420530088,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Product Manager, Software",
+                            "url": "/research/US/Job=Product_Manager%2C_Software/Salary",
+                            "percent": 1,
+                            "compensation": 96063.90136513123,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Product Manager",
+                                    "url": "/research/US/Job=Senior_Product_Manager/Salary",
+                                    "percent": 0.31,
+                                    "compensation": 124666.56595993102,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Product Management Director",
+                                    "url": "/research/US/Job=Product_Management_Director/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 144530.9232865063,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Sr. Product Manager, Software",
+                                    "url": "/research/US/Job=Sr._Product_Manager%2C_Software/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 127006.2557349005,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Business Integration Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Business_Integration_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Business_Integration_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-12-15T10:06:25.21471Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Business Integration Analyst is $41.61 per hour.",
+                    "summarySalary": "The average pay for a Business Integration Analyst is $82,504 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 1454.37,
+                        "25": 5000,
+                        "50": 7500,
+                        "75": 10000,
+                        "90": 12365.04,
+                        "profileCount": 15
+                    },
+                    "hourlyRate": {
+                        "50": 41.61,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 58213.3,
+                        "25": 68477.08,
+                        "50": 82503.68,
+                        "75": 96897.83,
+                        "90": 111670.27,
+                        "profileCount": 32
+                    },
+                    "total": {
+                        "10": 64477.65,
+                        "25": 74131.06,
+                        "50": 84013.12,
+                        "75": 98429.08,
+                        "90": 115170.24,
+                        "profileCount": 34
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-12-15T10:06:25.21471Z",
+                        "profileCount": 34,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 34,
+                                "range": {
+                                    "10": 64477.65,
+                                    "25": 74131.06,
+                                    "50": 84013.12,
+                                    "75": 98429.08,
+                                    "90": 115170.24
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-12-15T10:06:25.21471Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 41.61
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-12-15T10:06:25.21471Z",
+                        "profileCount": 32,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 32,
+                                "range": {
+                                    "10": 58213.3,
+                                    "25": 68477.08,
+                                    "50": 82503.68,
+                                    "75": 96897.83,
+                                    "90": 111670.27
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-12-15T10:06:25.21471Z",
+                        "profileCount": 15,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-12-15T10:06:25.21471Z",
+                        "profileCount": 23,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Accenture",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/be289ce9/Accenture",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 77987.18
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/9bfe66f4/Early-Career",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 79244.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/ed3bee72/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 80048.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/9f0aa15a/Experienced",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 100092.81
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/bb8320a8/Atlanta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70985.92
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/6c162697/Data-Analysis",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 82974.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/77752655/Project-Management",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 86374.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "System Integration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/da56d490/System-Integration",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/f4c67cfc/Business-Analysis",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 85790.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/43ddb886/Microsoft-Excel",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 75986.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/1abc1c47/Microsoft-Office",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 74557.71
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/532226ac/SQL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 79074.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Consulting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Business_Integration_Analyst/Salary/d4ff6ee3/IT-Consulting",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 71250
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 3.75
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 4742,
+                        "range": {
+                            "10": 51251.63,
+                            "25": 62557.84,
+                            "50": 77390.91,
+                            "75": 95783.08,
+                            "90": 117133.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 4256,
+                        "range": {
+                            "10": 30305.6,
+                            "25": 35526.95,
+                            "50": 41730,
+                            "75": 50362.3,
+                            "90": 59381.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 3483,
+                        "range": {
+                            "10": 46390.48,
+                            "25": 54520.96,
+                            "50": 64679.22,
+                            "75": 76456.57,
+                            "90": 89149.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 2843,
+                        "range": {
+                            "10": 58559.92,
+                            "25": 65967.36,
+                            "50": 75290.4,
+                            "75": 87734.08,
+                            "90": 103538.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 2659,
+                        "range": {
+                            "10": 55630.44,
+                            "25": 63237.45,
+                            "50": 72310.15,
+                            "75": 84790.55,
+                            "90": 100979.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 2282,
+                        "range": {
+                            "10": 49762.57,
+                            "25": 56429.43,
+                            "50": 64463.6,
+                            "75": 74080.44,
+                            "90": 85192.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 2254,
+                        "range": {
+                            "10": 36080.39,
+                            "25": 42526.05,
+                            "50": 51196.97,
+                            "75": 61466.69,
+                            "90": 72603.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 2057,
+                        "range": {
+                            "10": 66154.2,
+                            "25": 75715.74,
+                            "50": 88059.27,
+                            "75": 101828,
+                            "90": 118789.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 1887,
+                        "range": {
+                            "10": 52356.99,
+                            "25": 61303.78,
+                            "50": 72042.29,
+                            "75": 84963.27,
+                            "90": 100762.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1825,
+                        "range": {
+                            "10": 45591.67,
+                            "25": 55469.06,
+                            "50": 69506.69,
+                            "75": 87170.02,
+                            "90": 108676.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1814,
+                        "range": {
+                            "10": 41629.1,
+                            "25": 49950.58,
+                            "50": 60631.23,
+                            "75": 72879.5,
+                            "90": 85669.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1713,
+                        "range": {
+                            "10": 58826.71,
+                            "25": 72173.7,
+                            "50": 89870.23,
+                            "75": 110915.23,
+                            "90": 130888.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 1576,
+                        "range": {
+                            "10": 49039.92,
+                            "25": 56071.3,
+                            "50": 65272.86,
+                            "75": 75734.36,
+                            "90": 86722.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1483,
+                        "range": {
+                            "10": 65762.64,
+                            "25": 76157.04,
+                            "50": 90649.12,
+                            "75": 111620.81,
+                            "90": 132722.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 1465,
+                        "range": {
+                            "10": 55806.67,
+                            "25": 62159.7,
+                            "50": 70899.5,
+                            "75": 84916.35,
+                            "90": 103366.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 1449,
+                        "range": {
+                            "10": 62139.76,
+                            "25": 70506.24,
+                            "50": 80429.64,
+                            "75": 95891.01,
+                            "90": 118527.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1434,
+                        "range": {
+                            "10": 42380.77,
+                            "25": 48295.81,
+                            "50": 54311.93,
+                            "75": 60997.95,
+                            "90": 67708.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 1365,
+                        "range": {
+                            "10": 53886.78,
+                            "25": 61871.12,
+                            "50": 71609.8,
+                            "75": 85802.82,
+                            "90": 100483.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 1234,
+                        "range": {
+                            "10": 42802.98,
+                            "25": 47837.53,
+                            "50": 53901.32,
+                            "75": 63110.75,
+                            "90": 72928.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1205,
+                        "range": {
+                            "10": 67505.42,
+                            "25": 75656.55,
+                            "50": 84977.96,
+                            "75": 95432.72,
+                            "90": 106663.17
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Business_Integration_Analyst/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Data Analysis, Project Management, System Integration, Business Analysis, Microsoft Excel, Microsoft Office, SQL, IT Consulting",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-12-15T10:06:25.21471Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "64477.65",
+                            "percentile25": "74131.06",
+                            "median": "84013.12",
+                            "percentile75": "98429.08",
+                            "percentile90": "115170.24",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58213.3",
+                            "percentile25": "68477.08",
+                            "median": "82503.68",
+                            "percentile75": "96897.83",
+                            "percentile90": "111670.27",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1454.37",
+                            "percentile25": "5000",
+                            "median": "7500",
+                            "percentile75": "10000",
+                            "percentile90": "12365.04",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 43,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Business Integration Analyst",
+                    "url": "/research/US/Job=Business_Integration_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

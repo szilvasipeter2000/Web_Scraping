@@ -1,0 +1,946 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Help Desk Engineer",
+                    "url": "/research/US/Job=Help_Desk_Engineer/Salary",
+                    "compensation": 47738.72024482687,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Help Desk Consultant",
+                            "url": "/research/US/Job=Help_Desk_Consultant/Salary",
+                            "percent": 1,
+                            "compensation": 44733.227522106296,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 0
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Help Desk Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Help_Desk_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Help_Desk_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-15T09:01:37.13979Z",
+                "narratives": {
+                    "description": "Help desk engineers provide technical support and assistance to customers experiencing a wide range of computer problems. Many companies, especially larger ones, have help desk engineers on staff to troubleshoot technical issues and help employees and customers resolve them. Because help desk engineers interact directly with customers on a daily basis, it is important that they have excellent customer service and communication skills. Help desk engineers often help individuals who have little to no knowledge of computers or technology. Phone etiquette is especially important, as many issues are handled by phone. \r\nLarger companies often have several types of help desk engineers to provide phone, VOIP and computer support to the entire organization. Help desk engineers may also manage an organization’s online security, including password generation and assignment. They enable and disable passwords, keep logs of each employee’s individual passwords, and help resolve any apparent security breaches. Many companies provide 24/7 customer support to employees and customers, requiring help desk engineers to work a variety of shifts, including weekends and holidays.\r\nHelp desk engineers may have at least a bachelor's degree in computer engineering, but often formal educational is not needed if the appropriate technical skills and knowledge are demonstrated. Help desk engineer jobs are usually entry-level positions. Many companies have their technical staff to start at the service desk to better gauge their level of expertise and customer service skills before moving them into more technical areas of the organization. ",
+                    "summaryHourly": "The average pay for a Help Desk Engineer is $22.21 per hour.",
+                    "summarySalary": "The average pay for a Help Desk Engineer is $50,078 per year."
+                },
+                "tasks": [
+                    "Analyze and resolve computer related issues for individuals.",
+                    "Maintain current technical knowledge and trouble shooting tools.",
+                    "Document issues and resolutions for trouble tickets.",
+                    "Set up computer hardware and software for users and events."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 117.52,
+                        "25": 969.58,
+                        "50": 1037.69,
+                        "75": 3337.39,
+                        "90": 5070.22,
+                        "profileCount": 19
+                    },
+                    "hourlyRate": {
+                        "10": 15.89,
+                        "25": 17.72,
+                        "50": 22.21,
+                        "75": 25.86,
+                        "90": 29.53,
+                        "profileCount": 48
+                    },
+                    "profitSharing": {
+                        "50": 2500,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 37233.35,
+                        "25": 41973.27,
+                        "50": 50078.46,
+                        "75": 62106.7,
+                        "90": 71516.42,
+                        "profileCount": 74
+                    },
+                    "total": {
+                        "10": 35573.17,
+                        "25": 40218.99,
+                        "50": 48683.89,
+                        "75": 59354.03,
+                        "90": 68004.93,
+                        "profileCount": 122
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-15T09:01:37.13979Z",
+                        "profileCount": 122,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 122,
+                                "range": {
+                                    "10": 35573.17,
+                                    "25": 40218.99,
+                                    "50": 48683.89,
+                                    "75": 59354.03,
+                                    "90": 68004.93
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-08-15T09:01:37.13979Z",
+                        "profileCount": 48,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 48,
+                                "range": {
+                                    "10": 15.89,
+                                    "25": 17.72,
+                                    "50": 22.21,
+                                    "75": 25.86,
+                                    "90": 29.53
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-15T09:01:37.13979Z",
+                        "profileCount": 74,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 74,
+                                "range": {
+                                    "10": 37233.35,
+                                    "25": 41973.27,
+                                    "50": 50078.46,
+                                    "75": 62106.7,
+                                    "90": 71516.42
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-15T09:01:37.13979Z",
+                        "profileCount": 41,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 36,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-15T09:01:37.13979Z",
+                        "profileCount": 58,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 40,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 36,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 30,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/e98c162c/Entry-Level",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 41747.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/e98c162c/Early-Career",
+                                "profileCount": 65,
+                                "range": {
+                                    "50": 44926.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/d5afbc8d/Mid-Career",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 57764.87
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Hourly_Rate/d494315c/Experienced",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 56786.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Hourly_Rate/bbdfc311/Late-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 57771.17
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Kansas City, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/7ef35b6a/Kansas-City-MO",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 51500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/7712ef38/New-York-NY",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Omaha, Nebraska",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/44ebc292/Omaha-NE",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 38500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Hourly_Rate/1c011840/Los-Angeles-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/e7d7cb33/Chicago-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 47262.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indianapolis, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/dcbfef7f/Indianapolis-IN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 47000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Louisville, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/8e17ccec/Louisville-KY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 38739.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/1183a2e6/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 44000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Hourly_Rate/78a6774b/San-Diego-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Hourly_Rate/fb934ee8/Washington-DC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 55458.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/37812d7c/Tampa-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 33596.2
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/d395af0b/Pittsburgh-PA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 38373.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Hourly_Rate/e89b42df/Houston-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/91033c2c/Troubleshooting",
+                                "profileCount": 56,
+                                "range": {
+                                    "50": 43471.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 2)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/f0db6413/Help-Desk-Desktop-Support-Tier-2",
+                                "profileCount": 53,
+                                "range": {
+                                    "50": 49046
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/faa81b2e/Information-Technology-IT-Support",
+                                "profileCount": 44,
+                                "range": {
+                                    "50": 44476
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 1)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/41e86dcc/Help-Desk-Desktop-Support-Tier-1",
+                                "profileCount": 42,
+                                "range": {
+                                    "50": 43069.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Active Directory",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/8e74ca2b/Microsoft-Active-Directory",
+                                "profileCount": 38,
+                                "range": {
+                                    "50": 47811.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Windows NT / 2000 / XP Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/acb737b7/Windows-NT-2000-XP-Networking",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 46563.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/c23316d0/Network-Management-Administration",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 47039.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Windows Server 2012 R2",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/a6b4f2dc/Windows-Server-2012-R2",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 46000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/09717d8f/Network-Support",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 42447.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cisco Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/af502d90/Cisco-Networking",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Computer Hardware Technician",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Hourly_Rate/e42d64c3/Computer-Hardware-Technician",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Exchange",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/59b43834/Microsoft-Exchange",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 49131.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/15324367/Microsoft-Office",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 3)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Salary/9f2723cc/Help-Desk-Desktop-Support-Tier-3",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 73986.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Windows Operating System General Use",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Engineer/Hourly_Rate/6b2d423b/Windows-Operating-System-General-Use",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 18,
+                        "score": 4.18
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2668,
+                        "range": {
+                            "10": 30834.35,
+                            "25": 36286.74,
+                            "50": 42986.51,
+                            "75": 51479.71,
+                            "90": 60743.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 2588,
+                        "range": {
+                            "10": 58345.92,
+                            "25": 72201.7,
+                            "50": 91280.1,
+                            "75": 114966.03,
+                            "90": 137085.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 2461,
+                        "range": {
+                            "10": 48384.87,
+                            "25": 56228.67,
+                            "50": 66528.32,
+                            "75": 79099.5,
+                            "90": 93483.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 1667,
+                        "range": {
+                            "10": 54803.57,
+                            "25": 66705.4,
+                            "50": 79891.81,
+                            "75": 96003.32,
+                            "90": 114311.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 1511,
+                        "range": {
+                            "10": 39165.25,
+                            "25": 45077.47,
+                            "50": 54003.48,
+                            "75": 64648.96,
+                            "90": 78083.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 1492,
+                        "range": {
+                            "10": 40744.57,
+                            "25": 49352.23,
+                            "50": 60606.99,
+                            "75": 77276.28,
+                            "90": 99470.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 1483,
+                        "range": {
+                            "10": 45478.57,
+                            "25": 53917.51,
+                            "50": 64315.25,
+                            "75": 76293.65,
+                            "90": 88764.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 1366,
+                        "range": {
+                            "10": 35938.58,
+                            "25": 41816.95,
+                            "50": 50291.86,
+                            "75": 61027.32,
+                            "90": 73565.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1332,
+                        "range": {
+                            "10": 36782.89,
+                            "25": 43477.54,
+                            "50": 52226.87,
+                            "75": 62805.12,
+                            "90": 74064.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1170,
+                        "range": {
+                            "10": 59673.48,
+                            "25": 67451.85,
+                            "50": 77099.73,
+                            "75": 90059.46,
+                            "90": 106913.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1116,
+                        "range": {
+                            "10": 42919.78,
+                            "25": 51157.37,
+                            "50": 62260.43,
+                            "75": 74795.02,
+                            "90": 87671.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Technician",
+                        "url": "/research/US/Job=Help_Desk_Technician/Hourly_Rate",
+                        "profileCount": 973,
+                        "range": {
+                            "10": 33418.34,
+                            "25": 38867.45,
+                            "50": 45390.77,
+                            "75": 53292.62,
+                            "90": 62447.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 870,
+                        "range": {
+                            "10": 56630.3,
+                            "25": 64357.32,
+                            "50": 73628.39,
+                            "75": 86448.52,
+                            "90": 102787.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 858,
+                        "range": {
+                            "10": 52484.26,
+                            "25": 63826.76,
+                            "50": 78748.38,
+                            "75": 97469.01,
+                            "90": 118819.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 848,
+                        "range": {
+                            "10": 38879.5,
+                            "25": 43266.79,
+                            "50": 52700.96,
+                            "75": 65795.11,
+                            "90": 82425.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Technician",
+                        "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                        "profileCount": 839,
+                        "range": {
+                            "10": 33224.13,
+                            "25": 40413.5,
+                            "50": 50962.24,
+                            "75": 64465.68,
+                            "90": 80879.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 827,
+                        "range": {
+                            "10": 47750.92,
+                            "25": 55555.34,
+                            "50": 65685.34,
+                            "75": 77937.25,
+                            "90": 92444.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 808,
+                        "range": {
+                            "10": 38736.45,
+                            "25": 46456.24,
+                            "50": 56683.26,
+                            "75": 68670.75,
+                            "90": 79418.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Specialist",
+                        "url": "/research/US/Job=Technical_Support_Specialist/Salary",
+                        "profileCount": 807,
+                        "range": {
+                            "10": 39872.73,
+                            "25": 46161.85,
+                            "50": 55401.73,
+                            "75": 68405.1,
+                            "90": 83017.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 705,
+                        "range": {
+                            "10": 55968.3,
+                            "25": 66342.23,
+                            "50": 78676.23,
+                            "75": 92992.78,
+                            "90": 111316.42
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Help_Desk_Engineer/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Troubleshooting, Help Desk / Desktop Support (Tier 2), Information Technology (IT) Support, Help Desk / Desktop Support (Tier 1), Microsoft Active Directory, Windows NT / 2000 / XP Networking, Network Management / Administration, Windows Server 2012 R2, Network Support, Cisco Networking, Computer Hardware Technician, Microsoft Exchange, Microsoft Office, Help Desk / Desktop Support (Tier 3), Windows Operating System General Use",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-15T09:01:37.13979Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "35573.17",
+                            "percentile25": "40218.99",
+                            "median": "48683.89",
+                            "percentile75": "59354.03",
+                            "percentile90": "68004.93",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "37233.35",
+                            "percentile25": "41973.27",
+                            "median": "50078.46",
+                            "percentile75": "62106.7",
+                            "percentile90": "71516.42",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "117.52",
+                            "percentile25": "969.58",
+                            "median": "1037.69",
+                            "percentile75": "3337.39",
+                            "percentile90": "5070.22",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 131,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Help desk engineers provide technical support and assistance to customers experiencing a wide range of computer problems. Many companies, especially larger ones, have help desk engineers on staff to troubleshoot technical issues and help employees and customers resolve them. Because help desk engineers interact directly with customers on a daily basis, it is important that they have excellent customer service and communication skills. Help desk engineers often help individuals who have little to no knowledge of computers or technology. Phone etiquette is especially important, as many issues are handled by phone. \r\nLarger companies often have several types of help desk engineers to provide phone, VOIP and computer support to the entire organization. Help desk engineers may also manage an organization’s online security, including password generation and assignment. They enable and disable passwords, keep logs of each employee’s individual passwords, and help resolve any apparent security breaches. Many companies provide 24/7 customer support to employees and customers, requiring help desk engineers to work a variety of shifts, including weekends and holidays.\r\nHelp desk engineers may have at least a bachelor's degree in computer engineering, but often formal educational is not needed if the appropriate technical skills and knowledge are demonstrated. Help desk engineer jobs are usually entry-level positions. Many companies have their technical staff to start at the service desk to better gauge their level of expertise and customer service skills before moving them into more technical areas of the organization. ",
+                    "name": "Help Desk Engineer",
+                    "url": "/research/US/Job=Help_Desk_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

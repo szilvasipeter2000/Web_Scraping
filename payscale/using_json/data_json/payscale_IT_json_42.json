@@ -1,0 +1,766 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Build Engineer",
+                    "url": "/research/US/Job=Build_Engineer/Salary",
+                    "compensation": 83731.65036959786,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Building Maintenance Engineer",
+                            "url": "/research/US/Job=Building_Maintenance_Engineer/Hourly_Rate",
+                            "percent": 1,
+                            "compensation": 56365.95738328039,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Chief Building Engineer",
+                                    "url": "/research/US/Job=Chief_Building_Engineer/Salary",
+                                    "percent": 0.19,
+                                    "compensation": 75752.0192656098,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Chief Engineer",
+                                    "url": "/research/US/Job=Chief_Engineer/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 79201.09129256106,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Maintenance Technician",
+                                    "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                                    "percent": 0.08,
+                                    "compensation": 45428.12970680535,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Build Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Build_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Build_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-07-11T08:16:37.92931Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Build Engineer is $32.43 per hour.",
+                    "summarySalary": "The average pay for a Build Engineer is $81,657 per year."
+                },
+                "tasks": [
+                    "Maintain and enhance software build infrastructure for entire product line.",
+                    "Create and manage custom applications for software deployment and tool integration.",
+                    "Analyze error reports and create plans to rectify known issues.",
+                    "Understand and improve existing product build and integration system."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 4913.18,
+                        "50": 6500,
+                        "75": 10000,
+                        "profileCount": 7
+                    },
+                    "hourlyRate": {
+                        "50": 32.43,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 48479,
+                        "25": 68250,
+                        "50": 81656.79,
+                        "75": 101736.48,
+                        "90": 145289.22,
+                        "profileCount": 25
+                    },
+                    "total": {
+                        "10": 46191.84,
+                        "25": 67739.46,
+                        "50": 81753.16,
+                        "75": 104828.38,
+                        "90": 146000,
+                        "profileCount": 29
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-07-11T08:16:37.92931Z",
+                        "profileCount": 29,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 29,
+                                "range": {
+                                    "10": 46191.84,
+                                    "25": 67739.46,
+                                    "50": 81753.16,
+                                    "75": 104828.38,
+                                    "90": 146000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-07-11T08:16:37.92931Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 32.43
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-07-11T08:16:37.92931Z",
+                        "profileCount": 25,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": {
+                                    "10": 48479,
+                                    "25": 68250,
+                                    "50": 81656.79,
+                                    "75": 101736.48,
+                                    "90": 145289.22
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-07-11T08:16:37.92931Z",
+                        "profileCount": 13,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-07-11T08:16:37.92931Z",
+                        "profileCount": 19,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/2ad0b7ac/Entry-Level",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 73469.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/2ad0b7ac/Early-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 74378.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/bf688164/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 101736.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/1675ff33/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 118481.01
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/40940cc4/Seattle-WA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 68000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/c622a7e2/San-Jose-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 117446.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Redmond, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/9aa04ec8/Redmond-WA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 108089.87
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Continuous Integration (CI)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/e8a4cd78/Continuous-Integration-CI",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 80735.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Automation Scripting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/848885b9/Automation-Scripting",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 80496.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/734625dd/Linux",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 78610.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jenkins",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/f29799ad/Jenkins",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 82000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/51e05727/Python",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Build_Engineer/Salary/66de6d17/SQL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 88951.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 3188,
+                        "range": {
+                            "10": 64430.61,
+                            "25": 74649.84,
+                            "50": 88899.05,
+                            "75": 109897.11,
+                            "90": 130431.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1416,
+                        "range": {
+                            "10": 52179.05,
+                            "25": 61859.85,
+                            "50": 73999.25,
+                            "75": 89476.79,
+                            "90": 108088.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1385,
+                        "range": {
+                            "10": 89865.16,
+                            "25": 102929.68,
+                            "50": 121571.69,
+                            "75": 141601.92,
+                            "90": 161292.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1006,
+                        "range": {
+                            "10": 45541.12,
+                            "25": 53504.91,
+                            "50": 63312.67,
+                            "75": 74997.66,
+                            "90": 87648.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 734,
+                        "range": {
+                            "10": 69028.58,
+                            "25": 81262.49,
+                            "50": 97578.84,
+                            "75": 118262.23,
+                            "90": 136228.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 727,
+                        "range": {
+                            "10": 79830.35,
+                            "25": 93252.61,
+                            "50": 110206.14,
+                            "75": 128626.6,
+                            "90": 147852.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 542,
+                        "range": {
+                            "10": 65824.03,
+                            "25": 78285.74,
+                            "50": 93527.69,
+                            "75": 114079.06,
+                            "90": 132718.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 453,
+                        "range": {
+                            "10": 66599.2,
+                            "25": 80352.06,
+                            "50": 99030.6,
+                            "75": 121981.6,
+                            "90": 142750.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 397,
+                        "range": {
+                            "10": 56784.63,
+                            "25": 67291.53,
+                            "50": 80704.64,
+                            "75": 99608.39,
+                            "90": 120140.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 356,
+                        "range": {
+                            "10": 63390.66,
+                            "25": 73056.27,
+                            "50": 85309.75,
+                            "75": 99426.56,
+                            "90": 114163.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 313,
+                        "range": {
+                            "10": 52424.67,
+                            "25": 60729.94,
+                            "50": 71395.46,
+                            "75": 82887.13,
+                            "90": 97702.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 246,
+                        "range": {
+                            "10": 51357.7,
+                            "25": 60148.05,
+                            "50": 72246.44,
+                            "75": 86747.32,
+                            "90": 102613.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 239,
+                        "range": {
+                            "10": 46280,
+                            "25": 54021.87,
+                            "50": 63934.1,
+                            "75": 76125.26,
+                            "90": 89312.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 233,
+                        "range": {
+                            "10": 49721.8,
+                            "25": 57239.52,
+                            "50": 67639.66,
+                            "75": 80495.7,
+                            "90": 97382.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 226,
+                        "range": {
+                            "10": 51455.34,
+                            "25": 60446.13,
+                            "50": 71103.89,
+                            "75": 84252.01,
+                            "90": 100143.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Developer",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Developer/Salary",
+                        "profileCount": 222,
+                        "range": {
+                            "10": 59244.59,
+                            "25": 69245.39,
+                            "50": 82856.01,
+                            "75": 98219.79,
+                            "90": 115464.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 218,
+                        "range": {
+                            "10": 96501.83,
+                            "25": 110693.48,
+                            "50": 128018.55,
+                            "75": 146045.26,
+                            "90": 161957.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 211,
+                        "range": {
+                            "10": 56870.8,
+                            "25": 65218,
+                            "50": 73929.31,
+                            "75": 83468.77,
+                            "90": 101331.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 205,
+                        "range": {
+                            "10": 46165.86,
+                            "25": 54528.22,
+                            "50": 63783.93,
+                            "75": 72998.75,
+                            "90": 82253.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 194,
+                        "range": {
+                            "10": 109949.55,
+                            "25": 124759.17,
+                            "50": 142834.9,
+                            "75": 162654.45,
+                            "90": 182679.01
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Build_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Continuous Integration (CI), Automation Scripting, Linux, Jenkins, Python, SQL",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-07-11T08:16:37.92931Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "46191.84",
+                            "percentile25": "67739.46",
+                            "median": "81753.16",
+                            "percentile75": "104828.38",
+                            "percentile90": "146000",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "48479",
+                            "percentile25": "68250",
+                            "median": "81656.79",
+                            "percentile75": "101736.48",
+                            "percentile90": "145289.22",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "4913.18",
+                            "median": "6500",
+                            "percentile75": "10000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 33,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Build Engineer",
+                    "url": "/research/US/Job=Build_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,681 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Web Assistant",
+                    "url": "/research/US/Job=Web_Assistant/Hourly_Rate",
+                    "compensation": 38500,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Graphic Designer",
+                            "url": "/research/US/Job=Graphic_Designer/Salary",
+                            "percent": 0.6,
+                            "compensation": 45333.115825536566,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Graphic Designer",
+                                    "url": "/research/US/Job=Senior_Graphic_Designer/Salary",
+                                    "percent": 0.25,
+                                    "compensation": 61813.21880805435,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Art Director",
+                                    "url": "/research/US/Job=Art_Director/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 67464.09646481392,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Creative Director",
+                                    "url": "/research/US/Job=Creative_Director/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 88053.51201501083,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Marketing Coordinator",
+                            "url": "/research/US/Job=Marketing_Coordinator/Salary",
+                            "percent": 0.4,
+                            "compensation": 44311.73898991996,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Marketing Manager",
+                                    "url": "/research/US/Job=Marketing_Manager/Salary",
+                                    "percent": 0.17,
+                                    "compensation": 65377.345493279194,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Marketing Director",
+                                    "url": "/research/US/Job=Marketing_Director/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 87911.19122321739,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Marketing Specialist",
+                                    "url": "/research/US/Job=Marketing_Specialist/Salary",
+                                    "percent": 0.05,
+                                    "compensation": 51160.01028054339,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Web Assistant"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Web_Assistant/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Web_Assistant/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2021-12-30T07:24:26.01563Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Web Assistant is $12.77 per hour."
+                },
+                "tasks": [
+                    "Develop and create content for websites, e-newsletters, and/or social media outlets.",
+                    "Optimize web content for search engines.",
+                    "Assists in developing online marketing and communications materials.",
+                    "Conduct competitive research and social media analytics to improve website management processes and content."
+                ],
+                "compensation": {
+                    "hourlyRate": {
+                        "25": 10,
+                        "50": 12.77,
+                        "75": 16.5,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "25": 20800,
+                        "50": 26570.46,
+                        "75": 34320,
+                        "profileCount": 5
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2021-12-30T07:24:26.01563Z",
+                        "profileCount": 5,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 20800,
+                                    "50": 26570.46,
+                                    "75": 34320
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2021-12-30T07:24:26.01563Z",
+                        "profileCount": 5,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 10,
+                                    "50": 12.77,
+                                    "75": 16.5
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2021-12-30T07:24:26.01563Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2021-12-30T07:24:26.01563Z",
+                        "profileCount": 5,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Assistant/Hourly_Rate/fa619962/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 10.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Assistant/Salary/519f6b87/Experienced",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cascading Style Sheets (CSS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Assistant/Hourly_Rate/cb7f84a1/Cascading-Style-Sheets-CSS",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 19.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "HTML",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Assistant/Hourly_Rate/763d138d/HTML",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 11.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Content Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Web_Assistant/Hourly_Rate/ffdbdbec/Web-Content-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 13
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 723,
+                        "range": {
+                            "10": 13.67,
+                            "25": 16.7,
+                            "50": 21.74,
+                            "75": 30.63,
+                            "90": 45.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 591,
+                        "range": {
+                            "10": 19.99,
+                            "25": 27.18,
+                            "50": 36.32,
+                            "75": 48.67,
+                            "90": 63.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 520,
+                        "range": {
+                            "10": 16.02,
+                            "25": 21.23,
+                            "50": 29.69,
+                            "75": 40.08,
+                            "90": 55.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Front End Developer / Engineer",
+                        "url": "/research/US/Job=Front_End_Developer_%2F_Engineer/Salary",
+                        "profileCount": 450,
+                        "range": {
+                            "10": 15.31,
+                            "25": 20.31,
+                            "50": 28.33,
+                            "75": 44.25,
+                            "90": 58.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Designer",
+                        "url": "/research/US/Job=Web_Designer/Salary",
+                        "profileCount": 273,
+                        "range": {
+                            "10": 13.04,
+                            "25": 15.64,
+                            "50": 20.19,
+                            "75": 28.62,
+                            "90": 40.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Graphic Designer",
+                        "url": "/research/US/Job=Graphic_Designer/Salary",
+                        "profileCount": 261,
+                        "range": {
+                            "10": 12.79,
+                            "25": 15.12,
+                            "50": 18.3,
+                            "75": 22.78,
+                            "90": 30.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 245,
+                        "range": {
+                            "10": 40.44,
+                            "25": 50.75,
+                            "50": 63.04,
+                            "75": 77.3,
+                            "90": 93.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Coordinator",
+                        "url": "/research/US/Job=Marketing_Coordinator/Salary",
+                        "profileCount": 238,
+                        "range": {
+                            "10": 14.4,
+                            "25": 16.3,
+                            "50": 19.14,
+                            "75": 22.31,
+                            "90": 25.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 162,
+                        "range": {
+                            "10": 31.69,
+                            "25": 46.67,
+                            "50": 59.29,
+                            "75": 74.43,
+                            "90": 88.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Designer & Developer",
+                        "url": "/research/US/Job=Web_Designer_%26_Developer/Salary",
+                        "profileCount": 143,
+                        "range": {
+                            "10": 13.7,
+                            "25": 17.43,
+                            "50": 21.9,
+                            "75": 30.37,
+                            "90": 44.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Web Developer",
+                        "url": "/research/US/Job=Senior_Web_Developer/Salary",
+                        "profileCount": 134,
+                        "range": {
+                            "10": 21,
+                            "25": 31.49,
+                            "50": 46.68,
+                            "75": 61.37,
+                            "90": 80.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Communications Specialist",
+                        "url": "/research/US/Job=Communications_Specialist/Salary",
+                        "profileCount": 133,
+                        "range": {
+                            "10": 14.43,
+                            "25": 16.8,
+                            "50": 20.06,
+                            "75": 24.86,
+                            "90": 30.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 114,
+                        "range": {
+                            "10": 17.24,
+                            "25": 24.41,
+                            "50": 33.83,
+                            "75": 49.17,
+                            "90": 61.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Communications Manager",
+                        "url": "/research/US/Job=Communications_Manager/Salary",
+                        "profileCount": 104,
+                        "range": {
+                            "10": 15.94,
+                            "25": 18.38,
+                            "50": 22.24,
+                            "75": 29.29,
+                            "90": 39.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 101,
+                        "range": {
+                            "10": 16.44,
+                            "25": 21.31,
+                            "50": 30.15,
+                            "75": 43.25,
+                            "90": 59.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Content Specialist",
+                        "url": "/research/US/Job=Web_Content_Specialist/Salary",
+                        "profileCount": 97,
+                        "range": {
+                            "10": 13.89,
+                            "25": 16.02,
+                            "50": 19.14,
+                            "75": 24.01,
+                            "90": 28.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Specialist",
+                        "url": "/research/US/Job=Digital_Marketing_Specialist/Salary",
+                        "profileCount": 94,
+                        "range": {
+                            "10": 14.62,
+                            "25": 16.36,
+                            "50": 19.62,
+                            "75": 23.03,
+                            "90": 27.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Manager",
+                        "url": "/research/US/Job=Digital_Marketing_Manager/Salary",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 14.46,
+                            "25": 16.92,
+                            "50": 20.3,
+                            "75": 26.43,
+                            "90": 35.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Communications Coordinator",
+                        "url": "/research/US/Job=Communications_Coordinator/Salary",
+                        "profileCount": 86,
+                        "range": {
+                            "10": 14.15,
+                            "25": 15.95,
+                            "50": 19.26,
+                            "75": 22.37,
+                            "90": 26.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Designer",
+                        "url": "/research/US/Job=User_Experience_Designer/Salary",
+                        "profileCount": 79,
+                        "range": {
+                            "10": 18.62,
+                            "25": 26.63,
+                            "50": 34.67,
+                            "75": 46.08,
+                            "90": 63.45
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Web_Assistant/Hourly_Rate",
+                    "occupationalCategory": null,
+                    "skills": "Cascading Style Sheets (CSS), HTML, Web Content Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2021-12-30T07:24:26.01563Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "20800",
+                            "median": "26570.46",
+                            "percentile75": "34320",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": "10",
+                            "median": "12.77",
+                            "percentile75": "16.5",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Web Assistant",
+                    "url": "/research/US/Job=Web_Assistant/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

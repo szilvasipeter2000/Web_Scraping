@@ -1,0 +1,643 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Search Engine Optimization (SEO) Account Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-01-07T20:54:29.52077Z",
+                "narratives": {
+                    "description": "Search engine optimization (SEO) account managers are generally hired by companies which provide turnkey solutions to other organizations. Many companies prefer applicants who have at least a Bachelor's degree in Business, Economics, or a related field, although some companies will accept experience substituted for education.\r\nIdeally, SEO account managers should have multiple years of experience in technical search engine optimization, as well as additional experience in project management, enterprise-level SEO, and more depending on the company's needs. They must have a very thorough understanding of search engine optimization and the software, platforms, and techniques that are used in the field. It is also beneficial for these managers to be up-to-date on current trends and techniques and continue to develop their skills over time.\r\nSEO account managers work exclusively indoors, usually at a desk and computer. Their main responsibility is to perform SEO-related tasks and consulting for clients, which range from improving the visibility of websites on search engine pages to reporting estimations in traffic. There are various day-to-day tasks they will need to perform, such as keyword research and using crowd-sourcing platforms. They will also need good communication skills, as they will be in regular contact with clients to present findings and results, train them in search engine optimization, and provide technical support if any issues arise.",
+                    "summaryHourly": "The average pay for a Search Engine Optimization (SEO) Account Manager is $18.84 per hour.",
+                    "summarySalary": "The average pay for a Search Engine Optimization (SEO) Account Manager is $58,750 per year."
+                },
+                "tasks": [
+                    "Create strong relationships with clients, understanding their needs and schedules.",
+                    "Monitor rankings and update strategies to ensure quality of service.",
+                    "Explain findings and outcomes verbally and in reports, communicating needs and goals.",
+                    "Design and execute campaigns, creating metrics to track progress and outcomes."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 2100,
+                        "profileCount": 4
+                    },
+                    "hourlyRate": {
+                        "50": 18.84,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "25": 41711.96,
+                        "50": 58750,
+                        "75": 63931.23,
+                        "profileCount": 8
+                    },
+                    "total": {
+                        "10": 37356.15,
+                        "25": 40111.09,
+                        "50": 53981.48,
+                        "75": 65343.63,
+                        "90": 79463.45,
+                        "profileCount": 10
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-01-07T20:54:29.52077Z",
+                        "profileCount": 10,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 37356.15,
+                                    "25": 40111.09,
+                                    "50": 53981.48,
+                                    "75": 65343.63,
+                                    "90": 79463.45
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-01-07T20:54:29.52077Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 18.84
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-01-07T20:54:29.52077Z",
+                        "profileCount": 8,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 41711.96,
+                                    "50": 58750,
+                                    "75": 63931.23
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-01-07T20:54:29.52077Z",
+                        "profileCount": 8,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-01-07T20:54:29.52077Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary/00a9449a/Early-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 60875.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary/497413f9/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 71465.97
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary/7102d565/Philadelphia-PA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 55074.78
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Search Engine Optimization (SEO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary/215b7d03/Search-Engine-Optimization-SEO",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 61001.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Client Interaction",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary/b7ca3ea2/Client-Interaction",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 61006.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Google Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary/4cc5c4fc/Google-Analytics",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 51886.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Account Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary/8f325c98/Account-Management",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 62362.51
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 6,
+                        "score": 4.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 2138,
+                        "range": {
+                            "10": 40574.72,
+                            "25": 48312.6,
+                            "50": 58832.07,
+                            "75": 72072.84,
+                            "90": 87100.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1465,
+                        "range": {
+                            "10": 51308.94,
+                            "25": 62590.78,
+                            "50": 77427.97,
+                            "75": 95829.84,
+                            "90": 117166.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Executive",
+                        "url": "/research/US/Job=Account_Executive/Salary",
+                        "profileCount": 918,
+                        "range": {
+                            "10": 40495.46,
+                            "25": 48895.33,
+                            "50": 59880.61,
+                            "75": 75370.86,
+                            "90": 97955.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Paralegal",
+                        "url": "/research/US/Job=Paralegal/Salary",
+                        "profileCount": 774,
+                        "range": {
+                            "10": 36574.82,
+                            "25": 42339.39,
+                            "50": 50979.05,
+                            "75": 62389.5,
+                            "90": 74093.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Case Manager",
+                        "url": "/research/US/Job=Case_Manager/Salary",
+                        "profileCount": 534,
+                        "range": {
+                            "10": 32761.8,
+                            "25": 37232.94,
+                            "50": 44372.79,
+                            "75": 60303.37,
+                            "90": 76881.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Legal Assistant",
+                        "url": "/research/US/Job=Legal_Assistant/Hourly_Rate",
+                        "profileCount": 500,
+                        "range": {
+                            "10": 33177.12,
+                            "25": 38660.89,
+                            "50": 46468.38,
+                            "75": 57883.48,
+                            "90": 69878.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Account Manager",
+                        "url": "/research/US/Job=Senior_Account_Manager/Salary",
+                        "profileCount": 476,
+                        "range": {
+                            "10": 54392.13,
+                            "25": 64016.99,
+                            "50": 76676.27,
+                            "75": 93156.41,
+                            "90": 115186.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Success Manager",
+                        "url": "/research/US/Job=Customer_Success_Manager/Salary",
+                        "profileCount": 474,
+                        "range": {
+                            "10": 49936.67,
+                            "25": 59792.53,
+                            "50": 72502.57,
+                            "75": 90080.42,
+                            "90": 113003.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Attorney / Lawyer",
+                        "url": "/research/US/Job=Attorney_%2F_Lawyer/Salary",
+                        "profileCount": 376,
+                        "range": {
+                            "10": 55864.2,
+                            "25": 70311.76,
+                            "50": 90709.9,
+                            "75": 121908.03,
+                            "90": 160102.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Client Service Manager",
+                        "url": "/research/US/Job=Client_Service_Manager/Salary",
+                        "profileCount": 360,
+                        "range": {
+                            "10": 44374.53,
+                            "25": 52144.51,
+                            "50": 64320.24,
+                            "75": 77661.23,
+                            "90": 93760.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Manager",
+                        "url": "/research/US/Job=Digital_Marketing_Manager/Salary",
+                        "profileCount": 351,
+                        "range": {
+                            "10": 48083.78,
+                            "25": 58432.19,
+                            "50": 71187.66,
+                            "75": 87009,
+                            "90": 103787.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Attorney",
+                        "url": "/research/US/Job=Associate_Attorney/Salary",
+                        "profileCount": 346,
+                        "range": {
+                            "10": 54526.34,
+                            "25": 65444.67,
+                            "50": 79900.26,
+                            "75": 101094.03,
+                            "90": 132284.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Account Executive",
+                        "url": "/research/US/Job=Senior_Account_Executive/Salary",
+                        "profileCount": 330,
+                        "range": {
+                            "10": 51836.4,
+                            "25": 60600.78,
+                            "50": 71332.38,
+                            "75": 90496.58,
+                            "90": 121137.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Coordinator",
+                        "url": "/research/US/Job=Account_Coordinator/Salary",
+                        "profileCount": 327,
+                        "range": {
+                            "10": 35187.62,
+                            "25": 39097.6,
+                            "50": 43834.83,
+                            "75": 50484.69,
+                            "90": 58136.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Director",
+                        "url": "/research/US/Job=Account_Director/Salary",
+                        "profileCount": 311,
+                        "range": {
+                            "10": 68292.52,
+                            "25": 83562.88,
+                            "50": 100562.37,
+                            "75": 121203.42,
+                            "90": 144240.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Specialist",
+                        "url": "/research/US/Job=Digital_Marketing_Specialist/Salary",
+                        "profileCount": 291,
+                        "range": {
+                            "10": 39321.36,
+                            "25": 44575.58,
+                            "50": 52219.18,
+                            "75": 61801.17,
+                            "90": 71743.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Development Manager",
+                        "url": "/research/US/Job=Business_Development_Manager/Salary",
+                        "profileCount": 254,
+                        "range": {
+                            "10": 48669.17,
+                            "25": 60175.08,
+                            "50": 77971.94,
+                            "75": 100856.36,
+                            "90": 127732.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Client Relationship Manager",
+                        "url": "/research/US/Job=Client_Relationship_Manager/Salary",
+                        "profileCount": 252,
+                        "range": {
+                            "10": 44787.41,
+                            "25": 52664.11,
+                            "50": 66132.77,
+                            "75": 84295.48,
+                            "90": 109115.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Regional Sales Manager",
+                        "url": "/research/US/Job=Regional_Sales_Manager/Salary",
+                        "profileCount": 232,
+                        "range": {
+                            "10": 51583.63,
+                            "25": 67254.66,
+                            "50": 85351.87,
+                            "75": 105535.16,
+                            "90": 125959.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Supervisor",
+                        "url": "/research/US/Job=Account_Supervisor/Salary",
+                        "profileCount": 221,
+                        "range": {
+                            "10": 57377.68,
+                            "25": 66696.47,
+                            "50": 76761.34,
+                            "75": 86513.24,
+                            "90": 95517.44
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Search Engine Optimization (SEO), Client Interaction, Google Analytics, Account Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-01-07T20:54:29.52077Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "37356.15",
+                            "percentile25": "40111.09",
+                            "median": "53981.48",
+                            "percentile75": "65343.63",
+                            "percentile90": "79463.45",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "41711.96",
+                            "median": "58750",
+                            "percentile75": "63931.23",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "2100",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 14,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Search engine optimization (SEO) account managers are generally hired by companies which provide turnkey solutions to other organizations. Many companies prefer applicants who have at least a Bachelor's degree in Business, Economics, or a related field, although some companies will accept experience substituted for education.\r\nIdeally, SEO account managers should have multiple years of experience in technical search engine optimization, as well as additional experience in project management, enterprise-level SEO, and more depending on the company's needs. They must have a very thorough understanding of search engine optimization and the software, platforms, and techniques that are used in the field. It is also beneficial for these managers to be up-to-date on current trends and techniques and continue to develop their skills over time.\r\nSEO account managers work exclusively indoors, usually at a desk and computer. Their main responsibility is to perform SEO-related tasks and consulting for clients, which range from improving the visibility of websites on search engine pages to reporting estimations in traffic. There are various day-to-day tasks they will need to perform, such as keyword research and using crowd-sourcing platforms. They will also need good communication skills, as they will be in regular contact with clients to present findings and results, train them in search engine optimization, and provide technical support if any issues arise.",
+                    "name": "Search Engine Optimization (SEO) Account Manager",
+                    "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Account_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

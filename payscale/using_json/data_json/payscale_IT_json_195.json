@@ -1,0 +1,254 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Development Operations Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Development_Operations_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Development_Operations_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-09-23T09:19:32.65693Z",
+                "narratives": {
+                    "description": "Development operations engineers have in-depth knowledge of operational issues and technology and are tasked with studying and observing functioning systems and recording the performance results. They are also responsible for configuring operational priorities, determining project objectives, and developing operations solutions by defining, studying, estimating, and screening alternative solutions.\r\nThese engineers must anticipate operational problems by studying operating targets, modes of operations, unit limitations, and monitoring unit performance. They typically work in an office setting and may also work with other engineers on particular projects.\r\nA bachelor's degree in engineering may be a minimum requirement for this position, and some employers require a master's degree. Hours can vary greatly, as these engineers may be needed at different times of day or night when problems arise. Development operations engineers typically work long hours with on-call being occasionally necessary for some positions.",
+                    "summarySalary": "The average pay for a Development Operations Engineer is $92,500 per year."
+                },
+                "tasks": [
+                    "Research new technologies that will improve efficiency and effectiveness.",
+                    "Implement highly scalable applications.",
+                    "Integrate infrastructure builds with application deployment processes.",
+                    "Analyze, design and evaluate automation scripts and systems."
+                ],
+                "compensation": {
+                    "salary": {
+                        "25": 75908.57,
+                        "50": 92500,
+                        "75": 116236.22,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 77250,
+                        "50": 100000,
+                        "75": 126500,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-09-23T09:19:32.65693Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 77250,
+                                    "50": 100000,
+                                    "75": 126500
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-09-23T09:19:32.65693Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 75908.57,
+                                    "50": 92500,
+                                    "75": 116236.22
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-09-23T09:19:32.65693Z",
+                        "profileCount": 6,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-09-23T09:19:32.65693Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 2
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Development_Operations_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-09-23T09:19:32.65693Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "77250",
+                            "median": "100000",
+                            "percentile75": "126500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "75908.57",
+                            "median": "92500",
+                            "percentile75": "116236.22",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Development operations engineers have in-depth knowledge of operational issues and technology and are tasked with studying and observing functioning systems and recording the performance results. They are also responsible for configuring operational priorities, determining project objectives, and developing operations solutions by defining, studying, estimating, and screening alternative solutions.\r\nThese engineers must anticipate operational problems by studying operating targets, modes of operations, unit limitations, and monitoring unit performance. They typically work in an office setting and may also work with other engineers on particular projects.\r\nA bachelor's degree in engineering may be a minimum requirement for this position, and some employers require a master's degree. Hours can vary greatly, as these engineers may be needed at different times of day or night when problems arise. Development operations engineers typically work long hours with on-call being occasionally necessary for some positions.",
+                    "name": "Development Operations Engineer",
+                    "url": "/research/US/Job=Development_Operations_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

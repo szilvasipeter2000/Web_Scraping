@@ -1,0 +1,596 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Taxonomy Developer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Taxonomy_Developer/Salary",
+                    "defaultUrl": "/research/US/Job=Taxonomy_Developer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-05-07T06:22:57.14755Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Taxonomy Developer is $81,293 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 4500,
+                        "profileCount": 2
+                    },
+                    "profitSharing": {
+                        "50": 20000,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "25": 72000,
+                        "50": 81293.19,
+                        "75": 85738.43,
+                        "profileCount": 7
+                    },
+                    "total": {
+                        "25": 79913.45,
+                        "50": 83495.55,
+                        "75": 89300,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-05-07T06:22:57.14755Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 79913.45,
+                                    "50": 83495.55,
+                                    "75": 89300
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-05-07T06:22:57.14755Z",
+                        "profileCount": 7,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 72000,
+                                    "50": 81293.19,
+                                    "75": 85738.43
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-05-07T06:22:57.14755Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-05-07T06:22:57.14755Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Developer/Salary/1f3582ab/Early-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 80463.44
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Developer/Salary/97c91622/Los-Angeles-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 83383.71
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Taxonomy Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Developer/Salary/01c702ae/Taxonomy-Development",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 80281.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Architecture",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Developer/Salary/599123be/Information-Architecture",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Spreadsheets",
+                                "displayName": null,
+                                "url": "/research/US/Job=Taxonomy_Developer/Salary/d3b21f61/Spreadsheets",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80281.26
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Senior User Experience Designer",
+                        "url": "/research/US/Job=Senior_User_Experience_Designer/Salary",
+                        "profileCount": 59,
+                        "range": {
+                            "10": 77286.25,
+                            "25": 87588.39,
+                            "50": 101411.96,
+                            "75": 119558.49,
+                            "90": 138133.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Designer",
+                        "url": "/research/US/Job=User_Experience_Designer/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 50730.39,
+                            "25": 61242.58,
+                            "50": 74329.71,
+                            "75": 89158.36,
+                            "90": 108862.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "UX Designer",
+                        "url": "/research/US/Job=UX_Designer/Salary",
+                        "profileCount": 48,
+                        "range": {
+                            "10": 49966.98,
+                            "25": 60978.98,
+                            "50": 73857.33,
+                            "75": 89159.48,
+                            "90": 107163.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior UX Designer",
+                        "url": "/research/US/Job=Senior_UX_Designer/Salary",
+                        "profileCount": 48,
+                        "range": {
+                            "10": 76734.49,
+                            "25": 88605.29,
+                            "50": 101749.6,
+                            "75": 121222.76,
+                            "90": 138080.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Director",
+                        "url": "/research/US/Job=User_Experience_Director/Salary",
+                        "profileCount": 30,
+                        "range": {
+                            "10": 95088.55,
+                            "25": 117432.17,
+                            "50": 136940.06,
+                            "75": 156664.53,
+                            "90": 179669.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Architect",
+                        "url": "/research/US/Job=User_Experience_Architect/Salary",
+                        "profileCount": 24,
+                        "range": {
+                            "10": 54101.17,
+                            "25": 67941.18,
+                            "50": 88147.35,
+                            "75": 108767.55,
+                            "90": 122206.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Content Strategist",
+                        "url": "/research/US/Job=Content_Strategist/Salary",
+                        "profileCount": 23,
+                        "range": {
+                            "10": 40808.58,
+                            "25": 49349.91,
+                            "50": 61082.85,
+                            "75": 76045.34,
+                            "90": 95180.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Architect",
+                        "url": "/research/US/Job=Information_Architect/Salary",
+                        "profileCount": 22,
+                        "range": {
+                            "10": 61644.53,
+                            "25": 74338.68,
+                            "50": 96880.15,
+                            "75": 119586.71,
+                            "90": 136403.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Manager",
+                        "url": "/research/US/Job=User_Experience_Manager/Salary",
+                        "profileCount": 18,
+                        "range": {
+                            "10": 67752.03,
+                            "25": 86973.32,
+                            "50": 109982.15,
+                            "75": 129242.44,
+                            "90": 145964.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Energy Engineer",
+                        "url": "/research/US/Job=Energy_Engineer/Salary",
+                        "profileCount": 15,
+                        "range": {
+                            "10": 53913.88,
+                            "25": 61167.76,
+                            "50": 70847.86,
+                            "75": 81360.65,
+                            "90": 94975.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior User Experience Architect",
+                        "url": "/research/US/Job=Senior_User_Experience_Architect/Salary",
+                        "profileCount": 9,
+                        "range": {
+                            "10": 77672.46,
+                            "25": 94649.03,
+                            "50": 110246.05,
+                            "75": 128081.29,
+                            "90": 149754.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "UX Architect",
+                        "url": "/research/US/Job=UX_Architect/Salary",
+                        "profileCount": 8,
+                        "range": {
+                            "10": 58847.33,
+                            "25": 68539.02,
+                            "50": 87782.91,
+                            "75": 109898.67,
+                            "90": 125842.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Taxonomy Analyst",
+                        "url": "/research/US/Job=Taxonomy_Analyst/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 50221.08,
+                            "25": 56282.54,
+                            "50": 60820.82,
+                            "75": 73986.49,
+                            "90": 80051.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead UX Designer",
+                        "url": "/research/US/Job=Lead_UX_Designer/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 78776.6,
+                            "25": 92245.82,
+                            "50": 109411.92,
+                            "75": 131604.39,
+                            "90": 151292.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Taxonomist, Controlled Vocabulary",
+                        "url": "/research/US/Job=Taxonomist%2C_Controlled_Vocabulary/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 40133.53,
+                            "25": 50980.39,
+                            "50": 58911.28,
+                            "75": 81528.37,
+                            "90": 88779.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principle User Experience Designer",
+                        "url": "/research/US/Job=Principle_User_Experience_Designer/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 98165.44,
+                            "25": 112005.16,
+                            "50": 130889.15,
+                            "75": 146758.34,
+                            "90": 163887.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 28675.67,
+                            "25": 32932.36,
+                            "50": 39348.75,
+                            "75": 46912.03,
+                            "90": 55460.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Real Estate Administrator",
+                        "url": "/research/US/Job=Real_Estate_Administrator/Hourly_Rate",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 31864.12,
+                            "25": 36862.93,
+                            "50": 41241.17,
+                            "75": 49860.97,
+                            "90": 60402.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Content Strategist",
+                        "url": "/research/US/Job=Senior_Content_Strategist/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 57422.03,
+                            "25": 67972.96,
+                            "50": 80566.11,
+                            "75": 97052.81,
+                            "90": 114798.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Taxonomy Manager",
+                        "url": "/research/US/Job=Taxonomy_Manager/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 51064.3,
+                            "25": 57924.54,
+                            "50": 65984.85,
+                            "75": 77902.19,
+                            "90": 97871.41
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Taxonomy_Developer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Taxonomy Development, Information Architecture, Spreadsheets",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-05-07T06:22:57.14755Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "79913.45",
+                            "median": "83495.55",
+                            "percentile75": "89300",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "72000",
+                            "median": "81293.19",
+                            "percentile75": "85738.43",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "20000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "4500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 11,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Taxonomy Developer",
+                    "url": "/research/US/Job=Taxonomy_Developer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

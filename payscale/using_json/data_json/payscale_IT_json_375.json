@@ -1,0 +1,315 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Multimedia Programmer"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Multimedia_Programmer/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Multimedia_Programmer/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-04-04T00:40:36.92052Z",
+                "narratives": {
+                    "description": "Multimedia programmers are software engineers who use programming languages to create interactive media. They typically work full time or on a freelance basis, most often at the computer creating and testing product code.  It is possible for multimedia programmers to work on teams or on an individual basis, and the most common programs used by multimedia programmers include HTML 5, Ruby on Rails, PHP and Java. Multimedia programmers generally work full time in an office setting, although alternative and/or additional hours may be required depending on the needs of the business. For example, multimedia programmers may be called upon to fix critical bugs or errors in released products outside of working hours, as well as offer patches to users to ensure quality performance of the program.\r\nA bachelor's degree in computer science or another relevant field is often required for the position, though relevant work experience may sometimes be substituted for education. Many multimedia programmers have relevant experience, and these professionals must have an extensive knowledge of the programming languages required by their position, pay close attention to detail and be able to find and correct errors. ",
+                    "summaryHourly": "The average pay for a Multimedia Programmer is $21.02 per hour.",
+                    "summarySalary": "The average pay for a Multimedia Programmer is $75,000 per year."
+                },
+                "tasks": [
+                    "Design, coordinate and deliver web portals integrate text, graphics, video, and sound for online learning programs, video games, or interactive websites.",
+                    "Form, manage, and direct project teams.",
+                    "Create and oversee the production of scripts, templates, and storyboards.",
+                    "Create, design, and test prototypes for the management team."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 1650,
+                        "profileCount": 2
+                    },
+                    "hourlyRate": {
+                        "25": 19.83,
+                        "50": 21.02,
+                        "75": 29.16,
+                        "profileCount": 8
+                    },
+                    "salary": {
+                        "25": 33500,
+                        "50": 75000,
+                        "75": 90000,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "10": 30912.6,
+                        "25": 39770.32,
+                        "50": 44933.83,
+                        "75": 68700,
+                        "90": 91818.08,
+                        "profileCount": 13
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-04-04T00:40:36.92052Z",
+                        "profileCount": 13,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 30912.6,
+                                    "25": 39770.32,
+                                    "50": 44933.83,
+                                    "75": 68700,
+                                    "90": 91818.08
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-04-04T00:40:36.92052Z",
+                        "profileCount": 8,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 19.83,
+                                    "50": 21.02,
+                                    "75": 29.16
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-04-04T00:40:36.92052Z",
+                        "profileCount": 5,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 33500,
+                                    "50": 75000,
+                                    "75": 90000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-04-04T00:40:36.92052Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-04-04T00:40:36.92052Z",
+                        "profileCount": 9,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Multimedia_Programmer/Salary/524948f6/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 21.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Multimedia_Programmer/Hourly_Rate/9828541d/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 20.51
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Multimedia_Programmer/Hourly_Rate",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-04-04T00:40:36.92052Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "30912.6",
+                            "percentile25": "39770.32",
+                            "median": "44933.83",
+                            "percentile75": "68700",
+                            "percentile90": "91818.08",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "HOUR",
+                            "percentile10": null,
+                            "percentile25": "19.83",
+                            "median": "21.02",
+                            "percentile75": "29.16",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "1650",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 14,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Multimedia programmers are software engineers who use programming languages to create interactive media. They typically work full time or on a freelance basis, most often at the computer creating and testing product code.  It is possible for multimedia programmers to work on teams or on an individual basis, and the most common programs used by multimedia programmers include HTML 5, Ruby on Rails, PHP and Java. Multimedia programmers generally work full time in an office setting, although alternative and/or additional hours may be required depending on the needs of the business. For example, multimedia programmers may be called upon to fix critical bugs or errors in released products outside of working hours, as well as offer patches to users to ensure quality performance of the program.\r\nA bachelor's degree in computer science or another relevant field is often required for the position, though relevant work experience may sometimes be substituted for education. Many multimedia programmers have relevant experience, and these professionals must have an extensive knowledge of the programming languages required by their position, pay close attention to detail and be able to find and correct errors. ",
+                    "name": "Multimedia Programmer",
+                    "url": "/research/US/Job=Multimedia_Programmer/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,650 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Search Engine Optimization (SEO) Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-02-14T01:57:47.25985Z",
+                "narratives": {
+                    "description": "Senior search engine optimization (SEO) managers lead teams of SEO staff, create projects, and delegate tasks, and must determine how certain content can be optimized for search engines so that both paid and organic search results are highly visible. These managers also work with other departments within the company, such as graphic design, marketing, programming, and client services.\r\nIn-depth knowledge of SEO and ranking factors is essential in this position, and relevant prior experience may be required by employers. These senior managers must be able to multitask and manage various projects, and problem-solving and troubleshooting skills are also helpful. They must constantly analyze the outcomes of different SEO campaigns and make changes to improve success, and they may also determine which techniques draw more customers to websites and what entices them to follow through with purchases. Record-keeping skills are important in this position to track the success of certain projects and determine which strategies should be used next, and they may also be responsible for hiring, firing, training, and evaluating employees.\r\nPrior leadership experience and many years of experience in SEO are generally required for this position, and senior SEO managers must ensure that the team is always on-time and within budget. A bachelor's degree or higher in a computer science-related field may also be required.",
+                    "summarySalary": "The average pay for a Senior Search Engine Optimization (SEO) Manager is $105,450 per year."
+                },
+                "tasks": [
+                    "Develop tools, best practices and strategies to increase organic web-traffic.",
+                    "Conduct keyword and market research and serve as chief subject matter expert in everything SEO.",
+                    "Collaborate with product teams and project managers to implement best practices that improve organic traffic.",
+                    "Review websites to identify and improve site architecture, new page designs, content development, and linking."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 989.86,
+                        "25": 1500,
+                        "50": 10000,
+                        "75": 16000,
+                        "90": 20564.89,
+                        "profileCount": 11
+                    },
+                    "salary": {
+                        "10": 58174.8,
+                        "25": 66128.71,
+                        "50": 105450,
+                        "75": 136613.55,
+                        "90": 153192.89,
+                        "profileCount": 16
+                    },
+                    "total": {
+                        "10": 59701.56,
+                        "25": 67392.25,
+                        "50": 110000,
+                        "75": 149775.31,
+                        "90": 167508.19,
+                        "profileCount": 16
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-02-14T01:57:47.25985Z",
+                        "profileCount": 16,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 59701.56,
+                                    "25": 67392.25,
+                                    "50": 110000,
+                                    "75": 149775.31,
+                                    "90": 167508.19
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-02-14T01:57:47.25985Z",
+                        "profileCount": 16,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 58174.8,
+                                    "25": 66128.71,
+                                    "50": 105450,
+                                    "75": 136613.55,
+                                    "90": 153192.89
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-02-14T01:57:47.25985Z",
+                        "profileCount": 9,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-02-14T01:57:47.25985Z",
+                        "profileCount": 11,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/dab6db9a/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 72211.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/49136319/Mid-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/7bdfd4b7/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/9ea0a962/San-Francisco-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 147395.28
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Search Engine Optimization (SEO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/9844c810/Search-Engine-Optimization-SEO",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategy Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/56c791ba/Strategy-Development",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 93500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Google Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/9c81775b/Google-Analytics",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/c8d07f02/Web-Analytics",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 75155.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Planning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/69ea4ee5/Strategic-Planning",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Team Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary/989c12d2/Team-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 3.75
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 732,
+                        "range": {
+                            "10": 47554.45,
+                            "25": 61039,
+                            "50": 82900.67,
+                            "75": 121730.9,
+                            "90": 176053.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 547,
+                        "range": {
+                            "10": 55877.16,
+                            "25": 73053.53,
+                            "50": 97381.56,
+                            "75": 128830.81,
+                            "90": 157365.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 489,
+                        "range": {
+                            "10": 75218.41,
+                            "25": 105980.07,
+                            "50": 159263.37,
+                            "75": 237290.14,
+                            "90": 311785.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 460,
+                        "range": {
+                            "10": 58810.8,
+                            "25": 73752.44,
+                            "50": 92068.92,
+                            "75": 117891.6,
+                            "90": 142377.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Financial Officer (CFO)",
+                        "url": "/research/US/Job=Chief_Financial_Officer_(CFO)/Salary",
+                        "profileCount": 418,
+                        "range": {
+                            "10": 81141.91,
+                            "25": 106063.2,
+                            "50": 144710.27,
+                            "75": 188265.19,
+                            "90": 235320.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Manager",
+                        "url": "/research/US/Job=Digital_Marketing_Manager/Salary",
+                        "profileCount": 410,
+                        "range": {
+                            "10": 48174.47,
+                            "25": 58523.66,
+                            "50": 71336.62,
+                            "75": 87127.99,
+                            "90": 104168.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 321,
+                        "range": {
+                            "10": 79863.98,
+                            "25": 102073.13,
+                            "50": 134708.6,
+                            "75": 171632.2,
+                            "90": 204049.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Specialist",
+                        "url": "/research/US/Job=Digital_Marketing_Specialist/Salary",
+                        "profileCount": 308,
+                        "range": {
+                            "10": 39411.82,
+                            "25": 44802.54,
+                            "50": 52587.65,
+                            "75": 62092.24,
+                            "90": 71858.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 298,
+                        "range": {
+                            "10": 76338.9,
+                            "25": 101859.13,
+                            "50": 146390.4,
+                            "75": 196037.91,
+                            "90": 247360.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Director",
+                        "url": "/research/US/Job=Marketing_Director/Salary",
+                        "profileCount": 288,
+                        "range": {
+                            "10": 52544.55,
+                            "25": 69847.04,
+                            "50": 94051.04,
+                            "75": 124805.86,
+                            "90": 153278.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "President",
+                        "url": "/research/US/Job=President/Salary",
+                        "profileCount": 280,
+                        "range": {
+                            "10": 77637.36,
+                            "25": 110369.58,
+                            "50": 154019.8,
+                            "75": 207820.11,
+                            "90": 263894.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Search Engine Optimization (SEO) Specialist",
+                        "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Specialist/Salary",
+                        "profileCount": 249,
+                        "range": {
+                            "10": 38447.36,
+                            "25": 43136.81,
+                            "50": 49863.16,
+                            "75": 58688,
+                            "90": 69482.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Strategist",
+                        "url": "/research/US/Job=Digital_Strategist/Salary",
+                        "profileCount": 230,
+                        "range": {
+                            "10": 44716.65,
+                            "25": 53515.74,
+                            "50": 65146.4,
+                            "75": 81958.62,
+                            "90": 109716.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Development Director",
+                        "url": "/research/US/Job=Business_Development_Director/Salary",
+                        "profileCount": 213,
+                        "range": {
+                            "10": 61918.65,
+                            "25": 81596.6,
+                            "50": 110852.25,
+                            "75": 143172.71,
+                            "90": 172056.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Officer (CIO)",
+                        "url": "/research/US/Job=Chief_Information_Officer_(CIO)/Salary",
+                        "profileCount": 194,
+                        "range": {
+                            "10": 101015.27,
+                            "25": 130341.35,
+                            "50": 172046.52,
+                            "75": 215483.01,
+                            "90": 258026.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Finance Director",
+                        "url": "/research/US/Job=Finance_Director/Salary",
+                        "profileCount": 164,
+                        "range": {
+                            "10": 66634.81,
+                            "25": 86594.34,
+                            "50": 118207.17,
+                            "75": 147761.76,
+                            "90": 170838.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Human Resources (HR)",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Human_Resources_(HR)/Salary",
+                        "profileCount": 164,
+                        "range": {
+                            "10": 92206.93,
+                            "25": 116845.95,
+                            "50": 146283.26,
+                            "75": 173785.87,
+                            "90": 201833.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Human Resources (HR)",
+                        "url": "/research/US/Job=Director_of_Human_Resources_(HR)/Salary",
+                        "profileCount": 157,
+                        "range": {
+                            "10": 64028.03,
+                            "25": 79232.58,
+                            "50": 98490.64,
+                            "75": 121878.06,
+                            "90": 144346.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Search Engine Optimization (SEO) Manager",
+                        "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Manager/Salary",
+                        "profileCount": 146,
+                        "range": {
+                            "10": 50615.71,
+                            "25": 59862.8,
+                            "50": 74384.83,
+                            "75": 88398.4,
+                            "90": 106441.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Development, Non-Profit Organization",
+                        "url": "/research/US/Job=Director_of_Development%2C_Non-Profit_Organization/Salary",
+                        "profileCount": 137,
+                        "range": {
+                            "10": 45156.37,
+                            "25": 55260.47,
+                            "50": 69410.46,
+                            "75": 86920.22,
+                            "90": 107441.45
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Search Engine Optimization (SEO), Strategy Development, Google Analytics, Web Analytics, Strategic Planning, Team Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-02-14T01:57:47.25985Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "59701.56",
+                            "percentile25": "67392.25",
+                            "median": "110000",
+                            "percentile75": "149775.31",
+                            "percentile90": "167508.19",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58174.8",
+                            "percentile25": "66128.71",
+                            "median": "105450",
+                            "percentile75": "136613.55",
+                            "percentile90": "153192.89",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "989.86",
+                            "percentile25": "1500",
+                            "median": "10000",
+                            "percentile75": "16000",
+                            "percentile90": "20564.89",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 23,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Senior search engine optimization (SEO) managers lead teams of SEO staff, create projects, and delegate tasks, and must determine how certain content can be optimized for search engines so that both paid and organic search results are highly visible. These managers also work with other departments within the company, such as graphic design, marketing, programming, and client services.\r\nIn-depth knowledge of SEO and ranking factors is essential in this position, and relevant prior experience may be required by employers. These senior managers must be able to multitask and manage various projects, and problem-solving and troubleshooting skills are also helpful. They must constantly analyze the outcomes of different SEO campaigns and make changes to improve success, and they may also determine which techniques draw more customers to websites and what entices them to follow through with purchases. Record-keeping skills are important in this position to track the success of certain projects and determine which strategies should be used next, and they may also be responsible for hiring, firing, training, and evaluating employees.\r\nPrior leadership experience and many years of experience in SEO are generally required for this position, and senior SEO managers must ensure that the team is always on-time and within budget. A bachelor's degree or higher in a computer science-related field may also be required.",
+                    "name": "Senior Search Engine Optimization (SEO) Manager",
+                    "url": "/research/US/Job=Senior_Search_Engine_Optimization_(SEO)_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,1334 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Security Administrator, Computer Network",
+                    "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary",
+                    "compensation": 68302.875595783,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Information Security Specialist",
+                            "url": "/research/US/Job=Information_Security_Specialist/Salary",
+                            "percent": 1,
+                            "compensation": 76303.9180772134,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Information Security Analyst",
+                                    "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                                    "percent": 0.19,
+                                    "compensation": 72077.72803685124,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Security Officer",
+                                    "url": "/research/US/Job=Information_Security_Officer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 92489.76251702498,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Security Manager",
+                                    "url": "/research/US/Job=Information_Security_Manager/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 114620.91299689224,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Security Administrator, Computer Network"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary",
+                    "defaultUrl": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-02-03T07:17:44.99378Z",
+                "narratives": {
+                    "description": "Security administrators are also known as computer security specialists, network security analysts, or Internet security specialists. They perform a variety of security-related tasks for their organization, such as teaching colleagues about computer security, checking for security violations, installing protective software, and taking action against cyber attacks. Once a problem is detected, security administrators are expected to quickly and accurately find a solution, providing updates to management as needed. In some cases, a security administrator may provide evidence of a cyber attack to help prosecute individuals for breaching security. \r\nSecurity administrators generally work in an office setting during regular business hours. However, alternative and/or additional hours may be required depending on their employer's needs; administrators may need to be on-call in case of emergencies as well. Typically, security administrators work on their own or with a team of other security administrators. \r\nFor the most part, security administrators are required to hold a bachelor's degree in a relevant field such as computer science. Relevant certifications may be required or preferred as well. Security administrators must have excellent communication skills, as well as be able to effectively detect and analyze security problems. They must stay up-to-date and knowledgeable about security-related issues as well.",
+                    "summaryHourly": "The average pay for a Security Administrator, Computer Network is $20.26 per hour.",
+                    "summarySalary": "The average pay for a Security Administrator, Computer Network is $71,343 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 5322.71,
+                        "profileCount": 4
+                    },
+                    "hourlyRate": {
+                        "25": 16.79,
+                        "50": 20.26,
+                        "75": 32.43,
+                        "profileCount": 8
+                    },
+                    "salary": {
+                        "10": 49836.04,
+                        "25": 58870.11,
+                        "50": 71343.27,
+                        "75": 79218.66,
+                        "90": 87956.33,
+                        "profileCount": 31
+                    },
+                    "total": {
+                        "10": 36619.09,
+                        "25": 53290.04,
+                        "50": 68875.33,
+                        "75": 76718.78,
+                        "90": 86672.48,
+                        "profileCount": 39
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-02-03T07:17:44.99378Z",
+                        "profileCount": 39,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 39,
+                                "range": {
+                                    "10": 36619.09,
+                                    "25": 53290.04,
+                                    "50": 68875.33,
+                                    "75": 76718.78,
+                                    "90": 86672.48
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-02-03T07:17:44.99378Z",
+                        "profileCount": 8,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 16.79,
+                                    "50": 20.26,
+                                    "75": 32.43
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-02-03T07:17:44.99378Z",
+                        "profileCount": 31,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 31,
+                                "range": {
+                                    "10": 49836.04,
+                                    "25": 58870.11,
+                                    "50": 71343.27,
+                                    "75": 79218.66,
+                                    "90": 87956.33
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-02-03T07:17:44.99378Z",
+                        "profileCount": 16,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-02-03T07:17:44.99378Z",
+                        "profileCount": 21,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/ba8961b1/Entry-Level",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 51886.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/ba8961b1/Early-Career",
+                                "profileCount": 28,
+                                "range": {
+                                    "50": 61822.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/99f3bb48/Mid-Career",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 72618.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/2545fbb0/Experienced",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 78164.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/d2ee737c/Late-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 92951
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/b9f03b14/Tampa-FL",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 66128.71
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Antonio, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/aeed3912/San-Antonio-TX",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 72500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Madison, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/cf0964a5/Madison-WI",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/9e8c6ace/Washington-DC",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 107581.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/97304f65/Denver-CO",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 56000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/cf3fea87/Boston-MA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 65001.09
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/b30df79d/Dallas-TX",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 60900
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/c5a344be/Philadelphia-PA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 80500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Louisville, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/6145072a/Louisville-KY",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 52000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/0cc15497/Charlotte-NC",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 78263.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cincinnati, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/86a7de2a/Cincinnati-OH",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 79996.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/e907c170/Chicago-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 71813.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indianapolis, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/ccde2d94/Indianapolis-IN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 56566.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "O'Fallon, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/6bc79d9e/OFallon-MO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 54000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Orlando, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/dd54394d/Orlando-FL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 66000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Hourly_Rate/31cc717f/Salt-Lake-City-UT",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Arlington, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/2633966b/Arlington-VA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 80661.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/f0effbe5/Pittsburgh-PA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80634.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/ebc880bd/Nashville-TN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 77419.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/aee8a308/Columbus-OH",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 53000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Virginia Beach, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/49342cb4/Virginia-Beach-VA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 57138.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/66a6e9a4/Miami-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scottsdale, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/86a92477/Scottsdale-AZ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/a459ff52/Los-Angeles-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 66000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/37e7397a/San-Diego-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 88900
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Colorado Springs, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/31cc717f/Colorado-Springs-CO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 91798.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/49a52c66/St.-Louis-MO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 66373.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/8de3e26d/Minneapolis-MN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Albuquerque, New Mexico",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/d301d84d/Albuquerque-NM",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Binghamton, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/813a0c2b/Binghamton-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 69512.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/cbe12ab1/New-York-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 79074.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Utica, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/26cb4ffc/Utica-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 45752.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Buffalo, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Hourly_Rate/efad442f/Buffalo-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cleveland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/f927ba5d/Cleveland-OH",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 57000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/268205ff/Raleigh-NC",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 76500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baton Rouge, Louisiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/9f633e26/Baton-Rouge-LA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 50525.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jacksonville, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/4684bc73/Jacksonville-FL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 80293.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Honolulu, Hawaii",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/0b326d0f/Honolulu-HI",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 88500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/2dce4e19/Seattle-WA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 75662.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milwaukee, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/386db9ed/Milwaukee-WI",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 72444
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oklahoma City, Oklahoma",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/c4981f6c/Oklahoma-City-OK",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Corvallis, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/1b42f2cc/Corvallis-OR",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lancaster, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/d08165ce/Lancaster-PA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 56405.12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richmond, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/ee513e25/Richmond-VA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 67327.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Hourly_Rate/c6d1ee35/Houston-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plano, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/3519b066/Plano-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 93000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/c8d28958/Austin-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/a6a5a5b0/Atlanta-GA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 67852.92
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/f4538024/San-Francisco-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Costa Mesa, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Hourly_Rate/6b77bc20/Costa-Mesa-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New Orleans, Louisiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/dba45f01/New-Orleans-LA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 61854.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Las Vegas, Nevada",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/9f515640/Las-Vegas-NV",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bowling Green, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/d1dd3912/Bowling-Green-KY",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 37100
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Redwood City, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/05bf50f6/Redwood-City-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 98477.16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Peoria, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/308d7963/Peoria-AZ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 101000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "El Paso, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/9ee6fba2/El-Paso-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 73750
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/e5bc42f2/Network-Management-Administration",
+                                "profileCount": 38,
+                                "range": {
+                                    "50": 70577.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/ba82319b/IT-Security-%26-Infrastructure",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 69235.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Maintenance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/a4e117dd/Security-Maintenance",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 70481.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Testing and Auditing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/9165a7d2/Security-Testing-and-Auditing",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 77471.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cisco Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/fb1d8906/Cisco-Networking",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 81791.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Intrusion Detection",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/c1a08596/Security-Intrusion-Detection",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 68096.25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Policies and Procedures",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/74b2dd67/Security-Policies-and-Procedures",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 61176.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Switches & Firewall Installation and Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/bdf71eff/Switches-%26-Firewall-Installation-and-Administration",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 67500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cyber Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary/f5da1a2d/Cyber-Security",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 61041.89
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 6,
+                        "score": 3.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 1358,
+                        "range": {
+                            "10": 53816.84,
+                            "25": 65535.8,
+                            "50": 78671.37,
+                            "75": 94463.77,
+                            "90": 112836.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1283,
+                        "range": {
+                            "10": 57467.71,
+                            "25": 71146.73,
+                            "50": 90181.48,
+                            "75": 113531.29,
+                            "90": 135328.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 896,
+                        "range": {
+                            "10": 54286.05,
+                            "25": 63110.22,
+                            "50": 75215.92,
+                            "75": 91631.49,
+                            "90": 112510.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 735,
+                        "range": {
+                            "10": 44543.83,
+                            "25": 52975.46,
+                            "50": 63313.93,
+                            "75": 74971.43,
+                            "90": 87430.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer",
+                        "url": "/research/US/Job=Security_Engineer/Salary",
+                        "profileCount": 635,
+                        "range": {
+                            "10": 66471.8,
+                            "25": 79852.38,
+                            "50": 97522.96,
+                            "75": 120950.18,
+                            "90": 143965.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Network Engineer",
+                        "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                        "profileCount": 623,
+                        "range": {
+                            "10": 77632.32,
+                            "25": 90149.32,
+                            "50": 107003.06,
+                            "75": 125527.78,
+                            "90": 145076.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 616,
+                        "range": {
+                            "10": 73166.38,
+                            "25": 94514.87,
+                            "50": 123513.26,
+                            "75": 153012.55,
+                            "90": 177824.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 598,
+                        "range": {
+                            "10": 47609.18,
+                            "25": 55302.58,
+                            "50": 65248.33,
+                            "75": 77473.58,
+                            "90": 91401.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Analyst",
+                        "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                        "profileCount": 535,
+                        "range": {
+                            "10": 54753.42,
+                            "25": 65429.76,
+                            "50": 78789.55,
+                            "75": 96503.39,
+                            "90": 117472.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Analyst",
+                        "url": "/research/US/Job=Security_Analyst/Salary",
+                        "profileCount": 496,
+                        "range": {
+                            "10": 51549.52,
+                            "25": 61043.15,
+                            "50": 72384.26,
+                            "75": 85693.15,
+                            "90": 101423.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Manager",
+                        "url": "/research/US/Job=Information_Security_Manager/Salary",
+                        "profileCount": 417,
+                        "range": {
+                            "10": 82043.07,
+                            "25": 99396.99,
+                            "50": 122141.6,
+                            "75": 139791.22,
+                            "90": 155901.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Engineer",
+                        "url": "/research/US/Job=Cyber_Security_Engineer/Salary",
+                        "profileCount": 350,
+                        "range": {
+                            "10": 70983.58,
+                            "25": 81866.66,
+                            "50": 99945.07,
+                            "75": 123679.7,
+                            "90": 144524.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Engineer",
+                        "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                        "profileCount": 340,
+                        "range": {
+                            "10": 69417.51,
+                            "25": 80076.7,
+                            "50": 97170.56,
+                            "75": 118607.41,
+                            "90": 138063.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 307,
+                        "range": {
+                            "10": 54098.55,
+                            "25": 64650.83,
+                            "50": 76778.26,
+                            "75": 90961.3,
+                            "90": 108809.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 299,
+                        "range": {
+                            "10": 46045.99,
+                            "25": 54007.73,
+                            "50": 64056.33,
+                            "75": 76136.45,
+                            "90": 91070.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Manager",
+                        "url": "/research/US/Job=Security_Manager/Salary",
+                        "profileCount": 286,
+                        "range": {
+                            "10": 48473.31,
+                            "25": 58979.13,
+                            "50": 76296.74,
+                            "75": 106059.52,
+                            "90": 138834.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Consultant, (Computing / Networking / Information Technology)",
+                        "url": "/research/US/Job=Security_Consultant%2C_(Computing_%2F_Networking_%2F_Information_Technology)/Salary",
+                        "profileCount": 284,
+                        "range": {
+                            "10": 64979.66,
+                            "25": 74766.12,
+                            "50": 92365.66,
+                            "75": 118431.85,
+                            "90": 146976.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 281,
+                        "range": {
+                            "10": 38134.39,
+                            "25": 42532.42,
+                            "50": 51591.61,
+                            "75": 64563.74,
+                            "90": 81021.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Officer",
+                        "url": "/research/US/Job=Information_Security_Officer/Salary",
+                        "profileCount": 276,
+                        "range": {
+                            "10": 62184.52,
+                            "25": 79146.38,
+                            "50": 98027.92,
+                            "75": 119700.81,
+                            "90": 143862.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Architect, IT",
+                        "url": "/research/US/Job=Security_Architect%2C_IT/Salary",
+                        "profileCount": 245,
+                        "range": {
+                            "10": 91347.06,
+                            "25": 109939.25,
+                            "50": 134095.19,
+                            "75": 157202.84,
+                            "90": 180564.5
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Network Management / Administration, IT Security & Infrastructure, Security Maintenance, Security Testing and Auditing, Cisco Networking, Security Intrusion Detection, Security Policies and Procedures, Switches & Firewall Installation and Administration, Cyber Security",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-02-03T07:17:44.99378Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "36619.09",
+                            "percentile25": "53290.04",
+                            "median": "68875.33",
+                            "percentile75": "76718.78",
+                            "percentile90": "86672.48",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49836.04",
+                            "percentile25": "58870.11",
+                            "median": "71343.27",
+                            "percentile75": "79218.66",
+                            "percentile90": "87956.33",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "5322.71",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 47,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Security administrators are also known as computer security specialists, network security analysts, or Internet security specialists. They perform a variety of security-related tasks for their organization, such as teaching colleagues about computer security, checking for security violations, installing protective software, and taking action against cyber attacks. Once a problem is detected, security administrators are expected to quickly and accurately find a solution, providing updates to management as needed. In some cases, a security administrator may provide evidence of a cyber attack to help prosecute individuals for breaching security. \r\nSecurity administrators generally work in an office setting during regular business hours. However, alternative and/or additional hours may be required depending on their employer's needs; administrators may need to be on-call in case of emergencies as well. Typically, security administrators work on their own or with a team of other security administrators. \r\nFor the most part, security administrators are required to hold a bachelor's degree in a relevant field such as computer science. Relevant certifications may be required or preferred as well. Security administrators must have excellent communication skills, as well as be able to effectively detect and analyze security problems. They must stay up-to-date and knowledgeable about security-related issues as well.",
+                    "name": "Security Administrator, Computer Network",
+                    "url": "/research/US/Job=Security_Administrator%2C_Computer_Network/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

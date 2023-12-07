@@ -1,0 +1,447 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Nursing Informatics Coordinator"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Nursing_Informatics_Coordinator/Salary",
+                    "defaultUrl": "/research/US/Job=Nursing_Informatics_Coordinator/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2020-01-13T09:35:59.59936Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Nursing Informatics Coordinator is $30.85 per hour.",
+                    "summarySalary": "The average pay for a Nursing Informatics Coordinator is $81,215 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 30.85,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "25": 64866.47,
+                        "50": 81214.67,
+                        "75": 94684.97,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 62997.99,
+                        "50": 76460.55,
+                        "75": 92792.67,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2020-01-13T09:35:59.59936Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 62997.99,
+                                    "50": 76460.55,
+                                    "75": 92792.67
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2020-01-13T09:35:59.59936Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 30.85
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2020-01-13T09:35:59.59936Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 64866.47,
+                                    "50": 81214.67,
+                                    "75": 94684.97
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2020-01-13T09:35:59.59936Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2020-01-13T09:35:59.59936Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Nursing Informatics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Coordinator/Salary/c7eff322/Nursing-Informatics",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 82886.86
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Informatics Nurse",
+                        "url": "/research/US/Job=Informatics_Nurse/Salary",
+                        "profileCount": 19,
+                        "range": {
+                            "10": 58859.99,
+                            "25": 67482.45,
+                            "50": 77494.23,
+                            "75": 87880.56,
+                            "90": 97113.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Informatics Specialist",
+                        "url": "/research/US/Job=Clinical_Informatics_Specialist/Salary",
+                        "profileCount": 15,
+                        "range": {
+                            "10": 51950.12,
+                            "25": 65566.8,
+                            "50": 77736.36,
+                            "75": 92810.01,
+                            "90": 108944.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Product Analyst",
+                        "url": "/research/US/Job=Senior_Product_Analyst/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 58733.96,
+                            "25": 70799.26,
+                            "50": 84142.91,
+                            "75": 99191.08,
+                            "90": 121398.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Informatics Manager",
+                        "url": "/research/US/Job=Clinical_Informatics_Manager/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 65128.28,
+                            "25": 79060.9,
+                            "50": 93965.96,
+                            "75": 108638.33,
+                            "90": 123693.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Nurse Assistant (CNA)",
+                        "url": "/research/US/Job=Certified_Nurse_Assistant_(CNA)/Hourly_Rate",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 19221.58,
+                            "25": 22675.94,
+                            "50": 28203.84,
+                            "75": 35212.33,
+                            "90": 42203.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Analyst",
+                        "url": "/research/US/Job=Clinical_Analyst/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 48888.74,
+                            "25": 58400.97,
+                            "50": 69136.98,
+                            "75": 82683.11,
+                            "90": 94368.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Registered Nurse (RN)",
+                        "url": "/research/US/Job=Registered_Nurse_(RN)/Hourly_Rate",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 43420.08,
+                            "25": 52242.73,
+                            "50": 63796.17,
+                            "75": 75979.87,
+                            "90": 89523.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Nursing Informatics Specialist",
+                        "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 62435.34,
+                            "25": 72540.26,
+                            "50": 84173.14,
+                            "75": 101428.3,
+                            "90": 113609.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director, Clinical Services",
+                        "url": "/research/US/Job=Director%2C_Clinical_Services/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 60957.79,
+                            "25": 71944.04,
+                            "50": 88038.78,
+                            "75": 106488.87,
+                            "90": 133135.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Nursing Informatics Analyst",
+                        "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 59597.59,
+                            "25": 65361.81,
+                            "50": 79946.11,
+                            "75": 88636.7,
+                            "90": 100410.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Systems Analyst",
+                        "url": "/research/US/Job=Clinical_Systems_Analyst/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 48617.91,
+                            "25": 57597.08,
+                            "50": 67281.02,
+                            "75": 80721.13,
+                            "90": 99280.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Nursing Informatics Director",
+                        "url": "/research/US/Job=Nursing_Informatics_Director/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 68460.95,
+                            "25": 90228.81,
+                            "50": 106888.21,
+                            "75": 122512.86,
+                            "90": 173826.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 51089.71,
+                            "25": 68202.27,
+                            "50": 91274.4,
+                            "75": 121851.9,
+                            "90": 150085.46
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Nursing_Informatics_Coordinator/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Nursing Informatics",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2020-01-13T09:35:59.59936Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "62997.99",
+                            "median": "76460.55",
+                            "percentile75": "92792.67",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "64866.47",
+                            "median": "81214.67",
+                            "percentile75": "94684.97",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 10,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Nursing Informatics Coordinator",
+                    "url": "/research/US/Job=Nursing_Informatics_Coordinator/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,830 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Ethical Hacker"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Ethical_Hacker/Salary",
+                    "defaultUrl": "/research/US/Job=Ethical_Hacker/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-06T10:05:02.26916Z",
+                "narratives": {
+                    "description": "The term \"ethical hackers\" describes professionals who identify flaws and vulnerabilities in security and help to protect organizations and businesses from malicious hackers. In fact, malicious hackers often \"turn over a new leaf\" and use their skills to protect others from the type of hacking in which they once worked. Ethical hackers work with the authorization of their employers to ensure that their hacking efforts are entirely legitimate and legal. \r\nTypically, ethical hackers begin with information technology (IT) experience and some obtain a Certified Ethical Hacker credential, which is provided by the International Council of E-Commerce Consultants and takes about five days to earn. During this time, potential ethical hackers must go through high-level security clearances and background checks, which are especially common when applying for government entities. They are usually required to have at least two or more years of experience in a security-related field, and a degree in computer science may be required by some employers. Ethical hackers should also have a good understanding of web application architecture and experience with shell scripting and coding languages, such as Perl, PHP, and Ruby.\r\nThose in this position must be able to quickly detect and fix common vulnerabilities, and they are often responsible with any and all data. Ethical hackers must be able to uphold all legal and ethical behavior standards set for by the law, as well as their employer. Some are also in charge of teaching and training by educating their company or organization about security awareness. They should also understand how to implement and update security procedures and policies and keep the company aware of all changes.",
+                    "summaryHourly": "The average pay for an Ethical Hacker is $27.50 per hour.",
+                    "summarySalary": "The average pay for an Ethical Hacker is $85,720 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 12.26,
+                        "25": 1329.13,
+                        "50": 6577.5,
+                        "75": 11602.66,
+                        "90": 14681.35,
+                        "profileCount": 12
+                    },
+                    "hourlyRate": {
+                        "25": 23.11,
+                        "50": 27.5,
+                        "75": 99.16,
+                        "profileCount": 6
+                    },
+                    "profitSharing": {
+                        "25": 2400,
+                        "50": 5000,
+                        "75": 52951.93,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "10": 58080.91,
+                        "25": 68941.69,
+                        "50": 85720.41,
+                        "75": 104202.79,
+                        "90": 119358.93,
+                        "profileCount": 40
+                    },
+                    "total": {
+                        "10": 54742.51,
+                        "25": 66859.83,
+                        "50": 86743.98,
+                        "75": 108619.08,
+                        "90": 130725.93,
+                        "profileCount": 46
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-06T10:05:02.26916Z",
+                        "profileCount": 46,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 46,
+                                "range": {
+                                    "10": 54742.51,
+                                    "25": 66859.83,
+                                    "50": 86743.98,
+                                    "75": 108619.08,
+                                    "90": 130725.93
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-06T10:05:02.26916Z",
+                        "profileCount": 6,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 23.11,
+                                    "50": 27.5,
+                                    "75": 99.16
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-06T10:05:02.26916Z",
+                        "profileCount": 40,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 40,
+                                "range": {
+                                    "10": 58080.91,
+                                    "25": 68941.69,
+                                    "50": 85720.41,
+                                    "75": 104202.79,
+                                    "90": 119358.93
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-06T10:05:02.26916Z",
+                        "profileCount": 14,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-06T10:05:02.26916Z",
+                        "profileCount": 23,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/d6665342/Entry-Level",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 68911.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/d6665342/Early-Career",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 86622.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/c5afb2cb/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/ef6a7f9f/Experienced",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/38f3ac7a/Washington-DC",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 69000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/a293d647/New-York-NY",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 92500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/fc911614/Dallas-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 83000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Antonio, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/6aca9080/San-Antonio-TX",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/4678f6d8/Tampa-FL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 87500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/f10f29a4/Los-Angeles-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 81346.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/b7846451/Boston-MA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 79984.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "California City, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/4a3caf23/California-City-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/c98f2cfb/Miami-FL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 79172.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/093f79b1/San-Jose-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 103500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/8a013b07/Seattle-WA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/28f402e6/Chicago-IL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Florida, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/3528f93f/Florida-FL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 140000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richardson, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/ad90f0f7/Richardson-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 95500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cyber Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/d7dc3b3c/Cyber-Security",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Penetration Testing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/12721c8b/Penetration-Testing",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 91421.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Testing and Auditing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/37688ab0/Security-Testing-and-Auditing",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 98884.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Computer Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/641b3681/Computer-Security",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 71215.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Security & Encryption",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ethical_Hacker/Salary/d78c0768/Web-Security-%26-Encryption",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 74500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 574,
+                        "range": {
+                            "10": 55281.41,
+                            "25": 64433.13,
+                            "50": 76998.25,
+                            "75": 93488.35,
+                            "90": 114392.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Analyst",
+                        "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                        "profileCount": 400,
+                        "range": {
+                            "10": 55968.86,
+                            "25": 66761.79,
+                            "50": 80297.64,
+                            "75": 97884.71,
+                            "90": 119819.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer",
+                        "url": "/research/US/Job=Security_Engineer/Salary",
+                        "profileCount": 329,
+                        "range": {
+                            "10": 67820.05,
+                            "25": 81583.77,
+                            "50": 99690.25,
+                            "75": 122636.53,
+                            "90": 145378.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Analyst",
+                        "url": "/research/US/Job=Security_Analyst/Salary",
+                        "profileCount": 284,
+                        "range": {
+                            "10": 52699.68,
+                            "25": 61899.23,
+                            "50": 73121.08,
+                            "75": 86368.88,
+                            "90": 102353.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Engineer",
+                        "url": "/research/US/Job=Cyber_Security_Engineer/Salary",
+                        "profileCount": 252,
+                        "range": {
+                            "10": 71483.75,
+                            "25": 82797.54,
+                            "50": 101520.35,
+                            "75": 124772.23,
+                            "90": 145888.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Manager",
+                        "url": "/research/US/Job=Information_Security_Manager/Salary",
+                        "profileCount": 213,
+                        "range": {
+                            "10": 84006.87,
+                            "25": 101092.42,
+                            "50": 124383.19,
+                            "75": 141396.71,
+                            "90": 158122.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Penetration Tester",
+                        "url": "/research/US/Job=Penetration_Tester/Salary",
+                        "profileCount": 185,
+                        "range": {
+                            "10": 60900.29,
+                            "25": 76157.91,
+                            "50": 92779.32,
+                            "75": 116377.02,
+                            "90": 139295.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Consultant, (Computing / Networking / Information Technology)",
+                        "url": "/research/US/Job=Security_Consultant%2C_(Computing_%2F_Networking_%2F_Information_Technology)/Salary",
+                        "profileCount": 165,
+                        "range": {
+                            "10": 65388.82,
+                            "25": 76573.18,
+                            "50": 93812.95,
+                            "75": 119499.08,
+                            "90": 149672.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Engineer",
+                        "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                        "profileCount": 150,
+                        "range": {
+                            "10": 70168.34,
+                            "25": 81318.66,
+                            "50": 97981.94,
+                            "75": 120123.07,
+                            "90": 138717.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Officer",
+                        "url": "/research/US/Job=Information_Security_Officer/Salary",
+                        "profileCount": 122,
+                        "range": {
+                            "10": 63540.88,
+                            "25": 80334.77,
+                            "50": 99122.64,
+                            "75": 122052.81,
+                            "90": 144739.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Security Consultant",
+                        "url": "/research/US/Job=Senior_Security_Consultant/Salary",
+                        "profileCount": 98,
+                        "range": {
+                            "10": 81488.09,
+                            "25": 96528.39,
+                            "50": 118523.86,
+                            "75": 138812.26,
+                            "90": 158549.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Security Officer",
+                        "url": "/research/US/Job=Chief_Information_Security_Officer/Salary",
+                        "profileCount": 82,
+                        "range": {
+                            "10": 108377.04,
+                            "25": 141233.7,
+                            "50": 174000.86,
+                            "75": 205572.94,
+                            "90": 235989.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Architect, IT",
+                        "url": "/research/US/Job=Security_Architect%2C_IT/Salary",
+                        "profileCount": 78,
+                        "range": {
+                            "10": 92183.35,
+                            "25": 112274.64,
+                            "50": 137198.36,
+                            "75": 159415.02,
+                            "90": 182920.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Specialist",
+                        "url": "/research/US/Job=Information_Security_Specialist/Salary",
+                        "profileCount": 66,
+                        "range": {
+                            "10": 54251.31,
+                            "25": 65862.19,
+                            "50": 80395.87,
+                            "75": 101053.64,
+                            "90": 129535.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Manager",
+                        "url": "/research/US/Job=Security_Manager/Salary",
+                        "profileCount": 66,
+                        "range": {
+                            "10": 49726.39,
+                            "25": 60726.88,
+                            "50": 78703.71,
+                            "75": 108429.67,
+                            "90": 142196.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Auditor",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Auditor/Salary",
+                        "profileCount": 60,
+                        "range": {
+                            "10": 57491.48,
+                            "25": 64835.12,
+                            "50": 75835.04,
+                            "75": 90392.65,
+                            "90": 110239.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Information Technology (IT) Auditor",
+                        "url": "/research/US/Job=Senior_Information_Technology_(IT)_Auditor/Salary",
+                        "profileCount": 52,
+                        "range": {
+                            "10": 76313.52,
+                            "25": 83334.84,
+                            "50": 91825.2,
+                            "75": 102998.9,
+                            "90": 119021.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Assurance Engineer",
+                        "url": "/research/US/Job=Information_Assurance_Engineer/Salary",
+                        "profileCount": 35,
+                        "range": {
+                            "10": 68299.91,
+                            "25": 84284.52,
+                            "50": 105652.18,
+                            "75": 128408.99,
+                            "90": 146849.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer, Information Systems",
+                        "url": "/research/US/Job=Security_Engineer%2C_Information_Systems/Salary",
+                        "profileCount": 32,
+                        "range": {
+                            "10": 67437.7,
+                            "25": 80648.1,
+                            "50": 106188.68,
+                            "75": 128419.83,
+                            "90": 149509.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Systems Audit Manager",
+                        "url": "/research/US/Job=Information_Systems_Audit_Manager/Salary",
+                        "profileCount": 31,
+                        "range": {
+                            "10": 95394.68,
+                            "25": 107342.15,
+                            "50": 117411.24,
+                            "75": 133734.59,
+                            "90": 151900.81
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Ethical_Hacker/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Cyber Security, Penetration Testing, Security Testing and Auditing, Computer Security, Web Security & Encryption",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-06T10:05:02.26916Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "54742.51",
+                            "percentile25": "66859.83",
+                            "median": "86743.98",
+                            "percentile75": "108619.08",
+                            "percentile90": "130725.93",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58080.91",
+                            "percentile25": "68941.69",
+                            "median": "85720.41",
+                            "percentile75": "104202.79",
+                            "percentile90": "119358.93",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "12.26",
+                            "percentile25": "1329.13",
+                            "median": "6577.5",
+                            "percentile75": "11602.66",
+                            "percentile90": "14681.35",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "2400",
+                            "median": "5000",
+                            "percentile75": "52951.93",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 47,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "The term \"ethical hackers\" describes professionals who identify flaws and vulnerabilities in security and help to protect organizations and businesses from malicious hackers. In fact, malicious hackers often \"turn over a new leaf\" and use their skills to protect others from the type of hacking in which they once worked. Ethical hackers work with the authorization of their employers to ensure that their hacking efforts are entirely legitimate and legal. \r\nTypically, ethical hackers begin with information technology (IT) experience and some obtain a Certified Ethical Hacker credential, which is provided by the International Council of E-Commerce Consultants and takes about five days to earn. During this time, potential ethical hackers must go through high-level security clearances and background checks, which are especially common when applying for government entities. They are usually required to have at least two or more years of experience in a security-related field, and a degree in computer science may be required by some employers. Ethical hackers should also have a good understanding of web application architecture and experience with shell scripting and coding languages, such as Perl, PHP, and Ruby.\r\nThose in this position must be able to quickly detect and fix common vulnerabilities, and they are often responsible with any and all data. Ethical hackers must be able to uphold all legal and ethical behavior standards set for by the law, as well as their employer. Some are also in charge of teaching and training by educating their company or organization about security awareness. They should also understand how to implement and update security procedures and policies and keep the company aware of all changes.",
+                    "name": "Ethical Hacker",
+                    "url": "/research/US/Job=Ethical_Hacker/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

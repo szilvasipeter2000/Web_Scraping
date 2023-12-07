@@ -1,0 +1,703 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Nursing Informatics Specialist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary",
+                    "defaultUrl": "/research/US/Job=Nursing_Informatics_Specialist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-13T05:36:14.6967Z",
+                "narratives": {
+                    "description": "A nursing informatics specialist works in the healthcare field and should be proficient in nursing science and information technology. The specialist manages data, knowledge, and information to improve the nursing field. Clinical information systems will be developed, implemented, and supported in this job. \r\nThe specialist will often work with other medical personnel, such as nurses and doctors, in order to help them make decisions that are supported by medical data. The specialist will also often work with the information technology department, in order to develop medical systems that will be used. Strong teamwork skills and communication skills are important, in order to be able to work with the other people involved in the organization. Research and report-making skills are also essential in this job. The specialist should be able to come up with research methods and be able to analyze statistical data. \r\nThe specialist will usually be required to have had nursing experience and an associate’s, bachelor’s, or master’s degree in nursing or nursing informatics. The specialist may determine what sort of training needs to be administered to staff members relating to the clinical information system. Many positions require the specialist to be a registered nurse. This is usually a full-time position. Much of the work of this job is done in an office environment, though some fieldwork is often necessary to gather data and to make sure that various staff members are complying with the practices and policies outlined by the company.\r\n",
+                    "summaryHourly": "The average pay for a Nursing Informatics Specialist is $40.20 per hour.",
+                    "summarySalary": "The average pay for a Nursing Informatics Specialist is $88,625 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "10": 32.8,
+                        "25": 35.5,
+                        "50": 40.2,
+                        "75": 53.42,
+                        "90": 57.2,
+                        "profileCount": 15
+                    },
+                    "salary": {
+                        "10": 70645.26,
+                        "25": 81463.76,
+                        "50": 88625.15,
+                        "75": 97877.45,
+                        "90": 113390.32,
+                        "profileCount": 37
+                    },
+                    "total": {
+                        "10": 69675.2,
+                        "25": 78075.74,
+                        "50": 87964.51,
+                        "75": 99171.35,
+                        "90": 116892.32,
+                        "profileCount": 52
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-13T05:36:14.6967Z",
+                        "profileCount": 52,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 52,
+                                "range": {
+                                    "10": 69675.2,
+                                    "25": 78075.74,
+                                    "50": 87964.51,
+                                    "75": 99171.35,
+                                    "90": 116892.32
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-13T05:36:14.6967Z",
+                        "profileCount": 15,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": {
+                                    "10": 32.8,
+                                    "25": 35.5,
+                                    "50": 40.2,
+                                    "75": 53.42,
+                                    "90": 57.2
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-13T05:36:14.6967Z",
+                        "profileCount": 37,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 37,
+                                "range": {
+                                    "10": 70645.26,
+                                    "25": 81463.76,
+                                    "50": 88625.15,
+                                    "75": 97877.45,
+                                    "90": 113390.32
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-13T05:36:14.6967Z",
+                        "profileCount": 22,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-13T05:36:14.6967Z",
+                        "profileCount": 33,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 28,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Mayo Clinic",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/168d05c7/Mayo-Clinic",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 90558.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/1962974e/Early-Career",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 81348.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/3aaf06de/Mid-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 85752.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/db46db81/Experienced",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 88329.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/feebb57c/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 107437.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/4c2b57e4/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/03f6f791/Chicago-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 68800
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Nursing Informatics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/b64b9452/Nursing-Informatics",
+                                "profileCount": 52,
+                                "range": {
+                                    "50": 85558.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Electronic Medical Records (EMR)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/05118211/Electronic-Medical-Records-EMR",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 86805.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Clinical Information Systems",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/6c49cd12/Clinical-Information-Systems",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 84946.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Epic Systems",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/6df25809/Epic-Systems",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 87330.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Epic Information Systems (Radiant, Stork, etc.)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/31e38595/Epic-Information-Systems-Radiant-Stork-etc.",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 85489.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/61adb890/Microsoft-Office",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 84669.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary/14cfc52c/Data-Analysis",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 88600.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 3.8
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2658,
+                        "range": {
+                            "10": 30863.58,
+                            "25": 36318.31,
+                            "50": 43046.09,
+                            "75": 51521.7,
+                            "90": 60788.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 2573,
+                        "range": {
+                            "10": 27746.67,
+                            "25": 32548.29,
+                            "50": 39059.76,
+                            "75": 46078.84,
+                            "90": 54220.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1791,
+                        "range": {
+                            "10": 47899.41,
+                            "25": 55815.76,
+                            "50": 66082.28,
+                            "75": 77988.35,
+                            "90": 90550.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1313,
+                        "range": {
+                            "10": 36836.53,
+                            "25": 43506.42,
+                            "50": 52271.22,
+                            "75": 62856.96,
+                            "90": 74117.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1114,
+                        "range": {
+                            "10": 42991.98,
+                            "25": 51223.28,
+                            "50": 62354.56,
+                            "75": 74897.17,
+                            "90": 87760.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1036,
+                        "range": {
+                            "10": 50553.63,
+                            "25": 57709.47,
+                            "50": 65796.02,
+                            "75": 75754.11,
+                            "90": 87074.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1027,
+                        "range": {
+                            "10": 52568.16,
+                            "25": 63924.24,
+                            "50": 78841.81,
+                            "75": 97516.78,
+                            "90": 118822.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1003,
+                        "range": {
+                            "10": 59711.74,
+                            "25": 67503.14,
+                            "50": 77162.53,
+                            "75": 90138.01,
+                            "90": 106943.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant (Certified)",
+                        "url": "/research/US/Job=Medical_Assistant_(Certified)/Hourly_Rate",
+                        "profileCount": 877,
+                        "range": {
+                            "10": 29420.3,
+                            "25": 33615.86,
+                            "50": 38302.31,
+                            "75": 45572.66,
+                            "90": 54256.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 703,
+                        "range": {
+                            "10": 56689.47,
+                            "25": 64399.81,
+                            "50": 73671.59,
+                            "75": 86509,
+                            "90": 102851.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 567,
+                        "range": {
+                            "10": 67317.47,
+                            "25": 76972.29,
+                            "50": 89289.53,
+                            "75": 103527.83,
+                            "90": 120779.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 562,
+                        "range": {
+                            "10": 50038.11,
+                            "25": 57587.33,
+                            "50": 66594.56,
+                            "75": 77034.52,
+                            "90": 87894.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 541,
+                        "range": {
+                            "10": 68701.69,
+                            "25": 76868.7,
+                            "50": 86333.26,
+                            "75": 97019.63,
+                            "90": 108690.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 536,
+                        "range": {
+                            "10": 63703.78,
+                            "25": 72052.54,
+                            "50": 82299.29,
+                            "75": 97980.46,
+                            "90": 121145.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 506,
+                        "range": {
+                            "10": 53713.19,
+                            "25": 62617.11,
+                            "50": 73655.47,
+                            "75": 87256.13,
+                            "90": 103548.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 486,
+                        "range": {
+                            "10": 43845.42,
+                            "25": 48990.78,
+                            "50": 55858.35,
+                            "75": 65337.73,
+                            "90": 75179.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 482,
+                        "range": {
+                            "10": 57106.3,
+                            "25": 63640.35,
+                            "50": 72698.76,
+                            "75": 87322.11,
+                            "90": 105950.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Medical Assistant (CMA)",
+                        "url": "/research/US/Job=Certified_Medical_Assistant_(CMA)/Hourly_Rate",
+                        "profileCount": 475,
+                        "range": {
+                            "10": 27903,
+                            "25": 32728.2,
+                            "50": 37802.42,
+                            "75": 44878.03,
+                            "90": 52991.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 468,
+                        "range": {
+                            "10": 46931.63,
+                            "25": 57155.94,
+                            "50": 71215.98,
+                            "75": 89273.85,
+                            "90": 111455.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 454,
+                        "range": {
+                            "10": 43441.54,
+                            "25": 49419.56,
+                            "50": 55682.31,
+                            "75": 62539.58,
+                            "90": 69556.4
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Nursing_Informatics_Specialist/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Nursing Informatics, Electronic Medical Records (EMR), Clinical Information Systems, Epic Systems, Epic Information Systems (Radiant, Stork, etc.), Microsoft Office, Data Analysis",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-13T05:36:14.6967Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "69675.2",
+                            "percentile25": "78075.74",
+                            "median": "87964.51",
+                            "percentile75": "99171.35",
+                            "percentile90": "116892.32",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "70645.26",
+                            "percentile25": "81463.76",
+                            "median": "88625.15",
+                            "percentile75": "97877.45",
+                            "percentile90": "113390.32",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 65,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A nursing informatics specialist works in the healthcare field and should be proficient in nursing science and information technology. The specialist manages data, knowledge, and information to improve the nursing field. Clinical information systems will be developed, implemented, and supported in this job. \r\nThe specialist will often work with other medical personnel, such as nurses and doctors, in order to help them make decisions that are supported by medical data. The specialist will also often work with the information technology department, in order to develop medical systems that will be used. Strong teamwork skills and communication skills are important, in order to be able to work with the other people involved in the organization. Research and report-making skills are also essential in this job. The specialist should be able to come up with research methods and be able to analyze statistical data. \r\nThe specialist will usually be required to have had nursing experience and an associate’s, bachelor’s, or master’s degree in nursing or nursing informatics. The specialist may determine what sort of training needs to be administered to staff members relating to the clinical information system. Many positions require the specialist to be a registered nurse. This is usually a full-time position. Much of the work of this job is done in an office environment, though some fieldwork is often necessary to gather data and to make sure that various staff members are complying with the practices and policies outlined by the company.\r\n",
+                    "name": "Nursing Informatics Specialist",
+                    "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

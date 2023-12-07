@@ -1,0 +1,619 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Storage Specialist, (Computer Information Technology)"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2020-12-10T00:28:21.29891Z",
+                "narratives": {
+                    "description": "A senior storage analyst is in charge of a server or multiple servers, ensuring they are in working order. The senior storage analyst needs to perform regular backups to ensure that no data is lost; these backups need to be tested regularly to make sure that they are functioning properly. The senior storage analyst also ensures that no data is accessed by unauthorized parties and that adequate security measures are in place. The senior storage analyst needs to carry out maintenance, often at regular intervals, to make sure that the servers are performing at their optimal levels. When operations are not working as they should, the analyst needs to carry out tests to troubleshoot the issues and correct the problems. \r\nAlso, the storage analyst needs to be able to provide support to authorized individuals trying to access their data. This often requires working in a data center or server room. The senior storage analyst needs to be up to date with new developments in the field; when developments occur, the senior analyst must present suggestions for changes so management can authorize them as needed. The analyst may also need to make changes to information technology policy at the company. \r\nA minimum of a bachelor’s degree in computer science, information systems, or a similar discipline is often required. Many positions require adequate experience in the field as well. Additionally, some positions may require experience with certain software programs such as Microsoft WSUS and SCCMA.",
+                    "summaryHourly": "The average pay for a Senior Storage Specialist, (Computer Information Technology) is $55.00 per hour.",
+                    "summarySalary": "The average pay for a Senior Storage Specialist, (Computer Information Technology) is $109,500 per year."
+                },
+                "tasks": [
+                    "Provide day-to-day maintenance of data storage environments, including backups and recovery protocols.",
+                    "Assist with capacity planning and risk management, and make recommendations for strategic decisions.",
+                    "Design and implement data migration architecture and analysis of the environments.",
+                    "Design, install, and engineer new storage purchases, including racking them."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 4000,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "50": 55,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "25": 98008.85,
+                        "50": 109500,
+                        "75": 132299.67,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 75633.61,
+                        "50": 113557.83,
+                        "75": 134161.07,
+                        "profileCount": 9
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2020-12-10T00:28:21.29891Z",
+                        "profileCount": 9,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 75633.61,
+                                    "50": 113557.83,
+                                    "75": 134161.07
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2020-12-10T00:28:21.29891Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 55
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2020-12-10T00:28:21.29891Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 98008.85,
+                                    "50": 109500,
+                                    "75": 132299.67
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2020-12-10T00:28:21.29891Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2020-12-10T00:28:21.29891Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary/bc2ad43d/Early-Career",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 50398.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary/f3b008a2/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 108000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary/b56123cb/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 119073.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary/668688e7/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Storage Area Networking (SAN)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary/c22ceabe/Storage-Area-Networking-SAN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 102500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Storage Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary/e7ab941a/Storage-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 118500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cisco Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary/259cc17e/Cisco-Networking",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 120867.77
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 650,
+                        "range": {
+                            "10": 50611.98,
+                            "25": 61103.78,
+                            "50": 74551.41,
+                            "75": 89806.91,
+                            "90": 108039.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Network Engineer",
+                        "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                        "profileCount": 273,
+                        "range": {
+                            "10": 73589.2,
+                            "25": 87134.67,
+                            "50": 101149.5,
+                            "75": 119593.27,
+                            "90": 138118.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 259,
+                        "range": {
+                            "10": 42644.56,
+                            "25": 50209.62,
+                            "50": 60013.77,
+                            "75": 71515.98,
+                            "90": 83157.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 152,
+                        "range": {
+                            "10": 54546.43,
+                            "25": 68868.69,
+                            "50": 88544.21,
+                            "75": 112362.7,
+                            "90": 133727.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 147,
+                        "range": {
+                            "10": 50854.81,
+                            "25": 61842.02,
+                            "50": 74623.24,
+                            "75": 90441.25,
+                            "90": 108577.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 118,
+                        "range": {
+                            "10": 45228.62,
+                            "25": 52494.36,
+                            "50": 62807.99,
+                            "75": 74762.97,
+                            "90": 88291.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 112,
+                        "range": {
+                            "10": 34103.67,
+                            "25": 39599.76,
+                            "50": 47385.97,
+                            "75": 58473.15,
+                            "90": 73544.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Administrator",
+                        "url": "/research/US/Job=Senior_Systems_Administrator/Salary",
+                        "profileCount": 75,
+                        "range": {
+                            "10": 62278.23,
+                            "25": 73566.23,
+                            "50": 85772.35,
+                            "75": 99567.43,
+                            "90": 115620.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 74,
+                        "range": {
+                            "10": 43685.48,
+                            "25": 51246.82,
+                            "50": 61190.21,
+                            "75": 73581.1,
+                            "90": 87895.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Senior_Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 69,
+                        "range": {
+                            "10": 71689.27,
+                            "25": 84920.52,
+                            "50": 101328.46,
+                            "75": 121651.89,
+                            "90": 140514.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 68,
+                        "range": {
+                            "10": 79637.17,
+                            "25": 91635.02,
+                            "50": 107080,
+                            "75": 125457.27,
+                            "90": 146194.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator, IT",
+                        "url": "/research/US/Job=Network_Administrator%2C_IT/Salary",
+                        "profileCount": 49,
+                        "range": {
+                            "10": 39696.52,
+                            "25": 48368.76,
+                            "50": 58604.69,
+                            "75": 70801,
+                            "90": 82063.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer, IT",
+                        "url": "/research/US/Job=Systems_Engineer%2C_IT/Salary",
+                        "profileCount": 42,
+                        "range": {
+                            "10": 52899.77,
+                            "25": 62893.53,
+                            "50": 76048.91,
+                            "75": 91338.32,
+                            "90": 108300.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Analyst",
+                        "url": "/research/US/Job=Network_Analyst/Salary",
+                        "profileCount": 41,
+                        "range": {
+                            "10": 44846.15,
+                            "25": 51048.78,
+                            "50": 59902.49,
+                            "75": 72604.36,
+                            "90": 85748.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Security Engineer",
+                        "url": "/research/US/Job=Network_Security_Engineer/Salary",
+                        "profileCount": 38,
+                        "range": {
+                            "10": 58037.82,
+                            "25": 71131.48,
+                            "50": 86426.74,
+                            "75": 109172.62,
+                            "90": 128052.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Architect",
+                        "url": "/research/US/Job=Network_Architect/Salary",
+                        "profileCount": 38,
+                        "range": {
+                            "10": 80496.65,
+                            "25": 98834.8,
+                            "50": 121950.89,
+                            "75": 140284.59,
+                            "90": 154245.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Storage Engineer",
+                        "url": "/research/US/Job=Senior_Storage_Engineer/Salary",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 79851.7,
+                            "25": 99889.88,
+                            "50": 113425.88,
+                            "75": 126059.24,
+                            "90": 138230.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 31,
+                        "range": {
+                            "10": 38465.39,
+                            "25": 46492.83,
+                            "50": 57959.75,
+                            "75": 77110.85,
+                            "90": 99495.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Computer / Network Support Technician",
+                        "url": "/research/US/Job=Computer_%2F_Network_Support_Technician/Hourly_Rate",
+                        "profileCount": 25,
+                        "range": {
+                            "10": 33300.15,
+                            "25": 39319.92,
+                            "50": 47616.79,
+                            "75": 57457.48,
+                            "90": 67729
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Operations Center (NOC) Technician",
+                        "url": "/research/US/Job=Network_Operations_Center_(NOC)_Technician/Hourly_Rate",
+                        "profileCount": 22,
+                        "range": {
+                            "10": 35123.03,
+                            "25": 40360.4,
+                            "50": 49238.25,
+                            "75": 58763.33,
+                            "90": 69076.78
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Storage Area Networking (SAN), Storage Management, Cisco Networking",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2020-12-10T00:28:21.29891Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "75633.61",
+                            "median": "113557.83",
+                            "percentile75": "134161.07",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "98008.85",
+                            "median": "109500",
+                            "percentile75": "132299.67",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "4000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 10,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A senior storage analyst is in charge of a server or multiple servers, ensuring they are in working order. The senior storage analyst needs to perform regular backups to ensure that no data is lost; these backups need to be tested regularly to make sure that they are functioning properly. The senior storage analyst also ensures that no data is accessed by unauthorized parties and that adequate security measures are in place. The senior storage analyst needs to carry out maintenance, often at regular intervals, to make sure that the servers are performing at their optimal levels. When operations are not working as they should, the analyst needs to carry out tests to troubleshoot the issues and correct the problems. \r\nAlso, the storage analyst needs to be able to provide support to authorized individuals trying to access their data. This often requires working in a data center or server room. The senior storage analyst needs to be up to date with new developments in the field; when developments occur, the senior analyst must present suggestions for changes so management can authorize them as needed. The analyst may also need to make changes to information technology policy at the company. \r\nA minimum of a bachelor’s degree in computer science, information systems, or a similar discipline is often required. Many positions require adequate experience in the field as well. Additionally, some positions may require experience with certain software programs such as Microsoft WSUS and SCCMA.",
+                    "name": "Senior Storage Specialist, (Computer Information Technology)",
+                    "url": "/research/US/Job=Senior_Storage_Specialist%2C_(Computer_Information_Technology)/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

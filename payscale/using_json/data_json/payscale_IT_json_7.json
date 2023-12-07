@@ -1,0 +1,2294 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 17,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Actuary",
+                    "url": "/research/US/Job=Actuary/Salary",
+                    "compensation": 90839.19696495747,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 3,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Chief Actuary",
+                            "url": "/research/US/Job=Chief_Actuary/Salary",
+                            "percent": 0.23,
+                            "compensation": 203555.13628066253,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 0
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Actuarial Manager",
+                            "url": "/research/US/Job=Actuarial_Manager/Salary",
+                            "percent": 0.23,
+                            "compensation": 123294.21670285639,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 1,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Actuary",
+                                    "url": "/research/US/Job=Actuary/Salary",
+                                    "percent": 1,
+                                    "compensation": 90839.19696495747,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": {
+                            "jobTitle": "Consulting Actuary",
+                            "url": "/research/US/Job=Consulting_Actuary/Salary",
+                            "percent": 0.17,
+                            "compensation": 122634.44247045489,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 1,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Actuary",
+                                    "url": "/research/US/Job=Actuary/Salary",
+                                    "percent": 1,
+                                    "compensation": 90839.19696495747,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Actuary"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Actuary/Salary",
+                    "defaultUrl": "/research/US/Job=Actuary/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-28T05:44:07.65172Z",
+                "narratives": {
+                    "description": "Actuaries play a key role in insurance companies by serving as analysts who help determine whether the company should issue an insurance policy and what the premium for that policy should be. They use a great deal of statistical analysis in their work, as they examine huge amounts of data related to costing and trends. Insurance companies must always maintain their financial health, and the role of the actuary is to manage risk in the delicate balance between issuing policies (and the costs paid for them) and the exposure to financial risk for the company.\r\nOften, actuaries help add statistically-significant data to data models for insurance companies and then analyze related effects on insurance policies. This typically includes examining incident data (such as car accidents by location or age ranges in auto insurance) and then adjusting rates and terms as necessary; they may also occasionally pull disparate data from a variety of sources for these adjustments. For example, those who work with homeowner's insurance may regularly assess not only crime data in a neighborhood, but also patterns of destructive weather where previous claims have been paid. This ongoing re-calculation of risk exposure for the insurance company is an actuary's primary responsibility.\r\nCandidates for this position should have a college degree in actuarial science or a field related to statistical analysis. They must also be highly experienced with computers and able to quickly manage large data streams to discern trends and useful information. Most actuaries work for insurance companies, although some financial service companies may have actuarial departments which manage investment risks. Actuaries generally work in office environments during traditional business hours.",
+                    "summaryHourly": "The average pay for an Actuary is $34.56 per hour.",
+                    "summarySalary": "The average pay for an Actuary is $102,184 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 2323.16,
+                        "25": 5017.39,
+                        "50": 11089.56,
+                        "75": 19799.21,
+                        "90": 29908.7,
+                        "profileCount": 370
+                    },
+                    "hourlyRate": {
+                        "10": 18.71,
+                        "25": 27.74,
+                        "50": 34.56,
+                        "75": 46.01,
+                        "90": 73.4,
+                        "profileCount": 32
+                    },
+                    "profitSharing": {
+                        "10": 806.73,
+                        "25": 3718.19,
+                        "50": 6962.81,
+                        "75": 10127.78,
+                        "90": 18922.2,
+                        "profileCount": 58
+                    },
+                    "salary": {
+                        "10": 60118.51,
+                        "25": 74547.08,
+                        "50": 102183.62,
+                        "75": 131180.87,
+                        "90": 155017.31,
+                        "profileCount": 654
+                    },
+                    "total": {
+                        "10": 60396.99,
+                        "25": 76177.98,
+                        "50": 106968.65,
+                        "75": 142311.67,
+                        "90": 174742.19,
+                        "profileCount": 686
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-28T05:44:07.65172Z",
+                        "profileCount": 686,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 686,
+                                "range": {
+                                    "10": 60396.99,
+                                    "25": 76177.98,
+                                    "50": 106968.65,
+                                    "75": 142311.67,
+                                    "90": 174742.19
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-10-28T05:44:07.65172Z",
+                        "profileCount": 32,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 32,
+                                "range": {
+                                    "10": 18.71,
+                                    "25": 27.74,
+                                    "50": 34.56,
+                                    "75": 46.01,
+                                    "90": 73.4
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-28T05:44:07.65172Z",
+                        "profileCount": 654,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 654,
+                                "range": {
+                                    "10": 60118.51,
+                                    "25": 74547.08,
+                                    "50": 102183.62,
+                                    "75": 131180.87,
+                                    "90": 155017.31
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-28T05:44:07.65172Z",
+                        "profileCount": 199,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 136,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 62,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-28T05:44:07.65172Z",
+                        "profileCount": 313,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 287,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 250,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 231,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "The Travelers Companies, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/464b770a/The-Travelers-Companies-Inc.",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 118827.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Willis Towers Watson",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a4691b97/Willis-Towers-Watson",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 104646.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Humana, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/381d919c/Humana-Inc.",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 114873.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scor Reinsurance Company",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/01c79b98/Scor-Reinsurance-Company",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 135000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mercer LLC",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/3de44e9a/Mercer-LLC",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 120800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Liberty Mutual Insurance Group",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/e66f534b/Liberty-Mutual-Insurance-Group",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 129024.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milliman, Incorporated",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/c3a953c9/Milliman-Incorporated",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 101294.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Prudential Financial Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/469cde6a/Prudential-Financial-Inc.",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 129753.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York Life Insurance Company",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/846c1829/New-York-Life-Insurance-Company",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 154913.11
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Aetna, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/21741c05/Aetna-Inc.",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 112000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Anthem",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/4700f565/Anthem",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 103446.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "AON Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/1cd024f4/AON-Inc",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 73455.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Geico",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/b38f5476/Geico",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 75750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Allstate",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/eab430b1/Allstate",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 66253.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "PricewaterhouseCoopers",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/30e0a14f/PricewaterhouseCoopers",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 65496.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "UnitedHealth Group",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/e3d11241/UnitedHealth-Group",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "State Farm Insurance Company",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/75a220a4/State-Farm-Insurance-Company",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 76225.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "The Hanover Insurance Company",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5de25b06/The-Hanover-Insurance-Company",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 100500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "The Northwestern Mutual Life Insurance Company",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/b02a73ae/The-Northwestern-Mutual-Life-Insurance-Company",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 133408.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nationwide Mutual Insurance Company",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/9c9efc1a/Nationwide-Mutual-Insurance-Company",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 102750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Towers Watson",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/cf502305/Towers-Watson",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 101500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Transamerica",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/95678370/Transamerica",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 82000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Principal Financial Group",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/646d9995/Principal-Financial-Group",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 118396.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Prudential",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/447f8cd8/Prudential",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "MassMutual Financial Group",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/675b0a1d/MassMutual-Financial-Group",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 129913.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Metropolitan Life Insurance Company (MetLife)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/23b84cd9/Metropolitan-Life-Insurance-Company-MetLife",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110850
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Aon Consulting, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a2957eb0/Aon-Consulting-Inc.",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Centene Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/7713357c/Centene-Corporation",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 103272.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ACE Group",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/4724849f/ACE-Group",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 92171.18
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/acb1fb4b/Entry-Level",
+                                "profileCount": 104,
+                                "range": {
+                                    "50": 65568.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/acb1fb4b/Early-Career",
+                                "profileCount": 215,
+                                "range": {
+                                    "50": 87536.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f95b0f0e/Mid-Career",
+                                "profileCount": 270,
+                                "range": {
+                                    "50": 114108.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/94983785/Experienced",
+                                "profileCount": 149,
+                                "range": {
+                                    "50": 136240.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/25ba7931/Late-Career",
+                                "profileCount": 55,
+                                "range": {
+                                    "50": 152350.91
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/63e6b39e/New-York-NY",
+                                "profileCount": 85,
+                                "range": {
+                                    "50": 127360.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/01480571/Chicago-IL",
+                                "profileCount": 40,
+                                "range": {
+                                    "50": 96750.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Des Moines, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/89fd66f2/Des-Moines-IA",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 100582.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a5535c57/Boston-MA",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 137330.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/82e72ad2/Philadelphia-PA",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 111311.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/527b7c41/Seattle-WA",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 104285.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Paul, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/857d3518/St.-Paul-MN",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 116171.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f2f2e607/Minneapolis-MN",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 86954.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/47641cad/Atlanta-GA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 116875.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/49616e7b/San-Diego-CA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 127969.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/827f154d/San-Francisco-CA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 113713.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/86282070/Columbus-OH",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 97959.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/533ede10/Dallas-TX",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 100699.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/17248882/Pittsburgh-PA",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 82041.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a3824074/Portland-OR",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 90182.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/b2021555/Los-Angeles-CA",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 88982.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indianapolis, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/1b7fe821/Indianapolis-IN",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 108479.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Louisville, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/faeeaa52/Louisville-KY",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 115722
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baton Rouge, Louisiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/54b21d5e/Baton-Rouge-LA",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 65464.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a3c6dcf3/Denver-CO",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 107440.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hartford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/6c525eb4/Hartford-CT",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 136518.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/71caa1ee/Charlotte-NC",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 102912.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Madison, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/8e0a6f7a/Madison-WI",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 78210.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/abe13756/Tampa-FL",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/d727367f/Washington-DC",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 94497.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/defc92a2/Phoenix-AZ",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 111479.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bloomington, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/514c01ca/Bloomington-IL",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 72246.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cincinnati, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f1de3ef6/Cincinnati-OH",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 57493.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Omaha, Nebraska",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/b2b24969/Omaha-NE",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 92435
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richmond, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/834acf75/Richmond-VA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 78200
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plano, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5c9bbdcc/Plano-TX",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 67190.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/aba40c94/Houston-TX",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 90329.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Detroit, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/6188a73a/Detroit-MI",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 62500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/80dc5689/Miami-FL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 74059.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Stamford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/046e3391/Stamford-CT",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 84536.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/c162c430/San-Jose-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cleveland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a5896d55/Cleveland-OH",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 93301.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Springfield, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a901da8c/Springfield-MA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Worcester, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f900ff53/Worcester-MA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 97672.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baltimore, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/d44faa5a/Baltimore-MD",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 95476.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Orlando, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f7db09b7/Orlando-FL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 116330.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jacksonville, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5d0cabaa/Jacksonville-FL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 109500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Carmel, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f290558b/Carmel-IN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 79200
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "West Des Moines, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a219219b/West-Des-Moines-IA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 78343.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5aba1bf4/St-Louis-MO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 89000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/09ed3ad5/Raleigh-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 131519
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lansing, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/bdf67688/Lansing-MI",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Harrisburg, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/0c54a2f1/Harrisburg-PA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 58250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Maine",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/311aa5b8/Portland-ME",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 54500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fort Wayne, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/65173bca/Fort-Wayne-IN",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milwaukee, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/278863f8/Milwaukee-WI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70623
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Antonio, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/2ff1b544/San-Antonio-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 67000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Montpelier, Vermont",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/ee1734d9/Montpelier-VT",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 123000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Arlington, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/08d2eed9/Arlington-VA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 121224.16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/940593b5/Salt-Lake-City-UT",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fort Worth, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5b862d9e/Fort-Worth-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Memphis, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/13bad0ef/Memphis-TN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 84250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/233bff53/Nashville-TN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 90276.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/2ac84e33/Austin-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 128380.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Newark, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a1a33fc4/Newark-NJ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 118503.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Buffalo, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/44e9800b/Buffalo-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rochester, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/fc32ff7f/Rochester-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 62000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5e44a254/St.-Louis-MO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 107500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cedar Rapids, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a914cec7/Cedar-Rapids-IA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 103000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boca Raton, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/908e3ffb/Boca-Raton-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Aliso Viejo, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/198a96e8/Aliso-Viejo-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 108590.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Northbrook, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/b3309828/Northbrook-IL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 101500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Syracuse, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/eac69caf/Syracuse-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 44664.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Albany, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/cc9dfea3/Albany-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 63500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chevy Chase, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/334541da/Chevy-Chase-MD",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 59090.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chattanooga, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/23e451cb/Chattanooga-TN",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/266b22e1/Washington-WA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 200000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irving, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/a10cbd74/Irving-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 119830.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minnetonka, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/e53d92b9/Minnetonka-MN",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 110500.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Grand Rapids, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/e6fae8b2/Grand-Rapids-MI",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 69999
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Erie, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/ae7642b6/Erie-PA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lancaster, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/01ae9dcd/Lancaster-PA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 30520.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Akron, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/12683a08/Akron-OH",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 89319.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Schaumburg, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5830a69f/Schaumburg-IL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lexington, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/2e8f21e3/Lexington-KY",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 64139
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scottsdale, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/3041cc3e/Scottsdale-AZ",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Little Rock, Arkansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/0211bc54/Little-Rock-AR",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 82000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Florida, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/d5a06813/Florida-FL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 150000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fort Lauderdale, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/0c8a886f/Fort-Lauderdale-FL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Wilmington, Delaware",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/9272f873/Wilmington-DE",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 106990.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sacramento, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/6d5f640f/Sacramento-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 76500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/8b97aec3/Irvine-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 92500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Walnut Creek, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f33a1fa6/Walnut-Creek-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 146100
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Colorado Springs, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/17e9f04d/Colorado-Springs-CO",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 52500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kansas City, Kansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/45c12d91/Kansas-City-KS",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 160000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Overland Park, Kansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/ab7e1110/Overland-Park-KS",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 67137.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Springfield, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/fd081651/Springfield-IL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 135000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Naperville, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/7be233a0/Naperville-IL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 121893
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Honolulu, Hawaii",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/526d994c/Honolulu-HI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plymouth Meeting, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/403a8522/Plymouth-Meeting-PA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 144827.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Greenville, South Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/2b3e127a/Greenville-SC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "El Paso, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/7ce46cab/El-Paso-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Toledo, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/6f1cad8b/Toledo-OH",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 62400
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oklahoma City, Oklahoma",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/c65f34b9/Oklahoma-City-OK",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 89500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Wellesley, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/513ffb1e/Wellesley-MA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 73000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Springfield, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/c9f13297/Springfield-MO",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 49494.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jersey City, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/455051ca/Jersey-City-NJ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 103000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Princeton, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/adfaaaf4/Princeton-NJ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 99200
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Winston-Salem, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/47f76f74/Winston-Salem-NC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 82007.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Greensboro, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/00a30169/Greensboro-NC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 93875.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rockville, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/40f5c981/Rockville-MD",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/d8fbacb7/Microsoft-Excel",
+                                "profileCount": 243,
+                                "range": {
+                                    "50": 98566.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/b3b32601/Data-Analysis",
+                                "profileCount": 240,
+                                "range": {
+                                    "50": 103565.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Insurance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/72741102/Insurance",
+                                "profileCount": 206,
+                                "range": {
+                                    "50": 105098.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pricing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/0552af9c/Pricing",
+                                "profileCount": 197,
+                                "range": {
+                                    "50": 113428.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Financial Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5f0987d3/Financial-Modeling",
+                                "profileCount": 185,
+                                "range": {
+                                    "50": 107328.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Statistical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/79abed78/Statistical-Analysis",
+                                "profileCount": 129,
+                                "range": {
+                                    "50": 96389.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Access",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/6e6621b8/Microsoft-Access",
+                                "profileCount": 73,
+                                "range": {
+                                    "50": 90197.2
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Financial Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f95754a9/Financial-Analysis",
+                                "profileCount": 57,
+                                "range": {
+                                    "50": 103698.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Valuation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/9d8e652d/Valuation",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 117451.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/2742987a/SQL",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Financial Reporting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/5d7dd067/Financial-Reporting",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 121661.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Risk Management / Risk Control",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/7b29c986/Risk-Management-Risk-Control",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 117000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Reinsurance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f1662ead/Reinsurance",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 114613.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Risk Consulting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/0f4f7512/Risk-Consulting",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 129000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/3197f172/SAS",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 127450.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/057e06c4/Data-Modeling",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 105550
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Product Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/ecd99518/Product-Development",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 123151.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "VBA",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/48ed59b0/VBA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 75500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Technical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/b9690e27/Technical-Analysis",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 98372.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/f677c141/Python",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 117916.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "R",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/dd138e58/R",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 144199.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mathematica",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuary/Salary/7c9f4cff/Mathematica",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 84000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 67,
+                        "score": 4.02
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 5106,
+                        "range": {
+                            "10": 50749.35,
+                            "25": 58019.14,
+                            "50": 66182.95,
+                            "75": 76165.7,
+                            "90": 87610.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 4705,
+                        "range": {
+                            "10": 48182.04,
+                            "25": 56127.14,
+                            "50": 66379.22,
+                            "75": 78291.36,
+                            "90": 90859.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 3450,
+                        "range": {
+                            "10": 68949.06,
+                            "25": 77173.77,
+                            "50": 86722.83,
+                            "75": 97408.19,
+                            "90": 109125.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 2767,
+                        "range": {
+                            "10": 67221.27,
+                            "25": 77850.21,
+                            "50": 92458.49,
+                            "75": 113361.06,
+                            "90": 134939.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 2456,
+                        "range": {
+                            "10": 44099.19,
+                            "25": 49191.02,
+                            "50": 56262.81,
+                            "75": 65829.34,
+                            "90": 75646.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 2293,
+                        "range": {
+                            "10": 43727.62,
+                            "25": 49703.08,
+                            "50": 56077.65,
+                            "75": 63053.3,
+                            "90": 70152
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 2198,
+                        "range": {
+                            "10": 70868.62,
+                            "25": 83008,
+                            "50": 99680.91,
+                            "75": 120088.4,
+                            "90": 138372.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Controller",
+                        "url": "/research/US/Job=Financial_Controller/Salary",
+                        "profileCount": 2181,
+                        "range": {
+                            "10": 62516.8,
+                            "25": 75283.32,
+                            "50": 91738.65,
+                            "75": 111997.56,
+                            "90": 132661.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 2147,
+                        "range": {
+                            "10": 57364.89,
+                            "25": 64587.19,
+                            "50": 73417.06,
+                            "75": 82880.9,
+                            "90": 91989.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1670,
+                        "range": {
+                            "10": 31095.45,
+                            "25": 36639.72,
+                            "50": 43482.44,
+                            "75": 51919.51,
+                            "90": 61318.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounting Manager",
+                        "url": "/research/US/Job=Accounting_Manager/Salary",
+                        "profileCount": 1644,
+                        "range": {
+                            "10": 55273.93,
+                            "25": 66098.38,
+                            "50": 80693.05,
+                            "75": 96691.75,
+                            "90": 111262.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Finance Manager",
+                        "url": "/research/US/Job=Finance_Manager/Salary",
+                        "profileCount": 1468,
+                        "range": {
+                            "10": 57534.9,
+                            "25": 77776.42,
+                            "50": 99719.81,
+                            "75": 118414.76,
+                            "90": 134048.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1338,
+                        "range": {
+                            "10": 55198.91,
+                            "25": 64834.21,
+                            "50": 77549.87,
+                            "75": 93479.24,
+                            "90": 113405.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 1315,
+                        "range": {
+                            "10": 66175.23,
+                            "25": 76339.39,
+                            "50": 88811.48,
+                            "75": 102918.1,
+                            "90": 118421.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1215,
+                        "range": {
+                            "10": 93968.46,
+                            "25": 107917.35,
+                            "50": 125966.5,
+                            "75": 146151.69,
+                            "90": 165858.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 1078,
+                        "range": {
+                            "10": 50185.37,
+                            "25": 57958.31,
+                            "50": 67003.97,
+                            "75": 77502.82,
+                            "90": 88500.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Financial Officer (CFO)",
+                        "url": "/research/US/Job=Chief_Financial_Officer_(CFO)/Salary",
+                        "profileCount": 1062,
+                        "range": {
+                            "10": 83317.94,
+                            "25": 109144.74,
+                            "50": 147104,
+                            "75": 191562.97,
+                            "90": 238875.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1058,
+                        "range": {
+                            "10": 52813.86,
+                            "25": 64175.91,
+                            "50": 79088.74,
+                            "75": 97777.66,
+                            "90": 119002.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1033,
+                        "range": {
+                            "10": 59949.92,
+                            "25": 67907.6,
+                            "50": 77684,
+                            "75": 90745.3,
+                            "90": 108024.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Corporate Controller",
+                        "url": "/research/US/Job=Corporate_Controller/Salary",
+                        "profileCount": 1029,
+                        "range": {
+                            "10": 74682.64,
+                            "25": 90746.04,
+                            "50": 111413.47,
+                            "75": 135855.01,
+                            "90": 161411.44
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Actuary/Salary",
+                    "occupationalCategory": "15-2010.00 - Actuaries",
+                    "skills": "Microsoft Excel, Data Analysis, Insurance, Pricing, Financial Modeling, Statistical Analysis, Microsoft Access, Financial Analysis, Valuation, SQL, Financial Reporting, Risk Management / Risk Control, Reinsurance, Risk Consulting, SAS, Data Modeling, Product Development, VBA, Technical Analysis, Python, R, Mathematica",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-28T05:44:07.65172Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "60396.99",
+                            "percentile25": "76177.98",
+                            "median": "106968.65",
+                            "percentile75": "142311.67",
+                            "percentile90": "174742.19",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "60118.51",
+                            "percentile25": "74547.08",
+                            "median": "102183.62",
+                            "percentile75": "131180.87",
+                            "percentile90": "155017.31",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2323.16",
+                            "percentile25": "5017.39",
+                            "median": "11089.56",
+                            "percentile75": "19799.21",
+                            "percentile90": "29908.7",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 768,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Actuaries play a key role in insurance companies by serving as analysts who help determine whether the company should issue an insurance policy and what the premium for that policy should be. They use a great deal of statistical analysis in their work, as they examine huge amounts of data related to costing and trends. Insurance companies must always maintain their financial health, and the role of the actuary is to manage risk in the delicate balance between issuing policies (and the costs paid for them) and the exposure to financial risk for the company.\r\nOften, actuaries help add statistically-significant data to data models for insurance companies and then analyze related effects on insurance policies. This typically includes examining incident data (such as car accidents by location or age ranges in auto insurance) and then adjusting rates and terms as necessary; they may also occasionally pull disparate data from a variety of sources for these adjustments. For example, those who work with homeowner's insurance may regularly assess not only crime data in a neighborhood, but also patterns of destructive weather where previous claims have been paid. This ongoing re-calculation of risk exposure for the insurance company is an actuary's primary responsibility.\r\nCandidates for this position should have a college degree in actuarial science or a field related to statistical analysis. They must also be highly experienced with computers and able to quickly manage large data streams to discern trends and useful information. Most actuaries work for insurance companies, although some financial service companies may have actuarial departments which manage investment risks. Actuaries generally work in office environments during traditional business hours.",
+                    "name": "Actuary",
+                    "url": "/research/US/Job=Actuary/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

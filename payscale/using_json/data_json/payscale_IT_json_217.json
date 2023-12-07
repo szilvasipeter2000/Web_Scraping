@@ -1,0 +1,2854 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 4,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Embedded Software Developer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Embedded_Software_Developer/Salary",
+                    "defaultUrl": "/research/US/Job=Embedded_Software_Developer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-06T04:35:45.47183Z",
+                "narratives": {
+                    "description": "Embedded software developers are in charge of creating effective embedded software applications for their organization. They are responsible for programming software capabilities based on project requirements, as well as resolving obstacles as they arise during the development process. Their main functions include coding firmware, troubleshooting software packages as required, providing support packages for embedded systems, and producing high-quality technical documentation for future reference. Generally, embedded software developers report their progress to the software lead in their department. \r\nOther tasks performed by embedded software developers include eliminating software bugs by implementing modules and sub-systems, overseeing defect verification, and taking part in training sessions for newly implemented software. They interact with hardware devices to check for software inconsistencies, as well as perform product and feature design. Additionally, embedded software developers participate in testing meetings to facilitate control processes before shipping and provide valuable feedback for future versions.\r\nA bachelor's degree in computer science or a related field is necessary for this position, as is relevant prior experience. Industry certifications may be required or preferred. Embedded software developers should have experience writing boot loaders and developing signal-processing algorithms. They should also be proficient with a variety of operating systems to test for quality problems. They must be organized individuals that can multitask and effectively prioritize key activities, as well as have strong communication abilities to interact with other software developers in a team environment. Embedded software developers need to pay close attention to detail and be able to work on their own with minimal supervision. ",
+                    "summaryHourly": "The average pay for an Embedded Software Developer is $48.61 per hour.",
+                    "summarySalary": "The average pay for an Embedded Software Developer is $79,713 per year."
+                },
+                "tasks": [
+                    "Use kernel debuggers, system dumps, and assembly language, as well as higher level languages.",
+                    "Write, modify, and debug software for embedded devices.",
+                    "Write performance critical code in resource-limited environments, including low power, low memory, restricted bandwidth, CPU, etc.",
+                    "Test and document software."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 3250,
+                        "25": 5895.81,
+                        "50": 8452.89,
+                        "75": 12208.38,
+                        "90": 14500,
+                        "profileCount": 14
+                    },
+                    "hourlyRate": {
+                        "25": 41.19,
+                        "50": 48.61,
+                        "75": 53.19,
+                        "profileCount": 7
+                    },
+                    "salary": {
+                        "10": 65582.78,
+                        "25": 69562.19,
+                        "50": 79712.93,
+                        "75": 108086.19,
+                        "90": 124554.81,
+                        "profileCount": 39
+                    },
+                    "total": {
+                        "10": 65867.1,
+                        "25": 70688.41,
+                        "50": 85311.12,
+                        "75": 115221.52,
+                        "90": 128771.33,
+                        "profileCount": 46
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-06T04:35:45.47183Z",
+                        "profileCount": 46,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 46,
+                                "range": {
+                                    "10": 65867.1,
+                                    "25": 70688.41,
+                                    "50": 85311.12,
+                                    "75": 115221.52,
+                                    "90": 128771.33
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-11-06T04:35:45.47183Z",
+                        "profileCount": 7,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 41.19,
+                                    "50": 48.61,
+                                    "75": 53.19
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-06T04:35:45.47183Z",
+                        "profileCount": 39,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 39,
+                                "range": {
+                                    "10": 65582.78,
+                                    "25": 69562.19,
+                                    "50": 79712.93,
+                                    "75": 108086.19,
+                                    "90": 124554.81
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-06T04:35:45.47183Z",
+                        "profileCount": 18,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-06T04:35:45.47183Z",
+                        "profileCount": 26,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Caterpillar, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Hourly_Rate/e688c34a/Caterpillar-Inc.",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/45681a05/Entry-Level",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 66455.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/45681a05/Early-Career",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 69931.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a6ca04f0/Mid-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 98364.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/c8662903/Experienced",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 100708.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/969191d5/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 126691.43
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/2ffef429/Boston-MA",
+                                "profileCount": 49,
+                                "range": {
+                                    "50": 87917.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/eca83b83/San-Jose-CA",
+                                "profileCount": 44,
+                                "range": {
+                                    "50": 121448.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/9ce7c6bf/San-Diego-CA",
+                                "profileCount": 41,
+                                "range": {
+                                    "50": 90191.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/7ac5dce3/Seattle-WA",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 96579.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/cdd99c00/Los-Angeles-CA",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 91349.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/677477f4/San-Francisco-CA",
+                                "profileCount": 30,
+                                "range": {
+                                    "50": 113620.09
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baltimore, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/328d2e69/Baltimore-MD",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 89333.92
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Grand Rapids, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/576331fa/Grand-Rapids-MI",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 74212.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/290ee2bb/Minneapolis-MN",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 86562.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Detroit, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ed87b374/Detroit-MI",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 90824.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/fe6739d3/Austin-TX",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 88113.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/012f4a64/Raleigh-NC",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 103686.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/cf7a9c27/Denver-CO",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 83218.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Troy, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f61c092c/Troy-MI",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 84669.25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tucson, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/df447f19/Tucson-AZ",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 77730.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/186ef68b/Salt-Lake-City-UT",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 82766.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/498c32fd/Houston-TX",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 87427.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/229515f8/Dallas-TX",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 89747.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/fe6739d3/Pittsburgh-PA",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 79490.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Clara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/5267b260/Santa-Clara-CA",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 132373.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boulder, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/4898f4f2/Boulder-CO",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 78000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mountain View, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/8d5c31e2/Mountain-View-CA",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 127002.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/06068293/Atlanta-GA",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 81889.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/2222c9a8/Chicago-IL",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 88690.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fort Worth, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/4d4571cd/Fort-Worth-TX",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 71139.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/3c9d0448/Portland-OR",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 81792.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Redmond, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/4076e25c/Redmond-WA",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 80580.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milwaukee, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/cb04c66a/Milwaukee-WI",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 73948.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Peoria, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Hourly_Rate/0902829e/Peoria-IL",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 75450
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Auburn Hills, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/9dda7aec/Auburn-Hills-MI",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 79804.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dearborn, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/3c9d0448/Dearborn-MI",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 85021.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indianapolis, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e4142979/Indianapolis-IN",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 74401.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cleveland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/8370fc3b/Cleveland-OH",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 78956.12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dayton, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/0c3a5f79/Dayton-OH",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 90300
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cincinnati, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/34057af1/Cincinnati-OH",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 77948.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cedar Rapids, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/1b8de53f/Cedar-Rapids-IA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 68784.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Novi, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/86aee3a0/Novi-MI",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 92271.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/4e735220/Tampa-FL",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 69285.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/bbf10a99/Irvine-CA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bellevue, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/aa349e62/Bellevue-WA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 85285.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plano, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/806514dd/Plano-TX",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 109608.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sunnyvale, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/d0f5237b/Sunnyvale-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 115039.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ed4529fb/Phoenix-AZ",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kokomo, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/382cc136/Kokomo-IN",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 83584.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Melbourne, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/97839498/Melbourne-FL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 79219.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Orlando, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/af9e4744/Orlando-FL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 77211.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Ann Arbor, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/94cca7fc/Ann-Arbor-MI",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 78613.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rochester, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/723004f4/Rochester-NY",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 84624.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cary, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/0a4a6005/Cary-NC",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 89628.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/c143964f/Charlotte-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 72039.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fargo, North Dakota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/8370fc3b/Fargo-ND",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 63076.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e4142979/Washington-DC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 76277.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fort Lauderdale, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/5e118c38/Fort-Lauderdale-FL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 81951.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Willowbrook, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a0819ae3/Willowbrook-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 79826.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Huntsville, Alabama",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/002cc632/Huntsville-AL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70150.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Colorado Springs, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e4de90ca/Colorado-Springs-CO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 87776.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/1e2e4bb4/Philadelphia-PA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 88560
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oklahoma City, Oklahoma",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f873a1e0/Oklahoma-City-OK",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 77419.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlottesville, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/d7bf4e11/Charlottesville-VA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 77567.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Madison, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/efe9c1e2/Madison-WI",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 77804.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Waukesha, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f92cd177/Waukesha-WI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 96390
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Arlington, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/063492fc/Arlington-VA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/7cd7f66b/Columbus-OH",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sacramento, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/0690f606/Sacramento-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 99820.09
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pasadena, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/d6c01522/Pasadena-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "El Segundo, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/29119d21/El-Segundo-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 113003.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "California City, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/82967d34/California-City-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rolling Meadows, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a02ede50/Rolling-Meadows-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Englewood, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/c3ba96b8/Englewood-CO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Littleton, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/67714742/Littleton-CO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 102439.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Syracuse, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/7d1a386c/Syracuse-NY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78613.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/6318dd41/St.-Louis-MO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Clifton, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/bd01cbf3/Clifton-NJ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 82500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Allen Park, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/5bc14a68/Allen-Park-MI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 65734.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Milford, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/df90518a/Milford-MI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 87189.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Louisville, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/b66a794c/Louisville-KY",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 75036.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Andover, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ff58a0b8/Andover-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85634.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Framingham, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/b1ef5491/Framingham-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 108089.87
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Waltham, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/82fe52b4/Waltham-MA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 90500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bedford, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/96255cf2/Bedford-MA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 90859.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Charles, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/7dfeecde/St.-Charles-IL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbia, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/c1a01926/Columbia-MD",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 88591.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linthicum Heights, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/1911126c/Linthicum-Heights-MD",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 97000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Farmington Hills, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/496a1c0b/Farmington-Hills-MI",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 78000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Albany, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/3fd57dee/Albany-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Buffalo, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/fd7dc1ea/Buffalo-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 84352.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Las Vegas, Nevada",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/5920673d/Las-Vegas-NV",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kansas City, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/daa659d5/Kansas-City-MO",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 78987.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a8fa4597/New-York-NY",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 82586.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hartford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a7f3b15c/Hartford-CT",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e0b9e5ac/Miami-FL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 97010
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Duluth, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/9d16ef93/Duluth-GA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 74500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Carlsbad, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/7abff673/Carlsbad-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 87360
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chico, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/16378b6d/Chico-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 72000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cupertino, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/be5a2c7b/Cupertino-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 142500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fremont, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/16886ac3/Fremont-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 102439.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tempe, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/10d98dfe/Tempe-AZ",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 68955.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Anaheim, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/edec812f/Anaheim-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 92500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New Bremen, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a6bdfba6/New-Bremen-OH",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 63883.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Toledo, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/b3439ce7/Toledo-OH",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 56820.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Beaverton, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a4efd2d6/Beaverton-OR",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 74250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tualatin, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ab4ec370/Tualatin-OR",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 95287.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Greenville, South Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/6f006ebb/Greenville-SC",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 89150
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sioux Falls, South Dakota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/7c171932/Sioux-Falls-SD",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 70554.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Provo, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/77c0ac53/Provo-UT",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bothell, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/74d025b7/Bothell-WA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 92432.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Antonio, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/d5d49a97/San-Antonio-TX",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 83843.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Vancouver, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/265e80d5/Vancouver-WA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 92432.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Renton, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/088a1e53/Renton-WA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Everett, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/c5dcca8f/Everett-WA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 71215.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lynnwood, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/37635bd9/Lynnwood-WA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 79593.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Providence, Rhode Island",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Hourly_Rate/a4d713f7/Providence-RI",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Reading, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/8fb07811/Reading-PA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 62598.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Arlington, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/92978a9d/Arlington-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "El Paso, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/dd1c589f/El-Paso-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 63000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Carrollton, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a20a795b/Carrollton-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 97750.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Holland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/24ae9cd7/Holland-OH",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 58466.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Beavercreek, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/13241c6f/Beavercreek-OH",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 78000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Berkeley, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/c83f9868/Berkeley-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Goleta, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/7f73dd0e/Goleta-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 93350.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Menlo Park, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/33057891/Menlo-Park-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Woodland Hills, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f4c7b4cb/Woodland-Hills-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 76086.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plantation, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/df438952/Plantation-FL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 76359.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Shelton, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/344badf2/Shelton-CT",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 85859.66
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Schaumburg, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/50d03f27/Schaumburg-IL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 70733.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Burr Ridge, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/07085088/Burr-Ridge-IL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 73056.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Niles, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a00c6084/Niles-IL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 78515.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e5a6e234/Columbus-IN",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 78000.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Des Moines, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/b6f23614/Des-Moines-IA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Eden Prairie, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/11912c05/Eden-Prairie-MN",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 73352
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Greensboro, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e02ab2a5/Greensboro-NC",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 89813.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Reno, Nevada",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/2ec49cab/Reno-NV",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 58000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Concord, New Hampshire",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/82074d0d/Concord-NH",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 75940.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Manchester, New Hampshire",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/82cd6436/Manchester-NH",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 84000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Woburn, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/32d1eae8/Woburn-MA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 107025.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Livonia, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Hourly_Rate/c44e63fa/Livonia-MI",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Royal Oak, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/5940c764/Royal-Oak-MI",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 84400.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Saginaw, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ca6130c4/Saginaw-MI",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Germantown, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/9490057c/Germantown-MD",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Wichita, Kansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/b3b8ee0f/Wichita-KS",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 97650
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lexington, Kentucky",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/1efd9b14/Lexington-KY",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 98375.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Beverly, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/729ecd4e/Beverly-MA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 71215.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Burlington, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a3abc8ef/Burlington-MA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 83167.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cambridge, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/315b8f0c/Cambridge-MA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 103500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Westminster, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/71fd312e/Westminster-MA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 68942.03
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lowell, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/049d5c0c/Lowell-MA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 85500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rockville, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/166d85f9/Rockville-MD",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 95500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Southfield, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f6f98694/Southfield-MI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 92811.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pontiac, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ceac779b/Pontiac-MI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 67500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Northville, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e515c1ac/Northville-MI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 68500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Brighton, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/0cbc5000/Brighton-MI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 72413.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Canton, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/6f96c0ed/Canton-MI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 102500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bloomington, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/424ab73e/Bloomington-MN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Burnsville, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/1f178dda/Burnsville-MN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 85856.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minnetonka, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f8f4c880/Minnetonka-MN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 78500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Greenlawn, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/1578c0f8/Greenlawn-NY",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 82349.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hauppauge, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/cd7a1544/Hauppauge-NY",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Parsippany, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/204c2491/Parsippany-NJ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 69241.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rochelle Park, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/34c0db33/Rochelle-Park-NJ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 82000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Woodbridge, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/13b79c09/Woodbridge-NJ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Morrisville, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/5c10a7e5/Morrisville-NC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 61445.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Springfield, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/026455d7/Springfield-MO",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Akron, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/43cb1415/Akron-OH",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 101500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh-Durham, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/fba2a5d1/Raleigh-Durham-NC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 87625
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Winston-Salem, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/27399c72/Winston-Salem-NC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 83500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bismarck, North Dakota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/b82025c9/Bismarck-ND",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 67792.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Marshalltown, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/66cb056d/Marshalltown-IA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 67000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Urbandale, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a82d4de2/Urbandale-IA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 70720.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Waterloo, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Hourly_Rate/b3698a0f/Waterloo-IA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Olathe, Kansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ccc9bd8c/Olathe-KS",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Overland Park, Kansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/04c907ec/Overland-Park-KS",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 79000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cedar Falls, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/c96001b6/Cedar-Falls-IA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 66241.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Alpharetta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/8c6af63a/Alpharetta-GA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 79000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Moline, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e28d4f01/Moline-IL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Naperville, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/6f68365c/Naperville-IL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 102625
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Longmont, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/8da709f1/Longmont-CO",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 107500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Petersburg, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/918f4785/St.-Petersburg-FL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Marietta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/1c4363c5/Marietta-GA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 95750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Roswell, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e16c5f33/Roswell-GA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 70500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Suwanee, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/48e66d8e/Suwanee-GA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 85953.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boise, Idaho",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Hourly_Rate/28a5dcc4/Boise-ID",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Barbara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/91318037/Santa-Barbara-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 97411.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scottsdale, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/64a05f16/Scottsdale-AZ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 72413.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mesa, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a222d01c/Mesa-AZ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Centennial, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/6c077de3/Centennial-CO",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 76625
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Redondo Beach, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e73ad561/Redondo-Beach-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 100750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Palmdale, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/b41c1c49/Palmdale-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Palo Alto, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ea0d1ab6/Palo-Alto-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 111390.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Calabasas, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/75ecee4f/Calabasas-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Belmont, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/002cc632/Belmont-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 117000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Gilbert, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ddb53008/Gilbert-AZ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 96000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mayfield Heights, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/b3c81e1a/Mayfield-Heights-OH",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 70811.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Norman, Oklahoma",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ff8e4284/Norman-OK",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 91812.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Erie, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e96a75be/Erie-PA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 71758
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "King of Prussia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/0add456a/King-of-Prussia-PA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 71000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Malvern, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/e67d9f14/Malvern-PA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 83000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Eugene, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/eb5d147c/Eugene-OR",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 62000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salem, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/ba702a84/Salem-OR",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 82697.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richardson, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/852ade8f/Richardson-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "West Chester, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/8bf029b3/West-Chester-PA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 65520
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Knoxville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/37bf3bca/Knoxville-TN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f1cb9010/Nashville-TN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 73469.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chantilly, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/414349cd/Chantilly-VA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 107500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kirkland, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/9355cabc/Kirkland-WA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 71750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sugar Land, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/5982405f/Sugar-Land-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 91500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tyler, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/1a561a6c/Tyler-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 62446
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Springville, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/0d6561ba/Springville-UT",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Christiansburg, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/a2122e68/Christiansburg-VA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 62500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hampton, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f48e889d/Hampton-VA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 74050
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richmond, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/3a997fb0/Richmond-VA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 81000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Lake Geneva, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/2809e496/Lake-Geneva-WI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 66500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Menomonee Falls, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/552bf562/Menomonee-Falls-WI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 80350
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Middleton, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/af841cbc/Middleton-WI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 71500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "C Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/d4d725c3/C-Programming-Language",
+                                "profileCount": 40,
+                                "range": {
+                                    "50": 76128.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Embedded / Real-Time / RTOS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/6423c2d6/Embedded-Real-Time-RTOS",
+                                "profileCount": 39,
+                                "range": {
+                                    "50": 77399.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/f90109ae/Software-Development",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 82693.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C++ Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/5a40b623/C%2B%2B-Programming-Language",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 88014.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/c7c0c7ea/Linux",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Matlab",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Hourly_Rate/ec466412/Matlab",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 66485.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Developer/Salary/9d425159/Python",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 97386.69
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 4012,
+                        "range": {
+                            "10": 67230.75,
+                            "25": 77862.56,
+                            "50": 92462.55,
+                            "75": 113399.32,
+                            "90": 134971.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1643,
+                        "range": {
+                            "10": 94153.82,
+                            "25": 108099.27,
+                            "50": 126162.85,
+                            "75": 146318.78,
+                            "90": 166038.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 912,
+                        "range": {
+                            "10": 55284.18,
+                            "25": 64954.96,
+                            "50": 77682.84,
+                            "75": 93645.51,
+                            "90": 113542.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 876,
+                        "range": {
+                            "10": 63962.23,
+                            "25": 72396.89,
+                            "50": 82805.77,
+                            "75": 98595.5,
+                            "90": 122126.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 793,
+                        "range": {
+                            "10": 113400.31,
+                            "25": 129769.08,
+                            "50": 148336.79,
+                            "75": 168493.23,
+                            "90": 189777.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Embedded Software Engineer",
+                        "url": "/research/US/Job=Embedded_Software_Engineer/Salary",
+                        "profileCount": 708,
+                        "range": {
+                            "10": 67117.03,
+                            "25": 76109.07,
+                            "50": 86512.33,
+                            "75": 101875.16,
+                            "90": 122478.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 674,
+                        "range": {
+                            "10": 70870.34,
+                            "25": 82996.81,
+                            "50": 99709.74,
+                            "75": 120083.96,
+                            "90": 138415.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 605,
+                        "range": {
+                            "10": 84988.05,
+                            "25": 98720.57,
+                            "50": 116989.56,
+                            "75": 135094.78,
+                            "90": 155589.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 478,
+                        "range": {
+                            "10": 59968.94,
+                            "25": 67926.99,
+                            "50": 77713.46,
+                            "75": 90785.41,
+                            "90": 108085.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 470,
+                        "range": {
+                            "10": 90387.73,
+                            "25": 107180.16,
+                            "50": 127481.75,
+                            "75": 146671.81,
+                            "90": 166256.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Firmware Engineer",
+                        "url": "/research/US/Job=Firmware_Engineer/Salary",
+                        "profileCount": 395,
+                        "range": {
+                            "10": 71023.08,
+                            "25": 78761.55,
+                            "50": 90454.5,
+                            "75": 110165.78,
+                            "90": 131950.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 387,
+                        "range": {
+                            "10": 59107.77,
+                            "25": 70018.36,
+                            "50": 83772.65,
+                            "75": 102845.06,
+                            "90": 123555.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 328,
+                        "range": {
+                            "10": 67633.63,
+                            "25": 80061.15,
+                            "50": 95980.52,
+                            "75": 117099.33,
+                            "90": 135528.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Aerospace Engineer",
+                        "url": "/research/US/Job=Aerospace_Engineer/Salary",
+                        "profileCount": 295,
+                        "range": {
+                            "10": 67975.3,
+                            "25": 77267.97,
+                            "50": 91361.01,
+                            "75": 113770.9,
+                            "90": 140109.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Software Engineer",
+                        "url": "/research/US/Job=Staff_Software_Engineer/Salary",
+                        "profileCount": 291,
+                        "range": {
+                            "10": 111503.83,
+                            "25": 131734.98,
+                            "50": 152288.7,
+                            "75": 178838.38,
+                            "90": 202998.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 275,
+                        "range": {
+                            "10": 84470.74,
+                            "25": 97730.16,
+                            "50": 114352.28,
+                            "75": 133977.07,
+                            "90": 155135.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 270,
+                        "range": {
+                            "10": 48209.48,
+                            "25": 56178.53,
+                            "50": 66443.69,
+                            "75": 78354.76,
+                            "90": 90919.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 260,
+                        "range": {
+                            "10": 59200.23,
+                            "25": 68090.39,
+                            "50": 76430.05,
+                            "75": 86411.01,
+                            "90": 104849.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 256,
+                        "range": {
+                            "10": 70769.68,
+                            "25": 85217.61,
+                            "50": 104204.55,
+                            "75": 128621.19,
+                            "90": 149931.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Embedded Software Engineer",
+                        "url": "/research/US/Job=Senior_Embedded_Software_Engineer/Salary",
+                        "profileCount": 202,
+                        "range": {
+                            "10": 94766.76,
+                            "25": 104051.8,
+                            "50": 121895.76,
+                            "75": 140776.31,
+                            "90": 157423.55
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Embedded_Software_Developer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "C Programming Language, Embedded / Real-Time / RTOS, Software Development, C++ Programming Language, Linux, Matlab, Python",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-06T04:35:45.47183Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "65867.1",
+                            "percentile25": "70688.41",
+                            "median": "85311.12",
+                            "percentile75": "115221.52",
+                            "percentile90": "128771.33",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "65582.78",
+                            "percentile25": "69562.19",
+                            "median": "79712.93",
+                            "percentile75": "108086.19",
+                            "percentile90": "124554.81",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "3250",
+                            "percentile25": "5895.81",
+                            "median": "8452.89",
+                            "percentile75": "12208.38",
+                            "percentile90": "14500",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 64,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Embedded software developers are in charge of creating effective embedded software applications for their organization. They are responsible for programming software capabilities based on project requirements, as well as resolving obstacles as they arise during the development process. Their main functions include coding firmware, troubleshooting software packages as required, providing support packages for embedded systems, and producing high-quality technical documentation for future reference. Generally, embedded software developers report their progress to the software lead in their department. \r\nOther tasks performed by embedded software developers include eliminating software bugs by implementing modules and sub-systems, overseeing defect verification, and taking part in training sessions for newly implemented software. They interact with hardware devices to check for software inconsistencies, as well as perform product and feature design. Additionally, embedded software developers participate in testing meetings to facilitate control processes before shipping and provide valuable feedback for future versions.\r\nA bachelor's degree in computer science or a related field is necessary for this position, as is relevant prior experience. Industry certifications may be required or preferred. Embedded software developers should have experience writing boot loaders and developing signal-processing algorithms. They should also be proficient with a variety of operating systems to test for quality problems. They must be organized individuals that can multitask and effectively prioritize key activities, as well as have strong communication abilities to interact with other software developers in a team environment. Embedded software developers need to pay close attention to detail and be able to work on their own with minimal supervision. ",
+                    "name": "Embedded Software Developer",
+                    "url": "/research/US/Job=Embedded_Software_Developer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

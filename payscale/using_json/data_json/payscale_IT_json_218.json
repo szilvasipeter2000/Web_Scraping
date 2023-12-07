@@ -1,0 +1,763 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Embedded Software Development Engineer",
+                    "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary",
+                    "compensation": 97647.00090314321,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Embedded Software Engineer",
+                            "url": "/research/US/Job=Senior_Embedded_Software_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 115882.80052647299,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Embedded Software Engineer",
+                                    "url": "/research/US/Job=Embedded_Software_Engineer/Salary",
+                                    "percent": 0.2,
+                                    "compensation": 81501.14028615694,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Principal Software Engineer",
+                                    "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                                    "percent": 0.17,
+                                    "compensation": 137333.59701278113,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Senior Firmware Engineer",
+                                    "url": "/research/US/Job=Senior_Firmware_Engineer/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 112649.73953382214,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Embedded Software Development Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Embedded_Software_Development_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-12-24T04:32:08.67774Z",
+                "narratives": {
+                    "description": "Embedded software development engineers are responsible for creating software code that embeds into their organization's operating system. These professionals develop device drivers using specific engineering requirements. They also strive to implement and test embedded software features to make sure that applications layers are working correctly. These professionals have strong technical and analytical skills to develop excellent solutions to software development challenges. \r\nEmbedded software development engineers coordinate and provide resolutions by debugging conflicting code and reviewing specifications before shipping applications. They work well in a cross-functional team to identify validation errors and conduct quality assurance processes. Embedded software development engineers also research different code interactions before implementing capabilities in embedded software. They usually report their progress to the software development vice president in their organization. They also create firmware that helps coordinate and regulate electrical and mechanical systems. One of their main responsibilities is writing detailed reports throughout the concept, development, and testing stages. They are proficient with different coding environments and operating system applications. They share code and integration methods with other engineers. These professionals can manipulate processors and loaders. Embedded software development engineers use their excellent problem-solving skills to provide advice in different methodologies. In addition, they are proficient with different frameworks to develop effective solutions to embedded obstacles. \r\nA bachelor's degree in software engineering, embedded application development, computer science, or a related field is required for this job. In addition, previous years of work experience in a development capacity can be helpful. Industry certifications are a plus.",
+                    "summaryHourly": "The average pay for an Embedded Software Development Engineer is $25.00 per hour.",
+                    "summarySalary": "The average pay for an Embedded Software Development Engineer is $100,796 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 1986.59,
+                        "25": 2298.1,
+                        "50": 7794.87,
+                        "75": 8832.4,
+                        "90": 13702,
+                        "profileCount": 12
+                    },
+                    "hourlyRate": {
+                        "50": 25,
+                        "profileCount": 4
+                    },
+                    "profitSharing": {
+                        "50": 2947.91,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 66745.76,
+                        "25": 88598.64,
+                        "50": 100796.39,
+                        "75": 118393.72,
+                        "90": 129063.18,
+                        "profileCount": 15
+                    },
+                    "total": {
+                        "10": 20939.61,
+                        "25": 83199.47,
+                        "50": 103805.12,
+                        "75": 116056.34,
+                        "90": 131297.73,
+                        "profileCount": 19
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-12-24T04:32:08.67774Z",
+                        "profileCount": 19,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": {
+                                    "10": 20939.61,
+                                    "25": 83199.47,
+                                    "50": 103805.12,
+                                    "75": 116056.34,
+                                    "90": 131297.73
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-12-24T04:32:08.67774Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 25
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-12-24T04:32:08.67774Z",
+                        "profileCount": 15,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": {
+                                    "10": 66745.76,
+                                    "25": 88598.64,
+                                    "50": 100796.39,
+                                    "75": 118393.72,
+                                    "90": 129063.18
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-12-24T04:32:08.67774Z",
+                        "profileCount": 11,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-12-24T04:32:08.67774Z",
+                        "profileCount": 15,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/971fb867/Entry-Level",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 77456.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/971fb867/Early-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 85938.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/e91e9c8b/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 106124.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/7b94e1d7/Experienced",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 102324.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/17b695c2/Late-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 116192.05
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "C Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/da2744ba/C-Programming-Language",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 98453.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Embedded / Real-Time / RTOS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/f7a49654/Embedded-Real-Time-RTOS",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 99044.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/a0192cef/Software-Development",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 106124.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/1b8cfdb6/Linux",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 110500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C++ Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/a72d9783/C%2B%2B-Programming-Language",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 98989.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ARM architecture",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/053e6260/ARM-architecture",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 99925.67
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Matlab",
+                                "displayName": null,
+                                "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary/ae5d5a4a/Matlab",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 82400
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 3.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 2750,
+                        "range": {
+                            "10": 65762.64,
+                            "25": 76157.04,
+                            "50": 90649.12,
+                            "75": 111620.81,
+                            "90": 132722.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1204,
+                        "range": {
+                            "10": 91530.92,
+                            "25": 105143.62,
+                            "50": 123604.34,
+                            "75": 143904.28,
+                            "90": 163629.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 809,
+                        "range": {
+                            "10": 62139.76,
+                            "25": 70506.24,
+                            "50": 80429.64,
+                            "75": 95891.01,
+                            "90": 118527.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 700,
+                        "range": {
+                            "10": 111106.55,
+                            "25": 126734.28,
+                            "50": 145068.62,
+                            "75": 165331.2,
+                            "90": 186169.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Embedded Software Engineer",
+                        "url": "/research/US/Job=Embedded_Software_Engineer/Salary",
+                        "profileCount": 648,
+                        "range": {
+                            "10": 64844.95,
+                            "25": 74199.72,
+                            "50": 84522.82,
+                            "75": 99732.25,
+                            "90": 119850.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 549,
+                        "range": {
+                            "10": 53682.36,
+                            "25": 63370.06,
+                            "50": 75707.75,
+                            "75": 91311.21,
+                            "90": 110782.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 460,
+                        "range": {
+                            "10": 58566.74,
+                            "25": 65977.19,
+                            "50": 75306.87,
+                            "75": 87746.14,
+                            "90": 103540.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 441,
+                        "range": {
+                            "10": 81857.65,
+                            "25": 95653.85,
+                            "50": 112939.7,
+                            "75": 131327.86,
+                            "90": 150793.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 381,
+                        "range": {
+                            "10": 88052.7,
+                            "25": 104353.38,
+                            "50": 124673.33,
+                            "75": 144405.79,
+                            "90": 165029.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Firmware Engineer",
+                        "url": "/research/US/Job=Firmware_Engineer/Salary",
+                        "profileCount": 380,
+                        "range": {
+                            "10": 69040.2,
+                            "25": 76907.65,
+                            "50": 88487.44,
+                            "75": 108415.99,
+                            "90": 128862.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 265,
+                        "range": {
+                            "10": 82709.76,
+                            "25": 95632.72,
+                            "50": 111825.33,
+                            "75": 131164.44,
+                            "90": 152331.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Aerospace Engineer",
+                        "url": "/research/US/Job=Aerospace_Engineer/Salary",
+                        "profileCount": 257,
+                        "range": {
+                            "10": 66402.78,
+                            "25": 75508.34,
+                            "50": 88927.98,
+                            "75": 110579.15,
+                            "90": 135942.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Software Engineer",
+                        "url": "/research/US/Job=Staff_Software_Engineer/Salary",
+                        "profileCount": 257,
+                        "range": {
+                            "10": 106878.19,
+                            "25": 128529.85,
+                            "50": 150038.04,
+                            "75": 176058.94,
+                            "90": 200771.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 237,
+                        "range": {
+                            "10": 57781.16,
+                            "25": 68469.27,
+                            "50": 82005.69,
+                            "75": 101066.63,
+                            "90": 121593.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Manager",
+                        "url": "/research/US/Job=Software_Development_Manager/Salary",
+                        "profileCount": 192,
+                        "range": {
+                            "10": 92087.99,
+                            "25": 111083.59,
+                            "50": 130954.94,
+                            "75": 150560.55,
+                            "90": 169089.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Embedded Software Engineer",
+                        "url": "/research/US/Job=Senior_Embedded_Software_Engineer/Salary",
+                        "profileCount": 190,
+                        "range": {
+                            "10": 93342.62,
+                            "25": 103241.97,
+                            "50": 120515.66,
+                            "75": 139607.02,
+                            "90": 157289.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 177,
+                        "range": {
+                            "10": 47334.15,
+                            "25": 55068.85,
+                            "50": 65014.55,
+                            "75": 77202.97,
+                            "90": 90906.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 173,
+                        "range": {
+                            "10": 68492.68,
+                            "25": 82237.21,
+                            "50": 101119.63,
+                            "75": 124267.68,
+                            "90": 144657.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 171,
+                        "range": {
+                            "10": 57950.41,
+                            "25": 66419.17,
+                            "50": 74967.75,
+                            "75": 84722.67,
+                            "90": 102755.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Engineer (SDE)",
+                        "url": "/research/US/Job=Software_Development_Engineer_(SDE)/Salary",
+                        "profileCount": 148,
+                        "range": {
+                            "10": 82215.02,
+                            "25": 97436.33,
+                            "50": 114662.43,
+                            "75": 132011.7,
+                            "90": 147739.26
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Embedded_Software_Development_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "C Programming Language, Embedded / Real-Time / RTOS, Software Development, Linux, C++ Programming Language, ARM architecture, Matlab",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-12-24T04:32:08.67774Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "20939.61",
+                            "percentile25": "83199.47",
+                            "median": "103805.12",
+                            "percentile75": "116056.34",
+                            "percentile90": "131297.73",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "66745.76",
+                            "percentile25": "88598.64",
+                            "median": "100796.39",
+                            "percentile75": "118393.72",
+                            "percentile90": "129063.18",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1986.59",
+                            "percentile25": "2298.1",
+                            "median": "7794.87",
+                            "percentile75": "8832.4",
+                            "percentile90": "13702",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "2947.91",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 20,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Embedded software development engineers are responsible for creating software code that embeds into their organization's operating system. These professionals develop device drivers using specific engineering requirements. They also strive to implement and test embedded software features to make sure that applications layers are working correctly. These professionals have strong technical and analytical skills to develop excellent solutions to software development challenges. \r\nEmbedded software development engineers coordinate and provide resolutions by debugging conflicting code and reviewing specifications before shipping applications. They work well in a cross-functional team to identify validation errors and conduct quality assurance processes. Embedded software development engineers also research different code interactions before implementing capabilities in embedded software. They usually report their progress to the software development vice president in their organization. They also create firmware that helps coordinate and regulate electrical and mechanical systems. One of their main responsibilities is writing detailed reports throughout the concept, development, and testing stages. They are proficient with different coding environments and operating system applications. They share code and integration methods with other engineers. These professionals can manipulate processors and loaders. Embedded software development engineers use their excellent problem-solving skills to provide advice in different methodologies. In addition, they are proficient with different frameworks to develop effective solutions to embedded obstacles. \r\nA bachelor's degree in software engineering, embedded application development, computer science, or a related field is required for this job. In addition, previous years of work experience in a development capacity can be helpful. Industry certifications are a plus.",
+                    "name": "Embedded Software Development Engineer",
+                    "url": "/research/US/Job=Embedded_Software_Development_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

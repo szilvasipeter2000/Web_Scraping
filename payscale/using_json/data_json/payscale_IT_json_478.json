@@ -1,0 +1,548 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Remedy Developer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Remedy_Developer/Salary",
+                    "defaultUrl": "/research/US/Job=Remedy_Developer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-11-18T03:19:52.86578Z",
+                "narratives": {
+                    "description": "Remedy developers are responsible for maintaining the Remedy software in a company. Remedy is service management software, and a wide variety of companies use it. Remedy developers will work with the information technology department of a company. They will install and test the Remedy software. They will manage all user accounts and are in charge of requests for access. \r\nThey will make sure that the software is up-to-date and working smoothly, so they will perform upgrades and migrations when necessary. Remedy developers will create the workflows and develop the forms and other components that are required by the business within the application. The source code is managed by the remedy developer, and they are responsible for making estimates and managing many other aspects of the build. It is required that they perform these actions within time constraints and budgets. They may provide training to users of the program, as well as technical support when requested. \r\nCommunication skills are highly important for a Remedy developer. A bachelor's degree in computer science or a related discipline is required. Certifications in different programming areas and years of experience in a computer field are highly desired. Good organizational skills are also important because the software is used to promote efficiency within a business. A working knowledge of database software is essential.\r\n",
+                    "summarySalary": "The average pay for a Remedy Developer is $121,725 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "50": 121724.77,
+                        "profileCount": 3
+                    },
+                    "total": {
+                        "50": 119481.17,
+                        "profileCount": 4
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-11-18T03:19:52.86578Z",
+                        "profileCount": 4,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 119481.17
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-11-18T03:19:52.86578Z",
+                        "profileCount": 3,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 121724.77
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-11-18T03:19:52.86578Z",
+                        "profileCount": 1,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-11-18T03:19:52.86578Z",
+                        "profileCount": 1,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Remedy_Developer/Salary/1795a79e/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 82000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Remedy_Developer/Salary/d26cc8b6/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 95449.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Remedy_Developer/Salary/c07f9ae6/Experienced",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 121313.84
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "BMC Remedy Software",
+                                "displayName": null,
+                                "url": "/research/US/Job=Remedy_Developer/Salary/c03e14f5/BMC-Remedy-Software",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Information Technology Infrastructure Library (ITIL)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Remedy_Developer/Salary/8bf0283d/Information-Technology-Infrastructure-Library-ITIL",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 63,
+                        "range": {
+                            "10": 86065.57,
+                            "25": 100426.83,
+                            "50": 116815.51,
+                            "75": 133809.15,
+                            "90": 151832.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Service Delivery Manager",
+                        "url": "/research/US/Job=Service_Delivery_Manager/Salary",
+                        "profileCount": 52,
+                        "range": {
+                            "10": 55285.91,
+                            "25": 67768.93,
+                            "50": 89544.5,
+                            "75": 116574.95,
+                            "90": 136041.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Incident Manager",
+                        "url": "/research/US/Job=Incident_Manager/Salary",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 56486.28,
+                            "25": 69733.29,
+                            "50": 90864.24,
+                            "75": 110109.7,
+                            "90": 131012.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 30,
+                        "range": {
+                            "10": 56530.94,
+                            "25": 70248.89,
+                            "50": 89313.4,
+                            "75": 112714.05,
+                            "90": 134409.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Senior_Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 23,
+                        "range": {
+                            "10": 84832.26,
+                            "25": 101923.71,
+                            "50": 125691.26,
+                            "75": 142631.46,
+                            "90": 159200.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Program Manager, IT",
+                        "url": "/research/US/Job=Program_Manager%2C_IT/Salary",
+                        "profileCount": 22,
+                        "range": {
+                            "10": 73755.2,
+                            "25": 93268.07,
+                            "50": 115039.41,
+                            "75": 133785.82,
+                            "90": 151733.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 22,
+                        "range": {
+                            "10": 71937.2,
+                            "25": 93556.63,
+                            "50": 122741.78,
+                            "75": 151433.85,
+                            "90": 176242.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Operations Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Operations_Manager/Salary",
+                        "profileCount": 20,
+                        "range": {
+                            "10": 62004.42,
+                            "25": 76573.51,
+                            "50": 93338.5,
+                            "75": 113950.72,
+                            "90": 130681.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manager, Change Management",
+                        "url": "/research/US/Job=Manager%2C_Change_Management/Salary",
+                        "profileCount": 18,
+                        "range": {
+                            "10": 64718.86,
+                            "25": 81580.9,
+                            "50": 102950.4,
+                            "75": 128951.77,
+                            "90": 149891.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Service Desk Manager",
+                        "url": "/research/US/Job=Service_Desk_Manager/Salary",
+                        "profileCount": 16,
+                        "range": {
+                            "10": 50657.47,
+                            "25": 60831.83,
+                            "50": 74973.53,
+                            "75": 90945.86,
+                            "90": 103766.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Information Technology Services",
+                        "url": "/research/US/Job=Director_of_Information_Technology_Services/Salary",
+                        "profileCount": 12,
+                        "range": {
+                            "10": 76086.55,
+                            "25": 92584.4,
+                            "50": 122471.33,
+                            "75": 153180.09,
+                            "90": 174385.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 12,
+                        "range": {
+                            "10": 58881.17,
+                            "25": 72125.62,
+                            "50": 89298.92,
+                            "75": 109829.3,
+                            "90": 129607.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Consultant",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Consultant/Salary",
+                        "profileCount": 11,
+                        "range": {
+                            "10": 51642.64,
+                            "25": 64899.3,
+                            "50": 81383.11,
+                            "75": 104309.7,
+                            "90": 129230.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Manager, IT",
+                        "url": "/research/US/Job=Help_Desk_Manager%2C_IT/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 47767.84,
+                            "25": 56520.18,
+                            "50": 69033.33,
+                            "75": 84428.3,
+                            "90": 98764.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Team Leader, IT",
+                        "url": "/research/US/Job=Team_Leader%2C_IT/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 54256.63,
+                            "25": 69782.98,
+                            "50": 89656.11,
+                            "75": 115717.5,
+                            "90": 136443.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 39489.28,
+                            "25": 47318.73,
+                            "50": 58164.73,
+                            "75": 74654.75,
+                            "90": 97330.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Release Manager",
+                        "url": "/research/US/Job=Software_Release_Manager/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 64599.11,
+                            "25": 77513.34,
+                            "50": 99326.94,
+                            "75": 121794.95,
+                            "90": 147778.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Supervisor",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Supervisor/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 51760.4,
+                            "25": 59731.43,
+                            "50": 71000.65,
+                            "75": 86941.21,
+                            "90": 104200.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 46549.87,
+                            "25": 54281.61,
+                            "50": 64194.04,
+                            "75": 76331.99,
+                            "90": 89453
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 51649.34,
+                            "25": 60643.98,
+                            "50": 71371.17,
+                            "75": 84643.34,
+                            "90": 100298.36
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Remedy_Developer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "BMC Remedy Software, Information Technology Infrastructure Library (ITIL)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-11-18T03:19:52.86578Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "119481.17",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "121724.77",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 9,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Remedy developers are responsible for maintaining the Remedy software in a company. Remedy is service management software, and a wide variety of companies use it. Remedy developers will work with the information technology department of a company. They will install and test the Remedy software. They will manage all user accounts and are in charge of requests for access. \r\nThey will make sure that the software is up-to-date and working smoothly, so they will perform upgrades and migrations when necessary. Remedy developers will create the workflows and develop the forms and other components that are required by the business within the application. The source code is managed by the remedy developer, and they are responsible for making estimates and managing many other aspects of the build. It is required that they perform these actions within time constraints and budgets. They may provide training to users of the program, as well as technical support when requested. \r\nCommunication skills are highly important for a Remedy developer. A bachelor's degree in computer science or a related discipline is required. Certifications in different programming areas and years of experience in a computer field are highly desired. Good organizational skills are also important because the software is used to promote efficiency within a business. A working knowledge of database software is essential.\r\n",
+                    "name": "Remedy Developer",
+                    "url": "/research/US/Job=Remedy_Developer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

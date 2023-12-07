@@ -1,0 +1,294 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Management Information System Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Management_Information_System_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Management_Information_System_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2020-12-30T11:23:43.72534Z",
+                "narratives": {
+                    "description": "The main responsibility of an information system manager is to lead a team of professionals in technology projects relating to information systems. On a day to day basis, an information system manager can to do many tasks, including designing software, developing software, managing multiple projects at once, splitting the work between team members, making sure that a project is completed within the deadline, coming up with new strategies to improve efficiency, hiring new team members, knowing how to start and finish a project, coaching the team members so that they can be successful in their line of work, knowing how to correctly document a piece of code, being able to resolve technical issues without much downtime, and coming up with project plans.\r\nAs an information system manager, one can expect to work normal hours from 9 to 5. These managers are found in all types of companies, but they are more commonly found working in tech companies and business companies. Most of the work is done in a conference room and in front of a computer. Depending on the company, one can expect to travel to have meetings with clients.\r\nIn order to be considered as an information system manager, one must have a bachelor's or masters in computer science, information systems, or business administrations. The following skills are required: excellent verbal and written communication, being able to lead a team, being willing to adapt to changing technology, and being willing to work late.",
+                    "summarySalary": "The average pay for a Management Information System Manager is $62,400 per year."
+                },
+                "tasks": [
+                    "Maintain and manage information system.",
+                    "Provide client and in-house support.",
+                    "Input, analyze and gather data."
+                ],
+                "compensation": {
+                    "salary": {
+                        "25": 49131.76,
+                        "50": 62400,
+                        "75": 76302.36,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 47166.49,
+                        "50": 62400,
+                        "75": 76302.36,
+                        "profileCount": 6
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2020-12-30T11:23:43.72534Z",
+                        "profileCount": 6,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 47166.49,
+                                    "50": 62400,
+                                    "75": 76302.36
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2020-12-30T11:23:43.72534Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 49131.76,
+                                    "50": 62400,
+                                    "75": 76302.36
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2020-12-30T11:23:43.72534Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2020-12-30T11:23:43.72534Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Management_Information_System_Manager/Salary/061d13d7/Early-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 62400
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Management_Information_System_Manager/Salary/a00ebf41/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 46750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Management_Information_System_Manager/Salary/1d48a593/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 65043
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Management_Information_System_Manager/Salary/1b5e52b4/Late-Career",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 48000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Management_Information_System_Manager/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2020-12-30T11:23:43.72534Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "47166.49",
+                            "median": "62400",
+                            "percentile75": "76302.36",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "49131.76",
+                            "median": "62400",
+                            "percentile75": "76302.36",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "The main responsibility of an information system manager is to lead a team of professionals in technology projects relating to information systems. On a day to day basis, an information system manager can to do many tasks, including designing software, developing software, managing multiple projects at once, splitting the work between team members, making sure that a project is completed within the deadline, coming up with new strategies to improve efficiency, hiring new team members, knowing how to start and finish a project, coaching the team members so that they can be successful in their line of work, knowing how to correctly document a piece of code, being able to resolve technical issues without much downtime, and coming up with project plans.\r\nAs an information system manager, one can expect to work normal hours from 9 to 5. These managers are found in all types of companies, but they are more commonly found working in tech companies and business companies. Most of the work is done in a conference room and in front of a computer. Depending on the company, one can expect to travel to have meetings with clients.\r\nIn order to be considered as an information system manager, one must have a bachelor's or masters in computer science, information systems, or business administrations. The following skills are required: excellent verbal and written communication, being able to lead a team, being willing to adapt to changing technology, and being willing to work late.",
+                    "name": "Management Information System Manager",
+                    "url": "/research/US/Job=Management_Information_System_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

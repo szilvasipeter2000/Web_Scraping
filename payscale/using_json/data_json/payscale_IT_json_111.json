@@ -1,0 +1,621 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Computer Network / LAN Analyst",
+                    "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary",
+                    "compensation": 59000,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Embedded Software Engineer",
+                            "url": "/research/US/Job=Embedded_Software_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 81501.14028615694,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Embedded Software Engineer",
+                                    "url": "/research/US/Job=Senior_Embedded_Software_Engineer/Salary",
+                                    "percent": 0.3,
+                                    "compensation": 115882.80052647299,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Software Engineer",
+                                    "url": "/research/US/Job=Software_Engineer/Salary",
+                                    "percent": 0.21,
+                                    "compensation": 85679.1994543505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Computer Network / LAN Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-11-05T03:16:47.2274Z",
+                "narratives": {
+                    "description": "Computer network/LAN analysts are tasked with analyzing the effectiveness of their company's computer networks and providing support to the employees who use it. End-users may be employees within the company or individuals outside it, such as customers, clients, and vendors, and they may use various diagnostic tools and computer programs to resolve network problems. They also check related applications and software and work with systems engineers to resolve hardware problems.\r\nIn addition to working internally, these analysts may also work with vendors (contractors) who may help design, develop, and maintain the computer network. They must maintain knowledge of common wireless and communication lines linking devices to the network and document all issues and resolutions, and strong verbal and written communication skills are also important in this position. Proficiency in Microsoft Office programs is also required by most employers.\r\nA bachelor's degree in computer engineering, computer science, or a related field is generally required for this position, and these analysts must be able to work independently as well as in a team environment. They should be able to work well under pressure to meet deadlines and stay up-to-date with new technology in the marketplace, and reading professional journals is highly recommended. They may also be required to attend conferences or ongoing education courses.",
+                    "summaryHourly": "The average pay for a Computer Network / LAN Analyst is $27.31 per hour."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 27.31,
+                        "profileCount": 3
+                    },
+                    "total": {
+                        "50": 61682.4,
+                        "profileCount": 4
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-11-05T03:16:47.2274Z",
+                        "profileCount": 4,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 61682.4
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-11-05T03:16:47.2274Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 27.31
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-11-05T03:16:47.2274Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-11-05T03:16:47.2274Z",
+                        "profileCount": 3,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary/1da9751f/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary/deaa7429/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Hourly_Rate/d64a8dac/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 30.97
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Systems Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary/7135359e/Systems-Troubleshooting",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 27.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary/7422e180/Network-Management-Administration",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 27.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Exchange",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Hourly_Rate/90974f4b/Microsoft-Exchange",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 28.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Hourly_Rate/c4b0feb9/Microsoft-Office",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 28.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2608,
+                        "range": {
+                            "10": 12.62,
+                            "25": 14.66,
+                            "50": 16.81,
+                            "75": 19.71,
+                            "90": 23.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1294,
+                        "range": {
+                            "10": 13.76,
+                            "25": 15.81,
+                            "50": 18.97,
+                            "75": 22.77,
+                            "90": 26.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1277,
+                        "range": {
+                            "10": 16.71,
+                            "25": 20.11,
+                            "50": 25.55,
+                            "75": 33.84,
+                            "90": 44.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1093,
+                        "range": {
+                            "10": 15.24,
+                            "25": 18.28,
+                            "50": 22.2,
+                            "75": 27.44,
+                            "90": 33.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 963,
+                        "range": {
+                            "10": 17.64,
+                            "25": 22.9,
+                            "50": 28.8,
+                            "75": 35.58,
+                            "90": 44.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 925,
+                        "range": {
+                            "10": 17.23,
+                            "25": 20.2,
+                            "50": 24.78,
+                            "75": 30.27,
+                            "90": 37.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 734,
+                        "range": {
+                            "10": 16.96,
+                            "25": 20.59,
+                            "50": 27.57,
+                            "75": 38.38,
+                            "90": 52.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 688,
+                        "range": {
+                            "10": 18.88,
+                            "25": 24.06,
+                            "50": 29.64,
+                            "75": 36.15,
+                            "90": 44.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 537,
+                        "range": {
+                            "10": 16.58,
+                            "25": 19.94,
+                            "50": 24.71,
+                            "75": 29.58,
+                            "90": 34.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 518,
+                        "range": {
+                            "10": 19.73,
+                            "25": 25.39,
+                            "50": 31.95,
+                            "75": 39.45,
+                            "90": 49.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Service Technician",
+                        "url": "/research/US/Job=HVAC_Service_Technician/Hourly_Rate",
+                        "profileCount": 482,
+                        "range": {
+                            "10": 15.5,
+                            "25": 18.77,
+                            "50": 23.39,
+                            "75": 28.62,
+                            "90": 34.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 478,
+                        "range": {
+                            "10": 18.26,
+                            "25": 23.21,
+                            "50": 29.88,
+                            "75": 40.4,
+                            "90": 49.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 473,
+                        "range": {
+                            "10": 22.8,
+                            "25": 26.39,
+                            "50": 31.1,
+                            "75": 36.34,
+                            "90": 43.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 420,
+                        "range": {
+                            "10": 13.68,
+                            "25": 16.27,
+                            "50": 20.18,
+                            "75": 25.06,
+                            "90": 30.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Administrator",
+                        "url": "/research/US/Job=Office_Administrator/Hourly_Rate",
+                        "profileCount": 371,
+                        "range": {
+                            "10": 13.12,
+                            "25": 15.06,
+                            "50": 17.44,
+                            "75": 20.45,
+                            "90": 24.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 350,
+                        "range": {
+                            "10": 10.69,
+                            "25": 12.67,
+                            "50": 15.08,
+                            "75": 17.51,
+                            "90": 20.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 346,
+                        "range": {
+                            "10": 16.42,
+                            "25": 19.79,
+                            "50": 24.46,
+                            "75": 29.93,
+                            "90": 36.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Coordinator",
+                        "url": "/research/US/Job=Administrative_Coordinator/Hourly_Rate",
+                        "profileCount": 332,
+                        "range": {
+                            "10": 14.43,
+                            "25": 16.42,
+                            "50": 19.2,
+                            "75": 22.5,
+                            "90": 26.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 330,
+                        "range": {
+                            "10": 15.59,
+                            "25": 18.32,
+                            "50": 21.56,
+                            "75": 25.46,
+                            "90": 30.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Administrative Assistant",
+                        "url": "/research/US/Job=Sr._Administrative_Assistant/Salary",
+                        "profileCount": 326,
+                        "range": {
+                            "10": 16.67,
+                            "25": 19.01,
+                            "50": 22.53,
+                            "75": 26.74,
+                            "90": 31.09
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Systems Troubleshooting, Network Management / Administration, Microsoft Exchange, Microsoft Office",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-11-05T03:16:47.2274Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "61682.4",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "27.31",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Computer network/LAN analysts are tasked with analyzing the effectiveness of their company's computer networks and providing support to the employees who use it. End-users may be employees within the company or individuals outside it, such as customers, clients, and vendors, and they may use various diagnostic tools and computer programs to resolve network problems. They also check related applications and software and work with systems engineers to resolve hardware problems.\r\nIn addition to working internally, these analysts may also work with vendors (contractors) who may help design, develop, and maintain the computer network. They must maintain knowledge of common wireless and communication lines linking devices to the network and document all issues and resolutions, and strong verbal and written communication skills are also important in this position. Proficiency in Microsoft Office programs is also required by most employers.\r\nA bachelor's degree in computer engineering, computer science, or a related field is generally required for this position, and these analysts must be able to work independently as well as in a team environment. They should be able to work well under pressure to meet deadlines and stay up-to-date with new technology in the marketplace, and reading professional journals is highly recommended. They may also be required to attend conferences or ongoing education courses.",
+                    "name": "Computer Network / LAN Analyst",
+                    "url": "/research/US/Job=Computer_Network_%2F_LAN_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

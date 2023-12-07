@@ -1,0 +1,802 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Search Engine Marketing (SEM) Strategist",
+                    "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary",
+                    "compensation": 53772.90093302609,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Marketing Manager",
+                            "url": "/research/US/Job=Marketing_Manager/Salary",
+                            "percent": 0.5,
+                            "compensation": 65377.345493279194,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Marketing Director",
+                                    "url": "/research/US/Job=Marketing_Director/Salary",
+                                    "percent": 0.19,
+                                    "compensation": 87911.19122321739,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Marketing Manager",
+                                    "url": "/research/US/Job=Senior_Marketing_Manager/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 98831.71150427654,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Vice President (VP), Marketing",
+                                    "url": "/research/US/Job=Vice_President_(VP)%2C_Marketing/Salary",
+                                    "percent": 0.03,
+                                    "compensation": 147315.7577942771,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Managed Services Director",
+                            "url": "/research/US/Job=Managed_Services_Director/Salary",
+                            "percent": 0.5,
+                            "compensation": 99749.99992375223,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 0
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Search Engine Marketing (SEM) Strategist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary",
+                    "defaultUrl": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-06-01T04:44:17.24845Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Search Engine Marketing (SEM) Strategist is $59,166 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 2000,
+                        "50": 2500,
+                        "75": 13200,
+                        "profileCount": 7
+                    },
+                    "profitSharing": {
+                        "50": 4500,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 49366.9,
+                        "25": 52710.47,
+                        "50": 59166.2,
+                        "75": 69045.35,
+                        "90": 93377.14,
+                        "profileCount": 40
+                    },
+                    "total": {
+                        "10": 49544.69,
+                        "25": 53724.13,
+                        "50": 59522.15,
+                        "75": 69552.46,
+                        "90": 96551.9,
+                        "profileCount": 40
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-06-01T04:44:17.24845Z",
+                        "profileCount": 40,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 40,
+                                "range": {
+                                    "10": 49544.69,
+                                    "25": 53724.13,
+                                    "50": 59522.15,
+                                    "75": 69552.46,
+                                    "90": 96551.9
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-06-01T04:44:17.24845Z",
+                        "profileCount": 40,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 40,
+                                "range": {
+                                    "10": 49366.9,
+                                    "25": 52710.47,
+                                    "50": 59166.2,
+                                    "75": 69045.35,
+                                    "90": 93377.14
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-06-01T04:44:17.24845Z",
+                        "profileCount": 20,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-06-01T04:44:17.24845Z",
+                        "profileCount": 23,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/569cd87c/Early-Career",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 56315.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/f4bf4faf/Mid-Career",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 59355.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/35975acf/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/e74da8be/Chicago-IL",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 49494.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/f8648b52/Denver-CO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/325c7ec3/New-York-NY",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 62500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/ff3e5bc5/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/06e3e408/Seattle-WA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/bf804b1d/San-Francisco-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 59016.84
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Search Engine Marketing (SEM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/b203d2b6/Search-Engine-Marketing-SEM",
+                                "profileCount": 40,
+                                "range": {
+                                    "50": 57728.16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Google Ad Words",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/4abb0347/Google-Ad-Words",
+                                "profileCount": 33,
+                                "range": {
+                                    "50": 56514.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Google Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/b9e9d5d4/Google-Analytics",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 58688.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Planning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/09a3a4d6/Strategic-Planning",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 57401.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Search Engine Optimization (SEO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/d32bb67e/Search-Engine-Optimization-SEO",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 48815.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/f413f781/Data-Analysis",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 63416.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/3020672f/Microsoft-Excel",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 45494.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Online Marketing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary/1bf43e6e/Online-Marketing",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 51596.61
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 4.2
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2397,
+                        "range": {
+                            "10": 47564.51,
+                            "25": 55532.59,
+                            "50": 65773.54,
+                            "75": 77601.01,
+                            "90": 90300.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1936,
+                        "range": {
+                            "10": 50334.58,
+                            "25": 57363.19,
+                            "50": 65419.58,
+                            "75": 75268.7,
+                            "90": 86504.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1644,
+                        "range": {
+                            "10": 30703.03,
+                            "25": 36091.43,
+                            "50": 42656.64,
+                            "75": 51173.95,
+                            "90": 60408.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1180,
+                        "range": {
+                            "10": 43082.37,
+                            "25": 49028.69,
+                            "50": 55259.69,
+                            "75": 62046.3,
+                            "90": 69088.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1047,
+                        "range": {
+                            "10": 68045.77,
+                            "25": 76232.62,
+                            "50": 85627.11,
+                            "75": 96204.26,
+                            "90": 107679.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 983,
+                        "range": {
+                            "10": 43398.63,
+                            "25": 48676.38,
+                            "50": 55371.01,
+                            "75": 64743.13,
+                            "90": 74655.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 937,
+                        "range": {
+                            "10": 51799.41,
+                            "25": 63166.77,
+                            "50": 78011.77,
+                            "75": 96725.49,
+                            "90": 118141.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 845,
+                        "range": {
+                            "10": 59409.39,
+                            "25": 67101.89,
+                            "50": 76644.21,
+                            "75": 89402.7,
+                            "90": 105833.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Manager",
+                        "url": "/research/US/Job=Digital_Marketing_Manager/Salary",
+                        "profileCount": 835,
+                        "range": {
+                            "10": 48911.04,
+                            "25": 59307.57,
+                            "50": 72229.77,
+                            "75": 88049.54,
+                            "90": 105259.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 747,
+                        "range": {
+                            "10": 49735.17,
+                            "25": 57147.73,
+                            "50": 66185.93,
+                            "75": 76768.02,
+                            "90": 87570.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 744,
+                        "range": {
+                            "10": 48198.7,
+                            "25": 62030.01,
+                            "50": 84590.94,
+                            "75": 123942.69,
+                            "90": 179967
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 683,
+                        "range": {
+                            "10": 36494.24,
+                            "25": 43016.3,
+                            "50": 51666.48,
+                            "75": 62079.4,
+                            "90": 73273.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 681,
+                        "range": {
+                            "10": 66949.56,
+                            "25": 76641.49,
+                            "50": 88842.69,
+                            "75": 102879.5,
+                            "90": 120078.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Director",
+                        "url": "/research/US/Job=Marketing_Director/Salary",
+                        "profileCount": 668,
+                        "range": {
+                            "10": 53052.17,
+                            "25": 70364.02,
+                            "50": 94798.7,
+                            "75": 125306.79,
+                            "90": 153717.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 623,
+                        "range": {
+                            "10": 56115.55,
+                            "25": 63734.67,
+                            "50": 72823.21,
+                            "75": 85497.39,
+                            "90": 101691.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 596,
+                        "range": {
+                            "10": 56710.28,
+                            "25": 63921.1,
+                            "50": 72575.4,
+                            "75": 82003.48,
+                            "90": 91166.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 595,
+                        "range": {
+                            "10": 56609.74,
+                            "25": 73923.24,
+                            "50": 98305.52,
+                            "75": 130096.05,
+                            "90": 159167.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 580,
+                        "range": {
+                            "10": 65326.19,
+                            "25": 75322.49,
+                            "50": 87571.23,
+                            "75": 101749.36,
+                            "90": 117233.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 553,
+                        "range": {
+                            "10": 59130.85,
+                            "25": 74339.32,
+                            "50": 92912.25,
+                            "75": 118792.26,
+                            "90": 143637.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 546,
+                        "range": {
+                            "10": 46405.75,
+                            "25": 52984.66,
+                            "50": 61397.2,
+                            "75": 71737.76,
+                            "90": 83569.53
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Search Engine Marketing (SEM), Google Ad Words, Google Analytics, Strategic Planning, Search Engine Optimization (SEO), Data Analysis, Microsoft Excel, Online Marketing",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-06-01T04:44:17.24845Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49544.69",
+                            "percentile25": "53724.13",
+                            "median": "59522.15",
+                            "percentile75": "69552.46",
+                            "percentile90": "96551.9",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49366.9",
+                            "percentile25": "52710.47",
+                            "median": "59166.2",
+                            "percentile75": "69045.35",
+                            "percentile90": "93377.14",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "2000",
+                            "median": "2500",
+                            "percentile75": "13200",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 44,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Search Engine Marketing (SEM) Strategist",
+                    "url": "/research/US/Job=Search_Engine_Marketing_(SEM)_Strategist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,699 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Client Support Engineer, IT",
+                    "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary",
+                    "compensation": 45161.53423121261,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Identity and Access Management (IAM) Engineer",
+                            "url": "/research/US/Job=Identity_and_Access_Management_(IAM)_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 90018.8221586466,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 1,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Security Administrator, IT",
+                                    "url": "/research/US/Job=Security_Administrator%2C_IT/Salary",
+                                    "percent": 1,
+                                    "compensation": 66968.72572994546,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Client Support Engineer, IT"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary",
+                    "defaultUrl": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2021-01-14T04:24:11.05572Z",
+                "narratives": {
+                    "description": "Client support engineers in information technology (IT) are tasked with troubleshooting and resolving issues for internal or external clients who use their organizations' systems or networks. These engineers must have an excellent understanding of computer hardware and software and be willing to continuously learn and use new technology, and customer service and interpersonal skills are also important in this position.\r\nIT client support engineers must respond to clients’ questions via email, virtual chat, phone, or in-person in a timely manner, and they may work closely with software engineers, system engineers, computer programmers, and other staff to ensure that the computer system runs smoothly and efficiently. They must log system issues and resolutions using database software and should always stay up-to-date with new technology in the marketplace, and some also continue to learn new skills by attending college classes, workshops, and conferences.\r\nThese engineers may be required to travel to clients’ and vendors’ sites and must be familiar with technologies such as switching, routing, firewalls, and other networking tools. Knowledge in routing voice over IP traffic is beneficial in this position, as is proficiency in Microsoft Office programs to make slide presentations and generate reports and graphs. A bachelor’s degree or higher in a computer science-related field is generally required for this position, and IT client support engineers are also encouraged to read professional journals relevant to their field.",
+                    "summaryHourly": "The average pay for a Client Support Engineer, IT is $19.17 per hour.",
+                    "summarySalary": "The average pay for a Client Support Engineer, IT is $43,528 per year."
+                },
+                "tasks": [
+                    "Give phone support to customers in order to resolve software issues including remote troubleshooting.",
+                    "Update, close and review support tickets.",
+                    "Escalate unresolved support requests.",
+                    "Support a variety of computer based technologies."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 2000,
+                        "profileCount": 4
+                    },
+                    "hourlyRate": {
+                        "50": 19.17,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 32437.58,
+                        "25": 38373.75,
+                        "50": 43527.67,
+                        "75": 46611.19,
+                        "90": 74960.76,
+                        "profileCount": 11
+                    },
+                    "total": {
+                        "10": 32791.28,
+                        "25": 36666.67,
+                        "50": 44123.14,
+                        "75": 47156.29,
+                        "90": 76596.82,
+                        "profileCount": 13
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2021-01-14T04:24:11.05572Z",
+                        "profileCount": 13,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 32791.28,
+                                    "25": 36666.67,
+                                    "50": 44123.14,
+                                    "75": 47156.29,
+                                    "90": 76596.82
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2021-01-14T04:24:11.05572Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 19.17
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2021-01-14T04:24:11.05572Z",
+                        "profileCount": 11,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 32437.58,
+                                    "25": 38373.75,
+                                    "50": 43527.67,
+                                    "75": 46611.19,
+                                    "90": 74960.76
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2021-01-14T04:24:11.05572Z",
+                        "profileCount": 10,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2021-01-14T04:24:11.05572Z",
+                        "profileCount": 11,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/f13c3fee/Early-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 40694.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/65c70eb8/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 54750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/de248ca1/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Systems Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/1b8b61e9/Systems-Troubleshooting",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 44218.58
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 3)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/7c4b5f0c/Help-Desk-Desktop-Support-Tier-3",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 42500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Active Directory",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/c040f820/Microsoft-Active-Directory",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 40000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/cada9486/Network-Support",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 59500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cloud Computing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/666335bf/Cloud-Computing",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 54950
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 2)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary/546dc332/Help-Desk-Desktop-Support-Tier-2",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 44962.07
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 6,
+                        "score": 4.17
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 687,
+                        "range": {
+                            "10": 45248.46,
+                            "25": 52491.72,
+                            "50": 62810.35,
+                            "75": 74745.66,
+                            "90": 88358.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 547,
+                        "range": {
+                            "10": 32705.39,
+                            "25": 38727.97,
+                            "50": 45881.63,
+                            "75": 55378.28,
+                            "90": 66591.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Service Technician",
+                        "url": "/research/US/Job=HVAC_Service_Technician/Hourly_Rate",
+                        "profileCount": 461,
+                        "range": {
+                            "10": 32237.8,
+                            "25": 41136.09,
+                            "50": 51756.72,
+                            "75": 65769.22,
+                            "90": 81142.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 431,
+                        "range": {
+                            "10": 42761.15,
+                            "25": 50323.91,
+                            "50": 60192.75,
+                            "75": 71735.77,
+                            "90": 83485.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 419,
+                        "range": {
+                            "10": 54564.16,
+                            "25": 68783.26,
+                            "50": 88490.38,
+                            "75": 112229.44,
+                            "90": 133712.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 405,
+                        "range": {
+                            "10": 35723.47,
+                            "25": 41439.24,
+                            "50": 50195.48,
+                            "75": 60832.42,
+                            "90": 73552.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 405,
+                        "range": {
+                            "10": 50706.96,
+                            "25": 61243.62,
+                            "50": 74619,
+                            "75": 89889.32,
+                            "90": 108193.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 363,
+                        "range": {
+                            "10": 38499.93,
+                            "25": 46470.53,
+                            "50": 57909.68,
+                            "75": 77070.03,
+                            "90": 99682.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Computer / Network Support Technician",
+                        "url": "/research/US/Job=Computer_%2F_Network_Support_Technician/Hourly_Rate",
+                        "profileCount": 306,
+                        "range": {
+                            "10": 33540.23,
+                            "25": 39385.87,
+                            "50": 47493.68,
+                            "75": 57460.06,
+                            "90": 67625.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Technician",
+                        "url": "/research/US/Job=Help_Desk_Technician/Hourly_Rate",
+                        "profileCount": 301,
+                        "range": {
+                            "10": 30860.93,
+                            "25": 35898.89,
+                            "50": 41396.75,
+                            "75": 49614.66,
+                            "90": 56909.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 287,
+                        "range": {
+                            "10": 35776.02,
+                            "25": 42193.17,
+                            "50": 51220.69,
+                            "75": 62809.79,
+                            "90": 74302.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 280,
+                        "range": {
+                            "10": 34166.53,
+                            "25": 39654.61,
+                            "50": 47647.29,
+                            "75": 58703.78,
+                            "90": 73843.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Technician",
+                        "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                        "profileCount": 266,
+                        "range": {
+                            "10": 29938.35,
+                            "25": 36613.02,
+                            "50": 46071.13,
+                            "75": 57998.43,
+                            "90": 71913.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Desktop Support Technician",
+                        "url": "/research/US/Job=Desktop_Support_Technician/Hourly_Rate",
+                        "profileCount": 262,
+                        "range": {
+                            "10": 36286.72,
+                            "25": 40904.28,
+                            "50": 48261.64,
+                            "75": 55939.21,
+                            "90": 64726.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Automotive Service Technician / Mechanic",
+                        "url": "/research/US/Job=Automotive_Service_Technician_%2F_Mechanic/Hourly_Rate",
+                        "profileCount": 239,
+                        "range": {
+                            "10": 31231.1,
+                            "25": 39877.94,
+                            "50": 50783.24,
+                            "75": 66659.04,
+                            "90": 82703.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 206,
+                        "range": {
+                            "10": 43766.59,
+                            "25": 51330.59,
+                            "50": 61276.13,
+                            "75": 73761.64,
+                            "90": 88190.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Engineer",
+                        "url": "/research/US/Job=Technical_Support_Engineer/Salary",
+                        "profileCount": 193,
+                        "range": {
+                            "10": 44448.27,
+                            "25": 53538.43,
+                            "50": 64544.88,
+                            "75": 78318.35,
+                            "90": 95094.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "HVAC Technician",
+                        "url": "/research/US/Job=HVAC_Technician/Hourly_Rate",
+                        "profileCount": 186,
+                        "range": {
+                            "10": 31223.47,
+                            "25": 39713.08,
+                            "50": 48265.34,
+                            "75": 59746.37,
+                            "90": 75428.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electronics Technician",
+                        "url": "/research/US/Job=Electronics_Technician/Hourly_Rate",
+                        "profileCount": 182,
+                        "range": {
+                            "10": 35507.36,
+                            "25": 43342.48,
+                            "50": 53708.26,
+                            "75": 66942.32,
+                            "90": 80924.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Specialist",
+                        "url": "/research/US/Job=Technical_Support_Specialist/Salary",
+                        "profileCount": 179,
+                        "range": {
+                            "10": 36405.46,
+                            "25": 42695.84,
+                            "50": 51933,
+                            "75": 64556.62,
+                            "90": 80592.29
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Systems Troubleshooting, Help Desk / Desktop Support (Tier 3), Microsoft Active Directory, Network Support, Cloud Computing, Help Desk / Desktop Support (Tier 2)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2021-01-14T04:24:11.05572Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "32791.28",
+                            "percentile25": "36666.67",
+                            "median": "44123.14",
+                            "percentile75": "47156.29",
+                            "percentile90": "76596.82",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "32437.58",
+                            "percentile25": "38373.75",
+                            "median": "43527.67",
+                            "percentile75": "46611.19",
+                            "percentile90": "74960.76",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "2000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 20,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Client support engineers in information technology (IT) are tasked with troubleshooting and resolving issues for internal or external clients who use their organizations' systems or networks. These engineers must have an excellent understanding of computer hardware and software and be willing to continuously learn and use new technology, and customer service and interpersonal skills are also important in this position.\r\nIT client support engineers must respond to clients’ questions via email, virtual chat, phone, or in-person in a timely manner, and they may work closely with software engineers, system engineers, computer programmers, and other staff to ensure that the computer system runs smoothly and efficiently. They must log system issues and resolutions using database software and should always stay up-to-date with new technology in the marketplace, and some also continue to learn new skills by attending college classes, workshops, and conferences.\r\nThese engineers may be required to travel to clients’ and vendors’ sites and must be familiar with technologies such as switching, routing, firewalls, and other networking tools. Knowledge in routing voice over IP traffic is beneficial in this position, as is proficiency in Microsoft Office programs to make slide presentations and generate reports and graphs. A bachelor’s degree or higher in a computer science-related field is generally required for this position, and IT client support engineers are also encouraged to read professional journals relevant to their field.",
+                    "name": "Client Support Engineer, IT",
+                    "url": "/research/US/Job=Client_Support_Engineer%2C_IT/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

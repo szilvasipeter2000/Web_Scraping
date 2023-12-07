@@ -1,0 +1,691 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Nurse Auditor"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Nurse_Auditor/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-02-14T00:07:57.13215Z",
+                "narratives": {
+                    "description": "Nurse auditors are tasked with analyzing medical records for patients to determine whether the documentation correctly identifies the patient's quality of care, medical necessities, ability to pay insurance, and utilization of their stay.\r\nNurse auditors must ensure that patients have the proper medical care and treatment which is reflected by the correct documentation, and they must also ensure that this paperwork adheres to all charging practices and legal standards. This includes reviewing optimal billing methods, specific advice if care is denied, and understanding the appeal process. Nurse auditors work primarily in health care settings ranging from hospitals to urgent-care centers, and they work with a variety of hospital staff ranging from doctors and nurses to human resources (HR) and accounting.\r\nAn RN degree in nursing and at least two years of experience in auditing are generally required for this position. Shifts can vary greatly depending on the employer and location, but are typically long and may last up to twelve hours.",
+                    "summaryHourly": "The average pay for a Nurse Auditor is $35.71 per hour.",
+                    "summarySalary": "The average pay for a Nurse Auditor is $75,000 per year."
+                },
+                "tasks": [
+                    "Performs audits to identify and resolve discrepancies on paid care accounts, patient billing accounts and other government accounts.",
+                    "Protect the hospital's financial interests by reviewing third party charges, grievances and other billing issues.",
+                    "Serve as clinical and financial consultant to patient accounts and hospital departments.",
+                    "Review and audit billing, reimbursements and internal documentation to ensure adherence to technical guidelines."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 1200,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "10": 24.2,
+                        "25": 29.62,
+                        "50": 35.71,
+                        "75": 40.6,
+                        "90": 52.6,
+                        "profileCount": 20
+                    },
+                    "salary": {
+                        "10": 47994.21,
+                        "25": 63500,
+                        "50": 75000,
+                        "75": 84656.53,
+                        "90": 89646.54,
+                        "profileCount": 15
+                    },
+                    "total": {
+                        "10": 49999.31,
+                        "25": 62335.81,
+                        "50": 74464.46,
+                        "75": 84455.53,
+                        "90": 100391.47,
+                        "profileCount": 35
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-02-14T00:07:57.13215Z",
+                        "profileCount": 35,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 35,
+                                "range": {
+                                    "10": 49999.31,
+                                    "25": 62335.81,
+                                    "50": 74464.46,
+                                    "75": 84455.53,
+                                    "90": 100391.47
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-02-14T00:07:57.13215Z",
+                        "profileCount": 20,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 24.2,
+                                    "25": 29.62,
+                                    "50": 35.71,
+                                    "75": 40.6,
+                                    "90": 52.6
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-02-14T00:07:57.13215Z",
+                        "profileCount": 15,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": {
+                                    "10": 47994.21,
+                                    "25": 63500,
+                                    "50": 75000,
+                                    "75": 84656.53,
+                                    "90": 89646.54
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-02-14T00:07:57.13215Z",
+                        "profileCount": 17,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-02-14T00:07:57.13215Z",
+                        "profileCount": 26,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 19,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/78094380/Early-Career",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 32.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/74cc360f/Mid-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 31.1
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/bafb3064/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 37.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Salary/60c2a7c1/Late-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 31.86
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Boca Raton, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/a5c4e90f/Boca-Raton-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 26.53
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Auditing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/56150661/Auditing",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 31.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Electronic Medical Records (EMR)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/e9d72420/Electronic-Medical-Records-EMR",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 30.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Clinical Education",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/d74f13b7/Clinical-Education",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 30.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Medical Coding",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Salary/2510324d/Medical-Coding",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 28.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Internal Audit",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/a7e48c66/Internal-Audit",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 30
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Billing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate/516b1bd4/Billing",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 35.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Current Procedural Terminology (CPT) Coding",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nurse_Auditor/Salary/bebce5cb/Current-Procedural-Terminology-CPT-Coding",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 7,
+                        "score": 3.57
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 2460,
+                        "range": {
+                            "10": 13.09,
+                            "25": 14.77,
+                            "50": 16.7,
+                            "75": 19.1,
+                            "90": 21.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1442,
+                        "range": {
+                            "10": 14.14,
+                            "25": 16.26,
+                            "50": 19.45,
+                            "75": 23.42,
+                            "90": 27.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant (Certified)",
+                        "url": "/research/US/Job=Medical_Assistant_(Certified)/Hourly_Rate",
+                        "profileCount": 806,
+                        "range": {
+                            "10": 13.53,
+                            "25": 15.15,
+                            "50": 17.12,
+                            "75": 19.49,
+                            "90": 21.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Coder",
+                        "url": "/research/US/Job=Medical_Coder/Hourly_Rate",
+                        "profileCount": 690,
+                        "range": {
+                            "10": 15.18,
+                            "25": 17.3,
+                            "50": 20.06,
+                            "75": 23.8,
+                            "90": 27.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Professional Coder (CPC)",
+                        "url": "/research/US/Job=Certified_Professional_Coder_(CPC)/Hourly_Rate",
+                        "profileCount": 563,
+                        "range": {
+                            "10": 15.62,
+                            "25": 18.01,
+                            "50": 20.76,
+                            "75": 24.22,
+                            "90": 27.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Biller",
+                        "url": "/research/US/Job=Medical_Biller/Hourly_Rate",
+                        "profileCount": 482,
+                        "range": {
+                            "10": 13.71,
+                            "25": 15.47,
+                            "50": 17.78,
+                            "75": 20.31,
+                            "90": 23.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Medical Assistant (CMA)",
+                        "url": "/research/US/Job=Certified_Medical_Assistant_(CMA)/Hourly_Rate",
+                        "profileCount": 468,
+                        "range": {
+                            "10": 13.28,
+                            "25": 14.97,
+                            "50": 16.88,
+                            "75": 19.12,
+                            "90": 21.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Billing Specialist",
+                        "url": "/research/US/Job=Medical_Billing_Specialist/Hourly_Rate",
+                        "profileCount": 381,
+                        "range": {
+                            "10": 14.31,
+                            "25": 15.96,
+                            "50": 18.04,
+                            "75": 20.31,
+                            "90": 22.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Internal Auditor",
+                        "url": "/research/US/Job=Internal_Auditor/Salary",
+                        "profileCount": 374,
+                        "range": {
+                            "10": 15,
+                            "25": 18.07,
+                            "50": 21.93,
+                            "75": 26.78,
+                            "90": 31.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Billing Specialist",
+                        "url": "/research/US/Job=Billing_Specialist/Hourly_Rate",
+                        "profileCount": 365,
+                        "range": {
+                            "10": 14.41,
+                            "25": 16.06,
+                            "50": 18.26,
+                            "75": 20.97,
+                            "90": 24.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Registered Medical Assistant (RMA)",
+                        "url": "/research/US/Job=Registered_Medical_Assistant_(RMA)/Hourly_Rate",
+                        "profileCount": 363,
+                        "range": {
+                            "10": 13.47,
+                            "25": 15,
+                            "50": 16.8,
+                            "75": 18.86,
+                            "90": 20.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Auditor",
+                        "url": "/research/US/Job=Auditor/Salary",
+                        "profileCount": 356,
+                        "range": {
+                            "10": 12.62,
+                            "25": 15.18,
+                            "50": 19.81,
+                            "75": 24.5,
+                            "90": 29.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Auditor",
+                        "url": "/research/US/Job=Senior_Auditor/Salary",
+                        "profileCount": 305,
+                        "range": {
+                            "10": 16.06,
+                            "25": 20.48,
+                            "50": 28.88,
+                            "75": 37.28,
+                            "90": 45.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Internal Auditor",
+                        "url": "/research/US/Job=Senior_Internal_Auditor/Salary",
+                        "profileCount": 290,
+                        "range": {
+                            "10": 19.88,
+                            "25": 24.87,
+                            "50": 31.15,
+                            "75": 38,
+                            "90": 43.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Manager",
+                        "url": "/research/US/Job=Quality_Manager/Salary",
+                        "profileCount": 286,
+                        "range": {
+                            "10": 17.11,
+                            "25": 20.01,
+                            "50": 24.84,
+                            "75": 31.29,
+                            "90": 40.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 273,
+                        "range": {
+                            "10": 16.81,
+                            "25": 19.37,
+                            "50": 22.53,
+                            "75": 25.89,
+                            "90": 29.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Ophthalmic Assistant (COA)",
+                        "url": "/research/US/Job=Certified_Ophthalmic_Assistant_(COA)/Hourly_Rate",
+                        "profileCount": 264,
+                        "range": {
+                            "10": 15.2,
+                            "25": 16.76,
+                            "50": 19.11,
+                            "75": 21.8,
+                            "90": 24.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Receptionist",
+                        "url": "/research/US/Job=Medical_Receptionist/Hourly_Rate",
+                        "profileCount": 243,
+                        "range": {
+                            "10": 12.13,
+                            "25": 13.68,
+                            "50": 15.36,
+                            "75": 17.2,
+                            "90": 19.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Billing Manager",
+                        "url": "/research/US/Job=Billing_Manager/Salary",
+                        "profileCount": 231,
+                        "range": {
+                            "10": 16.3,
+                            "25": 18.46,
+                            "50": 21.87,
+                            "75": 25.16,
+                            "90": 28.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounts Receivable Specialist",
+                        "url": "/research/US/Job=Accounts_Receivable_Specialist/Hourly_Rate",
+                        "profileCount": 224,
+                        "range": {
+                            "10": 15.22,
+                            "25": 17.08,
+                            "50": 19.27,
+                            "75": 22.04,
+                            "90": 25.01
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Nurse_Auditor/Hourly_Rate",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Auditing, Electronic Medical Records (EMR), Clinical Education, Medical Coding, Internal Audit, Billing, Current Procedural Terminology (CPT) Coding",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-02-14T00:07:57.13215Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "49999.31",
+                            "percentile25": "62335.81",
+                            "median": "74464.46",
+                            "percentile75": "84455.53",
+                            "percentile90": "100391.47",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": "24.2",
+                            "percentile25": "29.62",
+                            "median": "35.71",
+                            "percentile75": "40.6",
+                            "percentile90": "52.6",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 38,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Nurse auditors are tasked with analyzing medical records for patients to determine whether the documentation correctly identifies the patient's quality of care, medical necessities, ability to pay insurance, and utilization of their stay.\r\nNurse auditors must ensure that patients have the proper medical care and treatment which is reflected by the correct documentation, and they must also ensure that this paperwork adheres to all charging practices and legal standards. This includes reviewing optimal billing methods, specific advice if care is denied, and understanding the appeal process. Nurse auditors work primarily in health care settings ranging from hospitals to urgent-care centers, and they work with a variety of hospital staff ranging from doctors and nurses to human resources (HR) and accounting.\r\nAn RN degree in nursing and at least two years of experience in auditing are generally required for this position. Shifts can vary greatly depending on the employer and location, but are typically long and may last up to twelve hours.",
+                    "name": "Nurse Auditor",
+                    "url": "/research/US/Job=Nurse_Auditor/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

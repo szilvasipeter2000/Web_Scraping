@@ -1,0 +1,696 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Knowledge Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Knowledge_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Knowledge_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-11-01T06:47:04.99991Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Knowledge Engineer is $73,601 per year."
+                },
+                "tasks": [
+                    "Build, support and maintain organizational knowledge bases.",
+                    "Troubleshoot and triage problems and service needs.",
+                    "Set and evaluate policies and goals for knowledge base deployment and architecture.",
+                    "Interview and understand user needs, problems and concerns and create strategies to address them."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 7250,
+                        "50": 10173.65,
+                        "75": 15500,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "10": 59179.54,
+                        "25": 61727.42,
+                        "50": 73601.09,
+                        "75": 88437.17,
+                        "90": 130994.58,
+                        "profileCount": 16
+                    },
+                    "total": {
+                        "10": 59732.63,
+                        "25": 63178.95,
+                        "50": 83427.03,
+                        "75": 96907.22,
+                        "90": 130492.73,
+                        "profileCount": 17
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-11-01T06:47:04.99991Z",
+                        "profileCount": 17,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": {
+                                    "10": 59732.63,
+                                    "25": 63178.95,
+                                    "50": 83427.03,
+                                    "75": 96907.22,
+                                    "90": 130492.73
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-11-01T06:47:04.99991Z",
+                        "profileCount": 16,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 59179.54,
+                                    "25": 61727.42,
+                                    "50": 73601.09,
+                                    "75": 88437.17,
+                                    "90": 130994.58
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-11-01T06:47:04.99991Z",
+                        "profileCount": 13,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-11-01T06:47:04.99991Z",
+                        "profileCount": 15,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Amazon.com Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/7d339804/Amazon.com-Inc",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 77751.73
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/b00cbcce/Entry-Level",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/b00cbcce/Early-Career",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 67563.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/ab6179db/Mid-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 79014.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/22a38458/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 81653.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Bend, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/7511ed12/Bend-OR",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 60000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Barbara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/7c536543/Santa-Barbara-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 71138.56
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/97b0abb5/Data-Analysis",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 70496.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Taxonomy Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/1f16f518/Taxonomy-Development",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 84000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Artificial Intelligence (AI)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/00fb4915/Artificial-Intelligence-AI",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/c7b385ad/Project-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 68200
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Training Program Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/148f0357/Training-Program-Development",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 77000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Content Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/f44ea0b8/Content-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 96500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Japanese Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Knowledge_Engineer/Salary/36ba9fd2/Japanese-Language",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3308,
+                        "range": {
+                            "10": 50652.14,
+                            "25": 61685.41,
+                            "50": 76463.29,
+                            "75": 94615.56,
+                            "90": 116021.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1422,
+                        "range": {
+                            "10": 45749.21,
+                            "25": 53718.44,
+                            "50": 63576.79,
+                            "75": 75171.05,
+                            "90": 88035.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1352,
+                        "range": {
+                            "10": 55021.38,
+                            "25": 62445.04,
+                            "50": 71526.22,
+                            "75": 83656.12,
+                            "90": 99834.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1043,
+                        "range": {
+                            "10": 57582.75,
+                            "25": 64793.37,
+                            "50": 73775.98,
+                            "75": 86063.68,
+                            "90": 101612.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1023,
+                        "range": {
+                            "10": 44822.9,
+                            "25": 54548.56,
+                            "50": 68500.24,
+                            "75": 86071.42,
+                            "90": 107375.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 878,
+                        "range": {
+                            "10": 49297.96,
+                            "25": 55627.38,
+                            "50": 63436.68,
+                            "75": 72811.47,
+                            "90": 83969.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 823,
+                        "range": {
+                            "10": 58844.38,
+                            "25": 72102.1,
+                            "50": 89354.88,
+                            "75": 110001.11,
+                            "90": 129721.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 748,
+                        "range": {
+                            "10": 65443.97,
+                            "25": 74889.78,
+                            "50": 87189.69,
+                            "75": 100902.98,
+                            "90": 117787.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 654,
+                        "range": {
+                            "10": 50329.11,
+                            "25": 60657.18,
+                            "50": 76485.4,
+                            "75": 95033.92,
+                            "90": 119922.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 631,
+                        "range": {
+                            "10": 59414.16,
+                            "25": 66888.73,
+                            "50": 76260.1,
+                            "75": 88604.88,
+                            "90": 105286.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 625,
+                        "range": {
+                            "10": 56530.99,
+                            "25": 70282.1,
+                            "50": 89347.71,
+                            "75": 112799.69,
+                            "90": 134551.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 606,
+                        "range": {
+                            "10": 51673.49,
+                            "25": 60644.44,
+                            "50": 71357.87,
+                            "75": 84609.49,
+                            "90": 100382.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 527,
+                        "range": {
+                            "10": 48310.51,
+                            "25": 54998.5,
+                            "50": 64024,
+                            "75": 73986.87,
+                            "90": 84827.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 508,
+                        "range": {
+                            "10": 39876.09,
+                            "25": 47256.95,
+                            "50": 57767.83,
+                            "75": 70842.82,
+                            "90": 85821.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 503,
+                        "range": {
+                            "10": 54918.27,
+                            "25": 61148.86,
+                            "50": 69671.23,
+                            "75": 83234.61,
+                            "90": 101984.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 498,
+                        "range": {
+                            "10": 60994.75,
+                            "25": 69232.54,
+                            "50": 78953.72,
+                            "75": 94070.42,
+                            "90": 117167.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 497,
+                        "range": {
+                            "10": 53595.99,
+                            "25": 67863.17,
+                            "50": 84242.86,
+                            "75": 103231.22,
+                            "90": 123518.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 469,
+                        "range": {
+                            "10": 45713.15,
+                            "25": 55507.51,
+                            "50": 68645.03,
+                            "75": 84368.11,
+                            "90": 102204.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 469,
+                        "range": {
+                            "10": 66592.96,
+                            "25": 79485.77,
+                            "50": 96876.19,
+                            "75": 117920.62,
+                            "90": 137916.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 461,
+                        "range": {
+                            "10": 86246.68,
+                            "25": 100545.13,
+                            "50": 116881.18,
+                            "75": 133929.91,
+                            "90": 151936.13
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Knowledge_Engineer/Salary",
+                    "occupationalCategory": "15-2020.00 - Mathematicians",
+                    "skills": "Data Analysis, Taxonomy Development, Artificial Intelligence (AI), Project Management, Training Program Development, Content Management, Japanese Language",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-11-01T06:47:04.99991Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "59732.63",
+                            "percentile25": "63178.95",
+                            "median": "83427.03",
+                            "percentile75": "96907.22",
+                            "percentile90": "130492.73",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "59179.54",
+                            "percentile25": "61727.42",
+                            "median": "73601.09",
+                            "percentile75": "88437.17",
+                            "percentile90": "130994.58",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "7250",
+                            "median": "10173.65",
+                            "percentile75": "15500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 28,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Knowledge Engineer",
+                    "url": "/research/US/Job=Knowledge_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

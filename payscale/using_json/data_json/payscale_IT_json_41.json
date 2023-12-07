@@ -1,0 +1,680 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Biostatistics Director"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Biostatistics_Director/Salary",
+                    "defaultUrl": "/research/US/Job=Biostatistics_Director/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-27T08:04:05.03056Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Biostatistics Director is $183,636 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 12080.48,
+                        "25": 17654.74,
+                        "50": 20000,
+                        "75": 25076.18,
+                        "90": 29798.79,
+                        "profileCount": 10
+                    },
+                    "profitSharing": {
+                        "50": 13039.53,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 120804.83,
+                        "25": 168366.1,
+                        "50": 183636.48,
+                        "75": 205271.58,
+                        "90": 217953.7,
+                        "profileCount": 20
+                    },
+                    "total": {
+                        "10": 120804.83,
+                        "25": 178139.58,
+                        "50": 198987.89,
+                        "75": 221407.74,
+                        "90": 233509.87,
+                        "profileCount": 20
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-27T08:04:05.03056Z",
+                        "profileCount": 20,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 120804.83,
+                                    "25": 178139.58,
+                                    "50": 198987.89,
+                                    "75": 221407.74,
+                                    "90": 233509.87
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-27T08:04:05.03056Z",
+                        "profileCount": 20,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 120804.83,
+                                    "25": 168366.1,
+                                    "50": 183636.48,
+                                    "75": 205271.58,
+                                    "90": 217953.7
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-27T08:04:05.03056Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-27T08:04:05.03056Z",
+                        "profileCount": 9,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/a8a3ccc1/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 166013.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/c6a587db/Experienced",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 188506.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/b6b6a937/Late-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 168000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/5a0174c1/New-York-NY",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 155500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/df5d9fef/Raleigh-NC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 173896.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "East Hanover, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/c25291d7/East-Hanover-NJ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 194081.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Newark, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/acee6269/Newark-NJ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 122448.98
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Team Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/27654ea3/Team-Management",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 173888.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/8f428d76/SAS",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 175366.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Statistical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/44c7cd07/Statistical-Analysis",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 173471.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Performance Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Biostatistics_Director/Salary/6dd28ce8/Performance-Management",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 176170.51
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 855,
+                        "range": {
+                            "10": 51632.44,
+                            "25": 61357.37,
+                            "50": 73226.39,
+                            "75": 86421.88,
+                            "90": 99889.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 515,
+                        "range": {
+                            "10": 48182.04,
+                            "25": 56127.14,
+                            "50": 66379.22,
+                            "75": 78291.36,
+                            "90": 90859.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 388,
+                        "range": {
+                            "10": 60090.16,
+                            "25": 75405.94,
+                            "50": 94193.51,
+                            "75": 120378.15,
+                            "90": 145152.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 357,
+                        "range": {
+                            "10": 70868.62,
+                            "25": 83008,
+                            "50": 99680.91,
+                            "75": 120088.4,
+                            "90": 138372.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Business Partner",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Business_Partner/Salary",
+                        "profileCount": 329,
+                        "range": {
+                            "10": 59282.12,
+                            "25": 67932.84,
+                            "50": 79522.58,
+                            "75": 92881.61,
+                            "90": 108209.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 269,
+                        "range": {
+                            "10": 45286.8,
+                            "25": 51531.32,
+                            "50": 59339.07,
+                            "75": 67903.46,
+                            "90": 76492.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Biostatistician",
+                        "url": "/research/US/Job=Biostatistician/Salary",
+                        "profileCount": 205,
+                        "range": {
+                            "10": 61319.41,
+                            "25": 71088.17,
+                            "50": 81499.21,
+                            "75": 98975.95,
+                            "90": 122954.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Statistician",
+                        "url": "/research/US/Job=Statistician/Salary",
+                        "profileCount": 164,
+                        "range": {
+                            "10": 58781.79,
+                            "25": 70790.29,
+                            "50": 86405.6,
+                            "75": 104667.86,
+                            "90": 126599.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 137,
+                        "range": {
+                            "10": 66175.23,
+                            "25": 76339.39,
+                            "50": 88811.48,
+                            "75": 102918.1,
+                            "90": 118421.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 129,
+                        "range": {
+                            "10": 100317.75,
+                            "25": 115548.53,
+                            "50": 131561.53,
+                            "75": 149132.37,
+                            "90": 165416.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "SAS Programmer",
+                        "url": "/research/US/Job=SAS_Programmer/Salary",
+                        "profileCount": 115,
+                        "range": {
+                            "10": 62777.8,
+                            "25": 71542.13,
+                            "50": 86856.11,
+                            "75": 110776.63,
+                            "90": 130607.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Sr._Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 111,
+                        "range": {
+                            "10": 67783.05,
+                            "25": 82017.95,
+                            "50": 99604.35,
+                            "75": 119333.21,
+                            "90": 138936.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Analytics Consultant",
+                        "url": "/research/US/Job=Analytics_Consultant/Salary",
+                        "profileCount": 107,
+                        "range": {
+                            "10": 64808.61,
+                            "25": 75107.18,
+                            "50": 88338.7,
+                            "75": 105947.52,
+                            "90": 123579.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Analyst",
+                        "url": "/research/US/Job=Research_Analyst/Salary",
+                        "profileCount": 104,
+                        "range": {
+                            "10": 45204.72,
+                            "25": 51880.89,
+                            "50": 61124.9,
+                            "75": 72269.03,
+                            "90": 87291.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Human Resources (HR) Business Partner",
+                        "url": "/research/US/Job=Sr._Human_Resources_(HR)_Business_Partner/Salary",
+                        "profileCount": 100,
+                        "range": {
+                            "10": 75022.51,
+                            "25": 86163.05,
+                            "50": 99061.51,
+                            "75": 118030.21,
+                            "90": 136638.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Human Resources (HR)",
+                        "url": "/research/US/Job=Director_of_Human_Resources_(HR)/Salary",
+                        "profileCount": 95,
+                        "range": {
+                            "10": 64330.53,
+                            "25": 79831.49,
+                            "50": 99574.23,
+                            "75": 122941.51,
+                            "90": 145175.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Senior_Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 89,
+                        "range": {
+                            "10": 56048.72,
+                            "25": 63075.42,
+                            "50": 71957.87,
+                            "75": 81972.22,
+                            "90": 91808.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Epidemiologist",
+                        "url": "/research/US/Job=Epidemiologist/Salary",
+                        "profileCount": 82,
+                        "range": {
+                            "10": 48965.89,
+                            "25": 56835.32,
+                            "50": 69415.93,
+                            "75": 83650.37,
+                            "90": 103732.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Analytics Manager",
+                        "url": "/research/US/Job=Analytics_Manager/Salary",
+                        "profileCount": 79,
+                        "range": {
+                            "10": 73812.03,
+                            "25": 88177.69,
+                            "50": 104660.35,
+                            "75": 121262.51,
+                            "90": 136277.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Statistical Analyst",
+                        "url": "/research/US/Job=Statistical_Analyst/Salary",
+                        "profileCount": 74,
+                        "range": {
+                            "10": 52254.6,
+                            "25": 64281.4,
+                            "50": 74349.94,
+                            "75": 87698.43,
+                            "90": 109732.99
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Biostatistics_Director/Salary",
+                    "occupationalCategory": "15-2040.00 - Statisticians",
+                    "skills": "Team Management, SAS, Statistical Analysis, Performance Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-27T08:04:05.03056Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "120804.83",
+                            "percentile25": "178139.58",
+                            "median": "198987.89",
+                            "percentile75": "221407.74",
+                            "percentile90": "233509.87",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "120804.83",
+                            "percentile25": "168366.1",
+                            "median": "183636.48",
+                            "percentile75": "205271.58",
+                            "percentile90": "217953.7",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "12080.48",
+                            "percentile25": "17654.74",
+                            "median": "20000",
+                            "percentile75": "25076.18",
+                            "percentile90": "29798.79",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "13039.53",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 23,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Biostatistics Director",
+                    "url": "/research/US/Job=Biostatistics_Director/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

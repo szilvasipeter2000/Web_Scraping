@@ -1,0 +1,583 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Help Desk Consultant"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Help_Desk_Consultant/Salary",
+                    "defaultUrl": "/research/US/Job=Help_Desk_Consultant/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2020-08-08T05:11:32.51449Z",
+                "narratives": {
+                    "description": "Help desk consultants provide assistance to customers in areas of expertise such as troubleshooting hardware/software. Applicants for this position should have extensive experience in their particular area to adequately solve any problems which may fall under their responsibility.\r\nHelp desk consultants may interact with customers in person, on the phone, or via online chat, and strong communication and problem-solving skills are very important to determine problems and provide viable solutions. Much of the help is provided remotely, so these consultants may have to instruct customers on how to fix a problem, and this may take many steps before a solution is reached. When remote help does not solve the problem, the consultant may refer the case to an upper-level consultant, replace the product, or even schedule an in-person consultation.\r\nThose in this position may work for various companies or be stationed at a specific company. No matter the area of focus, strong computer skills are required and familiarity with web browsers, e-mail, and word-processing is often essential. Some employers may prefer applicants who have bachelor’s degrees. Some positions are permanent, while others are temporary.",
+                    "summaryHourly": "The average pay for a Help Desk Consultant is $21.00 per hour.",
+                    "summarySalary": "The average pay for a Help Desk Consultant is $45,840 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 21,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "25": 38249.07,
+                        "50": 45840.06,
+                        "75": 55793.85,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 40218.07,
+                        "50": 45256.8,
+                        "75": 55950.01,
+                        "profileCount": 9
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2020-08-08T05:11:32.51449Z",
+                        "profileCount": 9,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": {
+                                    "25": 40218.07,
+                                    "50": 45256.8,
+                                    "75": 55950.01
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2020-08-08T05:11:32.51449Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 21
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2020-08-08T05:11:32.51449Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 38249.07,
+                                    "50": 45840.06,
+                                    "75": 55793.85
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2020-08-08T05:11:32.51449Z",
+                        "profileCount": 8,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2020-08-08T05:11:32.51449Z",
+                        "profileCount": 9,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Consultant/Salary/43615466/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 30000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Consultant/Salary/0dc5f622/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 42926.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Consultant/Salary/082b8992/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 45840.06
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 2)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Consultant/Salary/4568450d/Help-Desk-Desktop-Support-Tier-2",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 238,
+                        "range": {
+                            "10": 35591.08,
+                            "25": 41290.88,
+                            "50": 50004.37,
+                            "75": 60522.13,
+                            "90": 73185.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 206,
+                        "range": {
+                            "10": 37922.48,
+                            "25": 46167.02,
+                            "50": 57770.18,
+                            "75": 77024.94,
+                            "90": 99843
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 165,
+                        "range": {
+                            "10": 32294.36,
+                            "25": 38483.82,
+                            "50": 45482.26,
+                            "75": 55024.5,
+                            "90": 66388.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Desktop Support Technician",
+                        "url": "/research/US/Job=Desktop_Support_Technician/Hourly_Rate",
+                        "profileCount": 159,
+                        "range": {
+                            "10": 36090.98,
+                            "25": 40953.93,
+                            "50": 48159.75,
+                            "75": 55924.5,
+                            "90": 64668.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Technician",
+                        "url": "/research/US/Job=Help_Desk_Technician/Hourly_Rate",
+                        "profileCount": 148,
+                        "range": {
+                            "10": 30734.6,
+                            "25": 35756.7,
+                            "50": 41195.67,
+                            "75": 49421.93,
+                            "90": 56657.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Computer / Network Support Technician",
+                        "url": "/research/US/Job=Computer_%2F_Network_Support_Technician/Hourly_Rate",
+                        "profileCount": 138,
+                        "range": {
+                            "10": 33148.65,
+                            "25": 39233.86,
+                            "50": 47467.91,
+                            "75": 57115.95,
+                            "90": 67121.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Specialist",
+                        "url": "/research/US/Job=Technical_Support_Specialist/Salary",
+                        "profileCount": 121,
+                        "range": {
+                            "10": 35989.04,
+                            "25": 42398.04,
+                            "50": 51510.46,
+                            "75": 63978.22,
+                            "90": 80095.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Desktop Support Specialist",
+                        "url": "/research/US/Job=Desktop_Support_Specialist/Salary",
+                        "profileCount": 76,
+                        "range": {
+                            "10": 36334.82,
+                            "25": 41866.52,
+                            "50": 49534.74,
+                            "75": 58978.44,
+                            "90": 69717.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Desktop Support Analyst",
+                        "url": "/research/US/Job=Desktop_Support_Analyst/Salary",
+                        "profileCount": 69,
+                        "range": {
+                            "10": 39519.65,
+                            "25": 46253.99,
+                            "50": 52951.8,
+                            "75": 61200.63,
+                            "90": 69036.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Analyst, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Analyst%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 66,
+                        "range": {
+                            "10": 39324.84,
+                            "25": 46458.58,
+                            "50": 55301.06,
+                            "75": 67538.11,
+                            "90": 80633.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Support Analyst",
+                        "url": "/research/US/Job=Technical_Support_Analyst/Salary",
+                        "profileCount": 66,
+                        "range": {
+                            "10": 38926.95,
+                            "25": 44526.92,
+                            "50": 51167.46,
+                            "75": 61551.79,
+                            "90": 73559.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Specialist",
+                        "url": "/research/US/Job=Systems_Specialist/Salary",
+                        "profileCount": 46,
+                        "range": {
+                            "10": 43578.32,
+                            "25": 48971.76,
+                            "50": 60726.44,
+                            "75": 72742.34,
+                            "90": 87578.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Specialist",
+                        "url": "/research/US/Job=Help_Desk_Specialist/Hourly_Rate",
+                        "profileCount": 39,
+                        "range": {
+                            "10": 33590.28,
+                            "25": 38589.35,
+                            "50": 44930.97,
+                            "75": 52110.01,
+                            "90": 59304.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 38,
+                        "range": {
+                            "10": 33599.65,
+                            "25": 39494.03,
+                            "50": 47387.16,
+                            "75": 58257.41,
+                            "90": 72968.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Service Desk Analyst",
+                        "url": "/research/US/Job=Service_Desk_Analyst/Hourly_Rate",
+                        "profileCount": 38,
+                        "range": {
+                            "10": 34875.36,
+                            "25": 40187.1,
+                            "50": 48050.23,
+                            "75": 55222.42,
+                            "90": 63509.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Technical Support Analyst",
+                        "url": "/research/US/Job=Senior_Technical_Support_Analyst/Salary",
+                        "profileCount": 37,
+                        "range": {
+                            "10": 46166.45,
+                            "25": 54704.1,
+                            "50": 65693.78,
+                            "75": 78535.21,
+                            "90": 94960.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Analyst",
+                        "url": "/research/US/Job=Help_Desk_Analyst/Hourly_Rate",
+                        "profileCount": 37,
+                        "range": {
+                            "10": 32996.89,
+                            "25": 38010.31,
+                            "50": 45064.56,
+                            "75": 53150.77,
+                            "90": 61834.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Desktop Support Engineer",
+                        "url": "/research/US/Job=Desktop_Support_Engineer/Salary",
+                        "profileCount": 37,
+                        "range": {
+                            "10": 41740.9,
+                            "25": 49775.67,
+                            "50": 58057.9,
+                            "75": 69093.45,
+                            "90": 81503.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Engineer, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Engineer%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 30,
+                        "range": {
+                            "10": 40914.97,
+                            "25": 50573,
+                            "50": 61473.03,
+                            "75": 74943.48,
+                            "90": 90882.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Analyst",
+                        "url": "/research/US/Job=Technical_Analyst/Salary",
+                        "profileCount": 24,
+                        "range": {
+                            "10": 43883.4,
+                            "25": 51703.95,
+                            "50": 64120.14,
+                            "75": 75961.42,
+                            "90": 93445.51
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Help_Desk_Consultant/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Help Desk / Desktop Support (Tier 2)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2020-08-08T05:11:32.51449Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "40218.07",
+                            "median": "45256.8",
+                            "percentile75": "55950.01",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "38249.07",
+                            "median": "45840.06",
+                            "percentile75": "55793.85",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 11,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Help desk consultants provide assistance to customers in areas of expertise such as troubleshooting hardware/software. Applicants for this position should have extensive experience in their particular area to adequately solve any problems which may fall under their responsibility.\r\nHelp desk consultants may interact with customers in person, on the phone, or via online chat, and strong communication and problem-solving skills are very important to determine problems and provide viable solutions. Much of the help is provided remotely, so these consultants may have to instruct customers on how to fix a problem, and this may take many steps before a solution is reached. When remote help does not solve the problem, the consultant may refer the case to an upper-level consultant, replace the product, or even schedule an in-person consultation.\r\nThose in this position may work for various companies or be stationed at a specific company. No matter the area of focus, strong computer skills are required and familiarity with web browsers, e-mail, and word-processing is often essential. Some employers may prefer applicants who have bachelor’s degrees. Some positions are permanent, while others are temporary.",
+                    "name": "Help Desk Consultant",
+                    "url": "/research/US/Job=Help_Desk_Consultant/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

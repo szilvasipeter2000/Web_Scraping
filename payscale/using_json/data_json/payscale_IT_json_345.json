@@ -1,0 +1,672 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Lead Computer Software Engineer, Applications"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary",
+                    "defaultUrl": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-10-20T06:15:19.37867Z",
+                "narratives": {
+                    "description": "Lead computer software engineers for applications are responsible for leading the development of software applications within their organization. They are in charge of facilitating communication among engineers, developers, and other technical staff on project requirements and information, as well as helping motivate their peers to meet all project goals while minimizing use of company resources. Additionally, these engineers review software code to make sure it meets project specifications, as well as process applications to search for bugs and review memory consumption features. Lead computer software engineers generally report their progress to the software development manager in their organization. \r\nLead computer software engineers for applications help with the initial design process, feature evaluation, and performance feedback processes. They use a personal computer as one of their main tools to run applications, evaluate their performance, and suggest changes to workflow as needed. They also participate in meetings to provide ideas on how to make development more efficient. They share code with other engineers and work with other team leads to speed up the application process.\r\nA bachelor's degree in computer science or another related field is required for this position, as is relevant experience. Industry and leadership certifications may be beneficial. Lead computer software engineers for applications must possess excellent leadership, analytical, and multitasking skills. These individuals also must be able to use their engineering abilities to modify and create effective software solutions using a variety of programming languages. \r\n\r\n",
+                    "summarySalary": "The average pay for a Lead Computer Software Engineer, Applications is $114,388 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 5750,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "25": 109821.44,
+                        "50": 114388.28,
+                        "75": 120000,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "25": 110000,
+                        "50": 118667.16,
+                        "75": 123287.61,
+                        "profileCount": 5
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-10-20T06:15:19.37867Z",
+                        "profileCount": 5,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 110000,
+                                    "50": 118667.16,
+                                    "75": 123287.61
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-10-20T06:15:19.37867Z",
+                        "profileCount": 5,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 109821.44,
+                                    "50": 114388.28,
+                                    "75": 120000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-10-20T06:15:19.37867Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-10-20T06:15:19.37867Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/828a52c9/Early-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 108089.87
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/9d40d80e/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 91431.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/615112c6/Experienced",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 111493.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/2eaceb9c/Late-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 117185.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/3d815fbc/SQL",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 114807.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C# Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/e08631b3/C%23-Programming-Language",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 109373.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": ".NET",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/035eb41d/.NET",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 108044.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/9872d758/Microsoft-SQL-Server",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 111925.58
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/16cfa8c7/Java",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 120702.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/2f437460/Leadership",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 135000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C++ Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/d378ac1e/C%2B%2B-Programming-Language",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85458.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/2badd864/Linux",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 101500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "ASP.NET Framework",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/f23a0e86/ASP.NET-Framework",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 84000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "HTML",
+                                "displayName": null,
+                                "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary/35368aed/HTML",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 92000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 2
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 8287,
+                        "range": {
+                            "10": 64675.54,
+                            "25": 74890.77,
+                            "50": 89179.21,
+                            "75": 110137.25,
+                            "90": 130721.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 4911,
+                        "range": {
+                            "10": 52542.05,
+                            "25": 62094.02,
+                            "50": 74236.41,
+                            "75": 89706.51,
+                            "90": 108478.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 4095,
+                        "range": {
+                            "10": 90355.72,
+                            "25": 103347.87,
+                            "50": 121923.3,
+                            "75": 141996.5,
+                            "90": 161578.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 2403,
+                        "range": {
+                            "10": 80638.95,
+                            "25": 94068.85,
+                            "50": 111158.28,
+                            "75": 129450.36,
+                            "90": 148619.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1749,
+                        "range": {
+                            "10": 44822.9,
+                            "25": 54548.56,
+                            "50": 68500.24,
+                            "75": 86071.42,
+                            "90": 107375.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 1067,
+                        "range": {
+                            "10": 46584.35,
+                            "25": 60201.75,
+                            "50": 81516.76,
+                            "75": 120395.15,
+                            "90": 174497.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1025,
+                        "range": {
+                            "10": 35648.39,
+                            "25": 41993.55,
+                            "50": 50697.53,
+                            "75": 61199.37,
+                            "90": 72696.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 991,
+                        "range": {
+                            "10": 45749.21,
+                            "25": 53718.44,
+                            "50": 63576.79,
+                            "75": 75171.05,
+                            "90": 88035.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 977,
+                        "range": {
+                            "10": 57334.56,
+                            "25": 67583.71,
+                            "50": 81169.1,
+                            "75": 100017.06,
+                            "90": 120713.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 965,
+                        "range": {
+                            "10": 49880.26,
+                            "25": 60403.13,
+                            "50": 74402.51,
+                            "75": 91550.18,
+                            "90": 108382.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 863,
+                        "range": {
+                            "10": 51616.82,
+                            "25": 60361.08,
+                            "50": 72376.22,
+                            "75": 86643.58,
+                            "90": 102639.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 809,
+                        "range": {
+                            "10": 49696.56,
+                            "25": 57110.22,
+                            "50": 67733.12,
+                            "75": 80719.02,
+                            "90": 97677.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 785,
+                        "range": {
+                            "10": 42109.72,
+                            "25": 50214.05,
+                            "50": 61025.68,
+                            "75": 74709.01,
+                            "90": 90192.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 747,
+                        "range": {
+                            "10": 46765.19,
+                            "25": 53535.22,
+                            "50": 61939.86,
+                            "75": 70753.38,
+                            "90": 79648.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 643,
+                        "range": {
+                            "10": 109844.84,
+                            "25": 124931.65,
+                            "50": 143066.49,
+                            "75": 162985.57,
+                            "90": 183229.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 634,
+                        "range": {
+                            "10": 86879.16,
+                            "25": 102511.34,
+                            "50": 122647.81,
+                            "75": 142176.06,
+                            "90": 162210.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Director",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Director/Salary",
+                        "profileCount": 587,
+                        "range": {
+                            "10": 57659.66,
+                            "25": 72333.54,
+                            "50": 90420.68,
+                            "75": 116492.57,
+                            "90": 139524.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 563,
+                        "range": {
+                            "10": 46698.44,
+                            "25": 54885.34,
+                            "50": 64108.71,
+                            "75": 73453.99,
+                            "90": 82481.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 550,
+                        "range": {
+                            "10": 57068.5,
+                            "25": 65507.91,
+                            "50": 74063.52,
+                            "75": 83585.07,
+                            "90": 101893.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 519,
+                        "range": {
+                            "10": 34809.52,
+                            "25": 40734.82,
+                            "50": 48633.34,
+                            "75": 55265.3,
+                            "90": 61303.21
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "SQL, C# Programming Language, .NET, Microsoft SQL Server, Java, Leadership, C++ Programming Language, Linux, ASP.NET Framework, HTML",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-10-20T06:15:19.37867Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "110000",
+                            "median": "118667.16",
+                            "percentile75": "123287.61",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "109821.44",
+                            "median": "114388.28",
+                            "percentile75": "120000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "5750",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 13,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Lead computer software engineers for applications are responsible for leading the development of software applications within their organization. They are in charge of facilitating communication among engineers, developers, and other technical staff on project requirements and information, as well as helping motivate their peers to meet all project goals while minimizing use of company resources. Additionally, these engineers review software code to make sure it meets project specifications, as well as process applications to search for bugs and review memory consumption features. Lead computer software engineers generally report their progress to the software development manager in their organization. \r\nLead computer software engineers for applications help with the initial design process, feature evaluation, and performance feedback processes. They use a personal computer as one of their main tools to run applications, evaluate their performance, and suggest changes to workflow as needed. They also participate in meetings to provide ideas on how to make development more efficient. They share code with other engineers and work with other team leads to speed up the application process.\r\nA bachelor's degree in computer science or another related field is required for this position, as is relevant experience. Industry and leadership certifications may be beneficial. Lead computer software engineers for applications must possess excellent leadership, analytical, and multitasking skills. These individuals also must be able to use their engineering abilities to modify and create effective software solutions using a variety of programming languages. \r\n\r\n",
+                    "name": "Lead Computer Software Engineer, Applications",
+                    "url": "/research/US/Job=Lead_Computer_Software_Engineer%2C_Applications/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

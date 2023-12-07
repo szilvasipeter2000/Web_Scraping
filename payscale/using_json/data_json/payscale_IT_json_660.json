@@ -1,0 +1,575 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Website Tester"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Website_Tester/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Website_Tester/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2018-11-28T02:56:06.80013Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Website Tester is $25.00 per hour.",
+                    "summarySalary": "The average pay for a Website Tester is $33,129 per year."
+                },
+                "tasks": [
+                    "Test websites, blogs, links, forums, and more."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 252.5,
+                        "profileCount": 2
+                    },
+                    "hourlyRate": {
+                        "25": 15,
+                        "50": 25,
+                        "75": 50.87,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "50": 33129.14,
+                        "profileCount": 3
+                    },
+                    "total": {
+                        "25": 31634.99,
+                        "50": 42500,
+                        "75": 59709.91,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2018-11-28T02:56:06.80013Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 31634.99,
+                                    "50": 42500,
+                                    "75": 59709.91
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2018-11-28T02:56:06.80013Z",
+                        "profileCount": 5,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 15,
+                                    "50": 25,
+                                    "75": 50.87
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2018-11-28T02:56:06.80013Z",
+                        "profileCount": 3,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 33129.14
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2018-11-28T02:56:06.80013Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2018-11-28T02:56:06.80013Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Website_Tester/Salary/c6bb6352/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 19
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Usability Testing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Website_Tester/Hourly_Rate/b1ac75db/Usability-Testing",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 26.74
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "User Experience Researcher",
+                        "url": "/research/US/Job=User_Experience_Researcher/Salary",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 21.46,
+                            "25": 31.24,
+                            "50": 39.77,
+                            "75": 48.11,
+                            "90": 67.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "UX Researcher",
+                        "url": "/research/US/Job=UX_Researcher/Salary",
+                        "profileCount": 76,
+                        "range": {
+                            "10": 24.53,
+                            "25": 30.19,
+                            "50": 38.58,
+                            "75": 50.19,
+                            "90": 63.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Designer",
+                        "url": "/research/US/Job=User_Experience_Designer/Salary",
+                        "profileCount": 74,
+                        "range": {
+                            "10": 17.67,
+                            "25": 24.81,
+                            "50": 34.67,
+                            "75": 45.77,
+                            "90": 60.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior User Experience Designer",
+                        "url": "/research/US/Job=Senior_User_Experience_Designer/Salary",
+                        "profileCount": 50,
+                        "range": {
+                            "10": 37.1,
+                            "25": 48.07,
+                            "50": 60.59,
+                            "75": 73.93,
+                            "90": 96.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Factors Engineer",
+                        "url": "/research/US/Job=Human_Factors_Engineer/Salary",
+                        "profileCount": 46,
+                        "range": {
+                            "10": 23.87,
+                            "25": 29.49,
+                            "50": 35.02,
+                            "75": 48.7,
+                            "90": 76.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "UX Designer",
+                        "url": "/research/US/Job=UX_Designer/Salary",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 19.25,
+                            "25": 25.05,
+                            "50": 34.86,
+                            "75": 48.54,
+                            "90": 67.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Director",
+                        "url": "/research/US/Job=User_Experience_Director/Salary",
+                        "profileCount": 25,
+                        "range": {
+                            "25": 50,
+                            "50": 73.66,
+                            "75": 83.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Manager",
+                        "url": "/research/US/Job=User_Experience_Manager/Salary",
+                        "profileCount": 19,
+                        "range": {
+                            "25": 14.24,
+                            "50": 29.49,
+                            "75": 68.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Product Designer",
+                        "url": "/research/US/Job=Product_Designer/Salary",
+                        "profileCount": 18,
+                        "range": {
+                            "10": 15.59,
+                            "25": 18.8,
+                            "50": 24.8,
+                            "75": 35.61,
+                            "90": 51.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Interaction Designer",
+                        "url": "/research/US/Job=Interaction_Designer/Salary",
+                        "profileCount": 14,
+                        "range": {
+                            "10": 18.09,
+                            "25": 29.57,
+                            "50": 39.68,
+                            "75": 49.53,
+                            "90": 65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Experience Architect",
+                        "url": "/research/US/Job=User_Experience_Architect/Salary",
+                        "profileCount": 11,
+                        "range": {
+                            "10": 21.78,
+                            "25": 30.5,
+                            "50": 40.3,
+                            "75": 62.4,
+                            "90": 93.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior UX Designer",
+                        "url": "/research/US/Job=Senior_UX_Designer/Salary",
+                        "profileCount": 9,
+                        "range": {
+                            "10": 40.69,
+                            "25": 51.19,
+                            "50": 62.28,
+                            "75": 76.82,
+                            "90": 87.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Architect",
+                        "url": "/research/US/Job=Information_Architect/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 28.27,
+                            "25": 41.67,
+                            "50": 58.77,
+                            "75": 68.78,
+                            "90": 102.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior User Experience Architect",
+                        "url": "/research/US/Job=Senior_User_Experience_Architect/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 42.28,
+                            "25": 49.13,
+                            "50": 64.4,
+                            "75": 81.31,
+                            "90": 99.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "User Interface Designer",
+                        "url": "/research/US/Job=User_Interface_Designer/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 19.14,
+                            "25": 22.94,
+                            "50": 30.51,
+                            "75": 40.34,
+                            "90": 54.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Usability Specialist",
+                        "url": "/research/US/Job=Usability_Specialist/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 14.09,
+                            "25": 23.14,
+                            "50": 30,
+                            "75": 34.26,
+                            "90": 44.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "UX Manager",
+                        "url": "/research/US/Job=UX_Manager/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "25": 41.5,
+                            "50": 50.05,
+                            "75": 53.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Tester",
+                        "url": "/research/US/Job=Software_Tester/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 12.46,
+                            "25": 16.27,
+                            "50": 22.35,
+                            "75": 30.93,
+                            "90": 43.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Coordinator",
+                        "url": "/research/US/Job=Digital_Marketing_Coordinator/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 13.2,
+                            "25": 15.59,
+                            "50": 18.28,
+                            "75": 21.55,
+                            "90": 25.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Test / Quality Assurance (QA) Engineer (Computer Software)",
+                        "url": "/research/US/Job=Test_%2F_Quality_Assurance_(QA)_Engineer_(Computer_Software)/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 14.85,
+                            "25": 18.77,
+                            "50": 25.11,
+                            "75": 35.15,
+                            "90": 44.84
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Website_Tester/Hourly_Rate",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Usability Testing",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2018-11-28T02:56:06.80013Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "31634.99",
+                            "median": "42500",
+                            "percentile75": "59709.91",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "HOUR",
+                            "percentile10": null,
+                            "percentile25": "15",
+                            "median": "25",
+                            "percentile75": "50.87",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "252.5",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 9,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Website Tester",
+                    "url": "/research/US/Job=Website_Tester/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

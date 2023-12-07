@@ -1,0 +1,950 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Senior Clinical Data Manager",
+                    "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary",
+                    "compensation": 95824.98385452,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Clinical Data Manager",
+                            "url": "/research/US/Job=Clinical_Data_Manager/Salary",
+                            "percent": 0.62,
+                            "compensation": 78517.67142142847,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Clinical Data Manager",
+                                    "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary",
+                                    "percent": 0.76,
+                                    "compensation": 95824.98385452,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Data Manager",
+                                    "url": "/research/US/Job=Data_Manager/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 62684.61673552711,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Clinical Research Associate (CRA)",
+                                    "url": "/research/US/Job=Clinical_Research_Associate_(CRA)/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 65158.068524399416,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Director, Clinical Data Management",
+                            "url": "/research/US/Job=Director%2C_Clinical_Data_Management/Salary",
+                            "percent": 0.38,
+                            "compensation": 136785.7641700397,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 0
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Clinical Data Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Clinical_Data_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-04-29T03:58:53.18563Z",
+                "narratives": {
+                    "description": "Senior clinical data managers work on all aspects of data management for medical research projects and work in a variety of settings, such as hospitals, university research programs, the government, and biotech/pharmaceutical companies. They are generally responsible for tasks such as working with databases, project-coding, delegating tasks to employees, scheduling deadlines, supporting the organization with technical proficiency and knowledge, and enforcing quality control and standards for research data.\r\nSenior clinical data managers are responsible for everything that happens to this data, as well as its security and designing the systems to collect, store, and retrieve it. They also must make regular reports at meetings and work closely with medical research teams to assist in giving presentations and accessing statistical results. Generally speaking, they serve both an IT professional role and the traditional office role of being directly involved in research projects.\r\nPrior experience is necessary for this position, and most have a bachelor's degree in information technology (IT) or a certificate in data management. Graduate education programs are also beneficial, and ongoing education is usually required to maintain current knowledge of ever-changing medical research software and database server packages. They must also have a proven track record of leadership and strong communication skills.",
+                    "summaryHourly": "The average pay for a Senior Clinical Data Manager is $56.41 per hour.",
+                    "summarySalary": "The average pay for a Senior Clinical Data Manager is $107,819 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 2446.79,
+                        "25": 4913.18,
+                        "50": 8288.75,
+                        "75": 11767.36,
+                        "90": 18023.6,
+                        "profileCount": 56
+                    },
+                    "hourlyRate": {
+                        "10": 16.11,
+                        "25": 42.74,
+                        "50": 56.41,
+                        "75": 80.85,
+                        "90": 119.2,
+                        "profileCount": 10
+                    },
+                    "profitSharing": {
+                        "25": 3451.56,
+                        "50": 8000,
+                        "75": 10000,
+                        "profileCount": 9
+                    },
+                    "salary": {
+                        "10": 80466.07,
+                        "25": 91002.4,
+                        "50": 107818.86,
+                        "75": 125023.48,
+                        "90": 139559.09,
+                        "profileCount": 111
+                    },
+                    "total": {
+                        "10": 82137.5,
+                        "25": 95127.36,
+                        "50": 112183.52,
+                        "75": 133664.89,
+                        "90": 151116.55,
+                        "profileCount": 121
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-04-29T03:58:53.18563Z",
+                        "profileCount": 121,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 121,
+                                "range": {
+                                    "10": 82137.5,
+                                    "25": 95127.36,
+                                    "50": 112183.52,
+                                    "75": 133664.89,
+                                    "90": 151116.55
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-04-29T03:58:53.18563Z",
+                        "profileCount": 10,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 16.11,
+                                    "25": 42.74,
+                                    "50": 56.41,
+                                    "75": 80.85,
+                                    "90": 119.2
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-04-29T03:58:53.18563Z",
+                        "profileCount": 111,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 111,
+                                "range": {
+                                    "10": 80466.07,
+                                    "25": 91002.4,
+                                    "50": 107818.86,
+                                    "75": 125023.48,
+                                    "90": 139559.09
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-04-29T03:58:53.18563Z",
+                        "profileCount": 44,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 34,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-04-29T03:58:53.18563Z",
+                        "profileCount": 65,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 60,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 58,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 54,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/4e09e0fb/Early-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 91645.21
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/09c87e29/Mid-Career",
+                                "profileCount": 50,
+                                "range": {
+                                    "50": 104833.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/7a4502e1/Experienced",
+                                "profileCount": 64,
+                                "range": {
+                                    "50": 110732.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/f168f205/Late-Career",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 120913.24
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/84855234/Boston-MA",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 100351.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/f8e80719/San-Diego-CA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 94335.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indianapolis, Indiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/abba4fa3/Indianapolis-IN",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 86600
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/28dee94f/San-Francisco-CA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 124956.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cambridge, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/d10ce338/Cambridge-MA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 107528.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Durham, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/a8a83b0a/Durham-NC",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/86cb19de/Philadelphia-PA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 115068.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Waltham, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/e1698fbe/Waltham-MA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 107956
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Overland Park, Kansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/3348ccc3/Overland-Park-KS",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rockville, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/dc37b90c/Rockville-MD",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 102296.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/28a278d7/Chicago-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 61581.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/134eddc3/Houston-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/5f475421/Seattle-WA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Foster City, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/40fe5359/Foster-City-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 114230.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "East Hanover, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/4b9b8d0f/East-Hanover-NJ",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 87500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Clinical Data Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/f83a62fc/Clinical-Data-Management",
+                                "profileCount": 104,
+                                "range": {
+                                    "50": 103235.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database Management & Reporting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/f0e2fa5f/Database-Management-%26-Reporting",
+                                "profileCount": 53,
+                                "range": {
+                                    "50": 101745.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/785261c8/Project-Management",
+                                "profileCount": 45,
+                                "range": {
+                                    "50": 109683.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Vendor Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/33f82035/Vendor-Management",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 102016.2
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/6508b269/Data-Management",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 104219.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oncology",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/ad01d91e/Oncology",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 107976.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS (Statistical Analysis System)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/59450ece/SAS-Statistical-Analysis-System",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 82951.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/7aef904b/Data-Analysis",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 96250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/308499bd/SQL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Process Improvement",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary/f17d5472/Process-Improvement",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 21,
+                        "score": 3.44
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3882,
+                        "range": {
+                            "10": 51601.88,
+                            "25": 62977.52,
+                            "50": 77794.8,
+                            "75": 96405.63,
+                            "90": 117801.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2832,
+                        "range": {
+                            "10": 47034.7,
+                            "25": 55095.64,
+                            "50": 65331.67,
+                            "75": 77100.5,
+                            "90": 89711.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 1553,
+                        "range": {
+                            "10": 60563.89,
+                            "25": 68423.5,
+                            "50": 77943.72,
+                            "75": 90695,
+                            "90": 107552.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1493,
+                        "range": {
+                            "10": 66209.54,
+                            "25": 76691.49,
+                            "50": 91175.34,
+                            "75": 112167.12,
+                            "90": 133440.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1391,
+                        "range": {
+                            "10": 56112.22,
+                            "25": 63714.78,
+                            "50": 72815.69,
+                            "75": 85474.09,
+                            "90": 101665.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 1331,
+                        "range": {
+                            "10": 66421.95,
+                            "25": 76099.17,
+                            "50": 88417.58,
+                            "75": 102473.41,
+                            "90": 119372.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1251,
+                        "range": {
+                            "10": 46223.75,
+                            "25": 56168.23,
+                            "50": 70206.13,
+                            "75": 87971.3,
+                            "90": 109765.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 1115,
+                        "range": {
+                            "10": 58633.04,
+                            "25": 65722.75,
+                            "50": 74364.3,
+                            "75": 85190.7,
+                            "90": 97699.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1076,
+                        "range": {
+                            "10": 59079.17,
+                            "25": 66647.99,
+                            "50": 76049.16,
+                            "75": 88598.4,
+                            "90": 104788.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1000,
+                        "range": {
+                            "10": 50111.24,
+                            "25": 56953.06,
+                            "50": 64977.31,
+                            "75": 74684.5,
+                            "90": 85824.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 988,
+                        "range": {
+                            "10": 52980.94,
+                            "25": 61699.83,
+                            "50": 72565.57,
+                            "75": 85869.16,
+                            "90": 101826.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 940,
+                        "range": {
+                            "10": 54179.04,
+                            "25": 63872.22,
+                            "50": 76329.35,
+                            "75": 91931.1,
+                            "90": 111904.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 912,
+                        "range": {
+                            "10": 59211.35,
+                            "25": 72795.77,
+                            "50": 90537.31,
+                            "75": 111533.44,
+                            "90": 131580.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 873,
+                        "range": {
+                            "10": 64947.12,
+                            "25": 74846.58,
+                            "50": 86974.32,
+                            "75": 101242.68,
+                            "90": 116513.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 864,
+                        "range": {
+                            "10": 49388.88,
+                            "25": 56687.96,
+                            "50": 65688.24,
+                            "75": 76143.69,
+                            "90": 86911.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 756,
+                        "range": {
+                            "10": 57778.97,
+                            "25": 71446.04,
+                            "50": 90402.26,
+                            "75": 113984.44,
+                            "90": 135860.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 752,
+                        "range": {
+                            "10": 92286.33,
+                            "25": 105999.8,
+                            "50": 124306.23,
+                            "75": 144491.61,
+                            "90": 163899.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 674,
+                        "range": {
+                            "10": 54016.28,
+                            "25": 62173.58,
+                            "50": 72048.2,
+                            "75": 86510.38,
+                            "90": 101083.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 667,
+                        "range": {
+                            "10": 51238.14,
+                            "25": 62200.58,
+                            "50": 78386.4,
+                            "75": 97969.1,
+                            "90": 122685.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Industrial Engineer",
+                        "url": "/research/US/Job=Industrial_Engineer/Salary",
+                        "profileCount": 665,
+                        "range": {
+                            "10": 57264.47,
+                            "25": 63857.14,
+                            "50": 72299.79,
+                            "75": 83237.41,
+                            "90": 94812.19
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Clinical_Data_Manager/Salary",
+                    "occupationalCategory": "15-2040.00 - Statisticians",
+                    "skills": "Clinical Data Management, Database Management & Reporting, Project Management, Vendor Management, Data Management, Oncology, SAS (Statistical Analysis System), Data Analysis, SQL, Process Improvement",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-04-29T03:58:53.18563Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "82137.5",
+                            "percentile25": "95127.36",
+                            "median": "112183.52",
+                            "percentile75": "133664.89",
+                            "percentile90": "151116.55",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "80466.07",
+                            "percentile25": "91002.4",
+                            "median": "107818.86",
+                            "percentile75": "125023.48",
+                            "percentile90": "139559.09",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2446.79",
+                            "percentile25": "4913.18",
+                            "median": "8288.75",
+                            "percentile75": "11767.36",
+                            "percentile90": "18023.6",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 137,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Senior clinical data managers work on all aspects of data management for medical research projects and work in a variety of settings, such as hospitals, university research programs, the government, and biotech/pharmaceutical companies. They are generally responsible for tasks such as working with databases, project-coding, delegating tasks to employees, scheduling deadlines, supporting the organization with technical proficiency and knowledge, and enforcing quality control and standards for research data.\r\nSenior clinical data managers are responsible for everything that happens to this data, as well as its security and designing the systems to collect, store, and retrieve it. They also must make regular reports at meetings and work closely with medical research teams to assist in giving presentations and accessing statistical results. Generally speaking, they serve both an IT professional role and the traditional office role of being directly involved in research projects.\r\nPrior experience is necessary for this position, and most have a bachelor's degree in information technology (IT) or a certificate in data management. Graduate education programs are also beneficial, and ongoing education is usually required to maintain current knowledge of ever-changing medical research software and database server packages. They must also have a proven track record of leadership and strong communication skills.",
+                    "name": "Senior Clinical Data Manager",
+                    "url": "/research/US/Job=Senior_Clinical_Data_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

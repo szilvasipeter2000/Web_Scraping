@@ -1,0 +1,875 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Project Management Director, IT",
+                    "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary",
+                    "compensation": 132495.74749476276,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Project Manager, IT",
+                            "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                            "percent": 1,
+                            "compensation": 114652.62916500734,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Project Manager, Information Technology (IT)",
+                                    "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 88805.49118824165,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Director",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 119787.52007147866,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Program Manager, IT",
+                                    "url": "/research/US/Job=Program_Manager%2C_IT/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 112126.7913333327,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Project Management Director, IT"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary",
+                    "defaultUrl": "/research/US/Job=Project_Management_Director%2C_IT/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-12T07:59:21.05713Z",
+                "narratives": {
+                    "description": "Information technology (IT) project management directors are in charge of managing information technology projects for their organization. They oversee business processes and performance management projects, as well as relay IT concepts and technical ideas to non-technical personnel. They lead a group of IT professionals to reach all project goals in a timely manner, helping increase productivity while minimizing the use of company resources. IT project management directors must ensure maintenance and support services are provided as needed, as well as perform functions related to strategic planning, budgeting, and information security program development. In addition, they use a personal computer to keep project information up to date and communicate with team managers. \r\nIT project management directors supervise the teams that create and maintain software development processes and standards. In addition, they provide coaching, support, and discipline to these team members as needed. They must be able to prioritize and direct multiple assignments simultaneously in a fast-paced environment. They also build strong business relationships with external vendors and partners. \r\nAt least a bachelor's degree in information technology management, computer science, or a related field is required for this job. Previous years of work experience in a directing capacity can be helpful. Industry and leadership certifications are a plus. IT project management directors must be organized individuals with strong interpersonal, leadership, and communication skills.",
+                    "summarySalary": "The average pay for a Project Management Director, IT is $146,102 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 75.5,
+                        "25": 4069.46,
+                        "50": 13514.33,
+                        "75": 20393.71,
+                        "90": 33930.89,
+                        "profileCount": 40
+                    },
+                    "profitSharing": {
+                        "25": 11486.57,
+                        "50": 18000,
+                        "75": 20974.61,
+                        "profileCount": 7
+                    },
+                    "salary": {
+                        "10": 97664.61,
+                        "25": 126435.64,
+                        "50": 146101.95,
+                        "75": 166313.82,
+                        "90": 185241.21,
+                        "profileCount": 75
+                    },
+                    "total": {
+                        "10": 94809.08,
+                        "25": 129153.43,
+                        "50": 155548.73,
+                        "75": 177557.71,
+                        "90": 199773.52,
+                        "profileCount": 76
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-12T07:59:21.05713Z",
+                        "profileCount": 76,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 76,
+                                "range": {
+                                    "10": 94809.08,
+                                    "25": 129153.43,
+                                    "50": 155548.73,
+                                    "75": 177557.71,
+                                    "90": 199773.52
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-12T07:59:21.05713Z",
+                        "profileCount": 75,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 75,
+                                "range": {
+                                    "10": 97664.61,
+                                    "25": 126435.64,
+                                    "50": 146101.95,
+                                    "75": 166313.82,
+                                    "90": 185241.21
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-12T07:59:21.05713Z",
+                        "profileCount": 32,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-12T07:59:21.05713Z",
+                        "profileCount": 46,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 42,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 40,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 37,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/c90b1f54/Early-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 110962.11
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/8a5bb59d/Mid-Career",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 117733.92
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/a8eb9859/Experienced",
+                                "profileCount": 54,
+                                "range": {
+                                    "50": 139605.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/bcf38ad6/Late-Career",
+                                "profileCount": 30,
+                                "range": {
+                                    "50": 152194.77
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/a627fce4/Chicago-IL",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 127470.09
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/0c93089b/New-York-NY",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 167717.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/a6cc6fde/Dallas-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 119000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/bad39811/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 144827.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kalamazoo, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/00eed05b/Kalamazoo-MI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 84284.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/c8414f9a/Phoenix-AZ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 124210.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/840a2eac/Atlanta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 132093.67
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Strategic Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/9794bed2/Strategic-Project-Management",
+                                "profileCount": 50,
+                                "range": {
+                                    "50": 151675.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/f7642a51/Leadership",
+                                "profileCount": 43,
+                                "range": {
+                                    "50": 148560.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Program Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/cb50c114/Program-Management",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 152369.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/db148b2e/Microsoft-Office",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 140303.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/7064273a/Project-Management",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 132205.87
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Planning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/bd07b3a2/Strategic-Planning",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 135728.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/978b3950/IT-Management",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 138051.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Operations Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/70f0617e/Operations-Management",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scrum",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/e1c550cd/Scrum",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 128205.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Team Leadership",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/12d435f7/Team-Leadership",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 134214.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Agile Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/9b9c9990/Agile-Software-Development",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 132460.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "People Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/2b6ffc59/People-Management",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 116394.85
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Consulting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/c2edf127/IT-Consulting",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 123975.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portfolio Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary/cb93a826/Portfolio-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 138000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 9,
+                        "score": 3.56
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 8923,
+                        "range": {
+                            "10": 47338.39,
+                            "25": 57588.31,
+                            "50": 71622.3,
+                            "75": 89757.06,
+                            "90": 111885.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 5068,
+                        "range": {
+                            "10": 52813.86,
+                            "25": 64175.91,
+                            "50": 79088.74,
+                            "75": 97777.66,
+                            "90": 119002.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 3836,
+                        "range": {
+                            "10": 57544.13,
+                            "25": 74970.1,
+                            "50": 99889.08,
+                            "75": 132100.02,
+                            "90": 161513.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Director",
+                        "url": "/research/US/Job=Executive_Director/Salary",
+                        "profileCount": 3316,
+                        "range": {
+                            "10": 48740.13,
+                            "25": 63027.7,
+                            "50": 86129.29,
+                            "75": 126395,
+                            "90": 184063.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 3311,
+                        "range": {
+                            "10": 37671.23,
+                            "25": 44294.95,
+                            "50": 52984.84,
+                            "75": 63981.09,
+                            "90": 75795.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2694,
+                        "range": {
+                            "10": 31095.45,
+                            "25": 36639.72,
+                            "50": 43482.44,
+                            "75": 51919.51,
+                            "90": 61318.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 2436,
+                        "range": {
+                            "10": 46488.08,
+                            "25": 54412.43,
+                            "50": 63488.62,
+                            "75": 74705.29,
+                            "90": 88884.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 2151,
+                        "range": {
+                            "10": 57060.96,
+                            "25": 64816.25,
+                            "50": 74170.59,
+                            "75": 87025.28,
+                            "90": 103508.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 2108,
+                        "range": {
+                            "10": 59949.92,
+                            "25": 67907.6,
+                            "50": 77684,
+                            "75": 90745.3,
+                            "90": 108024.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 2101,
+                        "range": {
+                            "10": 37020.8,
+                            "25": 43775.97,
+                            "50": 52637.28,
+                            "75": 63342.27,
+                            "90": 74626.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 2040,
+                        "range": {
+                            "10": 49247.56,
+                            "25": 56403.83,
+                            "50": 65419.13,
+                            "75": 74508.09,
+                            "90": 83485.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 1910,
+                        "range": {
+                            "10": 74558.89,
+                            "25": 96167.14,
+                            "50": 125143.53,
+                            "75": 154790.35,
+                            "90": 179625.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 1900,
+                        "range": {
+                            "10": 43264.48,
+                            "25": 54359.03,
+                            "50": 71623.98,
+                            "75": 95881.66,
+                            "90": 123960.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Operations",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Operations/Salary",
+                        "profileCount": 1888,
+                        "range": {
+                            "10": 81987.66,
+                            "25": 104522.44,
+                            "50": 138635.73,
+                            "75": 175729.03,
+                            "90": 208288.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 1836,
+                        "range": {
+                            "10": 38670.09,
+                            "25": 45437.5,
+                            "50": 54076.18,
+                            "75": 64054.88,
+                            "90": 74626.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 1707,
+                        "range": {
+                            "10": 88331.19,
+                            "25": 102634.08,
+                            "50": 119853.61,
+                            "75": 137268.93,
+                            "90": 155193.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1674,
+                        "range": {
+                            "10": 58666.03,
+                            "25": 72651.46,
+                            "50": 91877.04,
+                            "75": 115800.22,
+                            "90": 138057.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Executive Officer (CEO)",
+                        "url": "/research/US/Job=Chief_Executive_Officer_(CEO)/Salary",
+                        "profileCount": 1666,
+                        "range": {
+                            "10": 77392.36,
+                            "25": 110062.23,
+                            "50": 162574.49,
+                            "75": 240632.29,
+                            "90": 320153.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1594,
+                        "range": {
+                            "10": 60533.97,
+                            "25": 74202.09,
+                            "50": 92436.79,
+                            "75": 113960.55,
+                            "90": 135318.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Operating Officer (COO)",
+                        "url": "/research/US/Job=Chief_Operating_Officer_(COO)/Salary",
+                        "profileCount": 1526,
+                        "range": {
+                            "10": 77840.88,
+                            "25": 103279.54,
+                            "50": 147307.58,
+                            "75": 197179.64,
+                            "90": 249749.96
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Project_Management_Director%2C_IT/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Strategic Project Management, Leadership, Program Management, Microsoft Office, Project Management, Strategic Planning, IT Management, Operations Management, Scrum, Team Leadership, Agile Software Development, People Management, IT Consulting, Portfolio Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-12T07:59:21.05713Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "94809.08",
+                            "percentile25": "129153.43",
+                            "median": "155548.73",
+                            "percentile75": "177557.71",
+                            "percentile90": "199773.52",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "97664.61",
+                            "percentile25": "126435.64",
+                            "median": "146101.95",
+                            "percentile75": "166313.82",
+                            "percentile90": "185241.21",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "75.5",
+                            "percentile25": "4069.46",
+                            "median": "13514.33",
+                            "percentile75": "20393.71",
+                            "percentile90": "33930.89",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 88,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Information technology (IT) project management directors are in charge of managing information technology projects for their organization. They oversee business processes and performance management projects, as well as relay IT concepts and technical ideas to non-technical personnel. They lead a group of IT professionals to reach all project goals in a timely manner, helping increase productivity while minimizing the use of company resources. IT project management directors must ensure maintenance and support services are provided as needed, as well as perform functions related to strategic planning, budgeting, and information security program development. In addition, they use a personal computer to keep project information up to date and communicate with team managers. \r\nIT project management directors supervise the teams that create and maintain software development processes and standards. In addition, they provide coaching, support, and discipline to these team members as needed. They must be able to prioritize and direct multiple assignments simultaneously in a fast-paced environment. They also build strong business relationships with external vendors and partners. \r\nAt least a bachelor's degree in information technology management, computer science, or a related field is required for this job. Previous years of work experience in a directing capacity can be helpful. Industry and leadership certifications are a plus. IT project management directors must be organized individuals with strong interpersonal, leadership, and communication skills.",
+                    "name": "Project Management Director, IT",
+                    "url": "/research/US/Job=Project_Management_Director%2C_IT/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,905 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "C++ Software Engineer",
+                    "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary",
+                    "compensation": 85474.06542636205,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Software Engineer",
+                            "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                            "percent": 1,
+                            "compensation": 116774.24155625676,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Principal Software Engineer",
+                                    "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 137333.59701278113,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Sr. Software Engineer / Developer / Programmer",
+                                    "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 104281.41056938967,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Lead Software Engineer",
+                                    "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 117349.32338736946,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "C++ Software Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=C%2B%2B_Software_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-01-18T20:53:23.9094Z",
+                "narratives": {
+                    "description": "A career as a C++ software engineer is a fast-paced yet rewarding career that offers many growth and development opportunities.  A C++ software engineer will be required to have a strong work ethic and great interpersonal skills, as the position typically requires working in small groups. Due to the work environment of a C++ software engineer, an individual seeking this career will also need to have strong and effective oral and writing communication skills in order to communicate with other group members and project leads. The duty hours of a C++ software engineer will typically be during normal business hours, although  job demands will often require overtime and long hours. \r\nSome of the typical job duties of a C++ engineer will be conducting code reviews in order to improve software quality and design. This engineer is also responsible for developing software and providing maintenance to current software. A typical C++ software engineer will be required to hold a bachelor's degree in computer science, electrical engineering, or a related field. In addition to the education requirements, prior experience with system platforms, development, and programming is often required. Also required is a knowledge of interfacing and networking protocols, as well any other processes involved. \r\nThere will be many times when a C++ software engineer will be required to communicate with customers and suppliers, which will require a solid understanding of the primary needs and functions of the job. Any individual seeking an exciting and rewarding career that offers room for advancement and professional growth should consider a position as a C++ software engineer.",
+                    "summaryHourly": "The average pay for a C++ Software Engineer is $36.36 per hour.",
+                    "summarySalary": "The average pay for a C++ Software Engineer is $96,143 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 2534.19,
+                        "25": 3703.82,
+                        "50": 5934.41,
+                        "75": 12015.48,
+                        "90": 17893.27,
+                        "profileCount": 21
+                    },
+                    "hourlyRate": {
+                        "50": 36.36,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 68186.94,
+                        "25": 78601.35,
+                        "50": 96142.97,
+                        "75": 117812.81,
+                        "90": 144807.23,
+                        "profileCount": 54
+                    },
+                    "total": {
+                        "10": 69891.22,
+                        "25": 79940.49,
+                        "50": 96055.57,
+                        "75": 122409.64,
+                        "90": 158802.94,
+                        "profileCount": 58
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-01-18T20:53:23.9094Z",
+                        "profileCount": 58,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 58,
+                                "range": {
+                                    "10": 69891.22,
+                                    "25": 79940.49,
+                                    "50": 96055.57,
+                                    "75": 122409.64,
+                                    "90": 158802.94
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-01-18T20:53:23.9094Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 36.36
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-01-18T20:53:23.9094Z",
+                        "profileCount": 54,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 54,
+                                "range": {
+                                    "10": 68186.94,
+                                    "25": 78601.35,
+                                    "50": 96142.97,
+                                    "75": 117812.81,
+                                    "90": 144807.23
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-01-18T20:53:23.9094Z",
+                        "profileCount": 20,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-01-18T20:53:23.9094Z",
+                        "profileCount": 35,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 31,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 28,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 28,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Intel Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/d7e64584/Intel-Corporation",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/7695593b/Entry-Level",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76666.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/7695593b/Early-Career",
+                                "profileCount": 40,
+                                "range": {
+                                    "50": 85820.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/f89daf42/Mid-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 99596.76
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/2b9a3139/Experienced",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 97435.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/a6770073/Late-Career",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 176000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/c8f3b651/San-Jose-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 102439.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/e1bbba61/New-York-NY",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 95833.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Morrisville, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/bb2d2e9f/Morrisville-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 106915.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Hourly_Rate/fdcb4b52/Austin-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 86005.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Colorado Springs, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/bf0e869c/Colorado-Springs-CO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 66466.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/0ec91a54/Atlanta-GA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 67759.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/f7b2c948/Los-Angeles-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/df6d5ba3/Seattle-WA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 79496.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/40fdb4d7/Boston-MA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/ac6df2a3/Chicago-IL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 97435.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/6a1d1243/Houston-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 68000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "C++ Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/33997276/C%2B%2B-Programming-Language",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 90249.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/3e30f559/Software-Development",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 84500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "C# Programming Language",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/ca27fb03/C%23-Programming-Language",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 85761.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Visual C / C++",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/9841659e/Visual-C-C%2B%2B",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 71215.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": ".NET",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Hourly_Rate/fb5bc250/.NET",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 105831.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Agile Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/7c33a047/Agile-Software-Development",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 66226.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/e2842e10/Java",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/739240c5/Linux",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 83243.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/51ed4037/Python",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 86374.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Robotics",
+                                "displayName": null,
+                                "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary/547dc20d/Robotics",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 89000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 7076,
+                        "range": {
+                            "10": 65868.4,
+                            "25": 76263.04,
+                            "50": 90774.49,
+                            "75": 111770.95,
+                            "90": 132855.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 3333,
+                        "range": {
+                            "10": 53870.65,
+                            "25": 63558.59,
+                            "50": 75917.38,
+                            "75": 91467.67,
+                            "90": 111211.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 3302,
+                        "range": {
+                            "10": 91869.84,
+                            "25": 105521.15,
+                            "50": 123973.04,
+                            "75": 144225.95,
+                            "90": 163817.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1634,
+                        "range": {
+                            "10": 82403.21,
+                            "25": 96189.83,
+                            "50": 113558.19,
+                            "75": 131826.4,
+                            "90": 151300.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 922,
+                        "range": {
+                            "10": 111440.53,
+                            "25": 127126.42,
+                            "50": 145612.73,
+                            "75": 165876.79,
+                            "90": 186619.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 797,
+                        "range": {
+                            "10": 88581.79,
+                            "25": 104978.18,
+                            "50": 125350.39,
+                            "75": 144893.8,
+                            "90": 165319.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 786,
+                        "range": {
+                            "10": 57860.16,
+                            "25": 68499.22,
+                            "50": 82042.57,
+                            "75": 101091.37,
+                            "90": 121740
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 641,
+                        "range": {
+                            "10": 70215.74,
+                            "25": 82291.93,
+                            "50": 98602.33,
+                            "75": 118976.08,
+                            "90": 136652.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Associate Software Engineer",
+                        "url": "/research/US/Job=Associate_Software_Engineer/Salary",
+                        "profileCount": 578,
+                        "range": {
+                            "10": 58144.05,
+                            "25": 66589.64,
+                            "50": 75090.31,
+                            "75": 84831.1,
+                            "90": 103125.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Manager",
+                        "url": "/research/US/Job=Software_Development_Manager/Salary",
+                        "profileCount": 561,
+                        "range": {
+                            "10": 92731.4,
+                            "25": 111766.58,
+                            "50": 131912.87,
+                            "75": 151318.33,
+                            "90": 170290.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": ".NET Software Developer / Programmer",
+                        "url": "/research/US/Job=.NET_Software_Developer_%2F_Programmer/Salary",
+                        "profileCount": 514,
+                        "range": {
+                            "10": 50644.75,
+                            "25": 62048.38,
+                            "50": 76068.62,
+                            "75": 93293.29,
+                            "90": 110667.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 513,
+                        "range": {
+                            "10": 52714.09,
+                            "25": 61303.3,
+                            "50": 73796.73,
+                            "75": 88307.68,
+                            "90": 104509.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Junior Software Engineer",
+                        "url": "/research/US/Job=Junior_Software_Engineer/Salary",
+                        "profileCount": 460,
+                        "range": {
+                            "10": 48469.93,
+                            "25": 56181.48,
+                            "50": 65238.48,
+                            "75": 74720.41,
+                            "90": 83969.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 424,
+                        "range": {
+                            "10": 50039.12,
+                            "25": 57738.12,
+                            "50": 68706.36,
+                            "75": 81009.41,
+                            "90": 99039.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Product Manager, Software",
+                        "url": "/research/US/Job=Product_Manager%2C_Software/Salary",
+                        "profileCount": 406,
+                        "range": {
+                            "10": 71416.81,
+                            "25": 85513.19,
+                            "50": 103082.22,
+                            "75": 122932.42,
+                            "90": 140247.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Software Engineer",
+                        "url": "/research/US/Job=Staff_Software_Engineer/Salary",
+                        "profileCount": 350,
+                        "range": {
+                            "10": 108046.03,
+                            "25": 129351.64,
+                            "50": 150368.29,
+                            "75": 176130.46,
+                            "90": 201041.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Architect",
+                        "url": "/research/US/Job=Software_Architect/Salary",
+                        "profileCount": 345,
+                        "range": {
+                            "10": 93991.19,
+                            "25": 112705.6,
+                            "50": 132420.2,
+                            "75": 152870.43,
+                            "90": 176530.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 336,
+                        "range": {
+                            "10": 62427.35,
+                            "25": 70790.87,
+                            "50": 80771.84,
+                            "75": 96276.56,
+                            "90": 118942.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineering Manager",
+                        "url": "/research/US/Job=Software_Engineering_Manager/Salary",
+                        "profileCount": 334,
+                        "range": {
+                            "10": 108521.14,
+                            "25": 127423.03,
+                            "50": 146620.71,
+                            "75": 166332.17,
+                            "90": 187104.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Development Engineer (SDE)",
+                        "url": "/research/US/Job=Software_Development_Engineer_(SDE)/Salary",
+                        "profileCount": 311,
+                        "range": {
+                            "10": 81564.27,
+                            "25": 96925.34,
+                            "50": 114427.84,
+                            "75": 131918.89,
+                            "90": 147678.28
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=C%2B%2B_Software_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": "C++ Programming Language, Software Development, C# Programming Language, Visual C / C++, .NET, Agile Software Development, Java, Linux, Python, Robotics",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-01-18T20:53:23.9094Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "69891.22",
+                            "percentile25": "79940.49",
+                            "median": "96055.57",
+                            "percentile75": "122409.64",
+                            "percentile90": "158802.94",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "68186.94",
+                            "percentile25": "78601.35",
+                            "median": "96142.97",
+                            "percentile75": "117812.81",
+                            "percentile90": "144807.23",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2534.19",
+                            "percentile25": "3703.82",
+                            "median": "5934.41",
+                            "percentile75": "12015.48",
+                            "percentile90": "17893.27",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 75,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A career as a C++ software engineer is a fast-paced yet rewarding career that offers many growth and development opportunities.  A C++ software engineer will be required to have a strong work ethic and great interpersonal skills, as the position typically requires working in small groups. Due to the work environment of a C++ software engineer, an individual seeking this career will also need to have strong and effective oral and writing communication skills in order to communicate with other group members and project leads. The duty hours of a C++ software engineer will typically be during normal business hours, although  job demands will often require overtime and long hours. \r\nSome of the typical job duties of a C++ engineer will be conducting code reviews in order to improve software quality and design. This engineer is also responsible for developing software and providing maintenance to current software. A typical C++ software engineer will be required to hold a bachelor's degree in computer science, electrical engineering, or a related field. In addition to the education requirements, prior experience with system platforms, development, and programming is often required. Also required is a knowledge of interfacing and networking protocols, as well any other processes involved. \r\nThere will be many times when a C++ software engineer will be required to communicate with customers and suppliers, which will require a solid understanding of the primary needs and functions of the job. Any individual seeking an exciting and rewarding career that offers room for advancement and professional growth should consider a position as a C++ software engineer.",
+                    "name": "C++ Software Engineer",
+                    "url": "/research/US/Job=C%2B%2B_Software_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,635 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Help Desk Operator"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Help_Desk_Operator/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-08-05T04:32:55.15368Z",
+                "narratives": {
+                    "description": "The help desk operator is the first line of support in IT operations troubleshooting. The help desk operator’s primary goal is to ensure customer satisfaction by resolving problems and issues in a timely and efficient manner. It is the help desk operator’s responsibility to accurately document customer interaction, track progress of a resolution, and work with staff and users to find a resolution.\r\nEssential job functions would include answering systems software and answering routine help desk calls. The help desk operator must maintain a solid working knowledge of processes and procedures. The help desk operator must keep up to date with knowledge of documentation platforms and technologies supported to ensure that they can communicate with staff and users knowledgeably and make reasonable resolution suggestions.\r\nThe help desk operator is required to coordinate projects, keep track of resources, and report progress to their direct supervisor. The help desk operator is required to communicate and discuss problems and information with managers and staff. The help desk operator will work heavily with the end user community, assisting with problem resolution.\r\nThe help desk operator is typically required to carry an associate's degree in the field of information technology. The help desk operator should be skilled in the installation of applications software, desktop operating systems, and networking connections. The help desk operator must possess the ability to apply their knowledge to troubleshoot technical problems.\r\n",
+                    "summaryHourly": "The average pay for a Help Desk Operator is $16.44 per hour.",
+                    "summarySalary": "The average pay for a Help Desk Operator is $32,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "25": 11.18,
+                        "50": 16.44,
+                        "75": 20.5,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "50": 32000,
+                        "profileCount": 2
+                    },
+                    "total": {
+                        "25": 23956.82,
+                        "50": 34187.81,
+                        "75": 40000,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-08-05T04:32:55.15368Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 23956.82,
+                                    "50": 34187.81,
+                                    "75": 40000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-08-05T04:32:55.15368Z",
+                        "profileCount": 5,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 11.18,
+                                    "50": 16.44,
+                                    "75": 20.5
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-08-05T04:32:55.15368Z",
+                        "profileCount": 2,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 32000
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-08-05T04:32:55.15368Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-08-05T04:32:55.15368Z",
+                        "profileCount": 5,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Salary/2719a22d/Entry-Level",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate/2719a22d/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 14.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate/60a3af39/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate/62826161/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 18.35
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate/dd56803d/Microsoft-Office",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 14.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate/fde6faa7/Microsoft-Excel",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 16.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate/ec47e3f0/Help-Desk-Desktop-Support",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 13.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 1)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate/6a3448d2/Help-Desk-Desktop-Support-Tier-1",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 10.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 2)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate/7acb1c85/Help-Desk-Desktop-Support-Tier-2",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 18
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 4208,
+                        "range": {
+                            "10": 12.55,
+                            "25": 14.61,
+                            "50": 16.74,
+                            "75": 19.65,
+                            "90": 23.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1954,
+                        "range": {
+                            "10": 13.68,
+                            "25": 15.72,
+                            "50": 18.85,
+                            "75": 22.68,
+                            "90": 26.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1777,
+                        "range": {
+                            "10": 17.52,
+                            "25": 22.6,
+                            "50": 28.63,
+                            "75": 35.35,
+                            "90": 44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1497,
+                        "range": {
+                            "10": 15.2,
+                            "25": 18.22,
+                            "50": 22.12,
+                            "75": 27.33,
+                            "90": 33.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1357,
+                        "range": {
+                            "10": 16.84,
+                            "25": 20.48,
+                            "50": 27.35,
+                            "75": 38.17,
+                            "90": 52.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1283,
+                        "range": {
+                            "10": 18.63,
+                            "25": 23.76,
+                            "50": 29.44,
+                            "75": 35.91,
+                            "90": 44.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1273,
+                        "range": {
+                            "10": 16.46,
+                            "25": 19.8,
+                            "50": 24.1,
+                            "75": 29.11,
+                            "90": 35.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1234,
+                        "range": {
+                            "10": 16.33,
+                            "25": 18.72,
+                            "50": 21.77,
+                            "75": 25.11,
+                            "90": 28.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1208,
+                        "range": {
+                            "10": 15.38,
+                            "25": 18.42,
+                            "50": 22.5,
+                            "75": 28.66,
+                            "90": 36.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 990,
+                        "range": {
+                            "10": 15.25,
+                            "25": 18.31,
+                            "50": 21.6,
+                            "75": 25.7,
+                            "90": 30.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 954,
+                        "range": {
+                            "10": 22.68,
+                            "25": 26.34,
+                            "50": 30.98,
+                            "75": 36.35,
+                            "90": 43.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 932,
+                        "range": {
+                            "10": 19.67,
+                            "25": 25.21,
+                            "50": 31.8,
+                            "75": 39.41,
+                            "90": 49.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 815,
+                        "range": {
+                            "10": 21.36,
+                            "25": 24.74,
+                            "50": 29.26,
+                            "75": 34.47,
+                            "90": 39.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 793,
+                        "range": {
+                            "10": 13.6,
+                            "25": 16.19,
+                            "50": 20.1,
+                            "75": 25.02,
+                            "90": 30.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 685,
+                        "range": {
+                            "10": 24.15,
+                            "25": 28.9,
+                            "50": 34.97,
+                            "75": 44.5,
+                            "90": 55.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Help Desk Technician",
+                        "url": "/research/US/Job=Help_Desk_Technician/Hourly_Rate",
+                        "profileCount": 677,
+                        "range": {
+                            "10": 13.35,
+                            "25": 15.26,
+                            "50": 17.78,
+                            "75": 20.86,
+                            "90": 24.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 607,
+                        "range": {
+                            "10": 10.58,
+                            "25": 12.56,
+                            "50": 15.02,
+                            "75": 17.43,
+                            "90": 20.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 575,
+                        "range": {
+                            "10": 16.55,
+                            "25": 18.96,
+                            "50": 22.03,
+                            "75": 25.55,
+                            "90": 29.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 562,
+                        "range": {
+                            "10": 13.94,
+                            "25": 16.08,
+                            "50": 19.29,
+                            "75": 23.29,
+                            "90": 27.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 558,
+                        "range": {
+                            "10": 15.46,
+                            "25": 18.48,
+                            "50": 22.55,
+                            "75": 27.17,
+                            "90": 32.5
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Help_Desk_Operator/Hourly_Rate",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Microsoft Office, Microsoft Excel, Help Desk / Desktop Support, Help Desk / Desktop Support (Tier 1), Help Desk / Desktop Support (Tier 2)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-08-05T04:32:55.15368Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "23956.82",
+                            "median": "34187.81",
+                            "percentile75": "40000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": "11.18",
+                            "median": "16.44",
+                            "percentile75": "20.5",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 8,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "The help desk operator is the first line of support in IT operations troubleshooting. The help desk operator’s primary goal is to ensure customer satisfaction by resolving problems and issues in a timely and efficient manner. It is the help desk operator’s responsibility to accurately document customer interaction, track progress of a resolution, and work with staff and users to find a resolution.\r\nEssential job functions would include answering systems software and answering routine help desk calls. The help desk operator must maintain a solid working knowledge of processes and procedures. The help desk operator must keep up to date with knowledge of documentation platforms and technologies supported to ensure that they can communicate with staff and users knowledgeably and make reasonable resolution suggestions.\r\nThe help desk operator is required to coordinate projects, keep track of resources, and report progress to their direct supervisor. The help desk operator is required to communicate and discuss problems and information with managers and staff. The help desk operator will work heavily with the end user community, assisting with problem resolution.\r\nThe help desk operator is typically required to carry an associate's degree in the field of information technology. The help desk operator should be skilled in the installation of applications software, desktop operating systems, and networking connections. The help desk operator must possess the ability to apply their knowledge to troubleshoot technical problems.\r\n",
+                    "name": "Help Desk Operator",
+                    "url": "/research/US/Job=Help_Desk_Operator/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

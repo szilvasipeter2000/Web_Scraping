@@ -1,0 +1,697 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Nursing Informatics Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Nursing_Informatics_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Nursing_Informatics_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-02-17T20:15:14.46929Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Nursing Informatics Manager is $49.62 per hour.",
+                    "summarySalary": "The average pay for a Nursing Informatics Manager is $105,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "hourlyRate": {
+                        "50": 49.62,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "25": 88750,
+                        "50": 105000,
+                        "75": 120702.48,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "25": 95129.92,
+                        "50": 109516.99,
+                        "75": 116045.58,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-02-17T20:15:14.46929Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 95129.92,
+                                    "50": 109516.99,
+                                    "75": 116045.58
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-02-17T20:15:14.46929Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 49.62
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-02-17T20:15:14.46929Z",
+                        "profileCount": 5,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 88750,
+                                    "50": 105000,
+                                    "75": 120702.48
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-02-17T20:15:14.46929Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-02-17T20:15:14.46929Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/cea3d2b3/Mid-Career",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 117395.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/4beef5e0/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Hourly_Rate/283daff4/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/5d9ad988/New-York-NY",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 106490.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/5f675883/Chicago-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 102250.72
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Jacksonville, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/58ec5576/Jacksonville-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 99820.09
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baltimore, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/7ed9140d/Baltimore-MD",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/711a055c/Boston-MA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 128750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New Orleans, Louisiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/d654723b/New-Orleans-LA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 89000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/2789929f/Miami-FL",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 109000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/3a8b3b53/Philadelphia-PA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 96062.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Grand Rapids, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/3a8b3b53/Grand-Rapids-MI",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 70376.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fort Lauderdale, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/41d1037c/Fort-Lauderdale-FL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 97000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Nursing Informatics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Hourly_Rate/982d31ac/Nursing-Informatics",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Electronic Health Records (EHR)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Hourly_Rate/3235b478/Electronic-Health-Records-EHR",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Epic Health Information Management System",
+                                "displayName": null,
+                                "url": "/research/US/Job=Nursing_Informatics_Manager/Salary/1deb89b3/Epic-Health-Information-Management-System",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 4.67
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Informatics Nurse",
+                        "url": "/research/US/Job=Informatics_Nurse/Salary",
+                        "profileCount": 20,
+                        "range": {
+                            "10": 60996.68,
+                            "25": 69453.66,
+                            "50": 79549.08,
+                            "75": 89446.26,
+                            "90": 98225.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Informatics Specialist",
+                        "url": "/research/US/Job=Clinical_Informatics_Specialist/Salary",
+                        "profileCount": 19,
+                        "range": {
+                            "10": 59332.3,
+                            "25": 68667.2,
+                            "50": 78419.09,
+                            "75": 92705.83,
+                            "90": 107367.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Records / Health Information Technician",
+                        "url": "/research/US/Job=Medical_Records_%2F_Health_Information_Technician/Hourly_Rate",
+                        "profileCount": 8,
+                        "range": {
+                            "10": 29139.21,
+                            "25": 32151.31,
+                            "50": 39312.66,
+                            "75": 49218.28,
+                            "90": 58190.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Perfusionist",
+                        "url": "/research/US/Job=Perfusionist/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 99406.28,
+                            "25": 110789.3,
+                            "50": 126928.9,
+                            "75": 143747.29,
+                            "90": 163802.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Nursing Informatics Analyst",
+                        "url": "/research/US/Job=Nursing_Informatics_Analyst/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 55557.64,
+                            "25": 64496.12,
+                            "50": 79744.67,
+                            "75": 97239.02,
+                            "90": 107285.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Registered Nurse (RN)",
+                        "url": "/research/US/Job=Registered_Nurse_(RN)/Hourly_Rate",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 47162.66,
+                            "25": 56933.6,
+                            "50": 67697.86,
+                            "75": 80195.84,
+                            "90": 94080.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Analyst",
+                        "url": "/research/US/Job=Clinical_Analyst/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 51519.62,
+                            "25": 60319.62,
+                            "50": 71055.65,
+                            "75": 82594.45,
+                            "90": 93987.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Applications Specialist",
+                        "url": "/research/US/Job=Clinical_Applications_Specialist/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 55913.61,
+                            "25": 63834.36,
+                            "50": 76426.2,
+                            "75": 89665.44,
+                            "90": 99197.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 25258.54,
+                            "25": 30105.84,
+                            "50": 35478.92,
+                            "75": 42318.64,
+                            "90": 50549.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Clinical Informatics Manager",
+                        "url": "/research/US/Job=Clinical_Informatics_Manager/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 64227.1,
+                            "25": 79748.48,
+                            "50": 97948.59,
+                            "75": 111370.16,
+                            "90": 127261.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Nursing Informatics Specialist",
+                        "url": "/research/US/Job=Nursing_Informatics_Specialist/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 61158.65,
+                            "25": 72521.56,
+                            "50": 84426.05,
+                            "75": 94005.88,
+                            "90": 116349.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Auditor",
+                        "url": "/research/US/Job=Medical_Auditor/Hourly_Rate",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 40000,
+                            "25": 48806.5,
+                            "50": 60787.55,
+                            "75": 71647.03,
+                            "90": 78605.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Certified Nurse Assistant (CNA)",
+                        "url": "/research/US/Job=Certified_Nurse_Assistant_(CNA)/Hourly_Rate",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 19838.54,
+                            "25": 24398.85,
+                            "50": 30280.77,
+                            "75": 38412.74,
+                            "90": 47106.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Analyst",
+                        "url": "/research/US/Job=Systems_Analyst/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 48738.76,
+                            "25": 57263.28,
+                            "50": 67659.28,
+                            "75": 81457.97,
+                            "90": 96198.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Health Information Management (HIM) Clerk",
+                        "url": "/research/US/Job=Health_Information_Management_(HIM)_Clerk/Hourly_Rate",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 24902.14,
+                            "25": 28773.23,
+                            "50": 37403.27,
+                            "75": 46825.1,
+                            "90": 72718.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 29619.75,
+                            "25": 34537.75,
+                            "50": 40582.22,
+                            "75": 49069.2,
+                            "90": 57999.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Population Health Manager",
+                        "url": "/research/US/Job=Population_Health_Manager/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 48605.31,
+                            "25": 67304.39,
+                            "50": 78060.1,
+                            "75": 95160.72,
+                            "90": 106035.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Hospital Registrar",
+                        "url": "/research/US/Job=Hospital_Registrar/Hourly_Rate",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 25500,
+                            "25": 29703.48,
+                            "50": 32000,
+                            "75": 40119.04,
+                            "90": 43448.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 45028.22,
+                            "25": 52817.23,
+                            "50": 62722.67,
+                            "75": 74617.1,
+                            "90": 87333.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Referral Coordinator",
+                        "url": "/research/US/Job=Referral_Coordinator/Hourly_Rate",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 29910.58,
+                            "25": 35683.92,
+                            "50": 43119.74,
+                            "75": 50001.65,
+                            "90": 62584.82
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Nursing_Informatics_Manager/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Nursing Informatics, Electronic Health Records (EHR), Epic Health Information Management System",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-02-17T20:15:14.46929Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "95129.92",
+                            "median": "109516.99",
+                            "percentile75": "116045.58",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "88750",
+                            "median": "105000",
+                            "percentile75": "120702.48",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 10,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Nursing Informatics Manager",
+                    "url": "/research/US/Job=Nursing_Informatics_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

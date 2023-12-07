@@ -1,0 +1,1082 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Associate Data Scientist",
+                    "url": "/research/US/Job=Associate_Data_Scientist/Salary",
+                    "compensation": 75334.25452649298,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Data Scientist",
+                            "url": "/research/US/Job=Data_Scientist/Salary",
+                            "percent": 1,
+                            "compensation": 96008.8794099464,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Data Scientist",
+                                    "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                                    "percent": 0.28,
+                                    "compensation": 125808.62412577825,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Data Science Manager",
+                                    "url": "/research/US/Job=Data_Science_Manager/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 135400.95640861144,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Data Science Director",
+                                    "url": "/research/US/Job=Data_Science_Director/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 157273.07935416905,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Associate Data Scientist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Associate_Data_Scientist/Salary",
+                    "defaultUrl": "/research/US/Job=Associate_Data_Scientist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-11T21:04:30.17814Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for an Associate Data Scientist is $33.79 per hour.",
+                    "summarySalary": "The average pay for an Associate Data Scientist is $81,324 per year."
+                },
+                "tasks": [
+                    "Use advanced mathematical and computer science skills to analyze vast pools of data under the guidance of more senior data scientists.",
+                    "Communicate clearly and effectively with both clients and multi-disciplinary teams.",
+                    "Search for patterns in data that can provide solutions to business problems or create new business opportunities."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 2045.33,
+                        "25": 4239.6,
+                        "50": 6334.63,
+                        "75": 8888.55,
+                        "90": 11669.33,
+                        "profileCount": 103
+                    },
+                    "hourlyRate": {
+                        "10": 16.54,
+                        "25": 17.81,
+                        "50": 33.79,
+                        "75": 38.78,
+                        "90": 42.87,
+                        "profileCount": 20
+                    },
+                    "profitSharing": {
+                        "10": 1174.46,
+                        "25": 2055.79,
+                        "50": 5000,
+                        "75": 8155.87,
+                        "90": 11234.15,
+                        "profileCount": 16
+                    },
+                    "salary": {
+                        "10": 63503.3,
+                        "25": 70709.38,
+                        "50": 81324.08,
+                        "75": 93390.67,
+                        "90": 105166.78,
+                        "profileCount": 274
+                    },
+                    "total": {
+                        "10": 61442.34,
+                        "25": 71836.8,
+                        "50": 82963.27,
+                        "75": 97254.57,
+                        "90": 109534.06,
+                        "profileCount": 294
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-11T21:04:30.17814Z",
+                        "profileCount": 294,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 294,
+                                "range": {
+                                    "10": 61442.34,
+                                    "25": 71836.8,
+                                    "50": 82963.27,
+                                    "75": 97254.57,
+                                    "90": 109534.06
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-10-11T21:04:30.17814Z",
+                        "profileCount": 20,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": {
+                                    "10": 16.54,
+                                    "25": 17.81,
+                                    "50": 33.79,
+                                    "75": 38.78,
+                                    "90": 42.87
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-11T21:04:30.17814Z",
+                        "profileCount": 274,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 274,
+                                "range": {
+                                    "10": 63503.3,
+                                    "25": 70709.38,
+                                    "50": 81324.08,
+                                    "75": 93390.67,
+                                    "90": 105166.78
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-11T21:04:30.17814Z",
+                        "profileCount": 104,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 64,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 39,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-11T21:04:30.17814Z",
+                        "profileCount": 152,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 138,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 123,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 115,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "National Registry of EMTs",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/8c07d693/National-Registry-of-EMTs",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70328.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Biomerieux, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/a41f676c/Biomerieux-Inc.",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 61041.89
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/0fa4380c/Entry-Level",
+                                "profileCount": 73,
+                                "range": {
+                                    "50": 76784.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/0fa4380c/Early-Career",
+                                "profileCount": 298,
+                                "range": {
+                                    "50": 81247.93
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/f6d1f81d/Mid-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 100172.97
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/4ff1690a/Chicago-IL",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 86114.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/3e9289a1/New-York-NY",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 99158.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/6cf3a9a2/Seattle-WA",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 83262.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/782a881f/San-Diego-CA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 81027.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/3244a785/Columbus-OH",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 71369.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/470712bd/Boston-MA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 77425.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/c0630ea7/San-Francisco-CA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/6980a221/Atlanta-GA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richmond, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/7e5a0e94/Richmond-VA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/7e8ff1b5/Salt-Lake-City-UT",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 64980.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/a9eeb491/Denver-CO",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 79061.82
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/7aa42040/Washington-DC",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bellevue, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/2e9f2d73/Bellevue-WA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 94466.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/94b8b866/Raleigh-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Schaumburg, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/30a68bef/Schaumburg-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 84497.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/382db7ef/Dallas-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 87000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Ann Arbor, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/8d7e8a9c/Ann-Arbor-MI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 60500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/4d2ce9da/Charlotte-NC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 77500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/ab424263/Los-Angeles-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 82500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Yakima, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/e021f14b/Yakima-WA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 77511
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plano, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/a3030ab0/Plano-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 79437.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/77a3e155/Portland-OR",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 51000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Knoxville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/ea6eb65e/Knoxville-TN",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/1671f947/Python",
+                                "profileCount": 279,
+                                "range": {
+                                    "50": 81408.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Machine Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/4c9991a9/Machine-Learning",
+                                "profileCount": 179,
+                                "range": {
+                                    "50": 82366.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/9f68422a/Data-Analysis",
+                                "profileCount": 148,
+                                "range": {
+                                    "50": 79996.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/b63853e1/SQL",
+                                "profileCount": 103,
+                                "range": {
+                                    "50": 78219.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Statistical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/42357392/Statistical-Analysis",
+                                "profileCount": 74,
+                                "range": {
+                                    "50": 77488.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "R",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/8e51ee8d/R",
+                                "profileCount": 71,
+                                "range": {
+                                    "50": 72462.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/00208aa7/Data-Modeling",
+                                "profileCount": 56,
+                                "range": {
+                                    "50": 82964.95
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Big Data Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/858ec29a/Big-Data-Analytics",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 84665.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tableau Software",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/a1f1cd23/Tableau-Software",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 75750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/8d577c26/SAS",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 68731.87
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Natural Language Processing (NLP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/3e25906d/Natural-Language-Processing-NLP",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 87921.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS (Statistical Analysis System)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/c6957e01/SAS-Statistical-Analysis-System",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 69338.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/2757f6ca/Microsoft-Excel",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Associate_Data_Scientist/Salary/59945d57/Database-Development",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 65000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 20,
+                        "score": 3.44
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 4860,
+                        "range": {
+                            "10": 48182.04,
+                            "25": 56127.14,
+                            "50": 66379.22,
+                            "75": 78291.36,
+                            "90": 90859.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 3140,
+                        "range": {
+                            "10": 70868.62,
+                            "25": 83008,
+                            "50": 99680.91,
+                            "75": 120088.4,
+                            "90": 138372.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 2905,
+                        "range": {
+                            "10": 67172.78,
+                            "25": 77778.91,
+                            "50": 92377.55,
+                            "75": 113301.24,
+                            "90": 134880.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 2257,
+                        "range": {
+                            "10": 50695.29,
+                            "25": 57929.65,
+                            "50": 66083.6,
+                            "75": 76077.65,
+                            "90": 87501.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1648,
+                        "range": {
+                            "10": 31040.13,
+                            "25": 36558.5,
+                            "50": 43364.86,
+                            "75": 51769.97,
+                            "90": 61120.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 1430,
+                        "range": {
+                            "10": 65979.51,
+                            "25": 76198.75,
+                            "50": 88657.53,
+                            "75": 102773.07,
+                            "90": 118394.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1348,
+                        "range": {
+                            "10": 55138.24,
+                            "25": 64770.86,
+                            "50": 77468.19,
+                            "75": 93395.23,
+                            "90": 113260.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 1276,
+                        "range": {
+                            "10": 93858.22,
+                            "25": 107796.97,
+                            "50": 125871.34,
+                            "75": 146090.51,
+                            "90": 165774.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1237,
+                        "range": {
+                            "10": 68922.05,
+                            "25": 77155.9,
+                            "50": 86692.59,
+                            "75": 97389.99,
+                            "90": 109111.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1196,
+                        "range": {
+                            "10": 43676.13,
+                            "25": 49640.95,
+                            "50": 56003.63,
+                            "75": 62971.74,
+                            "90": 70069.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 1045,
+                        "range": {
+                            "10": 54928.74,
+                            "25": 63398.3,
+                            "50": 73696.44,
+                            "75": 85932.25,
+                            "90": 100736.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 988,
+                        "range": {
+                            "10": 44016.4,
+                            "25": 49160.09,
+                            "50": 56196.79,
+                            "75": 65750.89,
+                            "90": 75556.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 983,
+                        "range": {
+                            "10": 50108.33,
+                            "25": 57777.08,
+                            "50": 66898.18,
+                            "75": 77435.38,
+                            "90": 88410.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 980,
+                        "range": {
+                            "10": 52813.86,
+                            "25": 64175.91,
+                            "50": 79088.74,
+                            "75": 97777.66,
+                            "90": 119002.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 950,
+                        "range": {
+                            "10": 67525.49,
+                            "25": 77218.5,
+                            "50": 89671.85,
+                            "75": 103915.31,
+                            "90": 121175.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 941,
+                        "range": {
+                            "10": 67592.72,
+                            "25": 80034.86,
+                            "50": 95880.76,
+                            "75": 117060.35,
+                            "90": 135481.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 878,
+                        "range": {
+                            "10": 59879.41,
+                            "25": 67812.05,
+                            "50": 77579.73,
+                            "75": 90631.73,
+                            "90": 107805.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 843,
+                        "range": {
+                            "10": 100218.59,
+                            "25": 115475.86,
+                            "50": 131564.18,
+                            "75": 149072.76,
+                            "90": 165279.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 794,
+                        "range": {
+                            "10": 53873.3,
+                            "25": 62997.03,
+                            "50": 74017.98,
+                            "75": 87684.03,
+                            "90": 104328.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Analytics Manager",
+                        "url": "/research/US/Job=Analytics_Manager/Salary",
+                        "profileCount": 712,
+                        "range": {
+                            "10": 73845.86,
+                            "25": 88197.45,
+                            "50": 104662.32,
+                            "75": 121285.68,
+                            "90": 136301.04
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Associate_Data_Scientist/Salary",
+                    "occupationalCategory": "15-1010.00 - Computer and Information Scientists, Research",
+                    "skills": "Python, Machine Learning, Data Analysis, SQL, Statistical Analysis, R, Data Modeling, Big Data Analytics, Tableau Software, SAS, Natural Language Processing (NLP), SAS (Statistical Analysis System), Microsoft Excel, Database Development",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-11T21:04:30.17814Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "61442.34",
+                            "percentile25": "71836.8",
+                            "median": "82963.27",
+                            "percentile75": "97254.57",
+                            "percentile90": "109534.06",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "63503.3",
+                            "percentile25": "70709.38",
+                            "median": "81324.08",
+                            "percentile75": "93390.67",
+                            "percentile90": "105166.78",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2045.33",
+                            "percentile25": "4239.6",
+                            "median": "6334.63",
+                            "percentile75": "8888.55",
+                            "percentile90": "11669.33",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 363,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Associate Data Scientist",
+                    "url": "/research/US/Job=Associate_Data_Scientist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,667 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Enterprise Messaging Systems Administrator",
+                    "url": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary",
+                    "compensation": 70000,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 2,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Systems Administrator",
+                            "url": "/research/US/Job=Systems_Administrator/Salary",
+                            "percent": 0.5,
+                            "compensation": 62410.40987121457,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Systems Administrator",
+                                    "url": "/research/US/Job=Senior_Systems_Administrator/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 85387.33398850684,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "System Administrator, Computer / Network",
+                                    "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                                    "percent": 0.06,
+                                    "compensation": 60923.00324288572,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": {
+                            "jobTitle": "Information Security Analyst",
+                            "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                            "percent": 0.5,
+                            "compensation": 72077.72803685124,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Information Security Manager",
+                                    "url": "/research/US/Job=Information_Security_Manager/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 114620.91299689224,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Information Security Engineer",
+                                    "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 94982.51161430652,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Security Engineer",
+                                    "url": "/research/US/Job=Security_Engineer/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 90614.50167331363,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Enterprise Messaging Systems Administrator"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary",
+                    "defaultUrl": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-01-18T22:21:44.79607Z",
+                "narratives": {
+                    "description": "An enterprise messaging systems administrator is an IT position responsible for the architecture and management of messaging systems within a company. Their tasks include directory integration to ensure user functionality of the related systems. They also restore and maintain the services necessary for the messaging enterprise. This allows precise messages to be sent between computer systems, and it is therefore a vital role to an organization. \r\nTypes of industries that employ an enterprise messaging systems administrator include universities and colleges. Other employers could be various tech companies that involve subscription and messaging services, such as java message service. They are responsible for ensuring that services such as email provided to students is secure, as well as payments to be processed by subscribers. The role focuses on ensuring safe communications in a network of computer systems. They work closely with other engineers in their daily routine and spend much of their time in an office overseeing the messaging systems. They may report to a department manager or dean. This is a position in the information technology industry and often comes with great responsibility and access to sensitive information. \r\nEnterprise messaging systems administrators typically are required to have a bachelor's degree in either IT, math, computer science, engineering, or other related field. They also usually need at least three years of relevant experience in information technology. A typical day involves an early start and arrival at the office, where they perform routine maintenance, diagnostics, and coding from their workstation.",
+                    "summarySalary": "The average pay for an Enterprise Messaging Systems Administrator is $70,000 per year."
+                },
+                "tasks": [
+                    "Provide hands-on system administration support, system maintenance and operations support.",
+                    "Diagnose and correct messaging systems issues.",
+                    "Build, configure, and troubleshoot messaging system enhancements, application deployments and infrastructure up-grades."
+                ],
+                "compensation": {
+                    "salary": {
+                        "25": 60983.61,
+                        "50": 70000,
+                        "75": 92432.43,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "25": 61562.12,
+                        "50": 78399.2,
+                        "75": 91325.15,
+                        "profileCount": 6
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-01-18T22:21:44.79607Z",
+                        "profileCount": 6,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 61562.12,
+                                    "50": 78399.2,
+                                    "75": 91325.15
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-01-18T22:21:44.79607Z",
+                        "profileCount": 5,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 60983.61,
+                                    "50": 70000,
+                                    "75": 92432.43
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-01-18T22:21:44.79607Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-01-18T22:21:44.79607Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary/63d4d7f4/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 89089.36
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Colorado Springs, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary/5e60d7f6/Colorado-Springs-CO",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 60983.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary/804a4159/Miami-FL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 78000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Exchange Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary/586b5aa4/Microsoft-Exchange-Server",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Lync",
+                                "displayName": null,
+                                "url": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary/3c36e0e8/Microsoft-Lync",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 9,
+                        "range": {
+                            "10": 44366.82,
+                            "25": 51602.31,
+                            "50": 61865.06,
+                            "75": 73857.78,
+                            "90": 87325.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 53693.33,
+                            "25": 67954.45,
+                            "50": 87772.11,
+                            "75": 111220.6,
+                            "90": 132061.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 67916.15,
+                            "25": 89745.67,
+                            "50": 118959.63,
+                            "75": 147568.93,
+                            "90": 170292.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Administrator",
+                        "url": "/research/US/Job=Senior_Systems_Administrator/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 61500.71,
+                            "25": 72409.19,
+                            "50": 84528.88,
+                            "75": 98281.7,
+                            "90": 113567.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Consultant",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Consultant/Salary",
+                        "profileCount": 6,
+                        "range": {
+                            "10": 49799.34,
+                            "25": 61949.81,
+                            "50": 78724.01,
+                            "75": 99650.43,
+                            "90": 121072.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 78400.49,
+                            "25": 89749.93,
+                            "50": 104154.88,
+                            "75": 122501.75,
+                            "90": 142977.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 41371.61,
+                            "25": 49541.95,
+                            "50": 59075.86,
+                            "75": 70179.46,
+                            "90": 81695.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 42410.99,
+                            "25": 50437.66,
+                            "50": 60606.19,
+                            "75": 72820.42,
+                            "90": 87201.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 37101.9,
+                            "25": 45434.88,
+                            "50": 56987.54,
+                            "75": 75849.61,
+                            "90": 98938.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer, Messaging",
+                        "url": "/research/US/Job=Systems_Engineer%2C_Messaging/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 61456.08,
+                            "25": 70666.91,
+                            "50": 93375.65,
+                            "75": 104386.23,
+                            "90": 118561.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Analyst",
+                        "url": "/research/US/Job=Systems_Analyst/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 46376.02,
+                            "25": 54658.48,
+                            "50": 65416.93,
+                            "75": 79088.03,
+                            "90": 93923.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer, IT",
+                        "url": "/research/US/Job=Systems_Engineer%2C_IT/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 51695.64,
+                            "25": 62073.73,
+                            "50": 75092.65,
+                            "75": 90775.81,
+                            "90": 108363.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 49483.21,
+                            "25": 59998.07,
+                            "50": 73182.58,
+                            "75": 88401,
+                            "90": 105080.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Windows Server",
+                        "url": "/research/US/Job=System_Administrator%2C_Windows_Server/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 47594.9,
+                            "25": 55799.19,
+                            "50": 66379.11,
+                            "75": 78909.79,
+                            "90": 92382.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Senior_Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 71498.37,
+                            "25": 84916.72,
+                            "50": 100854.58,
+                            "75": 120224.65,
+                            "90": 138448.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 50257.88,
+                            "25": 60898.37,
+                            "50": 73821.55,
+                            "75": 89868.95,
+                            "90": 108410.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Network Administrator, IT",
+                        "url": "/research/US/Job=Senior_Network_Administrator%2C_IT/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 57783.34,
+                            "25": 67254.66,
+                            "50": 78880.46,
+                            "75": 90787.4,
+                            "90": 102738.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Analyst",
+                        "url": "/research/US/Job=Senior_Systems_Analyst/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 64962.62,
+                            "25": 75656.54,
+                            "50": 88699.83,
+                            "75": 102449.08,
+                            "90": 118572.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Analyst, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Analyst%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 38757.38,
+                            "25": 45512.94,
+                            "50": 54035.4,
+                            "75": 66397.81,
+                            "90": 79626.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 32629.32,
+                            "25": 38827.87,
+                            "50": 46725.22,
+                            "75": 57382.47,
+                            "90": 71371.67
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Microsoft Exchange Server, Microsoft Lync",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-01-18T22:21:44.79607Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "61562.12",
+                            "median": "78399.2",
+                            "percentile75": "91325.15",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "60983.61",
+                            "median": "70000",
+                            "percentile75": "92432.43",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 8,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "An enterprise messaging systems administrator is an IT position responsible for the architecture and management of messaging systems within a company. Their tasks include directory integration to ensure user functionality of the related systems. They also restore and maintain the services necessary for the messaging enterprise. This allows precise messages to be sent between computer systems, and it is therefore a vital role to an organization. \r\nTypes of industries that employ an enterprise messaging systems administrator include universities and colleges. Other employers could be various tech companies that involve subscription and messaging services, such as java message service. They are responsible for ensuring that services such as email provided to students is secure, as well as payments to be processed by subscribers. The role focuses on ensuring safe communications in a network of computer systems. They work closely with other engineers in their daily routine and spend much of their time in an office overseeing the messaging systems. They may report to a department manager or dean. This is a position in the information technology industry and often comes with great responsibility and access to sensitive information. \r\nEnterprise messaging systems administrators typically are required to have a bachelor's degree in either IT, math, computer science, engineering, or other related field. They also usually need at least three years of relevant experience in information technology. A typical day involves an early start and arrival at the office, where they perform routine maintenance, diagnostics, and coding from their workstation.",
+                    "name": "Enterprise Messaging Systems Administrator",
+                    "url": "/research/US/Job=Enterprise_Messaging_Systems_Administrator/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

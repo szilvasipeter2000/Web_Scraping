@@ -1,0 +1,829 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 4,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "User Support Specialist",
+                    "url": "/research/US/Job=User_Support_Specialist/Salary",
+                    "compensation": 48538.55546002528,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Sr. Software Engineer / Developer / Programmer",
+                            "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                            "percent": 1,
+                            "compensation": 104281.41056938967,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Software Engineer",
+                                    "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                                    "percent": 0.15,
+                                    "compensation": 116774.24155625676,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Software Engineer",
+                                    "url": "/research/US/Job=Software_Engineer/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 85679.1994543505,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Software Developer",
+                                    "url": "/research/US/Job=Software_Developer/Salary",
+                                    "percent": 0.04,
+                                    "compensation": 71436.21516954101,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "User Support Specialist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=User_Support_Specialist/Salary",
+                    "defaultUrl": "/research/US/Job=User_Support_Specialist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-07-19T07:56:49.89357Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a User Support Specialist is $23.11 per hour.",
+                    "summarySalary": "The average pay for a User Support Specialist is $59,070 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 824.34,
+                        "25": 1000,
+                        "50": 2000,
+                        "75": 4016.37,
+                        "90": 5016.69,
+                        "profileCount": 13
+                    },
+                    "hourlyRate": {
+                        "10": 16.55,
+                        "25": 18.66,
+                        "50": 23.11,
+                        "75": 25.62,
+                        "90": 29.71,
+                        "profileCount": 42
+                    },
+                    "salary": {
+                        "10": 36140.79,
+                        "25": 49268.27,
+                        "50": 59070.15,
+                        "75": 70126.44,
+                        "90": 80467.36,
+                        "profileCount": 50
+                    },
+                    "total": {
+                        "10": 35354.26,
+                        "25": 41200.06,
+                        "50": 52449.85,
+                        "75": 63677.35,
+                        "90": 76034.3,
+                        "profileCount": 92
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-07-19T07:56:49.89357Z",
+                        "profileCount": 92,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 92,
+                                "range": {
+                                    "10": 35354.26,
+                                    "25": 41200.06,
+                                    "50": 52449.85,
+                                    "75": 63677.35,
+                                    "90": 76034.3
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-07-19T07:56:49.89357Z",
+                        "profileCount": 42,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 42,
+                                "range": {
+                                    "10": 16.55,
+                                    "25": 18.66,
+                                    "50": 23.11,
+                                    "75": 25.62,
+                                    "90": 29.71
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-07-19T07:56:49.89357Z",
+                        "profileCount": 50,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 50,
+                                "range": {
+                                    "10": 36140.79,
+                                    "25": 49268.27,
+                                    "50": 59070.15,
+                                    "75": 70126.44,
+                                    "90": 80467.36
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-07-19T07:56:49.89357Z",
+                        "profileCount": 40,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-07-19T07:56:49.89357Z",
+                        "profileCount": 53,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 46,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 41,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 38,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/a4d6cdab/Entry-Level",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 30638.58
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/a4d6cdab/Early-Career",
+                                "profileCount": 46,
+                                "range": {
+                                    "50": 51070.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/b3179658/Mid-Career",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 54995
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Hourly_Rate/1209a255/Experienced",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 64810.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Hourly_Rate/c1bf5d32/Late-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 72000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/5265b838/New-York-NY",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 47500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/3daecb38/Dallas-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 30000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Information Technology (IT) Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/addee41f/Information-Technology-IT-Support",
+                                "profileCount": 72,
+                                "range": {
+                                    "50": 55844.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Help Desk / Desktop Support (Tier 2)",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/38e711b3/Help-Desk-Desktop-Support-Tier-2",
+                                "profileCount": 70,
+                                "range": {
+                                    "50": 52388.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Customer Service",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/3fe9792c/Customer-Service",
+                                "profileCount": 44,
+                                "range": {
+                                    "50": 55640.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Product Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/e047640c/Product-Support",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 53328.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Hourly_Rate/7421ee93/Network-Support",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 65997.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "System Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Hourly_Rate/74b9b711/System-Administration",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 50868.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Active Directory",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/1c476ce2/Microsoft-Active-Directory",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 51000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/2f804f38/Microsoft-Office",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 35492.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Social Media Marketing",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/ede4fefd/Social-Media-Marketing",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 30520.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Writing Procedures & Documentation",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/910125af/Writing-Procedures-%26-Documentation",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 39000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Customer Relationship Management (CRM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=User_Support_Specialist/Salary/e51bf901/Customer-Relationship-Management-CRM",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 30339.11
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 19,
+                        "score": 3.42
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 5104,
+                        "range": {
+                            "10": 30744.24,
+                            "25": 36196.44,
+                            "50": 42835.69,
+                            "75": 51357.16,
+                            "90": 60534.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 3719,
+                        "range": {
+                            "10": 36731.27,
+                            "25": 43377.06,
+                            "50": 52090.72,
+                            "75": 62630.91,
+                            "90": 73941.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 3249,
+                        "range": {
+                            "10": 30929.44,
+                            "25": 36362.25,
+                            "50": 42625.62,
+                            "75": 50807.79,
+                            "90": 60170.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cashier",
+                        "url": "/research/US/Job=Cashier/Hourly_Rate",
+                        "profileCount": 2592,
+                        "range": {
+                            "10": 12659.76,
+                            "25": 19032.74,
+                            "50": 24182.96,
+                            "75": 36147.44,
+                            "90": 49624.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sales Associate",
+                        "url": "/research/US/Job=Sales_Associate/Hourly_Rate",
+                        "profileCount": 2269,
+                        "range": {
+                            "10": 28316.75,
+                            "25": 37598.68,
+                            "50": 49036.85,
+                            "75": 62890.02,
+                            "90": 79526.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 2124,
+                        "range": {
+                            "10": 46786,
+                            "25": 56892.4,
+                            "50": 70948.71,
+                            "75": 88848.12,
+                            "90": 110970.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 2109,
+                        "range": {
+                            "10": 48184.31,
+                            "25": 55893.47,
+                            "50": 66105.27,
+                            "75": 78598.87,
+                            "90": 92750.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1884,
+                        "range": {
+                            "10": 37126.55,
+                            "25": 43749.21,
+                            "50": 52307.25,
+                            "75": 63242.76,
+                            "90": 75208.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 1766,
+                        "range": {
+                            "10": 27672.74,
+                            "25": 32567.79,
+                            "50": 39024.85,
+                            "75": 46041.06,
+                            "90": 54430.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1467,
+                        "range": {
+                            "10": 42728.3,
+                            "25": 50993.46,
+                            "50": 62032.44,
+                            "75": 74586.69,
+                            "90": 87524.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 1408,
+                        "range": {
+                            "10": 41367.95,
+                            "25": 49318.66,
+                            "50": 59935.54,
+                            "75": 73314.17,
+                            "90": 88481.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 1241,
+                        "range": {
+                            "10": 25781.83,
+                            "25": 30197.33,
+                            "50": 36267.27,
+                            "75": 43006.94,
+                            "90": 52034.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 1220,
+                        "range": {
+                            "10": 39185.6,
+                            "25": 45075.42,
+                            "50": 53988,
+                            "75": 64535.23,
+                            "90": 77982.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1157,
+                        "range": {
+                            "10": 52370.06,
+                            "25": 63690.29,
+                            "50": 78590.74,
+                            "75": 97344.71,
+                            "90": 118672.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 1146,
+                        "range": {
+                            "10": 40655.28,
+                            "25": 49272.27,
+                            "50": 60593.03,
+                            "75": 77588.26,
+                            "90": 99780
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1093,
+                        "range": {
+                            "10": 58227.17,
+                            "25": 71972.84,
+                            "50": 91036.36,
+                            "75": 114657.26,
+                            "90": 136755.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Coordinator",
+                        "url": "/research/US/Job=Marketing_Coordinator/Salary",
+                        "profileCount": 1084,
+                        "range": {
+                            "10": 37420.2,
+                            "25": 42018.14,
+                            "50": 48930.67,
+                            "75": 55741.74,
+                            "90": 63215.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 1010,
+                        "range": {
+                            "10": 35766.39,
+                            "25": 41514.82,
+                            "50": 50133.32,
+                            "75": 60702.39,
+                            "90": 72978.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 988,
+                        "range": {
+                            "10": 59544.94,
+                            "25": 67244.89,
+                            "50": 76827.22,
+                            "75": 89644.94,
+                            "90": 106236.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Manager",
+                        "url": "/research/US/Job=Customer_Service_Manager/Salary",
+                        "profileCount": 942,
+                        "range": {
+                            "10": 43068.34,
+                            "25": 50936.51,
+                            "50": 62109.23,
+                            "75": 75509.71,
+                            "90": 88898
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=User_Support_Specialist/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Information Technology (IT) Support, Help Desk / Desktop Support (Tier 2), Customer Service, Product Support, Network Support, System Administration, Microsoft Active Directory, Microsoft Office, Social Media Marketing, Writing Procedures & Documentation, Customer Relationship Management (CRM)",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-07-19T07:56:49.89357Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "35354.26",
+                            "percentile25": "41200.06",
+                            "median": "52449.85",
+                            "percentile75": "63677.35",
+                            "percentile90": "76034.3",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "36140.79",
+                            "percentile25": "49268.27",
+                            "median": "59070.15",
+                            "percentile75": "70126.44",
+                            "percentile90": "80467.36",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "824.34",
+                            "percentile25": "1000",
+                            "median": "2000",
+                            "percentile75": "4016.37",
+                            "percentile90": "5016.69",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 117,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "User Support Specialist",
+                    "url": "/research/US/Job=User_Support_Specialist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

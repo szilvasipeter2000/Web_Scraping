@@ -1,0 +1,1073 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 3,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Actuarial Associate",
+                    "url": "/research/US/Job=Actuarial_Associate/Salary",
+                    "compensation": 75699.02512335153,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Actuary",
+                            "url": "/research/US/Job=Actuary/Salary",
+                            "percent": 1,
+                            "compensation": 90839.19696495747,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Chief Actuary",
+                                    "url": "/research/US/Job=Chief_Actuary/Salary",
+                                    "percent": 0.23,
+                                    "compensation": 203555.13628066253,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                },
+                                "childCount": 0
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Actuarial Manager",
+                                    "url": "/research/US/Job=Actuarial_Manager/Salary",
+                                    "percent": 0.23,
+                                    "compensation": 123294.21670285639,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Consulting Actuary",
+                                    "url": "/research/US/Job=Consulting_Actuary/Salary",
+                                    "percent": 0.17,
+                                    "compensation": 122634.44247045489,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Actuarial Associate"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Actuarial_Associate/Salary",
+                    "defaultUrl": "/research/US/Job=Actuarial_Associate/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-21T00:15:59.8073Z",
+                "narratives": {
+                    "description": "Actuarial associates assist senior actuaries in assessing the financial impact of speculation, uncertainty, and risk related to unexpected, uncontrollable events such as death, natural disasters, and other liabilities to a corporation or firm. Actuarial associates typically work full time in an office environment, but they may also be part of a consulting firm that works directly with multiple companies. Their duties include the aggregation of existing databases to determine the need for protection against various liabilities, the collection of new data to determine liability risk, and interaction with other departments to research the potential for liabilities. \r\nActuarial associates are also responsible for presenting and documenting information found through research, using software to record data and organize it into accessible databases, and performing other tasks that may be required in assisting their senior actuary. Skills that are useful in an actuarial associate position are the ability to present to a group and effectively communicate information, a basic knowledge of computer software and digital databases, the ability to compare and analyze data, the attention to detail necessary to properly evaluate liabilities, and the ability to work closely with a team of other associates and senior actuaries. \r\nRequirements for these positions often include a bachelor's degree in finance, mathematics, statistics, or a related field. Membership as a Fellow of the Society of Actuaries (FSA) or Associate of the Society of Actuaries (ASA) certification, as well as three to five years of actuarial experience, are required as well. Actuarial associates should have the ability to use Prophet and/or other customer relationship management (CRM) software and experience with SQL database standards.",
+                    "summarySalary": "The average pay for an Actuarial Associate is $83,686 per year."
+                },
+                "tasks": [
+                    "Provide administrative, accounting, compliance, product development, valuation, and/or claims support for multiple departments.",
+                    "Perform ad hoc research and statistical analysis to estimate rates and probabilities affecting policies.",
+                    "Advise policy holders, developing insurance plans, resolving issues, and managing oversight and policy value corrections."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 2180.96,
+                        "25": 3783.61,
+                        "50": 5444.56,
+                        "75": 8989.54,
+                        "90": 14000,
+                        "profileCount": 69
+                    },
+                    "profitSharing": {
+                        "25": 1620,
+                        "50": 2368.44,
+                        "75": 10378.15,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "10": 64996.52,
+                        "25": 73176.37,
+                        "50": 83686.41,
+                        "75": 93263.51,
+                        "90": 102446.53,
+                        "profileCount": 103
+                    },
+                    "total": {
+                        "10": 67974,
+                        "25": 75911.04,
+                        "50": 86425.19,
+                        "75": 99829.45,
+                        "90": 109821.03,
+                        "profileCount": 104
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-21T00:15:59.8073Z",
+                        "profileCount": 104,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 104,
+                                "range": {
+                                    "10": 67974,
+                                    "25": 75911.04,
+                                    "50": 86425.19,
+                                    "75": 99829.45,
+                                    "90": 109821.03
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-21T00:15:59.8073Z",
+                        "profileCount": 103,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 103,
+                                "range": {
+                                    "10": 64996.52,
+                                    "25": 73176.37,
+                                    "50": 83686.41,
+                                    "75": 93263.51,
+                                    "90": 102446.53
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-21T00:15:59.8073Z",
+                        "profileCount": 39,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-21T00:15:59.8073Z",
+                        "profileCount": 53,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 48,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 45,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 32,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Mercer LLC",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/1009fb68/Mercer-LLC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 91966.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Prudential Financial Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/8e1a5666/Prudential-Financial-Inc.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 75800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "PricewaterhouseCoopers",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/4e2538c2/PricewaterhouseCoopers",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 64500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Prudential",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/5d34f9d4/Prudential",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 71468.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Buck Consultants, LLC",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/6f4dcf8b/Buck-Consultants-LLC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 67005.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Geico",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/e931ac79/Geico",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 71257.5
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/8eecdf59/Entry-Level",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 69531.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/8eecdf59/Early-Career",
+                                "profileCount": 88,
+                                "range": {
+                                    "50": 82913.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/0cd25ba7/Mid-Career",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 84801.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/fc317e00/Experienced",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 104750
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/fc93a79d/New-York-NY",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 82481.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/f56ccbbe/Philadelphia-PA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 96403.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Newark, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/e041436d/Newark-NJ",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 69977
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/7d39b57c/Chicago-IL",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 66437.5
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "West Des Moines, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/f15ae05d/West-Des-Moines-IA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 84822.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Des Moines, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/847b67c9/Des-Moines-IA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 78500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hartford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/af89605f/Hartford-CT",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 77206.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/8d9fc8ac/Atlanta-GA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 77852.45
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/2c830532/Boston-MA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 73150
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/e4224220/Minneapolis-MN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78990.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/a5198e4d/Houston-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 58495.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/20556266/Salt-Lake-City-UT",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 97500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Overland Park, Kansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/7c9a9f83/Overland-Park-KS",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 85764
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Secaucus, New Jersey",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/3a9b8c76/Secaucus-NJ",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 64887.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Paul, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/89252a01/St.-Paul-MN",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 65111.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/6fceb673/Seattle-WA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 76645.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Madison, Wisconsin",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/e88b6a50/Madison-WI",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 95500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/7109b050/Dallas-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 63300
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/b148872b/San-Francisco-CA",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 82525
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/e0d82bfc/Washington-DC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 73267
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/4a6fd4e5/Tampa-FL",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 63750
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/d8a810cb/Microsoft-Excel",
+                                "profileCount": 92,
+                                "range": {
+                                    "50": 80904.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/84914c3c/Data-Analysis",
+                                "profileCount": 63,
+                                "range": {
+                                    "50": 80109.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "VBA",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/20e86db1/VBA",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 73338.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Financial Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/b4704e75/Financial-Modeling",
+                                "profileCount": 28,
+                                "range": {
+                                    "50": 81084.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/8c839233/SQL",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 82790.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/cad2443f/Data-Modeling",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 77582.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/e6a36731/Microsoft-Office",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 84178.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Problem Solving",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/13aac945/Problem-Solving",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 88075.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Valuation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/f9523b07/Valuation",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Financial Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/20cccaa2/Financial-Analysis",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 86526.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pricing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/0cea3975/Pricing",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 87628.8
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Insurance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/b518f546/Insurance",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 83988.1
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS (Statistical Analysis System)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/7b4fcb28/SAS-Statistical-Analysis-System",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Statistical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Actuarial_Associate/Salary/1b05c464/Statistical-Analysis",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 11,
+                        "score": 3.78
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 4487,
+                        "range": {
+                            "10": 50780.14,
+                            "25": 58057.52,
+                            "50": 66221.98,
+                            "75": 76208.98,
+                            "90": 87684.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 4380,
+                        "range": {
+                            "10": 48209.48,
+                            "25": 56178.53,
+                            "50": 66443.69,
+                            "75": 78354.76,
+                            "90": 90919.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 4315,
+                        "range": {
+                            "10": 31100.17,
+                            "25": 36642.27,
+                            "50": 43494.72,
+                            "75": 51935.68,
+                            "90": 61326.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 2882,
+                        "range": {
+                            "10": 68949.06,
+                            "25": 77173.77,
+                            "50": 86722.83,
+                            "75": 97408.19,
+                            "90": 109125.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 2277,
+                        "range": {
+                            "10": 31019.68,
+                            "25": 36710.11,
+                            "50": 43282.16,
+                            "75": 51381.97,
+                            "90": 61029.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1998,
+                        "range": {
+                            "10": 37026.97,
+                            "25": 43784.37,
+                            "50": 52658.62,
+                            "75": 63363.85,
+                            "90": 74648.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1852,
+                        "range": {
+                            "10": 59968.94,
+                            "25": 67926.99,
+                            "50": 77713.46,
+                            "75": 90785.41,
+                            "90": 108085.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1729,
+                        "range": {
+                            "10": 52834.75,
+                            "25": 64203.47,
+                            "50": 79111.28,
+                            "75": 97799.75,
+                            "90": 119029.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1723,
+                        "range": {
+                            "10": 43828.53,
+                            "25": 49778.19,
+                            "50": 56160.27,
+                            "75": 63151.72,
+                            "90": 70288.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 1722,
+                        "range": {
+                            "10": 44063.56,
+                            "25": 49518.78,
+                            "50": 56610.01,
+                            "75": 66103.35,
+                            "90": 75837.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1540,
+                        "range": {
+                            "10": 43304.67,
+                            "25": 51526.38,
+                            "50": 62810.47,
+                            "75": 75367.05,
+                            "90": 88256.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1537,
+                        "range": {
+                            "10": 67327.69,
+                            "25": 77943.69,
+                            "50": 92564.86,
+                            "75": 113541.99,
+                            "90": 135083.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 1434,
+                        "range": {
+                            "10": 57364.89,
+                            "25": 64587.19,
+                            "50": 73417.06,
+                            "75": 82880.9,
+                            "90": 91989.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1340,
+                        "range": {
+                            "10": 57071.73,
+                            "25": 64834.07,
+                            "50": 74176.17,
+                            "75": 87034.52,
+                            "90": 103530.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 1229,
+                        "range": {
+                            "10": 70870.34,
+                            "25": 82996.81,
+                            "50": 99709.74,
+                            "75": 120083.96,
+                            "90": 138415.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 1202,
+                        "range": {
+                            "10": 50185.37,
+                            "25": 57958.31,
+                            "50": 67003.97,
+                            "75": 77502.82,
+                            "90": 88500.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Controller",
+                        "url": "/research/US/Job=Financial_Controller/Salary",
+                        "profileCount": 1179,
+                        "range": {
+                            "10": 62546,
+                            "25": 75356.42,
+                            "50": 91775.83,
+                            "75": 112050.22,
+                            "90": 132718.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 1154,
+                        "range": {
+                            "10": 66175.23,
+                            "25": 76339.39,
+                            "50": 88811.48,
+                            "75": 102918.1,
+                            "90": 118421.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Finance Manager",
+                        "url": "/research/US/Job=Finance_Manager/Salary",
+                        "profileCount": 1101,
+                        "range": {
+                            "10": 57672.04,
+                            "25": 77896.65,
+                            "50": 99781.12,
+                            "75": 118479.92,
+                            "90": 134112.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 1086,
+                        "range": {
+                            "10": 67531.3,
+                            "25": 77244.73,
+                            "50": 89708.59,
+                            "75": 103950.16,
+                            "90": 121229.02
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Actuarial_Associate/Salary",
+                    "occupationalCategory": "15-2010.00 - Actuaries",
+                    "skills": "Microsoft Excel, Data Analysis, VBA, Financial Modeling, SQL, Data Modeling, Microsoft Office, Problem Solving, Valuation, Financial Analysis, Pricing, Insurance, SAS (Statistical Analysis System), Statistical Analysis",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-21T00:15:59.8073Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "67974",
+                            "percentile25": "75911.04",
+                            "median": "86425.19",
+                            "percentile75": "99829.45",
+                            "percentile90": "109821.03",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "64996.52",
+                            "percentile25": "73176.37",
+                            "median": "83686.41",
+                            "percentile75": "93263.51",
+                            "percentile90": "102446.53",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "2180.96",
+                            "percentile25": "3783.61",
+                            "median": "5444.56",
+                            "percentile75": "8989.54",
+                            "percentile90": "14000",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 126,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Actuarial associates assist senior actuaries in assessing the financial impact of speculation, uncertainty, and risk related to unexpected, uncontrollable events such as death, natural disasters, and other liabilities to a corporation or firm. Actuarial associates typically work full time in an office environment, but they may also be part of a consulting firm that works directly with multiple companies. Their duties include the aggregation of existing databases to determine the need for protection against various liabilities, the collection of new data to determine liability risk, and interaction with other departments to research the potential for liabilities. \r\nActuarial associates are also responsible for presenting and documenting information found through research, using software to record data and organize it into accessible databases, and performing other tasks that may be required in assisting their senior actuary. Skills that are useful in an actuarial associate position are the ability to present to a group and effectively communicate information, a basic knowledge of computer software and digital databases, the ability to compare and analyze data, the attention to detail necessary to properly evaluate liabilities, and the ability to work closely with a team of other associates and senior actuaries. \r\nRequirements for these positions often include a bachelor's degree in finance, mathematics, statistics, or a related field. Membership as a Fellow of the Society of Actuaries (FSA) or Associate of the Society of Actuaries (ASA) certification, as well as three to five years of actuarial experience, are required as well. Actuarial associates should have the ability to use Prophet and/or other customer relationship management (CRM) software and experience with SQL database standards.",
+                    "name": "Actuarial Associate",
+                    "url": "/research/US/Job=Actuarial_Associate/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

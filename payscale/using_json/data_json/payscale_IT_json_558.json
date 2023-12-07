@@ -1,0 +1,840 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Senior Privacy & Security Analyst",
+                    "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary",
+                    "compensation": 96061.88407176573,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Technical Account Manager",
+                            "url": "/research/US/Job=Technical_Account_Manager/Salary",
+                            "percent": 1,
+                            "compensation": 84324.50189451115,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Technical Support Manager",
+                                    "url": "/research/US/Job=Technical_Support_Manager/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 77877.66028075988,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Customer Success Manager",
+                                    "url": "/research/US/Job=Customer_Success_Manager/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 67934.81414336985,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Project Manager, (Unspecified Type / General)",
+                                    "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 74208.60456383067,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Privacy & Security Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-01-17T02:49:10.54743Z",
+                "narratives": {
+                    "description": "Viruses, service attacks, and outright hacking can be incredibly costly to companies not only in terms of theft and downtime, but also due to attempts to prevent unwelcome intrusions. A senior privacy and security analyst is a management-level employee who examines an organization's communication, storage, and sharing policies and procedures and recommends the safest and most cost-efficient ways to secure them from unauthorized use and/or invasion.\r\nAs a senior analyst, this person may have staff members working under him/her who gather data and research all possible avenues by which unwelcome or illegal intrusions may occur. The senior analyst examines this data to identify vulnerabilities in areas such as e-mail communication, file storage and sharing (especially in shared cloud operations), and all internet and intranet connections utilized by the company. This can include items as simple as password and employee use policies, as well as restricting access and firewalls on company computers and the like.\r\nAs the analyst determines possible vulnerabilities, he/she researches and collects data on solutions that are both effective and cost-efficient in dealing with these threats; they typically issue these analyses in regular intervals to company IT or security directors for implementation. As threats evolve over time and remain troublesome for companies, the role of a senior privacy and security analyst is indefinite in nature.\r\nTo become a senior privacy and security analyst, one should typically have a college degree in Computer Science, Engineering, or a related field with an emphasis in security. As noted, senior analysts may have staff members to supervise, and thus may be given hiring decisions and some budget responsibilities for his/her group. Those in this position typically work regular business hours in a computer office environment.",
+                    "summarySalary": "The average pay for a Senior Privacy & Security Analyst is $98,459 per year."
+                },
+                "tasks": [
+                    "Identify and prevent current and future threats to user security and privacy.",
+                    "Process incoming samples and create detection policies for identifying them in the future.",
+                    "Locate and remove malware in a timely manner."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 1056.06,
+                        "25": 4000,
+                        "50": 5152.1,
+                        "75": 10581.29,
+                        "90": 15232.44,
+                        "profileCount": 25
+                    },
+                    "profitSharing": {
+                        "50": 2250,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 72523.85,
+                        "25": 83950.24,
+                        "50": 98459.27,
+                        "75": 110422,
+                        "90": 123706.69,
+                        "profileCount": 38
+                    },
+                    "total": {
+                        "10": 73815.94,
+                        "25": 89072.97,
+                        "50": 103559.24,
+                        "75": 117496.97,
+                        "90": 132140.33,
+                        "profileCount": 38
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-01-17T02:49:10.54743Z",
+                        "profileCount": 38,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 38,
+                                "range": {
+                                    "10": 73815.94,
+                                    "25": 89072.97,
+                                    "50": 103559.24,
+                                    "75": 117496.97,
+                                    "90": 132140.33
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-01-17T02:49:10.54743Z",
+                        "profileCount": 38,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 38,
+                                "range": {
+                                    "10": 72523.85,
+                                    "25": 83950.24,
+                                    "50": 98459.27,
+                                    "75": 110422,
+                                    "90": 123706.69
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-01-17T02:49:10.54743Z",
+                        "profileCount": 20,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 14,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-01-17T02:49:10.54743Z",
+                        "profileCount": 25,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Accenture",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/ec0a94b9/Accenture",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 81500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/809d21c3/Early-Career",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 90379.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/cc4f05c4/Mid-Career",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 98890.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/b9733daa/Experienced",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 116879.58
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/8018579d/Late-Career",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 129749.96
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/7867b603/Washington-DC",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Paul, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/c5cb2be9/St.-Paul-MN",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 115000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Rocklin, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/e161c0c2/Rocklin-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90633.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/678beb6f/Austin-TX",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 122448.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/e5d3850e/Dallas-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Security Risk Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/d9c5318a/Security-Risk-Management",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 97630.16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Testing and Auditing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/0df6cd65/Security-Testing-and-Auditing",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 90259.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cyber Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/ec657bbc/Cyber-Security",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 104000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/4333f349/IT-Security-%26-Infrastructure",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 100796.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Policies and Procedures",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/cbfcbdf7/Security-Policies-and-Procedures",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 98000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/6dd831e2/Data-Analysis",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 99526.31
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Vulnerability Assessment",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/cc35dbe5/Vulnerability-Assessment",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 100059.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Regulatory Compliance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/c6559744/Regulatory-Compliance",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 91640.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "HIPAA Compliance",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/651bf035/HIPAA-Compliance",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90168.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/12292d73/Project-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 92327.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Information and Event Management (SIEM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/ba2dfb58/Security-Information-and-Event-Management-SIEM",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Intrusion Detection",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary/ed31b3c3/Security-Intrusion-Detection",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 112000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 4.4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3352,
+                        "range": {
+                            "10": 51351.88,
+                            "25": 62654.01,
+                            "50": 77467.7,
+                            "75": 95864.95,
+                            "90": 117246.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1437,
+                        "range": {
+                            "10": 46416.76,
+                            "25": 54566.49,
+                            "50": 64738.11,
+                            "75": 76488.79,
+                            "90": 89158.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1367,
+                        "range": {
+                            "10": 55634.42,
+                            "25": 63278.27,
+                            "50": 72339.55,
+                            "75": 84879.3,
+                            "90": 101053.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 1237,
+                        "range": {
+                            "10": 54033.31,
+                            "25": 62987.46,
+                            "50": 75213.02,
+                            "75": 91672.9,
+                            "90": 112840.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1057,
+                        "range": {
+                            "10": 58590.21,
+                            "25": 66023.12,
+                            "50": 75351.02,
+                            "75": 87779.78,
+                            "90": 103554.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1040,
+                        "range": {
+                            "10": 45628.1,
+                            "25": 55542.38,
+                            "50": 69574.95,
+                            "75": 87257.63,
+                            "90": 108792.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1006,
+                        "range": {
+                            "10": 57312.31,
+                            "25": 70964.5,
+                            "50": 89989.86,
+                            "75": 113366.19,
+                            "90": 135213.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 882,
+                        "range": {
+                            "10": 49810.45,
+                            "25": 56496.39,
+                            "50": 64518.6,
+                            "75": 74144.49,
+                            "90": 85271.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 840,
+                        "range": {
+                            "10": 58832.2,
+                            "25": 72170,
+                            "50": 89785.3,
+                            "75": 110823.88,
+                            "90": 130973.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Analyst",
+                        "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                        "profileCount": 813,
+                        "range": {
+                            "10": 54721.51,
+                            "25": 65266.53,
+                            "50": 78622.18,
+                            "75": 96299.23,
+                            "90": 117249.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 750,
+                        "range": {
+                            "10": 66264.14,
+                            "25": 75851.03,
+                            "50": 88118.07,
+                            "75": 101840.25,
+                            "90": 118836.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer",
+                        "url": "/research/US/Job=Security_Engineer/Salary",
+                        "profileCount": 699,
+                        "range": {
+                            "10": 66619.71,
+                            "25": 79894.67,
+                            "50": 97413.85,
+                            "75": 120777.84,
+                            "90": 143978.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 659,
+                        "range": {
+                            "10": 51004.64,
+                            "25": 61798.6,
+                            "50": 77807.62,
+                            "75": 96990.81,
+                            "90": 121501.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Analyst",
+                        "url": "/research/US/Job=Security_Analyst/Salary",
+                        "profileCount": 643,
+                        "range": {
+                            "10": 51403.72,
+                            "25": 60988.54,
+                            "50": 72427.33,
+                            "75": 85700.91,
+                            "90": 101081.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 640,
+                        "range": {
+                            "10": 60151.64,
+                            "25": 67787.66,
+                            "50": 77383.24,
+                            "75": 90053.48,
+                            "90": 107065.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 633,
+                        "range": {
+                            "10": 72913.98,
+                            "25": 94161.11,
+                            "50": 123238.35,
+                            "75": 152636.35,
+                            "90": 177490.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 612,
+                        "range": {
+                            "10": 52388.36,
+                            "25": 61292.32,
+                            "50": 71979.96,
+                            "75": 85032.34,
+                            "90": 100822.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Manager",
+                        "url": "/research/US/Job=Information_Security_Manager/Salary",
+                        "profileCount": 576,
+                        "range": {
+                            "10": 82359.49,
+                            "25": 99518.34,
+                            "50": 121793.61,
+                            "75": 139379.01,
+                            "90": 155771.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 534,
+                        "range": {
+                            "10": 49085.08,
+                            "25": 56130.88,
+                            "50": 65309.94,
+                            "75": 75800.26,
+                            "90": 86740.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 514,
+                        "range": {
+                            "10": 55868.74,
+                            "25": 62214.16,
+                            "50": 70990.93,
+                            "75": 85049.51,
+                            "90": 103492.29
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Security Risk Management, Security Testing and Auditing, Cyber Security, IT Security & Infrastructure, Security Policies and Procedures, Data Analysis, Vulnerability Assessment, Regulatory Compliance, HIPAA Compliance, Project Management, Security Information and Event Management (SIEM), Security Intrusion Detection",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-01-17T02:49:10.54743Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "73815.94",
+                            "percentile25": "89072.97",
+                            "median": "103559.24",
+                            "percentile75": "117496.97",
+                            "percentile90": "132140.33",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "72523.85",
+                            "percentile25": "83950.24",
+                            "median": "98459.27",
+                            "percentile75": "110422",
+                            "percentile90": "123706.69",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1056.06",
+                            "percentile25": "4000",
+                            "median": "5152.1",
+                            "percentile75": "10581.29",
+                            "percentile90": "15232.44",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 46,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Viruses, service attacks, and outright hacking can be incredibly costly to companies not only in terms of theft and downtime, but also due to attempts to prevent unwelcome intrusions. A senior privacy and security analyst is a management-level employee who examines an organization's communication, storage, and sharing policies and procedures and recommends the safest and most cost-efficient ways to secure them from unauthorized use and/or invasion.\r\nAs a senior analyst, this person may have staff members working under him/her who gather data and research all possible avenues by which unwelcome or illegal intrusions may occur. The senior analyst examines this data to identify vulnerabilities in areas such as e-mail communication, file storage and sharing (especially in shared cloud operations), and all internet and intranet connections utilized by the company. This can include items as simple as password and employee use policies, as well as restricting access and firewalls on company computers and the like.\r\nAs the analyst determines possible vulnerabilities, he/she researches and collects data on solutions that are both effective and cost-efficient in dealing with these threats; they typically issue these analyses in regular intervals to company IT or security directors for implementation. As threats evolve over time and remain troublesome for companies, the role of a senior privacy and security analyst is indefinite in nature.\r\nTo become a senior privacy and security analyst, one should typically have a college degree in Computer Science, Engineering, or a related field with an emphasis in security. As noted, senior analysts may have staff members to supervise, and thus may be given hiring decisions and some budget responsibilities for his/her group. Those in this position typically work regular business hours in a computer office environment.",
+                    "name": "Senior Privacy & Security Analyst",
+                    "url": "/research/US/Job=Senior_Privacy_%26_Security_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

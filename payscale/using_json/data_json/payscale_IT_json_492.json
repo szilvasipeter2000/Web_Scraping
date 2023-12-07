@@ -1,0 +1,764 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Satellite Systems Engineer",
+                    "url": "/research/US/Job=Satellite_Systems_Engineer/Salary",
+                    "compensation": 81700,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Network Administrator",
+                            "url": "/research/US/Job=Network_Administrator/Salary",
+                            "percent": 1,
+                            "compensation": 59530.86951295828,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Network Engineer",
+                                    "url": "/research/US/Job=Network_Engineer/Salary",
+                                    "percent": 0.16,
+                                    "compensation": 73975.75710191249,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Systems Administrator",
+                                    "url": "/research/US/Job=Systems_Administrator/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 62410.40987121457,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Technology (IT) Manager",
+                                    "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 88162.58348698345,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Satellite Systems Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Satellite_Systems_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Satellite_Systems_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-17T01:57:03.03394Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Satellite Systems Engineer is $47.65 per hour.",
+                    "summarySalary": "The average pay for a Satellite Systems Engineer is $89,308 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 1030.42,
+                        "25": 1750.76,
+                        "50": 3016.35,
+                        "75": 8200,
+                        "90": 13574.12,
+                        "profileCount": 13
+                    },
+                    "hourlyRate": {
+                        "50": 47.65,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 63067.54,
+                        "25": 72713.1,
+                        "50": 89307.8,
+                        "75": 118643.56,
+                        "90": 144258.8,
+                        "profileCount": 45
+                    },
+                    "total": {
+                        "10": 64260.67,
+                        "25": 74065.91,
+                        "50": 90469.75,
+                        "75": 116129.99,
+                        "90": 142340.67,
+                        "profileCount": 48
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-17T01:57:03.03394Z",
+                        "profileCount": 48,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 48,
+                                "range": {
+                                    "10": 64260.67,
+                                    "25": 74065.91,
+                                    "50": 90469.75,
+                                    "75": 116129.99,
+                                    "90": 142340.67
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-11-17T01:57:03.03394Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 47.65
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-17T01:57:03.03394Z",
+                        "profileCount": 45,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 45,
+                                "range": {
+                                    "10": 63067.54,
+                                    "25": 72713.1,
+                                    "50": 89307.8,
+                                    "75": 118643.56,
+                                    "90": 144258.8
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-17T01:57:03.03394Z",
+                        "profileCount": 19,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-17T01:57:03.03394Z",
+                        "profileCount": 25,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 20,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Lockheed Martin Corp",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/65f60c4c/Lockheed-Martin-Corp",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 72716.62
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/6e791281/Entry-Level",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 66818.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/7e92c8c3/Early-Career",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 88601.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/ed1e4dc1/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/cacefa07/Late-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 130344.83
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Aurora, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/0d26035c/Aurora-CO",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Colorado Springs, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/080ce94c/Colorado-Springs-CO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 91500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Systems Engineering",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/d4469533/Systems-Engineering",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 88245.2
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Satellite Communications (SATCOM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/c83d3665/Satellite-Communications-SATCOM",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 85567.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Engineering Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/82711307/Engineering-Design",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/8ee97d40/Microsoft-Office",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 70473.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Linux",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/fda0022f/Linux",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90753.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Matlab",
+                                "displayName": null,
+                                "url": "/research/US/Job=Satellite_Systems_Engineer/Salary/43c5d89b/Matlab",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 79200
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 3804,
+                        "range": {
+                            "10": 59968.94,
+                            "25": 67926.99,
+                            "50": 77713.46,
+                            "75": 90785.41,
+                            "90": 108085.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2654,
+                        "range": {
+                            "10": 31127.09,
+                            "25": 36685.91,
+                            "50": 43560.5,
+                            "75": 52020.66,
+                            "90": 61435.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 2396,
+                        "range": {
+                            "10": 63974.65,
+                            "25": 72462.22,
+                            "50": 82904.73,
+                            "75": 98755.32,
+                            "90": 122455.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1874,
+                        "range": {
+                            "10": 57071.73,
+                            "25": 64834.07,
+                            "50": 74176.17,
+                            "75": 87034.52,
+                            "90": 103530.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 1469,
+                        "range": {
+                            "10": 57555.04,
+                            "25": 64058.18,
+                            "50": 73302.44,
+                            "75": 87911.14,
+                            "90": 106762.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1306,
+                        "range": {
+                            "10": 37026.97,
+                            "25": 43784.37,
+                            "50": 52658.62,
+                            "75": 63363.85,
+                            "90": 74648.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer",
+                        "url": "/research/US/Job=Senior_Systems_Engineer/Salary",
+                        "profileCount": 1261,
+                        "range": {
+                            "10": 84470.74,
+                            "25": 97730.16,
+                            "50": 114352.28,
+                            "75": 133977.07,
+                            "90": 155135.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1107,
+                        "range": {
+                            "10": 43412.89,
+                            "25": 51618.45,
+                            "50": 62903.52,
+                            "75": 75472.03,
+                            "90": 88294.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Design Engineer",
+                        "url": "/research/US/Job=Design_Engineer/Salary",
+                        "profileCount": 1051,
+                        "range": {
+                            "10": 56809.16,
+                            "25": 63986.7,
+                            "50": 73091.09,
+                            "75": 86318.35,
+                            "90": 106828.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 880,
+                        "range": {
+                            "10": 52834.75,
+                            "25": 64203.47,
+                            "50": 79111.28,
+                            "75": 97799.75,
+                            "90": 119029.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Mechanical Engineer",
+                        "url": "/research/US/Job=Senior_Mechanical_Engineer/Salary",
+                        "profileCount": 850,
+                        "range": {
+                            "10": 83463.56,
+                            "25": 93358.99,
+                            "50": 106087.63,
+                            "75": 123367.37,
+                            "90": 142545.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Structural Engineer",
+                        "url": "/research/US/Job=Structural_Engineer/Salary",
+                        "profileCount": 830,
+                        "range": {
+                            "10": 60537.02,
+                            "25": 67242.27,
+                            "50": 76115.23,
+                            "75": 89460.46,
+                            "90": 106458.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Aerospace Engineer",
+                        "url": "/research/US/Job=Aerospace_Engineer/Salary",
+                        "profileCount": 794,
+                        "range": {
+                            "10": 68028.77,
+                            "25": 77372.93,
+                            "50": 91468.05,
+                            "75": 114048.09,
+                            "90": 140348.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 732,
+                        "range": {
+                            "10": 67327.69,
+                            "25": 77943.69,
+                            "50": 92564.86,
+                            "75": 113541.99,
+                            "90": 135083.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Electrical Engineer",
+                        "url": "/research/US/Job=Senior_Electrical_Engineer/Salary",
+                        "profileCount": 601,
+                        "range": {
+                            "10": 88235,
+                            "25": 98780.82,
+                            "50": 113931.56,
+                            "75": 130198.66,
+                            "90": 148547.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 558,
+                        "range": {
+                            "10": 59773.07,
+                            "25": 66992.49,
+                            "50": 75841.89,
+                            "75": 86749.45,
+                            "90": 99693.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Design Engineer",
+                        "url": "/research/US/Job=Mechanical_Design_Engineer/Salary",
+                        "profileCount": 518,
+                        "range": {
+                            "10": 59745.94,
+                            "25": 67223.5,
+                            "50": 76448.37,
+                            "75": 87724.81,
+                            "90": 101416.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 426,
+                        "range": {
+                            "10": 61419.38,
+                            "25": 69521.22,
+                            "50": 79164.4,
+                            "75": 92073.74,
+                            "90": 109448.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 421,
+                        "range": {
+                            "10": 47346.26,
+                            "25": 57593.34,
+                            "50": 71635.22,
+                            "75": 89783.56,
+                            "90": 111875.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 416,
+                        "range": {
+                            "10": 70361.96,
+                            "25": 83611.1,
+                            "50": 100814.76,
+                            "75": 121629.11,
+                            "90": 142973.7
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Satellite_Systems_Engineer/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Systems Engineering, Satellite Communications (SATCOM), Engineering Design, Microsoft Office, Linux, Matlab",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-17T01:57:03.03394Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "64260.67",
+                            "percentile25": "74065.91",
+                            "median": "90469.75",
+                            "percentile75": "116129.99",
+                            "percentile90": "142340.67",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "63067.54",
+                            "percentile25": "72713.1",
+                            "median": "89307.8",
+                            "percentile75": "118643.56",
+                            "percentile90": "144258.8",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1030.42",
+                            "percentile25": "1750.76",
+                            "median": "3016.35",
+                            "percentile75": "8200",
+                            "percentile90": "13574.12",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 51,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Satellite Systems Engineer",
+                    "url": "/research/US/Job=Satellite_Systems_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

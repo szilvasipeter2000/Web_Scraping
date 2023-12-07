@@ -1,0 +1,1283 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 5,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Data Scientist, IT",
+                    "url": "/research/US/Job=Data_Scientist%2C_IT/Salary",
+                    "compensation": 86829.28197256192,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Data Scientist",
+                            "url": "/research/US/Job=Data_Scientist/Salary",
+                            "percent": 1,
+                            "compensation": 96008.8794099464,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Senior Data Scientist",
+                                    "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                                    "percent": 0.28,
+                                    "compensation": 125808.62412577825,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Data Science Manager",
+                                    "url": "/research/US/Job=Data_Science_Manager/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 135400.95640861144,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Data Science Director",
+                                    "url": "/research/US/Job=Data_Science_Director/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 157273.07935416905,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Data Scientist, IT"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Data_Scientist%2C_IT/Salary",
+                    "defaultUrl": "/research/US/Job=Data_Scientist%2C_IT/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-10-05T10:04:07.50632Z",
+                "narratives": {
+                    "description": "IT data scientists are responsible for mining complex data and providing systems-related advice for their organization. They design new ways to incorporate vast information with a focus on information technology topics. They work with teams of other IT professionals to manage statistical data and create different models based on the needs of their company. They possess advanced analytical skills, in addition to their exceptional oral and written communication abilities. They process research information for easier consumption and transform it into actionable plans. They also provide value to their businesses through their findings and thoughtful insights. \r\nIT data scientists follow specific, strict company and industry guidelines in their work. They observe data privacy rights to ensure client satisfaction and avoid legal issues. They create networks of professionals to consult, including internal partners and external colleagues. Most of the time data scientists work in teams using collaborative filtering, k-nearest neighbors, market basket analysis and matrix factorization methods. They deal with cutting edge technologies on a regular basis, and often have the best tools available at their disposal. One of their main work tools is usually an industrial computer with high processing power and proprietary software applications for research tasks. \r\nIT data scientists usually must possess previous work experience in a similar position. They should have advanced knowledge of different data mining techniques such as clustering, regression analysis, decision trees and support vector machines. An advanced degree (such as a PhD) in computer science is usually required for this kind of position, in addition to previous years of work experience in a related field.",
+                    "summaryHourly": "The average pay for a Data Scientist, IT is $41.44 per hour.",
+                    "summarySalary": "The average pay for a Data Scientist, IT is $78,611 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 5077.16,
+                        "50": 10000,
+                        "75": 15256.35,
+                        "profileCount": 6
+                    },
+                    "hourlyRate": {
+                        "50": 41.44,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 58804.19,
+                        "25": 63993.16,
+                        "50": 78610.81,
+                        "75": 130555.05,
+                        "90": 154697.05,
+                        "profileCount": 21
+                    },
+                    "total": {
+                        "10": 57205.22,
+                        "25": 65370.25,
+                        "50": 78610.81,
+                        "75": 120552.5,
+                        "90": 159641.2,
+                        "profileCount": 25
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-10-05T10:04:07.50632Z",
+                        "profileCount": 25,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 25,
+                                "range": {
+                                    "10": 57205.22,
+                                    "25": 65370.25,
+                                    "50": 78610.81,
+                                    "75": 120552.5,
+                                    "90": 159641.2
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-10-05T10:04:07.50632Z",
+                        "profileCount": 4,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 41.44
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-10-05T10:04:07.50632Z",
+                        "profileCount": 21,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 21,
+                                "range": {
+                                    "10": 58804.19,
+                                    "25": 63993.16,
+                                    "50": 78610.81,
+                                    "75": 130555.05,
+                                    "90": 154697.05
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-10-05T10:04:07.50632Z",
+                        "profileCount": 9,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-10-05T10:04:07.50632Z",
+                        "profileCount": 13,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "International Business Machines (IBM) Corp.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/c7c73457/International-Business-Machines-IBM-Corp.",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 77500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Booz, Allen, and Hamilton",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/591ae31a/Booz-Allen-and-Hamilton",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 79500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "American Express Co. (AMEX)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/443be0c9/American-Express-Co.-AMEX",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Corp",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/3fe5f1cd/Microsoft-Corp",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 132000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/aa9fc1a6/Entry-Level",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 64849.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/aa9fc1a6/Early-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 65502.71
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/a845b3d6/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 118643.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/d975fdac/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 122083.78
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/7601c414/Late-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 142482.1
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/c5eac7c5/New-York-NY",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 98869.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/9ec4646c/Washington-DC",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 94350.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/2e45ddc6/San-Francisco-CA",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 116516.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cleveland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/51002080/Cleveland-OH",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 65243.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/f305a5e1/Chicago-IL",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/7e45210b/Boston-MA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 86476.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/af929b1e/Austin-TX",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 63000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/d4af521b/Dallas-TX",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 97602.41
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/ead76e48/Seattle-WA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/f363734f/San-Diego-CA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 87309
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/d7e28689/Los-Angeles-CA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 85645.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/0f3926ec/San-Jose-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 128000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/e13eb8ef/Atlanta-GA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 135000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/afafb8c9/Raleigh-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bellevue, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/59ec8dd0/Bellevue-WA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 105000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/15647f50/Portland-OR",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 62000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Arlington, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/c47ad7ea/Arlington-VA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 65003.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "McLean, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/b029bedb/McLean-VA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 81719
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Miami, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/52a704a0/Miami-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/cba258a1/Minneapolis-MN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Santa Clara, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/4e0bb767/Santa-Clara-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 119830.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sunnyvale, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/7bb4f991/Sunnyvale-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/a6542631/Denver-CO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78610.81
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mountain View, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/06f59d2a/Mountain-View-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 119830.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Palo Alto, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/461fe482/Palo-Alto-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 107500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/7e3fd15e/Phoenix-AZ",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 88750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "California City, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/c1d4321b/California-City-CA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richmond, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/98612e07/Richmond-VA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 85000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/aa2c45fb/Philadelphia-PA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cincinnati, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/7c142d72/Cincinnati-OH",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/b2675ee2/Charlotte-NC",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/2f9fb47f/Houston-TX",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 137500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/2724fd67/Salt-Lake-City-UT",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 75500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/ab6e3c1b/St.-Louis-MO",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 86358.38
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/441d9c37/Irvine-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 90000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kansas City, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/c378b4e5/Kansas-City-MO",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 78000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/285aa5f9/Data-Modeling",
+                                "profileCount": 57,
+                                "range": {
+                                    "50": 97751.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Mining",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/6cac618d/Data-Mining",
+                                "profileCount": 46,
+                                "range": {
+                                    "50": 93170.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SAS",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/223a7511/SAS",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 90446.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/5d8f9935/Microsoft-SQL-Server",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 90013.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/23eb0b2e/Python",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 77419.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Hadoop",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/6d74ed9f/Apache-Hadoop",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 106000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Big Data Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/eefd434d/Big-Data-Analytics",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 94499.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Automation Scripting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/eee93cad/Automation-Scripting",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 94238.87
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/f5aeeaef/SQL",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 63464.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Statistical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/4710bcab/Statistical-Analysis",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 82000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/b6292ca1/Java",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 72500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Machine Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/06f0426a/Machine-Learning",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 72588.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/12878f56/Data-Analysis",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 80500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "R",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/4137f63f/R",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 71215.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Object Oriented Programming (OOP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/99322add/Object-Oriented-Programming-OOP",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 108000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "MapReduce",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/37f4b882/MapReduce",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 110316.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/d03c0ecf/Microsoft-Excel",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 72500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Spark",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/7e533295/Apache-Spark",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 103446.68
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scala",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/9f97a59c/Scala",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 101736.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Warehouse",
+                                "displayName": null,
+                                "url": "/research/US/Job=Data_Scientist%2C_IT/Salary/47d23646/Data-Warehouse",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 120000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 5132,
+                        "range": {
+                            "10": 67172.78,
+                            "25": 77778.91,
+                            "50": 92377.55,
+                            "75": 113301.24,
+                            "90": 134880.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 4908,
+                        "range": {
+                            "10": 48096.83,
+                            "25": 56039.95,
+                            "50": 66309.72,
+                            "75": 78207.58,
+                            "90": 90730.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 3226,
+                        "range": {
+                            "10": 71003.95,
+                            "25": 83083.22,
+                            "50": 99606.47,
+                            "75": 120003.08,
+                            "90": 138250.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 2452,
+                        "range": {
+                            "10": 55120.37,
+                            "25": 64738.58,
+                            "50": 77432.67,
+                            "75": 93351.69,
+                            "90": 113191
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 2422,
+                        "range": {
+                            "10": 93805.77,
+                            "25": 107735.19,
+                            "50": 125804.16,
+                            "75": 146021.76,
+                            "90": 165716.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 2244,
+                        "range": {
+                            "10": 50695.29,
+                            "25": 57929.65,
+                            "50": 66083.6,
+                            "75": 76077.65,
+                            "90": 87501.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1647,
+                        "range": {
+                            "10": 31040.13,
+                            "25": 36558.5,
+                            "50": 43364.86,
+                            "75": 51769.97,
+                            "90": 61120.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 1386,
+                        "range": {
+                            "10": 65979.51,
+                            "25": 76198.75,
+                            "50": 88657.53,
+                            "75": 102773.07,
+                            "90": 118394.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1283,
+                        "range": {
+                            "10": 84784.04,
+                            "25": 98488.44,
+                            "50": 116720.5,
+                            "75": 134827.49,
+                            "90": 155143.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1229,
+                        "range": {
+                            "10": 68866.69,
+                            "25": 77110.23,
+                            "50": 86622.85,
+                            "75": 97294.81,
+                            "90": 108981.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1194,
+                        "range": {
+                            "10": 43645.55,
+                            "25": 49608.14,
+                            "50": 55969.19,
+                            "75": 62933.64,
+                            "90": 70031.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 1193,
+                        "range": {
+                            "10": 67586.77,
+                            "25": 80078.05,
+                            "50": 95814.17,
+                            "75": 116974.27,
+                            "90": 135479.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 1005,
+                        "range": {
+                            "10": 54871.23,
+                            "25": 63329.25,
+                            "50": 73664.17,
+                            "75": 85862.91,
+                            "90": 100526.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 989,
+                        "range": {
+                            "10": 50108.33,
+                            "25": 57777.08,
+                            "50": 66898.18,
+                            "75": 77435.38,
+                            "90": 88410.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 986,
+                        "range": {
+                            "10": 44016.4,
+                            "25": 49160.09,
+                            "50": 56196.79,
+                            "75": 65750.89,
+                            "90": 75556.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 982,
+                        "range": {
+                            "10": 52767.32,
+                            "25": 64118.57,
+                            "50": 79026.82,
+                            "75": 97727.47,
+                            "90": 118974.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 969,
+                        "range": {
+                            "10": 67457.19,
+                            "25": 77169.49,
+                            "50": 89598.54,
+                            "75": 103880.85,
+                            "90": 121218.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 881,
+                        "range": {
+                            "10": 59879.41,
+                            "25": 67812.05,
+                            "50": 77579.73,
+                            "75": 90631.73,
+                            "90": 107805.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 875,
+                        "range": {
+                            "10": 53919.18,
+                            "25": 62962.48,
+                            "50": 73941.89,
+                            "75": 87557.39,
+                            "90": 103952.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 860,
+                        "range": {
+                            "10": 100218.59,
+                            "25": 115475.86,
+                            "50": 131564.18,
+                            "75": 149072.76,
+                            "90": 165279.38
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Data_Scientist%2C_IT/Salary",
+                    "occupationalCategory": "15-1010.00 - Computer and Information Scientists, Research",
+                    "skills": "Data Modeling, Data Mining, SAS, Microsoft SQL Server, Python, Apache Hadoop, Big Data Analytics, Automation Scripting, SQL, Statistical Analysis, Java, Machine Learning, Data Analysis, R, Object Oriented Programming (OOP), MapReduce, Microsoft Excel, Apache Spark, Scala, Data Warehouse",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-10-05T10:04:07.50632Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "57205.22",
+                            "percentile25": "65370.25",
+                            "median": "78610.81",
+                            "percentile75": "120552.5",
+                            "percentile90": "159641.2",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58804.19",
+                            "percentile25": "63993.16",
+                            "median": "78610.81",
+                            "percentile75": "130555.05",
+                            "percentile90": "154697.05",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "5077.16",
+                            "median": "10000",
+                            "percentile75": "15256.35",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 28,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "IT data scientists are responsible for mining complex data and providing systems-related advice for their organization. They design new ways to incorporate vast information with a focus on information technology topics. They work with teams of other IT professionals to manage statistical data and create different models based on the needs of their company. They possess advanced analytical skills, in addition to their exceptional oral and written communication abilities. They process research information for easier consumption and transform it into actionable plans. They also provide value to their businesses through their findings and thoughtful insights. \r\nIT data scientists follow specific, strict company and industry guidelines in their work. They observe data privacy rights to ensure client satisfaction and avoid legal issues. They create networks of professionals to consult, including internal partners and external colleagues. Most of the time data scientists work in teams using collaborative filtering, k-nearest neighbors, market basket analysis and matrix factorization methods. They deal with cutting edge technologies on a regular basis, and often have the best tools available at their disposal. One of their main work tools is usually an industrial computer with high processing power and proprietary software applications for research tasks. \r\nIT data scientists usually must possess previous work experience in a similar position. They should have advanced knowledge of different data mining techniques such as clustering, regression analysis, decision trees and support vector machines. An advanced degree (such as a PhD) in computer science is usually required for this kind of position, in addition to previous years of work experience in a related field.",
+                    "name": "Data Scientist, IT",
+                    "url": "/research/US/Job=Data_Scientist%2C_IT/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

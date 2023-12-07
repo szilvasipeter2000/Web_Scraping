@@ -1,0 +1,608 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Project Manager, Network Operations"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Project_Manager%2C_Network_Operations/Salary",
+                    "defaultUrl": "/research/US/Job=Project_Manager%2C_Network_Operations/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-07-11T13:16:21.09404Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Project Manager, Network Operations is $76,548 per year."
+                },
+                "tasks": [
+                    "Analyze data and forecast user demand to determine equipment required.",
+                    "Implement upgrade schedules to ensure facilities have required capacity and to react to unforeseen demand.",
+                    "Plan and schedule equipment acquisition and installation.",
+                    "Conduct studies of services, equipment capacity, data rates, and estimated costs."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "25": 4888.43,
+                        "50": 5086.82,
+                        "75": 9721.06,
+                        "profileCount": 8
+                    },
+                    "profitSharing": {
+                        "50": 750,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 44158.79,
+                        "25": 51394.69,
+                        "50": 76547.89,
+                        "75": 99447.45,
+                        "90": 122554.31,
+                        "profileCount": 16
+                    },
+                    "total": {
+                        "10": 45453.43,
+                        "25": 57504.5,
+                        "50": 82760,
+                        "75": 104843.11,
+                        "90": 121640.91,
+                        "profileCount": 17
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-07-11T13:16:21.09404Z",
+                        "profileCount": 17,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": {
+                                    "10": 45453.43,
+                                    "25": 57504.5,
+                                    "50": 82760,
+                                    "75": 104843.11,
+                                    "90": 121640.91
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-07-11T13:16:21.09404Z",
+                        "profileCount": 16,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 16,
+                                "range": {
+                                    "10": 44158.79,
+                                    "25": 51394.69,
+                                    "50": 76547.89,
+                                    "75": 99447.45,
+                                    "90": 122554.31
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-07-11T13:16:21.09404Z",
+                        "profileCount": 9,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-07-11T13:16:21.09404Z",
+                        "profileCount": 11,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Manager%2C_Network_Operations/Salary/40392c57/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 74496.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Manager%2C_Network_Operations/Salary/3d906b7b/Experienced",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 95383.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Manager%2C_Network_Operations/Salary/f9384575/Late-Career",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 109500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Project_Manager%2C_Network_Operations/Salary/4550b6a2/Microsoft-Office",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 84850
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2387,
+                        "range": {
+                            "10": 28675.67,
+                            "25": 32932.36,
+                            "50": 39348.75,
+                            "75": 46912.03,
+                            "90": 55460.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1238,
+                        "range": {
+                            "10": 33168.87,
+                            "25": 39531.89,
+                            "50": 47845.89,
+                            "75": 57221.11,
+                            "90": 68240.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1017,
+                        "range": {
+                            "10": 38425.92,
+                            "25": 45609.16,
+                            "50": 55103.85,
+                            "75": 66588.46,
+                            "90": 78362.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 898,
+                        "range": {
+                            "10": 53450.89,
+                            "25": 61105.08,
+                            "50": 70267.98,
+                            "75": 82288.6,
+                            "90": 98428.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 649,
+                        "range": {
+                            "10": 48364.22,
+                            "25": 58989.5,
+                            "50": 73763.21,
+                            "75": 91631.99,
+                            "90": 111573.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 622,
+                        "range": {
+                            "10": 51861.09,
+                            "25": 59562.6,
+                            "50": 68550.87,
+                            "75": 80778.46,
+                            "90": 97010.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 470,
+                        "range": {
+                            "10": 57875.56,
+                            "25": 65282.95,
+                            "50": 75183.76,
+                            "75": 90237.6,
+                            "90": 110396.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 445,
+                        "range": {
+                            "10": 50416.82,
+                            "25": 57433.02,
+                            "50": 65941.78,
+                            "75": 79931.62,
+                            "90": 98181.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 411,
+                        "range": {
+                            "10": 41325.35,
+                            "25": 50892.82,
+                            "50": 64699.01,
+                            "75": 82414.27,
+                            "90": 102720.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 348,
+                        "range": {
+                            "10": 28098.88,
+                            "25": 32381.81,
+                            "50": 38464.47,
+                            "75": 45440.89,
+                            "90": 53179.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Administrator",
+                        "url": "/research/US/Job=Office_Administrator/Hourly_Rate",
+                        "profileCount": 327,
+                        "range": {
+                            "10": 31258.23,
+                            "25": 37487.01,
+                            "50": 46093.19,
+                            "75": 58968.93,
+                            "90": 76656.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 314,
+                        "range": {
+                            "10": 24004.3,
+                            "25": 28927.46,
+                            "50": 33183.79,
+                            "75": 40084.92,
+                            "90": 47402.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 304,
+                        "range": {
+                            "10": 40783.81,
+                            "25": 47024.44,
+                            "50": 53934.11,
+                            "75": 61896.33,
+                            "90": 70666.43
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 302,
+                        "range": {
+                            "10": 42570.02,
+                            "25": 50187.74,
+                            "50": 60035.87,
+                            "75": 71438.34,
+                            "90": 84376.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 301,
+                        "range": {
+                            "10": 36648.43,
+                            "25": 41992.49,
+                            "50": 49687.77,
+                            "75": 59048.12,
+                            "90": 69718.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 301,
+                        "range": {
+                            "10": 53693.33,
+                            "25": 67954.45,
+                            "50": 87772.11,
+                            "75": 111220.6,
+                            "90": 132061.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Administrative Assistant",
+                        "url": "/research/US/Job=Sr._Administrative_Assistant/Salary",
+                        "profileCount": 290,
+                        "range": {
+                            "10": 37471.73,
+                            "25": 43068.84,
+                            "50": 50670.03,
+                            "75": 59396.56,
+                            "90": 68512.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 287,
+                        "range": {
+                            "10": 46779.18,
+                            "25": 55105.58,
+                            "50": 66901.58,
+                            "75": 80169.41,
+                            "90": 93893.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Assistant",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Assistant/Hourly_Rate",
+                        "profileCount": 283,
+                        "range": {
+                            "10": 30735.6,
+                            "25": 34990.19,
+                            "50": 40452.98,
+                            "75": 47105.69,
+                            "90": 54251.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Coordinator",
+                        "url": "/research/US/Job=Administrative_Coordinator/Hourly_Rate",
+                        "profileCount": 279,
+                        "range": {
+                            "10": 33099.84,
+                            "25": 38435.03,
+                            "50": 44860.21,
+                            "75": 53914.15,
+                            "90": 64682.88
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Project_Manager%2C_Network_Operations/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Microsoft Office",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-07-11T13:16:21.09404Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "45453.43",
+                            "percentile25": "57504.5",
+                            "median": "82760",
+                            "percentile75": "104843.11",
+                            "percentile90": "121640.91",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "44158.79",
+                            "percentile25": "51394.69",
+                            "median": "76547.89",
+                            "percentile75": "99447.45",
+                            "percentile90": "122554.31",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "4888.43",
+                            "median": "5086.82",
+                            "percentile75": "9721.06",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "750",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 17,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Project Manager, Network Operations",
+                    "url": "/research/US/Job=Project_Manager%2C_Network_Operations/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

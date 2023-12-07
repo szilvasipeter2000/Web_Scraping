@@ -1,0 +1,618 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Network Administrator, Data Center",
+                    "url": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary",
+                    "compensation": 64000,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Network Analyst",
+                            "url": "/research/US/Job=Network_Analyst/Salary",
+                            "percent": 1,
+                            "compensation": 59993.9625681469,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Network Engineer",
+                                    "url": "/research/US/Job=Network_Engineer/Salary",
+                                    "percent": 0.24,
+                                    "compensation": 73975.75710191249,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Sr. Network Engineer",
+                                    "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                                    "percent": 0.1,
+                                    "compensation": 100706.30073844077,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Information Security Analyst",
+                                    "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                                    "percent": 0.07,
+                                    "compensation": 72077.72803685124,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Network Administrator, Data Center"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary",
+                    "defaultUrl": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2018-04-04T22:57:26.99707Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Network Administrator, Data Center is $64,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "25": 48500,
+                        "50": 64000,
+                        "75": 70317.83,
+                        "profileCount": 7
+                    },
+                    "total": {
+                        "25": 48500,
+                        "50": 64000,
+                        "75": 70317.83,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2018-04-04T22:57:26.99707Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 48500,
+                                    "50": 64000,
+                                    "75": 70317.83
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2018-04-04T22:57:26.99707Z",
+                        "profileCount": 7,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 48500,
+                                    "50": 64000,
+                                    "75": 70317.83
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2018-04-04T22:57:26.99707Z",
+                        "profileCount": 3,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2018-04-04T22:57:26.99707Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary/8d9dcce1/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 64000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Las Vegas, Nevada",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary/d283f07e/Las-Vegas-NV",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 46468.31
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cisco Networking",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary/4e7233cb/Cisco-Networking",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 52300
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary/13c06c78/Network-Management-Administration",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 46468.31
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 2
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Network Engineer",
+                        "url": "/research/US/Job=Network_Engineer/Salary",
+                        "profileCount": 970,
+                        "range": {
+                            "10": 49415.27,
+                            "25": 59931.92,
+                            "50": 73015.37,
+                            "75": 88213.88,
+                            "90": 104646.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 788,
+                        "range": {
+                            "10": 53606.69,
+                            "25": 67838.75,
+                            "50": 87611.36,
+                            "75": 111052.6,
+                            "90": 131840.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator",
+                        "url": "/research/US/Job=Network_Administrator/Salary",
+                        "profileCount": 584,
+                        "range": {
+                            "10": 41116.74,
+                            "25": 49319.91,
+                            "50": 58828.03,
+                            "75": 69923.41,
+                            "90": 81518.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 511,
+                        "range": {
+                            "10": 44309,
+                            "25": 51580.17,
+                            "50": 61860.64,
+                            "75": 73819.43,
+                            "90": 87255.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Network Engineer",
+                        "url": "/research/US/Job=Sr._Network_Engineer/Salary",
+                        "profileCount": 376,
+                        "range": {
+                            "10": 72414.46,
+                            "25": 85585.77,
+                            "50": 99674.39,
+                            "75": 117923.56,
+                            "90": 135401.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 265,
+                        "range": {
+                            "10": 50182.67,
+                            "25": 60743.78,
+                            "50": 73638,
+                            "75": 89635.21,
+                            "90": 108206.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "System Administrator, Computer / Network",
+                        "url": "/research/US/Job=System_Administrator%2C_Computer_%2F_Network/Salary",
+                        "profileCount": 256,
+                        "range": {
+                            "10": 42420.3,
+                            "25": 50418.63,
+                            "50": 60624.48,
+                            "75": 72824.89,
+                            "90": 87195.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Technician",
+                        "url": "/research/US/Job=Network_Technician/Hourly_Rate",
+                        "profileCount": 237,
+                        "range": {
+                            "10": 32694.86,
+                            "25": 38876.97,
+                            "50": 46747.5,
+                            "75": 57424.19,
+                            "90": 71080.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 211,
+                        "range": {
+                            "10": 67797.32,
+                            "25": 89598.99,
+                            "50": 118723.18,
+                            "75": 147156.13,
+                            "90": 169944.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology Specialist",
+                        "url": "/research/US/Job=Information_Technology_Specialist/Salary",
+                        "profileCount": 126,
+                        "range": {
+                            "10": 36887.36,
+                            "25": 45333.96,
+                            "50": 56903.8,
+                            "75": 75828.21,
+                            "90": 98850.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Administrator, IT",
+                        "url": "/research/US/Job=Network_Administrator%2C_IT/Salary",
+                        "profileCount": 118,
+                        "range": {
+                            "10": 39727.27,
+                            "25": 47808.72,
+                            "50": 57374.8,
+                            "75": 69173.29,
+                            "90": 80972.9
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Administrator",
+                        "url": "/research/US/Job=Senior_Systems_Administrator/Salary",
+                        "profileCount": 103,
+                        "range": {
+                            "10": 61090.42,
+                            "25": 72048.07,
+                            "50": 84142.21,
+                            "75": 97752.65,
+                            "90": 112916.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Systems Engineer (Computer Networking / IT)",
+                        "url": "/research/US/Job=Senior_Systems_Engineer_(Computer_Networking_%2F_IT)/Salary",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 71272.52,
+                            "25": 84764.35,
+                            "50": 100817.73,
+                            "75": 120232.39,
+                            "90": 138563.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer, IT",
+                        "url": "/research/US/Job=Systems_Engineer%2C_IT/Salary",
+                        "profileCount": 76,
+                        "range": {
+                            "10": 51647.86,
+                            "25": 61926.24,
+                            "50": 75000.82,
+                            "75": 90792.18,
+                            "90": 108389.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Analyst",
+                        "url": "/research/US/Job=Network_Analyst/Salary",
+                        "profileCount": 69,
+                        "range": {
+                            "10": 43514.88,
+                            "25": 50203.22,
+                            "50": 59395.74,
+                            "75": 71302.13,
+                            "90": 86028.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Computer / Network Support Technician",
+                        "url": "/research/US/Job=Computer_%2F_Network_Support_Technician/Hourly_Rate",
+                        "profileCount": 64,
+                        "range": {
+                            "10": 32348.3,
+                            "25": 38791.22,
+                            "50": 46590,
+                            "75": 56410.59,
+                            "90": 66702.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Architect",
+                        "url": "/research/US/Job=Network_Architect/Salary",
+                        "profileCount": 61,
+                        "range": {
+                            "10": 79097.6,
+                            "25": 97209.27,
+                            "50": 120665.71,
+                            "75": 138878.37,
+                            "90": 155056.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Manager",
+                        "url": "/research/US/Job=Network_Manager/Salary",
+                        "profileCount": 56,
+                        "range": {
+                            "10": 56088.77,
+                            "25": 70132.67,
+                            "50": 86939.53,
+                            "75": 106973.68,
+                            "90": 127195.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Support Specialist",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Support_Specialist/Salary",
+                        "profileCount": 53,
+                        "range": {
+                            "10": 35022.55,
+                            "25": 40786.09,
+                            "50": 49416.97,
+                            "75": 59672.55,
+                            "90": 72302.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Support Technician, Information Technology (IT)",
+                        "url": "/research/US/Job=Support_Technician%2C_Information_Technology_(IT)/Hourly_Rate",
+                        "profileCount": 49,
+                        "range": {
+                            "10": 31838.98,
+                            "25": 37527.13,
+                            "50": 44523.48,
+                            "75": 54064.11,
+                            "90": 65090.49
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Cisco Networking, Network Management / Administration",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2018-04-04T22:57:26.99707Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "48500",
+                            "median": "64000",
+                            "percentile75": "70317.83",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "48500",
+                            "median": "64000",
+                            "percentile75": "70317.83",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Network Administrator, Data Center",
+                    "url": "/research/US/Job=Network_Administrator%2C_Data_Center/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,761 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Clinical Outcomes Manager",
+                    "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary",
+                    "compensation": 79732.75826499799,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Clinical Operations Manager",
+                            "url": "/research/US/Job=Clinical_Operations_Manager/Salary",
+                            "percent": 1,
+                            "compensation": 83004.7406348155,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Director of Operations",
+                                    "url": "/research/US/Job=Director_of_Operations/Salary",
+                                    "percent": 0.12,
+                                    "compensation": 91788.23970928165,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Clinical Program Manager",
+                                    "url": "/research/US/Job=Clinical_Program_Manager/Salary",
+                                    "percent": 0.08,
+                                    "compensation": 77637.48122804373,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Certified Ophthalmic Assistant (COA)",
+                                    "url": "/research/US/Job=Certified_Ophthalmic_Assistant_(COA)/Hourly_Rate",
+                                    "percent": 0.08,
+                                    "compensation": 40643.01680155165,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Clinical Outcomes Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Clinical_Outcomes_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-05-09T05:24:34.49326Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Clinical Outcomes Manager is $32.50 per hour.",
+                    "summarySalary": "The average pay for a Clinical Outcomes Manager is $83,560 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 3856.51,
+                        "profileCount": 2
+                    },
+                    "hourlyRate": {
+                        "25": 28.79,
+                        "50": 32.5,
+                        "75": 39.75,
+                        "profileCount": 6
+                    },
+                    "salary": {
+                        "10": 54838.57,
+                        "25": 68670.56,
+                        "50": 83560.23,
+                        "75": 95445.71,
+                        "90": 111650.37,
+                        "profileCount": 17
+                    },
+                    "total": {
+                        "10": 56197.99,
+                        "25": 61682.06,
+                        "50": 79652.46,
+                        "75": 94699.7,
+                        "90": 110087.31,
+                        "profileCount": 23
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-05-09T05:24:34.49326Z",
+                        "profileCount": 23,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": {
+                                    "10": 56197.99,
+                                    "25": 61682.06,
+                                    "50": 79652.46,
+                                    "75": 94699.7,
+                                    "90": 110087.31
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-05-09T05:24:34.49326Z",
+                        "profileCount": 6,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 28.79,
+                                    "50": 32.5,
+                                    "75": 39.75
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-05-09T05:24:34.49326Z",
+                        "profileCount": 17,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 17,
+                                "range": {
+                                    "10": 54838.57,
+                                    "25": 68670.56,
+                                    "50": 83560.23,
+                                    "75": 95445.71,
+                                    "90": 111650.37
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-05-09T05:24:34.49326Z",
+                        "profileCount": 10,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-05-09T05:24:34.49326Z",
+                        "profileCount": 14,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/79ae2914/Early-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 71000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/a7b52ecb/Mid-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 72149.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/e61bcf47/Experienced",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 76650
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/3643a482/Late-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 76250
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Atascadero, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Hourly_Rate/c2eb760d/Atascadero-CA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Detroit, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Hourly_Rate/7e8efff2/Detroit-MI",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/034aa108/Data-Analysis",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 71000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/4bafed89/Project-Management",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 72232.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Quality Improvement / QA",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/cb03033b/Quality-Improvement-QA",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 71000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Clinical Data Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/1b58c4ce/Clinical-Data-Management",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 96555.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "People Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/8e3f5dab/People-Management",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 78473
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Quality",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/0025ff83/Data-Quality",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 64250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Total Quality Management (TQM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary/6c2c1895/Total-Quality-Management-TQM",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 85497.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Survey Design",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Hourly_Rate/a7cd68b8/Survey-Design",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database Management & Reporting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Outcomes_Manager/Hourly_Rate/a7cd68b8/Database-Management-%26-Reporting",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 3.8
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3486,
+                        "range": {
+                            "10": 51601.88,
+                            "25": 62977.52,
+                            "50": 77794.8,
+                            "75": 96405.63,
+                            "90": 117801.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 2847,
+                        "range": {
+                            "10": 46218.16,
+                            "25": 56185.31,
+                            "50": 70225.04,
+                            "75": 87999.59,
+                            "90": 109760.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1963,
+                        "range": {
+                            "10": 47085.37,
+                            "25": 55151.23,
+                            "50": 65368.34,
+                            "75": 77118.09,
+                            "90": 89743.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1384,
+                        "range": {
+                            "10": 56112.22,
+                            "25": 63714.78,
+                            "50": 72815.69,
+                            "75": 85474.09,
+                            "90": 101665.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1078,
+                        "range": {
+                            "10": 59111.85,
+                            "25": 66693.92,
+                            "50": 76095.12,
+                            "75": 88634.51,
+                            "90": 104851.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1055,
+                        "range": {
+                            "10": 36775.99,
+                            "25": 43394.97,
+                            "50": 51903.17,
+                            "75": 62818.6,
+                            "90": 74699.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 1021,
+                        "range": {
+                            "10": 56143.5,
+                            "25": 73406.11,
+                            "50": 97868.48,
+                            "75": 129462.25,
+                            "90": 158188.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 903,
+                        "range": {
+                            "10": 57808.9,
+                            "25": 71440.91,
+                            "50": 90419.41,
+                            "75": 114013.34,
+                            "90": 135902.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 890,
+                        "range": {
+                            "10": 50127.54,
+                            "25": 56986.57,
+                            "50": 65001.74,
+                            "75": 74713.82,
+                            "90": 85868.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 867,
+                        "range": {
+                            "10": 66629.67,
+                            "25": 76308.7,
+                            "50": 88572,
+                            "75": 102636.43,
+                            "90": 119556.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 839,
+                        "range": {
+                            "10": 59211.35,
+                            "25": 72795.77,
+                            "50": 90537.31,
+                            "75": 111533.44,
+                            "90": 131580.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 690,
+                        "range": {
+                            "10": 45858.93,
+                            "25": 53477.3,
+                            "50": 62388.72,
+                            "75": 73795.34,
+                            "90": 88182.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 673,
+                        "range": {
+                            "10": 51238.14,
+                            "25": 62200.58,
+                            "50": 78386.4,
+                            "75": 97969.1,
+                            "90": 122685.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General / Operations Manager",
+                        "url": "/research/US/Job=General_%2F_Operations_Manager/Salary",
+                        "profileCount": 671,
+                        "range": {
+                            "10": 42268.27,
+                            "25": 53197.64,
+                            "50": 70269.44,
+                            "75": 93839,
+                            "90": 122308.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 665,
+                        "range": {
+                            "10": 48362.96,
+                            "25": 55203.25,
+                            "50": 64065.75,
+                            "75": 72932.42,
+                            "90": 82084.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 654,
+                        "range": {
+                            "10": 60603.02,
+                            "25": 68463.24,
+                            "50": 77975.3,
+                            "75": 90728.71,
+                            "90": 107606.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "General Manager, Restaurant",
+                        "url": "/research/US/Job=General_Manager%2C_Restaurant/Salary",
+                        "profileCount": 633,
+                        "range": {
+                            "10": 37783.12,
+                            "25": 44304.27,
+                            "50": 53025.51,
+                            "75": 62795.1,
+                            "90": 73461.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 619,
+                        "range": {
+                            "10": 53015.86,
+                            "25": 61735.23,
+                            "50": 72583.82,
+                            "75": 85901.36,
+                            "90": 101874.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Restaurant Manager",
+                        "url": "/research/US/Job=Restaurant_Manager/Salary",
+                        "profileCount": 558,
+                        "range": {
+                            "10": 35652.84,
+                            "25": 42018.28,
+                            "50": 49953.2,
+                            "75": 56982.31,
+                            "90": 63411.62
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 557,
+                        "range": {
+                            "10": 39817.9,
+                            "25": 45440.74,
+                            "50": 53458.33,
+                            "75": 62999.97,
+                            "90": 73495.16
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Clinical_Outcomes_Manager/Salary",
+                    "occupationalCategory": "15-2040.00 - Statisticians",
+                    "skills": "Data Analysis, Project Management, Quality Improvement / QA, Clinical Data Management, People Management, Data Quality, Total Quality Management (TQM), Survey Design, Database Management & Reporting",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-05-09T05:24:34.49326Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "56197.99",
+                            "percentile25": "61682.06",
+                            "median": "79652.46",
+                            "percentile75": "94699.7",
+                            "percentile90": "110087.31",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "54838.57",
+                            "percentile25": "68670.56",
+                            "median": "83560.23",
+                            "percentile75": "95445.71",
+                            "percentile90": "111650.37",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 30,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Clinical Outcomes Manager",
+                    "url": "/research/US/Job=Clinical_Outcomes_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

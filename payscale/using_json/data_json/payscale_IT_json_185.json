@@ -1,0 +1,529 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Database Design Administrator"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Database_Design_Administrator/Salary",
+                    "defaultUrl": "/research/US/Job=Database_Design_Administrator/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2017-11-17T14:52:33.81837Z",
+                "narratives": {
+                    "description": "A database design administrator is typically a key employee in an organization's information technology department. He or she has the responsibilities of designing or materially modifying the way the company handles, stores, and accesses data. \r\nThe database design administrator's tasks can include assessing hardware needs and upgrades, implementing database storage and access software, and setting up security and access protocols for the company. One of the first things a database design administrator will do is to assess the hardware infrastructure and assess needs of the company. He or she must determine a long-term plan for the amount of data and bandwidth requirements for the organization and make any upgrades as necessary. The design administrator works to create and continually modify the front end for user access. Part of the administration process of the job revolves around the constant changes that can occur with company data assets. They typically need constant reorganization and categorization. These administrators frequently create ongoing maintenance hurdles and new challenges to integrate into an accessible and workable asset.\r\nMost companies will not consider an employee for this position without a degree in database administration or some other related IT discipline from a four-year college. Most persons in this field also will need practical experience in the database management field at some lower level of responsibility. A database design administrator typically works regular business hours in a tech office environment.",
+                    "summarySalary": "The average pay for a Database Design Administrator is $80,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "salary": {
+                        "25": 50000,
+                        "50": 80000,
+                        "75": 100000,
+                        "profileCount": 7
+                    },
+                    "total": {
+                        "25": 50868.24,
+                        "50": 77419.35,
+                        "75": 98263.52,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2017-11-17T14:52:33.81837Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 50868.24,
+                                    "50": 77419.35,
+                                    "75": 98263.52
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2017-11-17T14:52:33.81837Z",
+                        "profileCount": 7,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 50000,
+                                    "50": 80000,
+                                    "75": 100000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2017-11-17T14:52:33.81837Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2017-11-17T14:52:33.81837Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Design_Administrator/Salary/6d85e215/Early-Career",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Design_Administrator/Salary/e3b0676e/Experienced",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Database_Design_Administrator/Salary/a8479e0b/SQL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1143,
+                        "range": {
+                            "10": 60744.21,
+                            "25": 70922.87,
+                            "50": 84936.72,
+                            "75": 105351.42,
+                            "90": 125421.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 735,
+                        "range": {
+                            "10": 49935.67,
+                            "25": 59471.89,
+                            "50": 70974.05,
+                            "75": 86495.35,
+                            "90": 103644.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 620,
+                        "range": {
+                            "10": 42570.02,
+                            "25": 50187.74,
+                            "50": 60035.87,
+                            "75": 71438.34,
+                            "90": 84376.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 528,
+                        "range": {
+                            "10": 84214.07,
+                            "25": 97805.5,
+                            "50": 115542.71,
+                            "75": 135011.34,
+                            "90": 154038.98
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 388,
+                        "range": {
+                            "10": 75302.75,
+                            "25": 88472.58,
+                            "50": 103307.43,
+                            "75": 122135.3,
+                            "90": 140716.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 214,
+                        "range": {
+                            "10": 49658.8,
+                            "25": 57713.36,
+                            "50": 67921.26,
+                            "75": 80481.09,
+                            "90": 94292.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 202,
+                        "range": {
+                            "10": 49667.99,
+                            "25": 58274.83,
+                            "50": 68719.34,
+                            "75": 81444.72,
+                            "90": 96995.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Programmer Analyst",
+                        "url": "/research/US/Job=Programmer_Analyst/Salary",
+                        "profileCount": 201,
+                        "range": {
+                            "10": 48373.13,
+                            "25": 55767.89,
+                            "50": 66368,
+                            "75": 78214.93,
+                            "90": 94037.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 195,
+                        "range": {
+                            "10": 60003.94,
+                            "25": 69111.72,
+                            "50": 80130.44,
+                            "75": 92542.1,
+                            "90": 107135.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Developer",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Developer/Salary",
+                        "profileCount": 173,
+                        "range": {
+                            "10": 55988.29,
+                            "25": 66312.56,
+                            "50": 79615.52,
+                            "75": 94777.54,
+                            "90": 109658.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 170,
+                        "range": {
+                            "10": 50484.56,
+                            "25": 58587.39,
+                            "50": 69237.81,
+                            "75": 82447.31,
+                            "90": 97546.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Application Developer",
+                        "url": "/research/US/Job=Application_Developer/Salary",
+                        "profileCount": 169,
+                        "range": {
+                            "10": 49498.59,
+                            "25": 57979.76,
+                            "50": 69132.94,
+                            "75": 83863.43,
+                            "90": 99719.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 163,
+                        "range": {
+                            "10": 52100.46,
+                            "25": 63809.13,
+                            "50": 77360.22,
+                            "75": 94253.61,
+                            "90": 114879.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 160,
+                        "range": {
+                            "10": 65685.38,
+                            "25": 79166.79,
+                            "50": 96003.82,
+                            "75": 115702.43,
+                            "90": 133896.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 146,
+                        "range": {
+                            "10": 62769.75,
+                            "25": 72214.76,
+                            "50": 84568.51,
+                            "75": 98083.69,
+                            "90": 114016.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 137,
+                        "range": {
+                            "10": 64394.93,
+                            "25": 76699.2,
+                            "50": 91717.28,
+                            "75": 112363.84,
+                            "90": 131667.3
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Consultant",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Consultant/Salary",
+                        "profileCount": 130,
+                        "range": {
+                            "10": 49799.34,
+                            "25": 61949.81,
+                            "50": 78724.01,
+                            "75": 99650.43,
+                            "90": 121072.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Database Administrator (DBA)",
+                        "url": "/research/US/Job=Database_Administrator_(DBA)/Salary",
+                        "profileCount": 127,
+                        "range": {
+                            "10": 45976.4,
+                            "25": 57572.15,
+                            "50": 73106.3,
+                            "75": 92478.19,
+                            "90": 109944.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Analyst",
+                        "url": "/research/US/Job=Systems_Analyst/Salary",
+                        "profileCount": 126,
+                        "range": {
+                            "10": 46300.44,
+                            "25": 54661.53,
+                            "50": 65443.26,
+                            "75": 78987.39,
+                            "90": 93958.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 115,
+                        "range": {
+                            "10": 39806.01,
+                            "25": 48479.46,
+                            "50": 59279.94,
+                            "75": 71799.23,
+                            "90": 86552.54
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Database_Design_Administrator/Salary",
+                    "occupationalCategory": "15-1060.00 - Database Administrators",
+                    "skills": "SQL",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2017-11-17T14:52:33.81837Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "50868.24",
+                            "median": "77419.35",
+                            "percentile75": "98263.52",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "50000",
+                            "median": "80000",
+                            "percentile75": "100000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "A database design administrator is typically a key employee in an organization's information technology department. He or she has the responsibilities of designing or materially modifying the way the company handles, stores, and accesses data. \r\nThe database design administrator's tasks can include assessing hardware needs and upgrades, implementing database storage and access software, and setting up security and access protocols for the company. One of the first things a database design administrator will do is to assess the hardware infrastructure and assess needs of the company. He or she must determine a long-term plan for the amount of data and bandwidth requirements for the organization and make any upgrades as necessary. The design administrator works to create and continually modify the front end for user access. Part of the administration process of the job revolves around the constant changes that can occur with company data assets. They typically need constant reorganization and categorization. These administrators frequently create ongoing maintenance hurdles and new challenges to integrate into an accessible and workable asset.\r\nMost companies will not consider an employee for this position without a degree in database administration or some other related IT discipline from a four-year college. Most persons in this field also will need practical experience in the database management field at some lower level of responsibility. A database design administrator typically works regular business hours in a tech office environment.",
+                    "name": "Database Design Administrator",
+                    "url": "/research/US/Job=Database_Design_Administrator/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

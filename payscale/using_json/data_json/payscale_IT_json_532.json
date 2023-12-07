@@ -1,0 +1,1818 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 14,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Senior Data Engineer",
+                    "url": "/research/US/Job=Senior_Data_Engineer/Salary",
+                    "compensation": 124168.8882977295,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Data Engineering Manager",
+                            "url": "/research/US/Job=Data_Engineering_Manager/Salary",
+                            "percent": 1,
+                            "compensation": 131734.78120827785,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 0
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Data Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Data_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Data_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-20T14:58:15.61313Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Senior Data Engineer is $69.75 per hour.",
+                    "summarySalary": "The average pay for a Senior Data Engineer is $128,226 per year."
+                },
+                "tasks": [
+                    "Design data models to meet critical product and business requirements.",
+                    "Contribute to shared data engineering tooling & standards",
+                    "Diagnose and solve issues in existing pipelines.",
+                    "Develop and automate data pipelines that are scalable and easily maintained."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 4806.28,
+                        "25": 7005.65,
+                        "50": 10911.74,
+                        "75": 15714.16,
+                        "90": 22777.79,
+                        "profileCount": 572
+                    },
+                    "hourlyRate": {
+                        "10": 47.67,
+                        "25": 62.98,
+                        "50": 69.75,
+                        "75": 76.74,
+                        "90": 83.08,
+                        "profileCount": 24
+                    },
+                    "profitSharing": {
+                        "10": 1362.27,
+                        "25": 4860.53,
+                        "50": 7719.78,
+                        "75": 11098.77,
+                        "90": 19103.17,
+                        "profileCount": 76
+                    },
+                    "salary": {
+                        "10": 99494.1,
+                        "25": 113086.71,
+                        "50": 128226.46,
+                        "75": 145243.84,
+                        "90": 160967.64,
+                        "profileCount": 1163
+                    },
+                    "total": {
+                        "10": 102618.71,
+                        "25": 118402.77,
+                        "50": 134644.97,
+                        "75": 154155.05,
+                        "90": 171966.75,
+                        "profileCount": 1187
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-20T14:58:15.61313Z",
+                        "profileCount": 1187,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1187,
+                                "range": {
+                                    "10": 102618.71,
+                                    "25": 118402.77,
+                                    "50": 134644.97,
+                                    "75": 154155.05,
+                                    "90": 171966.75
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-11-20T14:58:15.61313Z",
+                        "profileCount": 24,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": {
+                                    "10": 47.67,
+                                    "25": 62.98,
+                                    "50": 69.75,
+                                    "75": 76.74,
+                                    "90": 83.08
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-20T14:58:15.61313Z",
+                        "profileCount": 1163,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1163,
+                                "range": {
+                                    "10": 99494.1,
+                                    "25": 113086.71,
+                                    "50": 128226.46,
+                                    "75": 145243.84,
+                                    "90": 160967.64
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-20T14:58:15.61313Z",
+                        "profileCount": 448,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 357,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 86,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-20T14:58:15.61313Z",
+                        "profileCount": 647,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 588,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 560,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 526,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 54,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Capital One Financial Corp",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/7da94bfc/Capital-One-Financial-Corp",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 123216.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Walmart.com",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/3a0ffa29/Walmart.com",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 100674.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "The Hartford Financial Services Group, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/0f26c394/The-Hartford-Financial-Services-Group-Inc.",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 116450.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SemanticBits",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/30ee35b6/SemanticBits",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 122448.98
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Booz, Allen, and Hamilton",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/160913b9/Booz-Allen-and-Hamilton",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 115778
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Relias Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/8da00c1f/Relias-Learning",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 110000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Slalom Consulting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/89c6a1f0/Slalom-Consulting",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 117277.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Centene Corporation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/d85b90e8/Centene-Corporation",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 119749.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "General Electric (GE) Aviation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/57979aab/General-Electric-GE-Aviation",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 96482.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "General Electric Co (GE)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/c3d30173/General-Electric-Co-GE",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 107500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kaiser Permanente",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/7dc81e81/Kaiser-Permanente",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 125000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Memorial Sloan Kettering Cancer Center",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/f817bb35/Memorial-Sloan-Kettering-Cancer-Center",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 169672.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nike, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/5da8c3b1/Nike-Inc.",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 125777.3
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon.com Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/7550465b/Amazon.com-Inc",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 142972.25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salesforce.com, Inc.",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/3cbbf83f/Salesforce.com-Inc.",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 145215.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "General Electric (GE) Healthcare",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/899ae852/General-Electric-GE-Healthcare",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/1dc684f4/Entry-Level",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 114000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/1dc684f4/Early-Career",
+                                "profileCount": 308,
+                                "range": {
+                                    "50": 121863.64
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/b69a3726/Mid-Career",
+                                "profileCount": 685,
+                                "range": {
+                                    "50": 130791.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/1cd2e4bb/Experienced",
+                                "profileCount": 471,
+                                "range": {
+                                    "50": 133198.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/f63b0615/Late-Career",
+                                "profileCount": 117,
+                                "range": {
+                                    "50": 127614.14
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/ae036802/San-Francisco-CA",
+                                "profileCount": 104,
+                                "range": {
+                                    "50": 149749.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/b2563c2c/New-York-NY",
+                                "profileCount": 97,
+                                "range": {
+                                    "50": 143798.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/58ae9914/Austin-TX",
+                                "profileCount": 82,
+                                "range": {
+                                    "50": 125077.12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/be0222f4/Chicago-IL",
+                                "profileCount": 64,
+                                "range": {
+                                    "50": 123456.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/fb9c56aa/Seattle-WA",
+                                "profileCount": 55,
+                                "range": {
+                                    "50": 136837.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/c2f088c2/Dallas-TX",
+                                "profileCount": 44,
+                                "range": {
+                                    "50": 122047.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/22632825/Boston-MA",
+                                "profileCount": 39,
+                                "range": {
+                                    "50": 126939.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cincinnati, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/b9b1ba39/Cincinnati-OH",
+                                "profileCount": 38,
+                                "range": {
+                                    "50": 103573.26
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/09c811c7/Atlanta-GA",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 125973.16
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/abe10362/Los-Angeles-CA",
+                                "profileCount": 34,
+                                "range": {
+                                    "50": 137647.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Jose, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/a2728840/San-Jose-CA",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 153121.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/9c401db7/Denver-CO",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 115822.33
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/ec1fbc95/Charlotte-NC",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 123094.57
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/b53e7548/Raleigh-NC",
+                                "profileCount": 26,
+                                "range": {
+                                    "50": 100290.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Salt Lake City, Utah",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/78b8e3dd/Salt-Lake-City-UT",
+                                "profileCount": 24,
+                                "range": {
+                                    "50": 111535.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/f10635ad/Minneapolis-MN",
+                                "profileCount": 23,
+                                "range": {
+                                    "50": 100121.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/6faaccb9/Washington-DC",
+                                "profileCount": 22,
+                                "range": {
+                                    "50": 125053.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/a7e582c1/San-Diego-CA",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 132285.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/e33632ce/Phoenix-AZ",
+                                "profileCount": 19,
+                                "range": {
+                                    "50": 119743.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bentonville, Arkansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/d9c3e365/Bentonville-AR",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 87776.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Hartford, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/337aaeb0/Hartford-CT",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 115085.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Wilmington, Delaware",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/616b15c0/Wilmington-DE",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 110990.99
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tampa, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/c2ad0afb/Tampa-FL",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 107540.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/2c512464/Portland-OR",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 134322.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/0dd0cc0e/Philadelphia-PA",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 134694.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irvine, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/fb56c076/Irvine-CA",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 154077.52
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Plano, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/af92ff92/Plano-TX",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 110056.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cambridge, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/3a0400e3/Cambridge-MA",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 138811.13
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cedar Rapids, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/0ce52bce/Cedar-Rapids-IA",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 87006.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Sunnyvale, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/9b649090/Sunnyvale-CA",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 134900
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Richmond, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/c5e32e74/Richmond-VA",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 114769.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Arlington, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/97289d06/Arlington-VA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 121758.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Mountain View, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/050be295/Mountain-View-CA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 163283.2
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Nashville, Tennessee",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/fa302264/Nashville-TN",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 109926.79
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Alexandria, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/35d8af7a/Alexandria-VA",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 147684.23
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Beaverton, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/55a1446f/Beaverton-OR",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 132525
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Irving, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/42395621/Irving-TX",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 119830.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "McLean, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/59400316/McLean-VA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 125644.14
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baltimore, Maryland",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/c4cbe587/Baltimore-MD",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 127346.94
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Mateo, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/5a90e915/San-Mateo-CA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 152671.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boise, Idaho",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/654955cf/Boise-ID",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 114564.27
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scottsdale, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/3ab6e473/Scottsdale-AZ",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 132500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Des Moines, Iowa",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/54fb6da0/Des-Moines-IA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 115491.47
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Omaha, Nebraska",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/ea984b1b/Omaha-NE",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 112444.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Durham, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/1c0fb1e0/Durham-NC",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 133111.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Burlington, Vermont",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/e12048b0/Burlington-VT",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 136372.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Reston, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/73952565/Reston-VA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 121528.12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Bellevue, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/54d884e8/Bellevue-WA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 147457.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Herndon, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/8ea28bda/Herndon-VA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 125126.15
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fairfax, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/41184c78/Fairfax-VA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 118643.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Fort Worth, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/db268377/Fort-Worth-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 105210.39
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Frisco, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/e2b8dbdc/Frisco-TX",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 126892.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cleveland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/672b3523/Cleveland-OH",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 88474.58
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Columbus, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/de37ba4d/Columbus-OH",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 126000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Las Vegas, Nevada",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/c3c4a91f/Las-Vegas-NV",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 127500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Saint Paul, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/fca15825/Saint-Paul-MN",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 101000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/86a9b531/St-Louis-MO",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 114782.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Orlando, Florida",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/3175c682/Orlando-FL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Ramon, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/ff43c461/San-Ramon-CA",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 132257.43
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "ETL (Extract, transform, load)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/01fe6bca/ETL-Extract-transform-load",
+                                "profileCount": 813,
+                                "range": {
+                                    "50": 127727.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Python",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/80373c2b/Python",
+                                "profileCount": 790,
+                                "range": {
+                                    "50": 130822.37
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/f912338e/SQL",
+                                "profileCount": 681,
+                                "range": {
+                                    "50": 125869.19
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Spark",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/e274cc25/Apache-Spark",
+                                "profileCount": 402,
+                                "range": {
+                                    "50": 134429.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Amazon Web Services (AWS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/247e2ec3/Amazon-Web-Services-AWS",
+                                "profileCount": 386,
+                                "range": {
+                                    "50": 133218.6
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Warehouse",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/2fede340/Data-Warehouse",
+                                "profileCount": 217,
+                                "range": {
+                                    "50": 124260.9
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Big Data Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/dbaf726a/Big-Data-Analytics",
+                                "profileCount": 207,
+                                "range": {
+                                    "50": 131490.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Azure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/c37287d7/Microsoft-Azure",
+                                "profileCount": 54,
+                                "range": {
+                                    "50": 119101.61
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Intelligence",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/96c43bb2/Business-Intelligence",
+                                "profileCount": 36,
+                                "range": {
+                                    "50": 122313.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Modeling",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/dfc49c3b/Data-Modeling",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 122202.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Hadoop",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/a5b22b95/Apache-Hadoop",
+                                "profileCount": 34,
+                                "range": {
+                                    "50": 120717.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Kafka",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/e1e8d590/Apache-Kafka",
+                                "profileCount": 34,
+                                "range": {
+                                    "50": 134999.56
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/d92720a6/Microsoft-SQL-Server",
+                                "profileCount": 34,
+                                "range": {
+                                    "50": 113408.65
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Architecture",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/47646d60/Software-Architecture",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Java",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/1ffd2de8/Java",
+                                "profileCount": 32,
+                                "range": {
+                                    "50": 139250.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/632d537b/Data-Analysis",
+                                "profileCount": 25,
+                                "range": {
+                                    "50": 118924.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Scala",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/4381815f/Scala",
+                                "profileCount": 21,
+                                "range": {
+                                    "50": 121758.55
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Snowflake Cloud Data Platform",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/8cce56bc/Snowflake-Cloud-Data-Platform",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 125518.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Machine Learning",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/3d30e08a/Machine-Learning",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 146485.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Google Cloud Platform (GCP)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/9ea6b347/Google-Cloud-Platform-GCP",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 130988.74
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/b56ea99d/Software-Development",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 129532.17
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Development Operations (DevOps)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/5b510919/Development-Operations-DevOps",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 99750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cloud Computing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/3b7cf944/Cloud-Computing",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 118354.4
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "R",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/6d83b2d9/R",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 100500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Apache Airflow",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/36ddcadd/Apache-Airflow",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 142500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Processing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/a1f01016/Data-Processing",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 128991.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Transact-SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/b571ef73/Transact-SQL",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 124700
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL Server Integration Services (SSIS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/032e27dd/SQL-Server-Integration-Services-SSIS",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 96840.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Power BI",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/9ffcb9d3/Microsoft-Power-BI",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 124800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "AWS Data Pipeline",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/86bcfbdb/AWS-Data-Pipeline",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 125532.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Mining",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/506ad1c2/Data-Mining",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 126000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Image Processing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/989582c7/Image-Processing",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 130000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Informatica",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/c9a928bd/Informatica",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 133000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Tableau Software",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/84bc02de/Tableau-Software",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kubernetes",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/39f82940/Kubernetes",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 170000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Teradata",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/b884fc0b/Teradata",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 100298.51
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Oracle",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/62e47c7a/Oracle",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 137500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "HDFS (Hadoop Distributed File System)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/4b95d7f9/HDFS-Hadoop-Distributed-File-System",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 152459.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Database",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Data_Engineer/Salary/94dcbcf9/Database",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 127500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 119,
+                        "score": 3.98
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 6083,
+                        "range": {
+                            "10": 67327.69,
+                            "25": 77943.69,
+                            "50": 92564.86,
+                            "75": 113541.99,
+                            "90": 135083.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 3950,
+                        "range": {
+                            "10": 48209.48,
+                            "25": 56178.53,
+                            "50": 66443.69,
+                            "75": 78354.76,
+                            "90": 90919.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 3071,
+                        "range": {
+                            "10": 94153.82,
+                            "25": 108099.27,
+                            "50": 126162.85,
+                            "75": 146318.78,
+                            "90": 166038.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "url": "/research/US/Job=Data_Scientist/Salary",
+                        "profileCount": 2983,
+                        "range": {
+                            "10": 70870.34,
+                            "25": 82996.81,
+                            "50": 99709.74,
+                            "75": 120083.96,
+                            "90": 138415.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 2717,
+                        "range": {
+                            "10": 55284.18,
+                            "25": 64954.96,
+                            "50": 77682.84,
+                            "75": 93645.51,
+                            "90": 113542.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 1705,
+                        "range": {
+                            "10": 67633.63,
+                            "25": 80061.15,
+                            "50": 95980.52,
+                            "75": 117099.33,
+                            "90": 135528.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 1574,
+                        "range": {
+                            "10": 85248.69,
+                            "25": 98935.26,
+                            "50": 117220.38,
+                            "75": 135365.32,
+                            "90": 155773.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Analyst",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Analyst/Salary",
+                        "profileCount": 1469,
+                        "range": {
+                            "10": 54922.14,
+                            "25": 63374.83,
+                            "50": 73704.6,
+                            "75": 85976.33,
+                            "90": 100795.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Intelligence (BI) Developer",
+                        "url": "/research/US/Job=Business_Intelligence_(BI)_Developer/Salary",
+                        "profileCount": 1304,
+                        "range": {
+                            "10": 61422.02,
+                            "25": 73128.28,
+                            "50": 86189.55,
+                            "75": 101299.15,
+                            "90": 118619.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 1288,
+                        "range": {
+                            "10": 66163.21,
+                            "25": 76484.33,
+                            "50": 88951.28,
+                            "75": 103008.28,
+                            "90": 118654.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1130,
+                        "range": {
+                            "10": 50780.14,
+                            "25": 58057.52,
+                            "50": 66221.98,
+                            "75": 76208.98,
+                            "90": 87684.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 1056,
+                        "range": {
+                            "10": 113400.31,
+                            "25": 129769.08,
+                            "50": 148336.79,
+                            "75": 168493.23,
+                            "90": 189777.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 1023,
+                        "range": {
+                            "10": 90387.73,
+                            "25": 107180.16,
+                            "50": 127481.75,
+                            "75": 146671.81,
+                            "90": 166256.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 883,
+                        "range": {
+                            "10": 67584.8,
+                            "25": 77307.69,
+                            "50": 89818.74,
+                            "75": 104121.12,
+                            "90": 121316.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 829,
+                        "range": {
+                            "10": 70821.08,
+                            "25": 85453.09,
+                            "50": 104528.67,
+                            "75": 128958.2,
+                            "90": 150180.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Scientist",
+                        "url": "/research/US/Job=Senior_Data_Scientist/Salary",
+                        "profileCount": 749,
+                        "range": {
+                            "10": 100317.75,
+                            "25": 115548.53,
+                            "50": 131561.53,
+                            "75": 149132.37,
+                            "90": 165416.58
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 741,
+                        "range": {
+                            "10": 50185.37,
+                            "25": 57958.31,
+                            "50": 67003.97,
+                            "75": 77502.82,
+                            "90": 88500.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 719,
+                        "range": {
+                            "10": 59107.77,
+                            "25": 70018.36,
+                            "50": 83772.65,
+                            "75": 102845.06,
+                            "90": 123555.39
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Analytics Manager",
+                        "url": "/research/US/Job=Analytics_Manager/Salary",
+                        "profileCount": 674,
+                        "range": {
+                            "10": 73812.03,
+                            "25": 88177.69,
+                            "50": 104660.35,
+                            "75": 121262.51,
+                            "90": 136277.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 668,
+                        "range": {
+                            "10": 53866.82,
+                            "25": 63010.03,
+                            "50": 74057.67,
+                            "75": 87724.99,
+                            "90": 104399.37
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Data_Engineer/Salary",
+                    "occupationalCategory": "15-1010.00 - Computer and Information Scientists, Research",
+                    "skills": "ETL (Extract, transform, load), Python, SQL, Apache Spark, Amazon Web Services (AWS), Data Warehouse, Big Data Analytics, Microsoft Azure, Business Intelligence, Data Modeling, Apache Hadoop, Apache Kafka, Microsoft SQL Server, Software Architecture, Java, Data Analysis, Scala, Snowflake Cloud Data Platform, Machine Learning, Google Cloud Platform (GCP), Software Development, Development Operations (DevOps), Cloud Computing, R, Apache Airflow, Data Processing, Transact-SQL, SQL Server Integration Services (SSIS), Microsoft Power BI, AWS Data Pipeline, Data Mining, Image Processing, Informatica, Tableau Software, Kubernetes, Teradata, Oracle, HDFS (Hadoop Distributed File System), Database",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-20T14:58:15.61313Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "102618.71",
+                            "percentile25": "118402.77",
+                            "median": "134644.97",
+                            "percentile75": "154155.05",
+                            "percentile90": "171966.75",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "99494.1",
+                            "percentile25": "113086.71",
+                            "median": "128226.46",
+                            "percentile75": "145243.84",
+                            "percentile90": "160967.64",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "4806.28",
+                            "percentile25": "7005.65",
+                            "median": "10911.74",
+                            "percentile75": "15714.16",
+                            "percentile90": "22777.79",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 1585,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Data Engineer",
+                    "url": "/research/US/Job=Senior_Data_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

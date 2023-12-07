@@ -1,0 +1,785 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 4,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Product Support Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Product_Support_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Product_Support_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-09-26T15:41:34.9102Z",
+                "narratives": {
+                    "description": "Because of the complex nature of the hardware and software they design, many tech companies will utilize the services of one or more product support analysts. This employee's job can be complex. They're usually expected to work with customers to assist them in a technical support role with the products they've purchased from the company. However, as an analyst, this person also compiles data revolving around the specific areas in the company's products that seem to require the most support. The analyst will draw conclusions from this data, which product designers and engineers will use when creating new versions of the product.\r\nOne of the main goals of product support analyst is to improve the products his or her employers make. Thus, he or she gathers customer data on issues that need support. He or she may comb through hundreds of support tickets, examining and logging issues. This analyst will also be looking for data trends that point to needed improvements in new versions of software or future new products within the line. The analyst will create a detailed report on his or her findings. Then the companies design, development, and engineering teams will be expected to directly address the issues raised by the analyst going forward.\r\nMost product support analysts will have a strong background in tech education, either with a bachelor's or associate's degree in computer engineering or a related discipline. Most companies prefer candidates for this position who have practical experience in analytical elements of tech support. A product support analyst typically works regular business hours during the week in an office environment.",
+                    "summaryHourly": "The average pay for a Product Support Analyst is $26.62 per hour.",
+                    "summarySalary": "The average pay for a Product Support Analyst is $58,032 per year."
+                },
+                "tasks": [
+                    "Troubleshoot, diagnose and repair product and service concerns.",
+                    "Contribute to and use knowledge base.",
+                    "Communicate ongoing problems and fixes internally and with customers.",
+                    "Report on product and service problems.",
+                    "Guide customers on product features, product selection and configuration and implementation."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "10": 1021.29,
+                        "25": 1557.72,
+                        "50": 3077.87,
+                        "75": 4023.09,
+                        "90": 7340.36,
+                        "profileCount": 12
+                    },
+                    "hourlyRate": {
+                        "10": 18.55,
+                        "25": 22.01,
+                        "50": 26.62,
+                        "75": 28.74,
+                        "90": 31.51,
+                        "profileCount": 13
+                    },
+                    "profitSharing": {
+                        "50": 1800,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 43615.95,
+                        "25": 48556.46,
+                        "50": 58032.39,
+                        "75": 66098.04,
+                        "90": 78389.39,
+                        "profileCount": 50
+                    },
+                    "total": {
+                        "10": 43942.3,
+                        "25": 48272.34,
+                        "50": 57879.52,
+                        "75": 65215.81,
+                        "90": 76347.43,
+                        "profileCount": 63
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-09-26T15:41:34.9102Z",
+                        "profileCount": 63,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 63,
+                                "range": {
+                                    "10": 43942.3,
+                                    "25": 48272.34,
+                                    "50": 57879.52,
+                                    "75": 65215.81,
+                                    "90": 76347.43
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-09-26T15:41:34.9102Z",
+                        "profileCount": 13,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 18.55,
+                                    "25": 22.01,
+                                    "50": 26.62,
+                                    "75": 28.74,
+                                    "90": 31.51
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-09-26T15:41:34.9102Z",
+                        "profileCount": 50,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 50,
+                                "range": {
+                                    "10": 43615.95,
+                                    "25": 48556.46,
+                                    "50": 58032.39,
+                                    "75": 66098.04,
+                                    "90": 78389.39
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-09-26T15:41:34.9102Z",
+                        "profileCount": 30,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-09-26T15:41:34.9102Z",
+                        "profileCount": 43,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 39,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 36,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 35,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Infor Global Solutions",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/8e82d3cc/Infor-Global-Solutions",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 44198
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/2a754448/Entry-Level",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 48004.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/2a754448/Early-Career",
+                                "profileCount": 31,
+                                "range": {
+                                    "50": 50721.32
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/4a3b4f04/Mid-Career",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 62100.07
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/27da07db/Experienced",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 72389.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/62099cf7/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72407.88
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/69a72996/San-Diego-CA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 39599
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Groton, Connecticut",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/8adc922e/Groton-CT",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 50048.18
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/551fa770/Atlanta-GA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 47500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/e524d26b/Houston-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 52800
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/282e4ee3/Dallas-TX",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 47916.67
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Product Support",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/b8e3083c/Product-Support",
+                                "profileCount": 54,
+                                "range": {
+                                    "50": 59761.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Technical Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/5ccfde3e/Technical-Analysis",
+                                "profileCount": 35,
+                                "range": {
+                                    "50": 59678.12
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Troubleshooting",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/f4a53697/Troubleshooting",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 56902.88
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Customer Service",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/0cba8bdb/Customer-Service",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 61310.25
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "SQL",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/db598155/SQL",
+                                "profileCount": 15,
+                                "range": {
+                                    "50": 52071.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/57f08492/Data-Analysis",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 55000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Product Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/75ecf9cb/Product-Management",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 51883.34
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft SQL Server",
+                                "displayName": null,
+                                "url": "/research/US/Job=Product_Support_Analyst/Salary/440340d0/Microsoft-SQL-Server",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 58000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 11,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 2664,
+                        "range": {
+                            "10": 30986.64,
+                            "25": 36666.23,
+                            "50": 43230.49,
+                            "75": 51353.77,
+                            "90": 60970.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cashier",
+                        "url": "/research/US/Job=Cashier/Hourly_Rate",
+                        "profileCount": 2525,
+                        "range": {
+                            "10": 12590.38,
+                            "25": 18884.34,
+                            "50": 24363.35,
+                            "75": 35763.43,
+                            "90": 49527.75
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2513,
+                        "range": {
+                            "10": 48082.08,
+                            "25": 56030.64,
+                            "50": 66306.15,
+                            "75": 78212.44,
+                            "90": 90706.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2453,
+                        "range": {
+                            "10": 30923.35,
+                            "25": 36374.02,
+                            "50": 43082.69,
+                            "75": 51569.41,
+                            "90": 60841.09
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sales Associate",
+                        "url": "/research/US/Job=Sales_Associate/Hourly_Rate",
+                        "profileCount": 2057,
+                        "range": {
+                            "10": 27991.83,
+                            "25": 37349.72,
+                            "50": 49072.24,
+                            "75": 63046.52,
+                            "90": 79770.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1963,
+                        "range": {
+                            "10": 36871.97,
+                            "25": 43535.18,
+                            "50": 52312.8,
+                            "75": 62913.19,
+                            "90": 74168.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 1869,
+                        "range": {
+                            "10": 67121.86,
+                            "25": 77719.48,
+                            "50": 92314.48,
+                            "75": 113243.37,
+                            "90": 134853.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Manager",
+                        "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                        "profileCount": 1776,
+                        "range": {
+                            "10": 37369.64,
+                            "25": 43985.23,
+                            "50": 52561.18,
+                            "75": 63498.55,
+                            "90": 75384.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Medical Assistant",
+                        "url": "/research/US/Job=Medical_Assistant/Hourly_Rate",
+                        "profileCount": 1451,
+                        "range": {
+                            "10": 28092.88,
+                            "25": 32895.1,
+                            "50": 39177.45,
+                            "75": 46181.4,
+                            "90": 54027.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 1258,
+                        "range": {
+                            "10": 55074.45,
+                            "25": 64693.2,
+                            "50": 77380.6,
+                            "75": 93278.41,
+                            "90": 113120.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1110,
+                        "range": {
+                            "10": 47011.95,
+                            "25": 57253.66,
+                            "50": 71261.38,
+                            "75": 89333.16,
+                            "90": 111551.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Field Service Technician",
+                        "url": "/research/US/Job=Field_Service_Technician/Hourly_Rate",
+                        "profileCount": 1060,
+                        "range": {
+                            "10": 38888.02,
+                            "25": 46796.87,
+                            "50": 57130.19,
+                            "75": 68877.32,
+                            "90": 80031.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Receptionist",
+                        "url": "/research/US/Job=Receptionist/Hourly_Rate",
+                        "profileCount": 982,
+                        "range": {
+                            "10": 25936.14,
+                            "25": 30314.02,
+                            "50": 36507.8,
+                            "75": 43090.93,
+                            "90": 51904.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 963,
+                        "range": {
+                            "10": 93720.79,
+                            "25": 107673.04,
+                            "50": 125754.02,
+                            "75": 145986.6,
+                            "90": 165686.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 938,
+                        "range": {
+                            "10": 50690.78,
+                            "25": 57917.56,
+                            "50": 66056.3,
+                            "75": 76046.99,
+                            "90": 87470.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Retail Store Assistant Manager",
+                        "url": "/research/US/Job=Retail_Store_Assistant_Manager/Hourly_Rate",
+                        "profileCount": 850,
+                        "range": {
+                            "10": 34382.94,
+                            "25": 41802.45,
+                            "50": 50720.33,
+                            "75": 59923.44,
+                            "90": 67789.22
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Maintenance Technician",
+                        "url": "/research/US/Job=Maintenance_Technician/Hourly_Rate",
+                        "profileCount": 844,
+                        "range": {
+                            "10": 33543.43,
+                            "25": 40940.45,
+                            "50": 51288.98,
+                            "75": 64866.22,
+                            "90": 80881.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Dental Assistant",
+                        "url": "/research/US/Job=Dental_Assistant/Hourly_Rate",
+                        "profileCount": 769,
+                        "range": {
+                            "10": 27018.3,
+                            "25": 31449.25,
+                            "50": 38122.15,
+                            "75": 46862.97,
+                            "90": 56712.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Data Analyst",
+                        "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                        "profileCount": 730,
+                        "range": {
+                            "10": 65746.08,
+                            "25": 75771.21,
+                            "50": 88037.04,
+                            "75": 102303.79,
+                            "90": 117993.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Pharmacy Technician",
+                        "url": "/research/US/Job=Pharmacy_Technician/Hourly_Rate",
+                        "profileCount": 721,
+                        "range": {
+                            "10": 27673.33,
+                            "25": 33243.28,
+                            "50": 40493.18,
+                            "75": 48547.26,
+                            "90": 57416.96
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Product_Support_Analyst/Salary",
+                    "occupationalCategory": "15-1040.00 - Computer Support Specialists",
+                    "skills": "Product Support, Technical Analysis, Troubleshooting, Customer Service, SQL, Data Analysis, Product Management, Microsoft SQL Server",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-09-26T15:41:34.9102Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "43942.3",
+                            "percentile25": "48272.34",
+                            "median": "57879.52",
+                            "percentile75": "65215.81",
+                            "percentile90": "76347.43",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "43615.95",
+                            "percentile25": "48556.46",
+                            "median": "58032.39",
+                            "percentile75": "66098.04",
+                            "percentile90": "78389.39",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1021.29",
+                            "percentile25": "1557.72",
+                            "median": "3077.87",
+                            "percentile75": "4023.09",
+                            "percentile90": "7340.36",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 71,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Because of the complex nature of the hardware and software they design, many tech companies will utilize the services of one or more product support analysts. This employee's job can be complex. They're usually expected to work with customers to assist them in a technical support role with the products they've purchased from the company. However, as an analyst, this person also compiles data revolving around the specific areas in the company's products that seem to require the most support. The analyst will draw conclusions from this data, which product designers and engineers will use when creating new versions of the product.\r\nOne of the main goals of product support analyst is to improve the products his or her employers make. Thus, he or she gathers customer data on issues that need support. He or she may comb through hundreds of support tickets, examining and logging issues. This analyst will also be looking for data trends that point to needed improvements in new versions of software or future new products within the line. The analyst will create a detailed report on his or her findings. Then the companies design, development, and engineering teams will be expected to directly address the issues raised by the analyst going forward.\r\nMost product support analysts will have a strong background in tech education, either with a bachelor's or associate's degree in computer engineering or a related discipline. Most companies prefer candidates for this position who have practical experience in analytical elements of tech support. A product support analyst typically works regular business hours during the week in an office environment.",
+                    "name": "Product Support Analyst",
+                    "url": "/research/US/Job=Product_Support_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

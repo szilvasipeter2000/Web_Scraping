@@ -1,0 +1,790 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Category Development Analyst",
+                    "url": "/research/US/Job=Category_Development_Analyst/Salary",
+                    "compensation": 61224.489795918395,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Senior Category Manager",
+                            "url": "/research/US/Job=Senior_Category_Manager/Salary",
+                            "percent": 1,
+                            "compensation": 114127.71773517248,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Account Manager",
+                                    "url": "/research/US/Job=Account_Manager/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 54371.23044588777,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Category Manager",
+                                    "url": "/research/US/Job=Category_Manager/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 85096.85412550315,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Director, Strategic Sourcing",
+                                    "url": "/research/US/Job=Director%2C_Strategic_Sourcing/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 132627.46633184177,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Category Development Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Category_Development_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Category_Development_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-03-29T10:08:44.72008Z",
+                "narratives": {
+                    "description": "Category development analysts are primarily responsible for conducting and reviewing research on various product-types offered by a specific company or retailer. Based on this research, the analyst makes recommendations for changes to product offerings, and they also work closely with a category manager who provides guidance and influence based on the company's philosophy and goals. These analysts also play an important role in introducing new products and suggesting strategies that are most likely to be effective.\r\nCategory development analysts work with large amounts and varieties of data, and reasoning skills are necessary in this position to draw sound conclusions based on data analysis. They must also have thorough knowledge of the products offered by the company as well as competing companies. When conducting research, these analysts aim to identify trends in sales of specific products and then take advantage of these trends by recommending increased production and marketing for successful products and decreased production and marketing for poorly-performing products. These analysts also work with the sales, marketing, merchandising, and planning departments to conduct research and make suggestions.\r\nCategory development analysts must communicate effectively and in a timely manner with management and the specific departments which implement suggestions, and they should also be skilled at organizing data and presenting it effectively. Microsoft Office skills are also important, and most positions require a bachelor's degree in business, marketing, or a related field and prior experience in merchandising, inventory, and planning. These analysts typically work in an office, but also spend time in retail stores looking at product displays and consulting with store managers, and they usually work full-time during regular business hours.",
+                    "summarySalary": "The average pay for a Category Development Analyst is $66,964 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "10": 1150,
+                        "25": 2016.83,
+                        "50": 5192.5,
+                        "75": 7195.26,
+                        "90": 16870,
+                        "profileCount": 14
+                    },
+                    "profitSharing": {
+                        "50": 4913.18,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 48043.99,
+                        "25": 53990.01,
+                        "50": 66964.38,
+                        "75": 76299.26,
+                        "90": 86453.46,
+                        "profileCount": 30
+                    },
+                    "total": {
+                        "10": 48302.82,
+                        "25": 54549.63,
+                        "50": 71884.64,
+                        "75": 78865.46,
+                        "90": 90056.69,
+                        "profileCount": 30
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-03-29T10:08:44.72008Z",
+                        "profileCount": 30,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 30,
+                                "range": {
+                                    "10": 48302.82,
+                                    "25": 54549.63,
+                                    "50": 71884.64,
+                                    "75": 78865.46,
+                                    "90": 90056.69
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-03-29T10:08:44.72008Z",
+                        "profileCount": 30,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 30,
+                                "range": {
+                                    "10": 48043.99,
+                                    "25": 53990.01,
+                                    "50": 66964.38,
+                                    "75": 76299.26,
+                                    "90": 86453.46
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-03-29T10:08:44.72008Z",
+                        "profileCount": 19,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 9,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-03-29T10:08:44.72008Z",
+                        "profileCount": 25,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 23,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Cardone Industries Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/a255f02b/Cardone-Industries-Inc",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 48324.83
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Smithfield Foods Incorporated",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/bdac9e3f/Smithfield-Foods-Incorporated",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 51750
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/59d85fc7/Entry-Level",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 50955.28
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/59d85fc7/Early-Career",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 64190.08
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/38d0b467/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 73889.57
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Rogers, Arkansas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/26936537/Rogers-AR",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 74000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Philadelphia, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/6f8aa553/Philadelphia-PA",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 50250
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlotte, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/078ed829/Charlotte-NC",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 61500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/97b8a250/Chicago-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 87000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/cc964498/Data-Analysis",
+                                "profileCount": 29,
+                                "range": {
+                                    "50": 68758.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/184cfafd/Microsoft-Excel",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 69838.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/55053ea2/Project-Management",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 62391.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Business Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/a62457a1/Business-Analysis",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Market Research",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/1a0d8c51/Market-Research",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 68784.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Presentation",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/db5d6d05/Presentation",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 58000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Problem Solving",
+                                "displayName": null,
+                                "url": "/research/US/Job=Category_Development_Analyst/Salary/22044a00/Problem-Solving",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 69634.27
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 8,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 4052,
+                        "range": {
+                            "10": 51383.65,
+                            "25": 62712.55,
+                            "50": 77512.37,
+                            "75": 95951.82,
+                            "90": 117391.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2384,
+                        "range": {
+                            "10": 46798.81,
+                            "25": 54927.63,
+                            "50": 65112.41,
+                            "75": 76887.56,
+                            "90": 89499.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1997,
+                        "range": {
+                            "10": 49979.47,
+                            "25": 56685.91,
+                            "50": 64750.1,
+                            "75": 74468.73,
+                            "90": 85581.34
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1991,
+                        "range": {
+                            "10": 55901.4,
+                            "25": 63527.57,
+                            "50": 72594.51,
+                            "75": 85198.65,
+                            "90": 101319.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1897,
+                        "range": {
+                            "10": 58888.23,
+                            "25": 66386.57,
+                            "50": 75759.58,
+                            "75": 88212.16,
+                            "90": 104229.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 1698,
+                        "range": {
+                            "10": 66463.88,
+                            "25": 76121.61,
+                            "50": 88446.88,
+                            "75": 102471.15,
+                            "90": 119383.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 1683,
+                        "range": {
+                            "10": 30673.97,
+                            "25": 35877.61,
+                            "50": 41864.9,
+                            "75": 49994.85,
+                            "90": 59148.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1658,
+                        "range": {
+                            "10": 30406.69,
+                            "25": 35675.19,
+                            "50": 41883.96,
+                            "75": 50475.06,
+                            "90": 59563.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 1458,
+                        "range": {
+                            "10": 52965.22,
+                            "25": 61591.31,
+                            "50": 72416.19,
+                            "75": 85664.33,
+                            "90": 101789.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1426,
+                        "range": {
+                            "10": 45792.59,
+                            "25": 55678.17,
+                            "50": 69712.52,
+                            "75": 87423.58,
+                            "90": 109092.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 1365,
+                        "range": {
+                            "10": 49354.32,
+                            "25": 56577.16,
+                            "50": 65628.29,
+                            "75": 76085.57,
+                            "90": 86817.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1360,
+                        "range": {
+                            "10": 59027.81,
+                            "25": 72593.04,
+                            "50": 90178.61,
+                            "75": 111039.85,
+                            "90": 131454.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1168,
+                        "range": {
+                            "10": 42559.96,
+                            "25": 48546.16,
+                            "50": 54637.95,
+                            "75": 61336.38,
+                            "90": 68093.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 1059,
+                        "range": {
+                            "10": 53940.77,
+                            "25": 62032.49,
+                            "50": 71881.88,
+                            "75": 86265.39,
+                            "90": 100691.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1047,
+                        "range": {
+                            "10": 67773.61,
+                            "25": 75971.39,
+                            "50": 85352.27,
+                            "75": 95858.48,
+                            "90": 107265.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 1036,
+                        "range": {
+                            "10": 39700.22,
+                            "25": 45292.52,
+                            "50": 53245.1,
+                            "75": 62785.42,
+                            "90": 73105.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 1007,
+                        "range": {
+                            "10": 56021.61,
+                            "25": 62403.62,
+                            "50": 71243.54,
+                            "75": 85309.35,
+                            "90": 103716.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 984,
+                        "range": {
+                            "10": 43159.72,
+                            "25": 47989.63,
+                            "50": 54146.29,
+                            "75": 63437.45,
+                            "90": 73338.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 971,
+                        "range": {
+                            "10": 36331.47,
+                            "25": 42805.39,
+                            "50": 51457.74,
+                            "75": 61810.3,
+                            "90": 73020.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 942,
+                        "range": {
+                            "10": 62603.89,
+                            "25": 70956.87,
+                            "50": 80898.07,
+                            "75": 96429.1,
+                            "90": 119145.99
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Category_Development_Analyst/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Data Analysis, Microsoft Excel, Project Management, Business Analysis, Market Research, Presentation, Problem Solving",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-03-29T10:08:44.72008Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "48302.82",
+                            "percentile25": "54549.63",
+                            "median": "71884.64",
+                            "percentile75": "78865.46",
+                            "percentile90": "90056.69",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "48043.99",
+                            "percentile25": "53990.01",
+                            "median": "66964.38",
+                            "percentile75": "76299.26",
+                            "percentile90": "86453.46",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "1150",
+                            "percentile25": "2016.83",
+                            "median": "5192.5",
+                            "percentile75": "7195.26",
+                            "percentile90": "16870",
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "4913.18",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 42,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Category development analysts are primarily responsible for conducting and reviewing research on various product-types offered by a specific company or retailer. Based on this research, the analyst makes recommendations for changes to product offerings, and they also work closely with a category manager who provides guidance and influence based on the company's philosophy and goals. These analysts also play an important role in introducing new products and suggesting strategies that are most likely to be effective.\r\nCategory development analysts work with large amounts and varieties of data, and reasoning skills are necessary in this position to draw sound conclusions based on data analysis. They must also have thorough knowledge of the products offered by the company as well as competing companies. When conducting research, these analysts aim to identify trends in sales of specific products and then take advantage of these trends by recommending increased production and marketing for successful products and decreased production and marketing for poorly-performing products. These analysts also work with the sales, marketing, merchandising, and planning departments to conduct research and make suggestions.\r\nCategory development analysts must communicate effectively and in a timely manner with management and the specific departments which implement suggestions, and they should also be skilled at organizing data and presenting it effectively. Microsoft Office skills are also important, and most positions require a bachelor's degree in business, marketing, or a related field and prior experience in merchandising, inventory, and planning. These analysts typically work in an office, but also spend time in retail stores looking at product displays and consulting with store managers, and they usually work full-time during regular business hours.",
+                    "name": "Category Development Analyst",
+                    "url": "/research/US/Job=Category_Development_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

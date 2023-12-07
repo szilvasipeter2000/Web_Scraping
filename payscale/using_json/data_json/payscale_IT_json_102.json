@@ -1,0 +1,338 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Computer Aided Design (CAD) & Geographic Information Systems (GIS) Technician"
+                },
+                "multiDimensional": false,
+                "reportType": "HourlyRate",
+                "refs": {
+                    "url": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate",
+                    "defaultUrl": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-09-30T06:36:41.45242Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Computer Aided Design (CAD) & Geographic Information Systems (GIS) Technician is $25.91 per hour.",
+                    "summarySalary": "The average pay for a Computer Aided Design (CAD) & Geographic Information Systems (GIS) Technician is $47,847 per year."
+                },
+                "tasks": [
+                    "Support and train users of CAD and GIS systems throughout the organization.",
+                    "Perform standard manipulations and adjustments to CAD and GIS files.",
+                    "Edit and maintain files, including scanning paper documents."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 1500,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "25": 22.81,
+                        "50": 25.91,
+                        "75": 33.23,
+                        "profileCount": 8
+                    },
+                    "salary": {
+                        "50": 47846.5,
+                        "profileCount": 2
+                    },
+                    "total": {
+                        "10": 43388.2,
+                        "25": 46530.31,
+                        "50": 52832.94,
+                        "75": 58317.49,
+                        "90": 101752.95,
+                        "profileCount": 10
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-09-30T06:36:41.45242Z",
+                        "profileCount": 10,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 43388.2,
+                                    "25": 46530.31,
+                                    "50": 52832.94,
+                                    "75": 58317.49,
+                                    "90": 101752.95
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-09-30T06:36:41.45242Z",
+                        "profileCount": 8,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 22.81,
+                                    "50": 25.91,
+                                    "75": 33.23
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-09-30T06:36:41.45242Z",
+                        "profileCount": 2,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 47846.5
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-09-30T06:36:41.45242Z",
+                        "profileCount": 9,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-09-30T06:36:41.45242Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate/64539379/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 25.91
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate/d9bcc416/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 24.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate/896c0b28/Experienced",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 25.68
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4
+                    }
+                },
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-09-30T06:36:41.45242Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "43388.2",
+                            "percentile25": "46530.31",
+                            "median": "52832.94",
+                            "percentile75": "58317.49",
+                            "percentile90": "101752.95",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "PT1H",
+                            "percentile10": null,
+                            "percentile25": "22.81",
+                            "median": "25.91",
+                            "percentile75": "33.23",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "1500",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 12,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Computer Aided Design (CAD) & Geographic Information Systems (GIS) Technician",
+                    "url": "/research/US/Job=Computer_Aided_Design_(CAD)_%26_Geographic_Information_Systems_(GIS)_Technician/Hourly_Rate",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

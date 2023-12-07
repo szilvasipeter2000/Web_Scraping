@@ -1,0 +1,784 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Internet Marketing Analyst",
+                    "url": "/research/US/Job=Internet_Marketing_Analyst/Salary",
+                    "compensation": 49142.49739112774,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Director of Strategic Initiatives",
+                            "url": "/research/US/Job=Director_of_Strategic_Initiatives/Salary",
+                            "percent": 1,
+                            "compensation": 93086.1536010538,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Chief of Staff",
+                                    "url": "/research/US/Job=Chief_of_Staff/Salary",
+                                    "percent": 0.33,
+                                    "compensation": 106788.8600296657,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Director of Operations",
+                                    "url": "/research/US/Job=Director_of_Operations/Salary",
+                                    "percent": 0.33,
+                                    "compensation": 91788.23970928165,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Project Manager, (Unspecified Type / General)",
+                                    "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                                    "percent": 0.33,
+                                    "compensation": 74208.60456383067,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Internet Marketing Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Internet_Marketing_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Internet_Marketing_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2021-05-19T07:13:49.62928Z",
+                "narratives": {
+                    "description": "Internet marketing analysts decipher data on the internet and translate it into information that most people can read, understand, and interpret. The data that internet marketing analysts collect is important to many businesses and corporations, as the data is used to determine consumer behavior and shopping patterns. \r\nBusinesses and corporations hire internet marketing analysts to figure out the best online advertising and marketing strategies. Search engine optimization (SEO) is another task that internet marketing analysts assist businesses with. SEO ensures that people searching for an item or service online will be expedited to the company’s website by putting that business’ link high-up in the search results. Analyzing a company’s webpage is something else that an internet marketing analyst often does. They will sift through everything from the design of the page to the content to make sure that the company is covering all their bases to attract the most business.\r\nInternet marketing analysts normally have a bachelor’s degree in computer science. A master’s degree may also be required for the job. While in college, some students that aspire to become an internet marketing analyst focus their studies on business administration with a lesser focus in marketing. Possessing skills such excellent critical thinking and interpersonal communications will all aid in doing the job successfully.\r\n",
+                    "summaryHourly": "The average pay for an Internet Marketing Analyst is $15.00 per hour.",
+                    "summarySalary": "The average pay for an Internet Marketing Analyst is $50,868 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 3000,
+                        "50": 5000,
+                        "75": 7500,
+                        "profileCount": 5
+                    },
+                    "hourlyRate": {
+                        "50": 15,
+                        "profileCount": 2
+                    },
+                    "profitSharing": {
+                        "50": 630,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "10": 41108.74,
+                        "25": 45000.95,
+                        "50": 50867.88,
+                        "75": 59748.95,
+                        "90": 86292.62,
+                        "profileCount": 13
+                    },
+                    "total": {
+                        "10": 33159.64,
+                        "25": 42349.02,
+                        "50": 50231.36,
+                        "75": 60464.66,
+                        "90": 88616.12,
+                        "profileCount": 15
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2021-05-19T07:13:49.62928Z",
+                        "profileCount": 15,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 15,
+                                "range": {
+                                    "10": 33159.64,
+                                    "25": 42349.02,
+                                    "50": 50231.36,
+                                    "75": 60464.66,
+                                    "90": 88616.12
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2021-05-19T07:13:49.62928Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 15
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2021-05-19T07:13:49.62928Z",
+                        "profileCount": 13,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": {
+                                    "10": 41108.74,
+                                    "25": 45000.95,
+                                    "50": 50867.88,
+                                    "75": 59748.95,
+                                    "90": 86292.62
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2021-05-19T07:13:49.62928Z",
+                        "profileCount": 12,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Prefer to self-define",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2021-05-19T07:13:49.62928Z",
+                        "profileCount": 14,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "Less than 1 year",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/0cb033a2/Entry-Level",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 40694.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/0cb033a2/Early-Career",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 48282.04
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/46a580e6/Mid-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 63875
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Harrisburg, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/6554f830/Harrisburg-PA",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 46494.62
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/b6b374a4/Chicago-IL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 53512.63
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Search Engine Optimization (SEO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/54c10861/Search-Engine-Optimization-SEO",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 47348.97
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/0498e20a/Web-Analytics",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 59500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Search Engine Marketing (SEM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/59abf149/Search-Engine-Marketing-SEM",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 45750
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Conversion Rate Optimization (CRO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/7788afb9/Conversion-Rate-Optimization-CRO",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 47000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/184df8e3/Data-Analysis",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 41248.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/8d77410b/Microsoft-Excel",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 44000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/6e4e7d22/Microsoft-Office",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 42447.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Marketing Communications",
+                                "displayName": null,
+                                "url": "/research/US/Job=Internet_Marketing_Analyst/Salary/3db49de6/Marketing-Communications",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 42447.06
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 4,
+                        "score": 3.75
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 4153,
+                        "range": {
+                            "10": 29168.29,
+                            "25": 33885.2,
+                            "50": 40096.6,
+                            "75": 48424.07,
+                            "90": 56995.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 2493,
+                        "range": {
+                            "10": 43962.68,
+                            "25": 51387.56,
+                            "50": 61468.84,
+                            "75": 73317.7,
+                            "90": 86317.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 2011,
+                        "range": {
+                            "10": 47814.34,
+                            "25": 53855.18,
+                            "50": 61799.28,
+                            "75": 71329.06,
+                            "90": 82268.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1952,
+                        "range": {
+                            "10": 34309.72,
+                            "25": 40496.24,
+                            "50": 49168.64,
+                            "75": 59104.48,
+                            "90": 69971.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1765,
+                        "range": {
+                            "10": 55158.88,
+                            "25": 62745.12,
+                            "50": 71899.11,
+                            "75": 83906.73,
+                            "90": 99841.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 1628,
+                        "range": {
+                            "10": 49277.69,
+                            "25": 60068.31,
+                            "50": 74841.99,
+                            "75": 92616.74,
+                            "90": 113223.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1494,
+                        "range": {
+                            "10": 39454.4,
+                            "25": 47063.89,
+                            "50": 56892.21,
+                            "75": 68780.67,
+                            "90": 80922.03
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 1385,
+                        "range": {
+                            "10": 40434.81,
+                            "25": 45828.81,
+                            "50": 51606.96,
+                            "75": 58260.11,
+                            "90": 64603.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1264,
+                        "range": {
+                            "10": 53348.95,
+                            "25": 60881.48,
+                            "50": 69932.51,
+                            "75": 82144.14,
+                            "90": 98450.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 1208,
+                        "range": {
+                            "10": 40452.58,
+                            "25": 46420.96,
+                            "50": 51881.59,
+                            "75": 60984.61,
+                            "90": 71217.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Coordinator",
+                        "url": "/research/US/Job=Marketing_Coordinator/Salary",
+                        "profileCount": 1115,
+                        "range": {
+                            "10": 34772.35,
+                            "25": 39525.05,
+                            "50": 45269.12,
+                            "75": 51879.25,
+                            "90": 59567.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 1082,
+                        "range": {
+                            "10": 64429.06,
+                            "25": 72579.82,
+                            "50": 81833.17,
+                            "75": 91739.31,
+                            "90": 102697.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 1059,
+                        "range": {
+                            "10": 44157.31,
+                            "25": 53338.13,
+                            "50": 66442.05,
+                            "75": 82229.48,
+                            "90": 100503.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 949,
+                        "range": {
+                            "10": 52366.75,
+                            "25": 59263.68,
+                            "50": 67611.58,
+                            "75": 81266.4,
+                            "90": 99808.7
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 912,
+                        "range": {
+                            "10": 59269.8,
+                            "25": 67072.76,
+                            "50": 76911.37,
+                            "75": 91961.84,
+                            "90": 113877.65
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 837,
+                        "range": {
+                            "10": 45978.01,
+                            "25": 52566.3,
+                            "50": 61669.49,
+                            "75": 71726.72,
+                            "90": 82557.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 835,
+                        "range": {
+                            "10": 43146.2,
+                            "25": 52410.35,
+                            "50": 66524.26,
+                            "75": 84309.75,
+                            "90": 105504.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 813,
+                        "range": {
+                            "10": 53718.25,
+                            "25": 60683.94,
+                            "50": 69129.27,
+                            "75": 78082.67,
+                            "90": 86896.24
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 793,
+                        "range": {
+                            "10": 63985.8,
+                            "25": 73777.45,
+                            "50": 86066.01,
+                            "75": 99500.41,
+                            "90": 115829.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 750,
+                        "range": {
+                            "10": 50547.07,
+                            "25": 59180.44,
+                            "50": 69630.91,
+                            "75": 82333.11,
+                            "90": 98214.88
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Internet_Marketing_Analyst/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Search Engine Optimization (SEO), Web Analytics, Search Engine Marketing (SEM), Conversion Rate Optimization (CRO), Data Analysis, Microsoft Excel, Microsoft Office, Marketing Communications",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2021-05-19T07:13:49.62928Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "33159.64",
+                            "percentile25": "42349.02",
+                            "median": "50231.36",
+                            "percentile75": "60464.66",
+                            "percentile90": "88616.12",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": "41108.74",
+                            "percentile25": "45000.95",
+                            "median": "50867.88",
+                            "percentile75": "59748.95",
+                            "percentile90": "86292.62",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "3000",
+                            "median": "5000",
+                            "percentile75": "7500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "630",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "profit sharing",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 22,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Internet marketing analysts decipher data on the internet and translate it into information that most people can read, understand, and interpret. The data that internet marketing analysts collect is important to many businesses and corporations, as the data is used to determine consumer behavior and shopping patterns. \r\nBusinesses and corporations hire internet marketing analysts to figure out the best online advertising and marketing strategies. Search engine optimization (SEO) is another task that internet marketing analysts assist businesses with. SEO ensures that people searching for an item or service online will be expedited to the company’s website by putting that business’ link high-up in the search results. Analyzing a company’s webpage is something else that an internet marketing analyst often does. They will sift through everything from the design of the page to the content to make sure that the company is covering all their bases to attract the most business.\r\nInternet marketing analysts normally have a bachelor’s degree in computer science. A master’s degree may also be required for the job. While in college, some students that aspire to become an internet marketing analyst focus their studies on business administration with a lesser focus in marketing. Possessing skills such excellent critical thinking and interpersonal communications will all aid in doing the job successfully.\r\n",
+                    "name": "Internet Marketing Analyst",
+                    "url": "/research/US/Job=Internet_Marketing_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

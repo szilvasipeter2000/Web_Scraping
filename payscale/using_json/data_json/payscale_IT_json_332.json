@@ -1,0 +1,272 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 1,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "iPhone Developer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=iPhone_Developer/Salary",
+                    "defaultUrl": "/research/US/Job=iPhone_Developer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-10-04T12:37:56.93823Z",
+                "narratives": {
+                    "description": "iPhone developers are generally hired by companies which develop applications for the iOS; these companies exist in a variety of industries, ranging from technology to healthcare and food service. Most companies prefer applicants who have at least a bachelor's degree in computer science and some experience working with iOS and programs such as XCode 4, Cocoa, and Storyboard.\r\niPhone developers must understand some programming languages and have a strong understanding of the regulations that must be followed in order to release apps in the Apple iOS store. These developers work primarily in office-based settings with most of their time spent on computers and other devices.\r\nTheir main responsibility is to oversee the creation, development, and improvement of software for the iPhone family of products. They will need to determine the direction of development and constantly review the code to identify areas where improvements can be made. From time to time, they will also help develop updates for existing applications to improve user experiences. They may sometimes work on teams, although some companies may employ developers to work alone. They may also work with other departments, such as engineering, to collaborate on releases of products.",
+                    "summaryHourly": "The average pay for an Iphone Developer is $9.50 per hour.",
+                    "summarySalary": "The average pay for an Iphone Developer is $71,175 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 101.74,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "50": 9.5,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "50": 71175,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "25": 19860,
+                        "50": 52100,
+                        "75": 84176.59,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-10-04T12:37:56.93823Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 19860,
+                                    "50": 52100,
+                                    "75": 84176.59
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-10-04T12:37:56.93823Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 9.5
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-10-04T12:37:56.93823Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 71175
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-10-04T12:37:56.93823Z",
+                        "profileCount": 1,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-10-04T12:37:56.93823Z",
+                        "profileCount": 1,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": null,
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=iPhone_Developer/Salary",
+                    "occupationalCategory": "15-1030.00 - Computer Software Engineers",
+                    "skills": null,
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-10-04T12:37:56.93823Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "19860",
+                            "median": "52100",
+                            "percentile75": "84176.59",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "71175",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "101.74",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "iPhone developers are generally hired by companies which develop applications for the iOS; these companies exist in a variety of industries, ranging from technology to healthcare and food service. Most companies prefer applicants who have at least a bachelor's degree in computer science and some experience working with iOS and programs such as XCode 4, Cocoa, and Storyboard.\r\niPhone developers must understand some programming languages and have a strong understanding of the regulations that must be followed in order to release apps in the Apple iOS store. These developers work primarily in office-based settings with most of their time spent on computers and other devices.\r\nTheir main responsibility is to oversee the creation, development, and improvement of software for the iPhone family of products. They will need to determine the direction of development and constantly review the code to identify areas where improvements can be made. From time to time, they will also help develop updates for existing applications to improve user experiences. They may sometimes work on teams, although some companies may employ developers to work alone. They may also work with other departments, such as engineering, to collaborate on releases of products.",
+                    "name": "iPhone Developer",
+                    "url": "/research/US/Job=iPhone_Developer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

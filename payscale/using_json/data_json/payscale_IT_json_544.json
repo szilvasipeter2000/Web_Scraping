@@ -1,0 +1,532 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Identity and Access Management (IAM) Engineer"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Identity_and_Access_Management_(IAM)_Engineer/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Identity_and_Access_Management_(IAM)_Engineer/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-11-02T23:01:54.94032Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Senior Identity And Access Management (IAM) Engineer is $125,071 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 16250,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "25": 113068.31,
+                        "50": 125071.05,
+                        "75": 142482.1,
+                        "profileCount": 8
+                    },
+                    "total": {
+                        "25": 113738.98,
+                        "50": 138682.03,
+                        "75": 148722.05,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-11-02T23:01:54.94032Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 113738.98,
+                                    "50": 138682.03,
+                                    "75": 148722.05
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-11-02T23:01:54.94032Z",
+                        "profileCount": 8,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 113068.31,
+                                    "50": 125071.05,
+                                    "75": 142482.1
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-11-02T23:01:54.94032Z",
+                        "profileCount": 6,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-11-02T23:01:54.94032Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Identity Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Identity_and_Access_Management_(IAM)_Engineer/Salary/0309d617/Identity-Management",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 122448.98
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 3
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Identity and Access Management (IAM) Analyst",
+                        "url": "/research/US/Job=Identity_and_Access_Management_(IAM)_Analyst/Salary",
+                        "profileCount": 12,
+                        "range": {
+                            "10": 50476.65,
+                            "25": 60976.19,
+                            "50": 73664.84,
+                            "75": 89761.22,
+                            "90": 120985.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer",
+                        "url": "/research/US/Job=Security_Engineer/Salary",
+                        "profileCount": 7,
+                        "range": {
+                            "10": 68285.71,
+                            "25": 82134.39,
+                            "50": 100098.45,
+                            "75": 123152.82,
+                            "90": 145945.66
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Identity and Access Management (IAM) Engineer",
+                        "url": "/research/US/Job=Identity_and_Access_Management_(IAM)_Engineer/Salary",
+                        "profileCount": 5,
+                        "range": {
+                            "10": 77117.5,
+                            "25": 89708.27,
+                            "50": 102510.84,
+                            "75": 136769.15,
+                            "90": 166951.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 55444.98,
+                            "25": 64721.28,
+                            "50": 77377.31,
+                            "75": 94187.65,
+                            "90": 115037.73
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Identity and Access Management (IAM) Administrator",
+                        "url": "/research/US/Job=Identity_and_Access_Management_(IAM)_Administrator/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 56794.89,
+                            "25": 64960.02,
+                            "50": 79571.78,
+                            "75": 89446.72,
+                            "90": 102077.95
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Engineer, IT",
+                        "url": "/research/US/Job=Systems_Engineer%2C_IT/Salary",
+                        "profileCount": 4,
+                        "range": {
+                            "10": 55198.63,
+                            "25": 66505.24,
+                            "50": 79944.65,
+                            "75": 96141.03,
+                            "90": 114475.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Security Consultant",
+                        "url": "/research/US/Job=Senior_Security_Consultant/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 81488.09,
+                            "25": 96528.39,
+                            "50": 118523.86,
+                            "75": 138812.26,
+                            "90": 158549.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 74687.63,
+                            "25": 96272.73,
+                            "50": 125212.35,
+                            "75": 154807.36,
+                            "90": 179620.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Consultant, (Computing / Networking / Information Technology)",
+                        "url": "/research/US/Job=Security_Consultant%2C_(Computing_%2F_Networking_%2F_Information_Technology)/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 65536.64,
+                            "25": 77317.63,
+                            "50": 93918.37,
+                            "75": 119488.26,
+                            "90": 149789.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Administrator, IT",
+                        "url": "/research/US/Job=Security_Administrator%2C_IT/Salary",
+                        "profileCount": 3,
+                        "range": {
+                            "10": 51641.52,
+                            "25": 60462.3,
+                            "50": 70103.34,
+                            "75": 82727.45,
+                            "90": 98643.44
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 84988.05,
+                            "25": 98720.57,
+                            "50": 116989.56,
+                            "75": 135094.78,
+                            "90": 155589.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Specialist",
+                        "url": "/research/US/Job=Information_Security_Specialist/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 54825.84,
+                            "25": 66990.95,
+                            "50": 81201.66,
+                            "75": 101807.99,
+                            "90": 129966.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 67230.75,
+                            "25": 77862.56,
+                            "50": 92462.55,
+                            "75": 113399.32,
+                            "90": 134971.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Architect, IT",
+                        "url": "/research/US/Job=Security_Architect%2C_IT/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 92163.36,
+                            "25": 113101.99,
+                            "50": 137872.24,
+                            "75": 160456.86,
+                            "90": 183767.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 113400.31,
+                            "25": 129769.08,
+                            "50": 148336.79,
+                            "75": 168493.23,
+                            "90": 189777.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Manager",
+                        "url": "/research/US/Job=Information_Security_Manager/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 85590.67,
+                            "25": 102187.68,
+                            "50": 124970.36,
+                            "75": 141854.99,
+                            "90": 158540.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 58742.87,
+                            "25": 72730.68,
+                            "50": 91945.89,
+                            "75": 115857.7,
+                            "90": 138127.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Engineer",
+                        "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 70410.76,
+                            "25": 81614.89,
+                            "50": 98141.56,
+                            "75": 120957.88,
+                            "90": 139225.17
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Analyst",
+                        "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 56005.99,
+                            "25": 67119.05,
+                            "50": 80743.57,
+                            "75": 97896.77,
+                            "90": 119831.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 2,
+                        "range": {
+                            "10": 48632.04,
+                            "25": 56661.98,
+                            "50": 67090.2,
+                            "75": 79784.61,
+                            "90": 94313.32
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Identity_and_Access_Management_(IAM)_Engineer/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Identity Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-11-02T23:01:54.94032Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "113738.98",
+                            "median": "138682.03",
+                            "percentile75": "148722.05",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "113068.31",
+                            "median": "125071.05",
+                            "percentile75": "142482.1",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "16250",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 10,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Identity and Access Management (IAM) Engineer",
+                    "url": "/research/US/Job=Senior_Identity_and_Access_Management_(IAM)_Engineer/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

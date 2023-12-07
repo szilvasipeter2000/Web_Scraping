@@ -1,0 +1,634 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Electronic Discovery Technician",
+                    "url": "/research/US/Job=Electronic_Discovery_Technician/Salary",
+                    "compensation": 55000,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Electronic Discovery Manager",
+                            "url": "/research/US/Job=Electronic_Discovery_Manager/Salary",
+                            "percent": 1,
+                            "compensation": 92000,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 1,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Business Analyst (Unspecified Type)",
+                                    "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                                    "percent": 1,
+                                    "compensation": 60537.87073728789,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Electronic Discovery Technician"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Electronic_Discovery_Technician/Salary",
+                    "defaultUrl": "/research/US/Job=Electronic_Discovery_Technician/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-06-10T01:09:31.32151Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for an Electronic Discovery Technician is $30.00 per hour.",
+                    "summarySalary": "The average pay for an Electronic Discovery Technician is $49,000 per year."
+                },
+                "tasks": [
+                    "Design, update, maintain, and review databases used to prepare files for litigation.",
+                    "Filter and cull files to present and store the appropriate information.",
+                    "Convert documents and files for inclusion in the database.",
+                    "Create and implement processes to ensure accuracy and data quality.",
+                    "Extract data for court cases, following protocols."
+                ],
+                "compensation": {
+                    "bonus": {
+                        "50": 6000,
+                        "profileCount": 3
+                    },
+                    "hourlyRate": {
+                        "50": 30,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "25": 42494.12,
+                        "50": 49000,
+                        "75": 79500,
+                        "profileCount": 5
+                    },
+                    "total": {
+                        "25": 43795.93,
+                        "50": 59780,
+                        "75": 81755.25,
+                        "profileCount": 8
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-06-10T01:09:31.32151Z",
+                        "profileCount": 8,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": {
+                                    "25": 43795.93,
+                                    "50": 59780,
+                                    "75": 81755.25
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-06-10T01:09:31.32151Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 30
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-06-10T01:09:31.32151Z",
+                        "profileCount": 5,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": {
+                                    "25": 42494.12,
+                                    "50": 49000,
+                                    "75": 79500
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-06-10T01:09:31.32151Z",
+                        "profileCount": 5,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-06-10T01:09:31.32151Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Electronic_Discovery_Technician/Salary/2f0f3bab/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 42000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Data Processing",
+                                "displayName": null,
+                                "url": "/research/US/Job=Electronic_Discovery_Technician/Hourly_Rate/b300d167/Data-Processing",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 49000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Electronic_Discovery_Technician/Hourly_Rate/0c0ea425/Microsoft-Excel",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 3,
+                        "score": 3.33
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1623,
+                        "range": {
+                            "10": 29769.88,
+                            "25": 34785.59,
+                            "50": 40812.39,
+                            "75": 49339.34,
+                            "90": 58214.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 1061,
+                        "range": {
+                            "10": 49068.09,
+                            "25": 55328.08,
+                            "50": 63146,
+                            "75": 72598.58,
+                            "90": 83679.92
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 964,
+                        "range": {
+                            "10": 41251.41,
+                            "25": 46985.49,
+                            "50": 52946.73,
+                            "75": 59505.88,
+                            "90": 65952.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 893,
+                        "range": {
+                            "10": 45529.98,
+                            "25": 53485.18,
+                            "50": 63294.62,
+                            "75": 75008.41,
+                            "90": 87713.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 823,
+                        "range": {
+                            "10": 57211.97,
+                            "25": 64444.47,
+                            "50": 73433.39,
+                            "75": 85794.32,
+                            "90": 101389.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 734,
+                        "range": {
+                            "10": 41331.9,
+                            "25": 47038.76,
+                            "50": 52827.02,
+                            "75": 61860.11,
+                            "90": 71815.02
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 671,
+                        "range": {
+                            "10": 35091.77,
+                            "25": 41315,
+                            "50": 50092.76,
+                            "75": 60178.31,
+                            "90": 71085.37
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 636,
+                        "range": {
+                            "10": 50405.13,
+                            "25": 61409.13,
+                            "50": 76233.22,
+                            "75": 94163.08,
+                            "90": 115518.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 606,
+                        "range": {
+                            "10": 54788,
+                            "25": 62221.21,
+                            "50": 71250.05,
+                            "75": 83385.9,
+                            "90": 99669.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 580,
+                        "range": {
+                            "10": 65839.24,
+                            "25": 74134.29,
+                            "50": 83393.21,
+                            "75": 93483.4,
+                            "90": 105201.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 569,
+                        "range": {
+                            "10": 54917.92,
+                            "25": 61936.62,
+                            "50": 70442.36,
+                            "75": 79632.74,
+                            "90": 88448.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 482,
+                        "range": {
+                            "10": 54433.11,
+                            "25": 60823.02,
+                            "50": 69380.28,
+                            "75": 82963.3,
+                            "90": 101598.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 423,
+                        "range": {
+                            "10": 60681.76,
+                            "25": 68846.78,
+                            "50": 78569.83,
+                            "75": 93787.96,
+                            "90": 116915.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 415,
+                        "range": {
+                            "10": 40517.87,
+                            "25": 48765.93,
+                            "50": 59093.78,
+                            "75": 70911.54,
+                            "90": 83211.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 406,
+                        "range": {
+                            "10": 29725.9,
+                            "25": 34678.08,
+                            "50": 40612.18,
+                            "75": 48752.09,
+                            "90": 56843.69
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 381,
+                        "range": {
+                            "10": 44576.1,
+                            "25": 54203.89,
+                            "50": 68230.13,
+                            "75": 85825.73,
+                            "90": 107204.15
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounts Payable Specialist",
+                        "url": "/research/US/Job=Accounts_Payable_Specialist/Hourly_Rate",
+                        "profileCount": 372,
+                        "range": {
+                            "10": 36851.71,
+                            "25": 41021.02,
+                            "50": 46275.34,
+                            "75": 53051.08,
+                            "90": 60783.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 341,
+                        "range": {
+                            "10": 47903.56,
+                            "25": 54649.06,
+                            "50": 63646.49,
+                            "75": 73544.46,
+                            "90": 84282.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounting Manager",
+                        "url": "/research/US/Job=Accounting_Manager/Salary",
+                        "profileCount": 327,
+                        "range": {
+                            "10": 51687.81,
+                            "25": 62137.7,
+                            "50": 75982.01,
+                            "75": 91544.17,
+                            "90": 105694.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Payroll Specialist",
+                        "url": "/research/US/Job=Payroll_Specialist/Hourly_Rate",
+                        "profileCount": 310,
+                        "range": {
+                            "10": 38447.45,
+                            "25": 44101,
+                            "50": 51248.27,
+                            "75": 59931.02,
+                            "90": 68548.79
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Electronic_Discovery_Technician/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Data Processing, Microsoft Excel",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-06-10T01:09:31.32151Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "43795.93",
+                            "median": "59780",
+                            "percentile75": "81755.25",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "42494.12",
+                            "median": "49000",
+                            "percentile75": "79500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "6000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 9,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Electronic Discovery Technician",
+                    "url": "/research/US/Job=Electronic_Discovery_Technician/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

@@ -1,0 +1,673 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior Program Analyst, IT"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2022-07-21T11:53:23.19135Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Senior Program Analyst, IT is $36.52 per hour.",
+                    "summarySalary": "The average pay for a Senior Program Analyst, IT is $98,961 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 625,
+                        "50": 7000,
+                        "75": 8608.7,
+                        "profileCount": 5
+                    },
+                    "hourlyRate": {
+                        "50": 36.52,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "10": 66131.44,
+                        "25": 79212.19,
+                        "50": 98960.84,
+                        "75": 114847.75,
+                        "90": 122711.78,
+                        "profileCount": 22
+                    },
+                    "total": {
+                        "10": 66661.15,
+                        "25": 77896.2,
+                        "50": 98919.2,
+                        "75": 114064.88,
+                        "90": 126809.26,
+                        "profileCount": 24
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2022-07-21T11:53:23.19135Z",
+                        "profileCount": 24,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 24,
+                                "range": {
+                                    "10": 66661.15,
+                                    "25": 77896.2,
+                                    "50": 98919.2,
+                                    "75": 114064.88,
+                                    "90": 126809.26
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2022-07-21T11:53:23.19135Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 36.52
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2022-07-21T11:53:23.19135Z",
+                        "profileCount": 22,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 22,
+                                "range": {
+                                    "10": 66131.44,
+                                    "25": 79212.19,
+                                    "50": 98960.84,
+                                    "75": 114847.75,
+                                    "90": 122711.78
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2022-07-21T11:53:23.19135Z",
+                        "profileCount": 15,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2022-07-21T11:53:23.19135Z",
+                        "profileCount": 19,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 13,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/b038bbe0/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 82000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/e005914a/Mid-Career",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 97825.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/ea6e7d9a/Experienced",
+                                "profileCount": 28,
+                                "range": {
+                                    "50": 106950.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/bfb5d90a/Late-Career",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 90870.19
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/a2a00e2e/Washington-DC",
+                                "profileCount": 17,
+                                "range": {
+                                    "50": 107962.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/48219a2b/San-Diego-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 90989.01
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/6eaf6e7a/Chicago-IL",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 112000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Process Improvement",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/4ffd7ebf/Process-Improvement",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 104986.09
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/f55f29d4/Project-Management",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 113068.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Strategic Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary/cca36f1a/Strategic-Project-Management",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 112599.01
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 5,
+                        "score": 3.6
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 4110,
+                        "range": {
+                            "10": 50536.26,
+                            "25": 61557.21,
+                            "50": 76354.8,
+                            "75": 94468.95,
+                            "90": 115803.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1355,
+                        "range": {
+                            "10": 54938.53,
+                            "25": 62342,
+                            "50": 71353.57,
+                            "75": 83497.77,
+                            "90": 99621.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 1194,
+                        "range": {
+                            "10": 59286.67,
+                            "25": 66755.23,
+                            "50": 76043.19,
+                            "75": 88349.47,
+                            "90": 104937.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1138,
+                        "range": {
+                            "10": 44696.07,
+                            "25": 54389.58,
+                            "50": 68382.8,
+                            "75": 85994.73,
+                            "90": 107413.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 1049,
+                        "range": {
+                            "10": 57475.98,
+                            "25": 64225.89,
+                            "50": 72650.99,
+                            "75": 83231,
+                            "90": 95517.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1008,
+                        "range": {
+                            "10": 57413.72,
+                            "25": 64600.57,
+                            "50": 73595.73,
+                            "75": 85899.74,
+                            "90": 101476.82
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 888,
+                        "range": {
+                            "10": 58647.6,
+                            "25": 72042.75,
+                            "50": 89231.02,
+                            "75": 109840.26,
+                            "90": 129366.48
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 659,
+                        "range": {
+                            "10": 50053.65,
+                            "25": 60434.3,
+                            "50": 76230.14,
+                            "75": 94956.56,
+                            "90": 120221.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 620,
+                        "range": {
+                            "10": 56453.43,
+                            "25": 70147.99,
+                            "50": 89283.76,
+                            "75": 112914.2,
+                            "90": 134508.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 613,
+                        "range": {
+                            "10": 85885.95,
+                            "25": 100455.52,
+                            "50": 116967.75,
+                            "75": 133867.57,
+                            "90": 151969.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 609,
+                        "range": {
+                            "10": 65218.43,
+                            "25": 74690.13,
+                            "50": 87095.44,
+                            "75": 100810.98,
+                            "90": 117614.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Operations",
+                        "url": "/research/US/Job=Project_Manager%2C_Operations/Salary",
+                        "profileCount": 517,
+                        "range": {
+                            "10": 51506.72,
+                            "25": 61989.95,
+                            "50": 76615.52,
+                            "75": 94430.7,
+                            "90": 115503.31
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 496,
+                        "range": {
+                            "10": 54682.18,
+                            "25": 60981.9,
+                            "50": 69476.27,
+                            "75": 83135.4,
+                            "90": 101854.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 480,
+                        "range": {
+                            "10": 60816.11,
+                            "25": 69025.34,
+                            "50": 78713.62,
+                            "75": 93805.39,
+                            "90": 116784.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 477,
+                        "range": {
+                            "10": 51569.13,
+                            "25": 60505.97,
+                            "50": 71158.23,
+                            "75": 84339.51,
+                            "90": 100238.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 466,
+                        "range": {
+                            "10": 66226.15,
+                            "25": 79102.61,
+                            "50": 96417.02,
+                            "75": 117558.6,
+                            "90": 137693.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 464,
+                        "range": {
+                            "10": 71578.3,
+                            "25": 93383.3,
+                            "50": 122609.42,
+                            "75": 151478.58,
+                            "90": 176311.84
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Operations",
+                        "url": "/research/US/Job=Director_of_Operations/Salary",
+                        "profileCount": 445,
+                        "range": {
+                            "10": 54333.94,
+                            "25": 71501,
+                            "50": 95479.19,
+                            "75": 125945.2,
+                            "90": 154059.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Industrial Engineer",
+                        "url": "/research/US/Job=Industrial_Engineer/Salary",
+                        "profileCount": 426,
+                        "range": {
+                            "10": 56102.06,
+                            "25": 62630.73,
+                            "50": 70842.1,
+                            "75": 81591.59,
+                            "90": 93487.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Construction Project Manager",
+                        "url": "/research/US/Job=Construction_Project_Manager/Salary",
+                        "profileCount": 425,
+                        "range": {
+                            "10": 54479.88,
+                            "25": 66793.67,
+                            "50": 81135.85,
+                            "75": 98891.14,
+                            "90": 118497.34
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Process Improvement, Project Management, Strategic Project Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2022-07-21T11:53:23.19135Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "66661.15",
+                            "percentile25": "77896.2",
+                            "median": "98919.2",
+                            "percentile75": "114064.88",
+                            "percentile90": "126809.26",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "66131.44",
+                            "percentile25": "79212.19",
+                            "median": "98960.84",
+                            "percentile75": "114847.75",
+                            "percentile90": "122711.78",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "625",
+                            "median": "7000",
+                            "percentile75": "8608.7",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 35,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior Program Analyst, IT",
+                    "url": "/research/US/Job=Senior_Program_Analyst%2C_IT/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

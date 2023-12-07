@@ -1,0 +1,666 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 2,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Search Engine Optimization (SEO) Expert",
+                    "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Salary",
+                    "compensation": 71684.5,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Sales Associate",
+                            "url": "/research/US/Job=Sales_Associate/Hourly_Rate",
+                            "percent": 1,
+                            "compensation": 43806.81664382365,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Retail Store Manager",
+                                    "url": "/research/US/Job=Retail_Store_Manager/Salary",
+                                    "percent": 0.02,
+                                    "compensation": 48768.24722473818,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Administrative Assistant",
+                                    "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                                    "percent": 0.02,
+                                    "compensation": 39520.48078952134,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Retail Sales Associate",
+                                    "url": "/research/US/Job=Retail_Sales_Associate/Hourly_Rate",
+                                    "percent": 0.01,
+                                    "compensation": 36179.64911657536,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Search Engine Optimization (SEO) Expert"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Salary",
+                    "defaultUrl": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-03-11T08:50:47.67873Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for a Search Engine Optimization (SEO) Expert is $15.50 per hour.",
+                    "summarySalary": "The average pay for a Search Engine Optimization (SEO) Expert is $66,250 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 7741.94,
+                        "profileCount": 2
+                    },
+                    "hourlyRate": {
+                        "50": 15.5,
+                        "profileCount": 2
+                    },
+                    "salary": {
+                        "50": 66250,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "25": 36789.86,
+                        "50": 52500,
+                        "75": 81389.19,
+                        "profileCount": 6
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-03-11T08:50:47.67873Z",
+                        "profileCount": 6,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 36789.86,
+                                    "50": 52500,
+                                    "75": 81389.19
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2023-03-11T08:50:47.67873Z",
+                        "profileCount": 2,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 15.5
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-03-11T08:50:47.67873Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 66250
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-03-11T08:50:47.67873Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-03-11T08:50:47.67873Z",
+                        "profileCount": 4,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Hourly_Rate/7902498a/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Salary/51601e2f/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Search Engine Optimization (SEO)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Salary/0e352fde/Search-Engine-Optimization-SEO",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 72500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Web Analytics",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Salary/9b0fc635/Web-Analytics",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 72500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Wordpress",
+                                "displayName": null,
+                                "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Hourly_Rate/1582dbf0/Wordpress",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": null
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 4.5
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Digital Marketing Manager",
+                        "url": "/research/US/Job=Digital_Marketing_Manager/Salary",
+                        "profileCount": 256,
+                        "range": {
+                            "10": 48416.5,
+                            "25": 58679.73,
+                            "50": 71503.77,
+                            "75": 87370.02,
+                            "90": 104399.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Specialist",
+                        "url": "/research/US/Job=Digital_Marketing_Specialist/Salary",
+                        "profileCount": 184,
+                        "range": {
+                            "10": 39457.9,
+                            "25": 44824.32,
+                            "50": 52676.3,
+                            "75": 62146.88,
+                            "90": 71912.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Developer",
+                        "url": "/research/US/Job=Web_Developer/Salary",
+                        "profileCount": 183,
+                        "range": {
+                            "10": 43035.17,
+                            "25": 50839.8,
+                            "50": 61947.86,
+                            "75": 76044.06,
+                            "90": 91141.71
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Search Engine Optimization (SEO) Specialist",
+                        "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Specialist/Salary",
+                        "profileCount": 164,
+                        "range": {
+                            "10": 38559.62,
+                            "25": 43090.5,
+                            "50": 49776.71,
+                            "75": 58863.07,
+                            "90": 69194.79
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Search Engine Optimization (SEO) Manager",
+                        "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Manager/Salary",
+                        "profileCount": 103,
+                        "range": {
+                            "10": 50605.24,
+                            "25": 60108.32,
+                            "50": 74636.69,
+                            "75": 88801.2,
+                            "90": 107481.2
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Director",
+                        "url": "/research/US/Job=Marketing_Director/Salary",
+                        "profileCount": 94,
+                        "range": {
+                            "10": 52652.42,
+                            "25": 69884.96,
+                            "50": 94087.25,
+                            "75": 124934.61,
+                            "90": 153409.21
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Search Engine Optimization (SEO) Analyst",
+                        "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Analyst/Salary",
+                        "profileCount": 90,
+                        "range": {
+                            "10": 40281.5,
+                            "25": 45449.8,
+                            "50": 53150.15,
+                            "75": 65169.03,
+                            "90": 75277.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Designer",
+                        "url": "/research/US/Job=Web_Designer/Salary",
+                        "profileCount": 83,
+                        "range": {
+                            "10": 39273.59,
+                            "25": 45229.09,
+                            "50": 53565.82,
+                            "75": 64903.35,
+                            "90": 78671.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Strategist",
+                        "url": "/research/US/Job=Digital_Strategist/Salary",
+                        "profileCount": 64,
+                        "range": {
+                            "10": 44762.13,
+                            "25": 53473.96,
+                            "50": 65146.4,
+                            "75": 81896.81,
+                            "90": 109553.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Front End Developer / Engineer",
+                        "url": "/research/US/Job=Front_End_Developer_%2F_Engineer/Salary",
+                        "profileCount": 56,
+                        "range": {
+                            "10": 52954.6,
+                            "25": 64774.84,
+                            "50": 80736.99,
+                            "75": 99416.68,
+                            "90": 121863.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Copywriter",
+                        "url": "/research/US/Job=Copywriter/Salary",
+                        "profileCount": 55,
+                        "range": {
+                            "10": 40360.36,
+                            "25": 46733.37,
+                            "50": 56564.81,
+                            "75": 67928.48,
+                            "90": 79132
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Content Writer",
+                        "url": "/research/US/Job=Content_Writer/Salary",
+                        "profileCount": 54,
+                        "range": {
+                            "10": 35824.96,
+                            "25": 42126.8,
+                            "50": 50939.49,
+                            "75": 63183.28,
+                            "90": 77328.33
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Marketing Manager",
+                        "url": "/research/US/Job=Marketing_Manager/Salary",
+                        "profileCount": 52,
+                        "range": {
+                            "10": 46883.45,
+                            "25": 56689.29,
+                            "50": 70138.01,
+                            "75": 86233.57,
+                            "90": 104535.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Social Media Manager",
+                        "url": "/research/US/Job=Social_Media_Manager/Salary",
+                        "profileCount": 48,
+                        "range": {
+                            "10": 36610.03,
+                            "25": 44447.87,
+                            "50": 54519.82,
+                            "75": 68142.78,
+                            "90": 83275.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Analyst",
+                        "url": "/research/US/Job=Digital_Analyst/Salary",
+                        "profileCount": 42,
+                        "range": {
+                            "10": 46247.98,
+                            "25": 55301.76,
+                            "50": 65551.28,
+                            "75": 77753.46,
+                            "90": 89800.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "eCommerce Manager",
+                        "url": "/research/US/Job=eCommerce_Manager/Salary",
+                        "profileCount": 42,
+                        "range": {
+                            "10": 42581.56,
+                            "25": 53603.05,
+                            "50": 68013.11,
+                            "75": 84688.72,
+                            "90": 102647.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Marketing Manager",
+                        "url": "/research/US/Job=Senior_Marketing_Manager/Salary",
+                        "profileCount": 41,
+                        "range": {
+                            "10": 72426.76,
+                            "25": 86148.78,
+                            "50": 103686.18,
+                            "75": 125320.5,
+                            "90": 144505.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Digital Marketing Coordinator",
+                        "url": "/research/US/Job=Digital_Marketing_Coordinator/Salary",
+                        "profileCount": 40,
+                        "range": {
+                            "10": 34947.66,
+                            "25": 39803.13,
+                            "50": 45308.5,
+                            "75": 52076.73,
+                            "90": 59077.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Search Engine Optimization (SEO) Marketing Strategist",
+                        "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Marketing_Strategist/Salary",
+                        "profileCount": 40,
+                        "range": {
+                            "10": 41686.58,
+                            "25": 50648.24,
+                            "50": 61512.6,
+                            "75": 73357.68,
+                            "90": 86711.55
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Web Content Specialist",
+                        "url": "/research/US/Job=Web_Content_Specialist/Salary",
+                        "profileCount": 40,
+                        "range": {
+                            "10": 37724.52,
+                            "25": 42429.26,
+                            "50": 49861.17,
+                            "75": 59240.42,
+                            "90": 69967.87
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Search Engine Optimization (SEO), Web Analytics, Wordpress",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-03-11T08:50:47.67873Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "36789.86",
+                            "median": "52500",
+                            "percentile75": "81389.19",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "66250",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "7741.94",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 9,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Search Engine Optimization (SEO) Expert",
+                    "url": "/research/US/Job=Search_Engine_Optimization_(SEO)_Expert/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

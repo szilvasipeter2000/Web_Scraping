@@ -1,0 +1,553 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Cloud Software Architect"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Cloud_Software_Architect/Salary",
+                    "defaultUrl": "/research/US/Job=Cloud_Software_Architect/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-08-01T03:56:47.46335Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Cloud Software Architect is $135,500 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 20000,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "25": 77235.13,
+                        "50": 135500,
+                        "75": 167865.19,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 87316.96,
+                        "50": 145500,
+                        "75": 169602.47,
+                        "profileCount": 6
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-08-01T03:56:47.46335Z",
+                        "profileCount": 6,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 87316.96,
+                                    "50": 145500,
+                                    "75": 169602.47
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-08-01T03:56:47.46335Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 77235.13,
+                                    "50": 135500,
+                                    "75": 167865.19
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-08-01T03:56:47.46335Z",
+                        "profileCount": 2,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-08-01T03:56:47.46335Z",
+                        "profileCount": 3,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Software_Architect/Salary/2a1d20c4/Experienced",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 114929.06
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Amazon Web Services (AWS)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Software_Architect/Salary/611bc19f/Amazon-Web-Services-AWS",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 150000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Software Architecture",
+                                "displayName": null,
+                                "url": "/research/US/Job=Cloud_Software_Architect/Salary/c7ef35e2/Software-Architecture",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 143000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 379,
+                        "range": {
+                            "10": 66756.49,
+                            "25": 77290.53,
+                            "50": 91818.07,
+                            "75": 112828.41,
+                            "90": 134375.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Principal Software Engineer",
+                        "url": "/research/US/Job=Principal_Software_Engineer/Salary",
+                        "profileCount": 302,
+                        "range": {
+                            "10": 112593.13,
+                            "25": 128337.49,
+                            "50": 147095.51,
+                            "75": 167143.44,
+                            "90": 188266.67
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "url": "/research/US/Job=Senior_Software_Engineer/Salary",
+                        "profileCount": 292,
+                        "range": {
+                            "10": 93079.35,
+                            "25": 106995.4,
+                            "50": 125138.73,
+                            "75": 145333.1,
+                            "90": 164906.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Lead Software Engineer",
+                        "url": "/research/US/Job=Lead_Software_Engineer/Salary",
+                        "profileCount": 262,
+                        "range": {
+                            "10": 89727.16,
+                            "25": 106514.01,
+                            "50": 126729.44,
+                            "75": 146018.37,
+                            "90": 165870.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Development Operations (DevOps) Engineer",
+                        "url": "/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary",
+                        "profileCount": 228,
+                        "range": {
+                            "10": 70452.71,
+                            "25": 84636.58,
+                            "50": 103346.85,
+                            "75": 127284.99,
+                            "90": 147881.47
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Solutions Architect",
+                        "url": "/research/US/Job=Solutions_Architect/Salary",
+                        "profileCount": 222,
+                        "range": {
+                            "10": 79852.18,
+                            "25": 99969.98,
+                            "50": 125026.05,
+                            "75": 148202.14,
+                            "90": 168605.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Architect",
+                        "url": "/research/US/Job=Software_Architect/Salary",
+                        "profileCount": 212,
+                        "range": {
+                            "10": 96366.13,
+                            "25": 114723.57,
+                            "50": 135289.07,
+                            "75": 155108.09,
+                            "90": 177059.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Software Architect",
+                        "url": "/research/US/Job=Senior_Software_Architect/Salary",
+                        "profileCount": 132,
+                        "range": {
+                            "10": 108736.95,
+                            "25": 124813.09,
+                            "50": 143384.33,
+                            "75": 164025.11,
+                            "90": 184160.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineering Manager",
+                        "url": "/research/US/Job=Software_Engineering_Manager/Salary",
+                        "profileCount": 123,
+                        "range": {
+                            "10": 110285.23,
+                            "25": 129420.16,
+                            "50": 148083.67,
+                            "75": 167571.5,
+                            "90": 188256.63
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Technology Officer (CTO)",
+                        "url": "/research/US/Job=Chief_Technology_Officer_(CTO)/Salary",
+                        "profileCount": 118,
+                        "range": {
+                            "10": 96040.25,
+                            "25": 130873.83,
+                            "50": 173258.34,
+                            "75": 215070.84,
+                            "90": 256993.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Technical Architect",
+                        "url": "/research/US/Job=Technical_Architect/Salary",
+                        "profileCount": 104,
+                        "range": {
+                            "10": 81083.76,
+                            "25": 100854.5,
+                            "50": 124592.11,
+                            "75": 147961.59,
+                            "90": 166718.42
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Engineer",
+                        "url": "/research/US/Job=Data_Engineer/Salary",
+                        "profileCount": 96,
+                        "range": {
+                            "10": 67148.81,
+                            "25": 79632.6,
+                            "50": 95337.67,
+                            "75": 116451.06,
+                            "90": 134970.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineering / Development Director",
+                        "url": "/research/US/Job=Software_Engineering_%2F_Development_Director/Salary",
+                        "profileCount": 91,
+                        "range": {
+                            "10": 119786.72,
+                            "25": 139332.65,
+                            "50": 160775.57,
+                            "75": 182926.56,
+                            "90": 204230.32
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Software Engineer",
+                        "url": "/research/US/Job=Staff_Software_Engineer/Salary",
+                        "profileCount": 91,
+                        "range": {
+                            "10": 110866.88,
+                            "25": 131201.41,
+                            "50": 151893.7,
+                            "75": 178272.4,
+                            "90": 202358.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Sr. Software Engineer / Developer / Programmer",
+                        "url": "/research/US/Job=Sr._Software_Engineer_%2F_Developer_%2F_Programmer/Salary",
+                        "profileCount": 82,
+                        "range": {
+                            "10": 83883.79,
+                            "25": 97548.4,
+                            "50": 115756.21,
+                            "75": 133738.13,
+                            "90": 154054.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Site Reliability Engineer (SRE)",
+                        "url": "/research/US/Job=Site_Reliability_Engineer_(SRE)/Salary",
+                        "profileCount": 82,
+                        "range": {
+                            "10": 79953.45,
+                            "25": 99492.91,
+                            "50": 122641.2,
+                            "75": 143908.67,
+                            "90": 161914.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Solutions Architect",
+                        "url": "/research/US/Job=Senior_Solutions_Architect/Salary",
+                        "profileCount": 81,
+                        "range": {
+                            "10": 103495.36,
+                            "25": 124115.25,
+                            "50": 142445.35,
+                            "75": 160546.62,
+                            "90": 179012.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Developer",
+                        "url": "/research/US/Job=Software_Developer/Salary",
+                        "profileCount": 75,
+                        "range": {
+                            "10": 54766.14,
+                            "25": 64368.86,
+                            "50": 76962.83,
+                            "75": 92694.94,
+                            "90": 112564.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Vice President (VP), Engineering",
+                        "url": "/research/US/Job=Vice_President_(VP)%2C_Engineering/Salary",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 123660.11,
+                            "25": 148035.93,
+                            "50": 177755.09,
+                            "75": 210108.44,
+                            "90": 247800.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director of Engineering",
+                        "url": "/research/US/Job=Director_of_Engineering/Salary",
+                        "profileCount": 55,
+                        "range": {
+                            "10": 100408.81,
+                            "25": 125872.36,
+                            "50": 152599.73,
+                            "75": 179433.5,
+                            "90": 203167.91
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Cloud_Software_Architect/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Amazon Web Services (AWS), Software Architecture",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-08-01T03:56:47.46335Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "87316.96",
+                            "median": "145500",
+                            "percentile75": "169602.47",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "77235.13",
+                            "median": "135500",
+                            "percentile75": "167865.19",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "20000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 6,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Cloud Software Architect",
+                    "url": "/research/US/Job=Cloud_Software_Architect/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

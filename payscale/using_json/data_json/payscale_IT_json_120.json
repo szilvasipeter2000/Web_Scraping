@@ -1,0 +1,630 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Computer Services Manager",
+                    "url": "/research/US/Job=Computer_Services_Manager/Salary",
+                    "compensation": 82023.85796584378,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Security Analyst",
+                            "url": "/research/US/Job=Security_Analyst/Salary",
+                            "percent": 1,
+                            "compensation": 68346.84193225505,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Information Security Analyst",
+                                    "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                                    "percent": 0.16,
+                                    "compensation": 72077.72803685124,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Security Engineer",
+                                    "url": "/research/US/Job=Security_Engineer/Salary",
+                                    "percent": 0.13,
+                                    "compensation": 90614.50167331363,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Cyber Security Analyst",
+                                    "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                                    "percent": 0.09,
+                                    "compensation": 75882.70800189902,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Computer Services Manager"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Computer_Services_Manager/Salary",
+                    "defaultUrl": "/research/US/Job=Computer_Services_Manager/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-01-02T03:17:14.83285Z",
+                "narratives": {
+                    "description": "Computer services managers are responsible for daily operations to meet the needs of end users or customers, including providing solutions to computer software/hardware problems. They must be able to focus on corporate goals and provide technological solutions, and communication skills are important in this position to work well with external and internal clients as well as software/hardware vendors. As managers, they must also conduct employee evaluation reviews and provide timely feedback to staff.\r\nA bachelor’s degree or higher in information technology (IT), computer science, or a related field and leadership/management skills are generally required for this position, and strong interpersonal and leadership skills are also important to build strong teamwork. They should be proficient in Microsoft Office programs, and they are encouraged to keep their skills and knowledge up-to-date by reading relevant professional journals and attending workshops or conferences. Some may attend ongoing education related to technology and management or be tasked with interviewing potential employees, as well as coaching and training current staff.",
+                    "summarySalary": "The average pay for a Computer Services Manager is $59,927 per year."
+                },
+                "tasks": [
+                    "Hire, review, and fire non-management employees.",
+                    "implementation, deployment and operation of information systems and technology solutions for business needs.",
+                    "Plan, direct, and coordinate the development.",
+                    "Plan, direct, and coordinate of the internal information technology help desk.",
+                    "Perform extensive customer communication."
+                ],
+                "compensation": {
+                    "salary": {
+                        "25": 50256.85,
+                        "50": 59926.99,
+                        "75": 84441.28,
+                        "profileCount": 6
+                    },
+                    "total": {
+                        "25": 50256.85,
+                        "50": 59926.99,
+                        "75": 84441.28,
+                        "profileCount": 6
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-01-02T03:17:14.83285Z",
+                        "profileCount": 6,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 50256.85,
+                                    "50": 59926.99,
+                                    "75": 84441.28
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-01-02T03:17:14.83285Z",
+                        "profileCount": 6,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": {
+                                    "25": 50256.85,
+                                    "50": 59926.99,
+                                    "75": 84441.28
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-01-02T03:17:14.83285Z",
+                        "profileCount": 1,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-01-02T03:17:14.83285Z",
+                        "profileCount": 2,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Services_Manager/Salary/cdff0d55/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 78850
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Services_Manager/Salary/143f3ec9/Experienced",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 84000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "20 years or more",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Services_Manager/Salary/c8a47ba5/Late-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 57000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Office",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Services_Manager/Salary/92542ee5/Microsoft-Office",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 86711.44
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Network Management / Administration",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Services_Manager/Salary/4cf4a09d/Network-Management-Administration",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 88332.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Computer_Services_Manager/Salary/86fdcf64/Project-Management",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3782,
+                        "range": {
+                            "10": 51308.94,
+                            "25": 62590.78,
+                            "50": 77427.97,
+                            "75": 95829.84,
+                            "90": 117166.46
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 2629,
+                        "range": {
+                            "10": 30312.95,
+                            "25": 35535.25,
+                            "50": 41742.74,
+                            "75": 50377.51,
+                            "90": 59412.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 2042,
+                        "range": {
+                            "10": 55639.99,
+                            "25": 63249.84,
+                            "50": 72315.93,
+                            "75": 84802.43,
+                            "90": 100983.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 2000,
+                        "range": {
+                            "10": 58566.74,
+                            "25": 65977.19,
+                            "50": 75306.87,
+                            "75": 87746.14,
+                            "90": 103540.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 1679,
+                        "range": {
+                            "10": 57301,
+                            "25": 70938.93,
+                            "50": 89962.21,
+                            "75": 113302.18,
+                            "90": 135160.12
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 1582,
+                        "range": {
+                            "10": 36103.55,
+                            "25": 42543.71,
+                            "50": 51218.78,
+                            "75": 61491.84,
+                            "90": 72641.26
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1400,
+                        "range": {
+                            "10": 45608.08,
+                            "25": 55492.42,
+                            "50": 69523,
+                            "75": 87193.13,
+                            "90": 108735.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 1394,
+                        "range": {
+                            "10": 41635.38,
+                            "25": 49956.92,
+                            "50": 60643.83,
+                            "75": 72889.54,
+                            "90": 85676.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 1106,
+                        "range": {
+                            "10": 58810.16,
+                            "25": 72167.68,
+                            "50": 89805.39,
+                            "75": 110828.23,
+                            "90": 130888.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 1009,
+                        "range": {
+                            "10": 62149.05,
+                            "25": 70513.4,
+                            "50": 80434.6,
+                            "75": 95891.6,
+                            "90": 118484.45
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 984,
+                        "range": {
+                            "10": 55821.59,
+                            "25": 62169.91,
+                            "50": 70919.08,
+                            "75": 84921.95,
+                            "90": 103396.28
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 884,
+                        "range": {
+                            "10": 51000.8,
+                            "25": 61795.63,
+                            "50": 77841.23,
+                            "75": 96892.73,
+                            "90": 121392.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 687,
+                        "range": {
+                            "10": 39445.35,
+                            "25": 45022.87,
+                            "50": 52885.58,
+                            "75": 62360.23,
+                            "90": 72660.06
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Systems Administrator",
+                        "url": "/research/US/Job=Systems_Administrator/Salary",
+                        "profileCount": 675,
+                        "range": {
+                            "10": 47344.64,
+                            "25": 55082.65,
+                            "50": 65036.36,
+                            "75": 77239.45,
+                            "90": 90906.35
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 578,
+                        "range": {
+                            "10": 67633.41,
+                            "25": 80674.23,
+                            "50": 97945.81,
+                            "75": 118935.47,
+                            "90": 139714.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Assistant Project Manager, Construction",
+                        "url": "/research/US/Job=Assistant_Project_Manager%2C_Construction/Salary",
+                        "profileCount": 568,
+                        "range": {
+                            "10": 46530.3,
+                            "25": 54409.14,
+                            "50": 64896.61,
+                            "75": 75770.2,
+                            "90": 86944.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Director",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Director/Salary",
+                        "profileCount": 553,
+                        "range": {
+                            "10": 72875.38,
+                            "25": 94138.29,
+                            "50": 123232.49,
+                            "75": 152613.96,
+                            "90": 177461.76
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 549,
+                        "range": {
+                            "10": 52346.85,
+                            "25": 61288.96,
+                            "50": 71994.6,
+                            "75": 85002.1,
+                            "90": 100779.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 544,
+                        "range": {
+                            "10": 40563.86,
+                            "25": 48282.58,
+                            "50": 58818.25,
+                            "75": 72062.27,
+                            "90": 87089.89
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Manufacturing Engineer",
+                        "url": "/research/US/Job=Manufacturing_Engineer/Salary",
+                        "profileCount": 516,
+                        "range": {
+                            "10": 58175.75,
+                            "25": 65237.39,
+                            "50": 73795.38,
+                            "75": 84490.03,
+                            "90": 96993.85
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Computer_Services_Manager/Salary",
+                    "occupationalCategory": "11-3020.00 - Computer and Information Systems Managers",
+                    "skills": "Microsoft Office, Network Management / Administration, Project Management",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-01-02T03:17:14.83285Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "50256.85",
+                            "median": "59926.99",
+                            "percentile75": "84441.28",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "50256.85",
+                            "median": "59926.99",
+                            "percentile75": "84441.28",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": "Computer services managers are responsible for daily operations to meet the needs of end users or customers, including providing solutions to computer software/hardware problems. They must be able to focus on corporate goals and provide technological solutions, and communication skills are important in this position to work well with external and internal clients as well as software/hardware vendors. As managers, they must also conduct employee evaluation reviews and provide timely feedback to staff.\r\nA bachelor’s degree or higher in information technology (IT), computer science, or a related field and leadership/management skills are generally required for this position, and strong interpersonal and leadership skills are also important to build strong teamwork. They should be proficient in Microsoft Office programs, and they are encouraged to keep their skills and knowledge up-to-date by reading relevant professional journals and attending workshops or conferences. Some may attend ongoing education related to technology and management or be tasked with interviewing potential employees, as well as coaching and training current staff.",
+                    "name": "Computer Services Manager",
+                    "url": "/research/US/Job=Computer_Services_Manager/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

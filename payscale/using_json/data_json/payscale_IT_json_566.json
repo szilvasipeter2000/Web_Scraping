@@ -1,0 +1,594 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Senior SOC Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Senior_SOC_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Senior_SOC_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-07-26T04:01:51.36056Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Senior SOC Analyst is $96,984 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 9886.96,
+                        "profileCount": 4
+                    },
+                    "salary": {
+                        "10": 58535.78,
+                        "25": 66128.71,
+                        "50": 96984.05,
+                        "75": 104047.73,
+                        "90": 117450.84,
+                        "profileCount": 12
+                    },
+                    "total": {
+                        "10": 58535.78,
+                        "25": 66128.71,
+                        "50": 99244.33,
+                        "75": 112496.39,
+                        "90": 117772.25,
+                        "profileCount": 12
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-07-26T04:01:51.36056Z",
+                        "profileCount": 12,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": {
+                                    "10": 58535.78,
+                                    "25": 66128.71,
+                                    "50": 99244.33,
+                                    "75": 112496.39,
+                                    "90": 117772.25
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-07-26T04:01:51.36056Z",
+                        "profileCount": 12,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": {
+                                    "10": 58535.78,
+                                    "25": 66128.71,
+                                    "50": 96984.05,
+                                    "75": 104047.73,
+                                    "90": 117450.84
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-07-26T04:01:51.36056Z",
+                        "profileCount": 7,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-07-26T04:01:51.36056Z",
+                        "profileCount": 7,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_SOC_Analyst/Salary/41398777/Early-Career",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 95000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_SOC_Analyst/Salary/43e3daae/Mid-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 94000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Cyber Security",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_SOC_Analyst/Salary/7e830a24/Cyber-Security",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 82500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Security Information and Event Management (SIEM)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_SOC_Analyst/Salary/6efd0f42/Security-Information-and-Event-Management-SIEM",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 82500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Incident Response",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_SOC_Analyst/Salary/fea101be/Incident-Response",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 81500
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "IT Security & Infrastructure",
+                                "displayName": null,
+                                "url": "/research/US/Job=Senior_SOC_Analyst/Salary/74df1942/IT-Security-%26-Infrastructure",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 79000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Cyber Security Analyst",
+                        "url": "/research/US/Job=Cyber_Security_Analyst/Salary",
+                        "profileCount": 446,
+                        "range": {
+                            "10": 55917.47,
+                            "25": 66667.41,
+                            "50": 80311.26,
+                            "75": 97741.72,
+                            "90": 119674.27
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Analyst",
+                        "url": "/research/US/Job=Information_Security_Analyst/Salary",
+                        "profileCount": 406,
+                        "range": {
+                            "10": 55049.26,
+                            "25": 64192.61,
+                            "50": 76698.1,
+                            "75": 93152.49,
+                            "90": 113981.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Engineer",
+                        "url": "/research/US/Job=Security_Engineer/Salary",
+                        "profileCount": 226,
+                        "range": {
+                            "10": 67730.9,
+                            "25": 81354.62,
+                            "50": 99219.6,
+                            "75": 122337.47,
+                            "90": 145153.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Analyst",
+                        "url": "/research/US/Job=Security_Analyst/Salary",
+                        "profileCount": 223,
+                        "range": {
+                            "10": 52541.38,
+                            "25": 61780.64,
+                            "50": 72974.58,
+                            "75": 86193.46,
+                            "90": 102001.97
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Cyber Security Engineer",
+                        "url": "/research/US/Job=Cyber_Security_Engineer/Salary",
+                        "profileCount": 217,
+                        "range": {
+                            "10": 71549.46,
+                            "25": 82707.33,
+                            "50": 101027.21,
+                            "75": 124230.77,
+                            "90": 145384.53
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Manager",
+                        "url": "/research/US/Job=Information_Security_Manager/Salary",
+                        "profileCount": 141,
+                        "range": {
+                            "10": 83263.97,
+                            "25": 100562.68,
+                            "50": 123917.35,
+                            "75": 141044.76,
+                            "90": 157793.99
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Engineer",
+                        "url": "/research/US/Job=Information_Security_Engineer/Salary",
+                        "profileCount": 113,
+                        "range": {
+                            "10": 70062.14,
+                            "25": 81151.6,
+                            "50": 98095.43,
+                            "75": 120025.63,
+                            "90": 138887.59
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Consultant, (Computing / Networking / Information Technology)",
+                        "url": "/research/US/Job=Security_Consultant%2C_(Computing_%2F_Networking_%2F_Information_Technology)/Salary",
+                        "profileCount": 85,
+                        "range": {
+                            "10": 65672.74,
+                            "25": 76800.69,
+                            "50": 93347.67,
+                            "75": 119401.54,
+                            "90": 148995.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Chief Information Security Officer",
+                        "url": "/research/US/Job=Chief_Information_Security_Officer/Salary",
+                        "profileCount": 73,
+                        "range": {
+                            "10": 108683.83,
+                            "25": 140834.2,
+                            "50": 174379.27,
+                            "75": 205575.09,
+                            "90": 236849.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Officer",
+                        "url": "/research/US/Job=Information_Security_Officer/Salary",
+                        "profileCount": 62,
+                        "range": {
+                            "10": 62723.43,
+                            "25": 80079.69,
+                            "50": 98633.48,
+                            "75": 121430.2,
+                            "90": 144410.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Architect, IT",
+                        "url": "/research/US/Job=Security_Architect%2C_IT/Salary",
+                        "profileCount": 55,
+                        "range": {
+                            "10": 91731.76,
+                            "25": 111558.74,
+                            "50": 136814.03,
+                            "75": 159584.82,
+                            "90": 183527.83
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Security Consultant",
+                        "url": "/research/US/Job=Senior_Security_Consultant/Salary",
+                        "profileCount": 43,
+                        "range": {
+                            "10": 81488.09,
+                            "25": 96528.39,
+                            "50": 118523.86,
+                            "75": 138812.26,
+                            "90": 158549.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Security Specialist",
+                        "url": "/research/US/Job=Information_Security_Specialist/Salary",
+                        "profileCount": 40,
+                        "range": {
+                            "10": 54328.9,
+                            "25": 65539.1,
+                            "50": 80487.73,
+                            "75": 100894.52,
+                            "90": 129256.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Penetration Tester",
+                        "url": "/research/US/Job=Penetration_Tester/Salary",
+                        "profileCount": 37,
+                        "range": {
+                            "10": 60491.98,
+                            "25": 75745.06,
+                            "50": 92134.69,
+                            "75": 115963.08,
+                            "90": 139185.36
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Software Engineer",
+                        "url": "/research/US/Job=Software_Engineer/Salary",
+                        "profileCount": 23,
+                        "range": {
+                            "10": 66726.28,
+                            "25": 77270.59,
+                            "50": 91791.97,
+                            "75": 112791.46,
+                            "90": 134347.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Director, Computing/Networking/Information Technology (IT) Security",
+                        "url": "/research/US/Job=Director%2C_Computing%2FNetworking%2FInformation_Technology_(IT)_Security/Salary",
+                        "profileCount": 20,
+                        "range": {
+                            "10": 102404.96,
+                            "25": 128772.1,
+                            "50": 152265.5,
+                            "75": 176152.9,
+                            "90": 191762.86
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Network Security Engineer",
+                        "url": "/research/US/Job=Network_Security_Engineer/Salary",
+                        "profileCount": 19,
+                        "range": {
+                            "10": 64703.43,
+                            "25": 79631.57,
+                            "50": 95448.54,
+                            "75": 117099.95,
+                            "90": 140125.88
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Consultant",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Consultant/Salary",
+                        "profileCount": 17,
+                        "range": {
+                            "10": 53390.23,
+                            "25": 66700.39,
+                            "50": 83432.2,
+                            "75": 108152.87,
+                            "90": 134007.41
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Security Administrator, IT",
+                        "url": "/research/US/Job=Security_Administrator%2C_IT/Salary",
+                        "profileCount": 13,
+                        "range": {
+                            "10": 50467.72,
+                            "25": 59713.03,
+                            "50": 69297.99,
+                            "75": 82260.77,
+                            "90": 98007.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Intelligence Analyst",
+                        "url": "/research/US/Job=Intelligence_Analyst/Salary",
+                        "profileCount": 13,
+                        "range": {
+                            "10": 49486.11,
+                            "25": 61354.83,
+                            "50": 76627.73,
+                            "75": 95128.02,
+                            "90": 116420.9
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Senior_SOC_Analyst/Salary",
+                    "occupationalCategory": "15-1070.00 - Network and Computer Systems Administrators",
+                    "skills": "Cyber Security, Security Information and Event Management (SIEM), Incident Response, IT Security & Infrastructure",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-07-26T04:01:51.36056Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58535.78",
+                            "percentile25": "66128.71",
+                            "median": "99244.33",
+                            "percentile75": "112496.39",
+                            "percentile90": "117772.25",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "58535.78",
+                            "percentile25": "66128.71",
+                            "median": "96984.05",
+                            "percentile75": "104047.73",
+                            "percentile90": "117450.84",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "9886.96",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 18,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Senior SOC Analyst",
+                    "url": "/research/US/Job=Senior_SOC_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

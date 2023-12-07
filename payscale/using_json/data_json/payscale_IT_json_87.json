@@ -1,0 +1,708 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": {
+                "value": {
+                    "jobTitle": "Clinical Implementation Specialist",
+                    "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary",
+                    "compensation": 71122.19275467035,
+                    "isHourly": false,
+                    "currency": "USD"
+                },
+                "childCount": 1,
+                "children": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "jobTitle": "Clinical Applications Specialist",
+                            "url": "/research/US/Job=Clinical_Applications_Specialist/Salary",
+                            "percent": 1,
+                            "compensation": 72597.45958856081,
+                            "isHourly": false,
+                            "currency": "USD"
+                        },
+                        "childCount": 3,
+                        "children": [
+                            {
+                                "index": 0,
+                                "value": {
+                                    "jobTitle": "Clinical Informatics Specialist",
+                                    "url": "/research/US/Job=Clinical_Informatics_Specialist/Salary",
+                                    "percent": 0.14,
+                                    "compensation": 78047.21567600689,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 1,
+                                "value": {
+                                    "jobTitle": "Senior Data Analyst",
+                                    "url": "/research/US/Job=Senior_Data_Analyst/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 80913.95129275061,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            },
+                            {
+                                "index": 2,
+                                "value": {
+                                    "jobTitle": "Implementation Consultant",
+                                    "url": "/research/US/Job=Implementation_Consultant/Salary",
+                                    "percent": 0.11,
+                                    "compensation": 70374.51839517824,
+                                    "isHourly": false,
+                                    "currency": "USD"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Clinical Implementation Specialist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary",
+                    "defaultUrl": "/research/US/Job=Clinical_Implementation_Specialist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-05-03T05:44:52.38755Z",
+                "narratives": {
+                    "summarySalary": "The average pay for a Clinical Implementation Specialist is $74,495 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 2225,
+                        "50": 4069.46,
+                        "75": 8500,
+                        "profileCount": 5
+                    },
+                    "salary": {
+                        "10": 59179.54,
+                        "25": 62033.69,
+                        "50": 74494.64,
+                        "75": 81313.35,
+                        "90": 109262.24,
+                        "profileCount": 10
+                    },
+                    "total": {
+                        "10": 54819.5,
+                        "25": 60871.14,
+                        "50": 75092.17,
+                        "75": 84000,
+                        "90": 112441.14,
+                        "profileCount": 11
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-05-03T05:44:52.38755Z",
+                        "profileCount": 11,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 11,
+                                "range": {
+                                    "10": 54819.5,
+                                    "25": 60871.14,
+                                    "50": 75092.17,
+                                    "75": 84000,
+                                    "90": 112441.14
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-05-03T05:44:52.38755Z",
+                        "profileCount": 10,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 10,
+                                "range": {
+                                    "10": 59179.54,
+                                    "25": 62033.69,
+                                    "50": 74494.64,
+                                    "75": 81313.35,
+                                    "90": 109262.24
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-05-03T05:44:52.38755Z",
+                        "profileCount": 8,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-05-03T05:44:52.38755Z",
+                        "profileCount": 10,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 8,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 2,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/7d8d5b32/Early-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/a0c1eb74/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 71553.02
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "10-19 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/8ff09359/Experienced",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 75496.69
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/958a0b9d/Chicago-IL",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70749.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/dc9a8e04/Pittsburgh-PA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 76305.17
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Electronic Health Records (EHR)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/cd62f91c/Electronic-Health-Records-EHR",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 61342.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Project Management",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/2928a809/Project-Management",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 77419.35
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Clinical Education",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/6f2027ba/Clinical-Education",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 76302.36
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Training",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/ada0cad1/Training",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 78083.24
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Data Analysis",
+                                "displayName": null,
+                                "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary/ce2f4bae/Data-Analysis",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 75000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 1,
+                        "score": 4
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 3408,
+                        "range": {
+                            "10": 51601.88,
+                            "25": 62977.52,
+                            "50": 77794.8,
+                            "75": 96405.63,
+                            "90": 117801.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 1454,
+                        "range": {
+                            "10": 47034.7,
+                            "25": 55095.64,
+                            "50": 65331.67,
+                            "75": 77100.5,
+                            "90": 89711.77
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 1380,
+                        "range": {
+                            "10": 56112.22,
+                            "25": 63714.78,
+                            "50": 72815.69,
+                            "75": 85474.09,
+                            "90": 101665.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 1072,
+                        "range": {
+                            "10": 59079.17,
+                            "25": 66647.99,
+                            "50": 76049.16,
+                            "75": 88598.4,
+                            "90": 104788.72
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 1042,
+                        "range": {
+                            "10": 46223.75,
+                            "25": 56168.23,
+                            "50": 70206.13,
+                            "75": 87971.3,
+                            "90": 109765.04
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 883,
+                        "range": {
+                            "10": 50111.24,
+                            "25": 56953.06,
+                            "50": 64977.31,
+                            "75": 74684.5,
+                            "90": 85824.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Information Technology (IT)",
+                        "url": "/research/US/Job=Project_Manager%2C_Information_Technology_(IT)/Salary",
+                        "profileCount": 835,
+                        "range": {
+                            "10": 59211.35,
+                            "25": 72795.77,
+                            "50": 90537.31,
+                            "75": 111533.44,
+                            "90": 131580.85
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Business Analyst",
+                        "url": "/research/US/Job=Senior_Business_Analyst/Salary",
+                        "profileCount": 760,
+                        "range": {
+                            "10": 66421.95,
+                            "25": 76099.17,
+                            "50": 88417.58,
+                            "75": 102473.41,
+                            "90": 119372.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Construction",
+                        "url": "/research/US/Job=Project_Manager%2C_Construction/Salary",
+                        "profileCount": 666,
+                        "range": {
+                            "10": 51238.14,
+                            "25": 62200.58,
+                            "50": 78386.4,
+                            "75": 97969.1,
+                            "90": 122685.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Process Engineer",
+                        "url": "/research/US/Job=Process_Engineer/Salary",
+                        "profileCount": 650,
+                        "range": {
+                            "10": 60563.89,
+                            "25": 68423.5,
+                            "50": 77943.72,
+                            "75": 90695,
+                            "90": 107552.81
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Information Technology (IT) Manager",
+                        "url": "/research/US/Job=Information_Technology_(IT)_Manager/Salary",
+                        "profileCount": 636,
+                        "range": {
+                            "10": 57778.97,
+                            "25": 71446.04,
+                            "50": 90402.26,
+                            "75": 113984.44,
+                            "90": 135860.19
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst, IT",
+                        "url": "/research/US/Job=Business_Analyst%2C_IT/Salary",
+                        "profileCount": 615,
+                        "range": {
+                            "10": 52980.94,
+                            "25": 61699.83,
+                            "50": 72565.57,
+                            "75": 85869.16,
+                            "90": 101826.87
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 541,
+                        "range": {
+                            "10": 49388.88,
+                            "25": 56687.96,
+                            "50": 65688.24,
+                            "75": 76143.69,
+                            "90": 86911.13
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 521,
+                        "range": {
+                            "10": 56411.7,
+                            "25": 62856.34,
+                            "50": 71782.69,
+                            "75": 86180.72,
+                            "90": 104399.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Account Manager",
+                        "url": "/research/US/Job=Account_Manager/Salary",
+                        "profileCount": 513,
+                        "range": {
+                            "10": 40925.42,
+                            "25": 48815.75,
+                            "50": 59319.78,
+                            "75": 72552.04,
+                            "90": 87558.1
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 507,
+                        "range": {
+                            "10": 62908.33,
+                            "25": 71225.35,
+                            "50": 81250,
+                            "75": 96902.95,
+                            "90": 119835.29
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Research Scientist",
+                        "url": "/research/US/Job=Research_Scientist/Salary",
+                        "profileCount": 504,
+                        "range": {
+                            "10": 55224.91,
+                            "25": 69417.07,
+                            "50": 86392.44,
+                            "75": 105868.8,
+                            "90": 125295.07
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, Engineering",
+                        "url": "/research/US/Job=Project_Manager%2C_Engineering/Salary",
+                        "profileCount": 488,
+                        "range": {
+                            "10": 68539.07,
+                            "25": 81654.35,
+                            "50": 98952.71,
+                            "75": 119925.66,
+                            "90": 140965.8
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Project Manager, IT",
+                        "url": "/research/US/Job=Senior_Project_Manager%2C_IT/Salary",
+                        "profileCount": 466,
+                        "range": {
+                            "10": 87754.95,
+                            "25": 102010.07,
+                            "50": 118651.72,
+                            "75": 135612.16,
+                            "90": 153478.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Systems Analyst",
+                        "url": "/research/US/Job=Business_Systems_Analyst/Salary",
+                        "profileCount": 466,
+                        "range": {
+                            "10": 54016.28,
+                            "25": 62173.58,
+                            "50": 72048.2,
+                            "75": 86510.38,
+                            "90": 101083.63
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Clinical_Implementation_Specialist/Salary",
+                    "occupationalCategory": "15-1050.00 - Computer Systems Analysts",
+                    "skills": "Electronic Health Records (EHR), Project Management, Clinical Education, Training, Data Analysis",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-05-03T05:44:52.38755Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "54819.5",
+                            "percentile25": "60871.14",
+                            "median": "75092.17",
+                            "percentile75": "84000",
+                            "percentile90": "112441.14",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "59179.54",
+                            "percentile25": "62033.69",
+                            "median": "74494.64",
+                            "percentile75": "81313.35",
+                            "percentile90": "109262.24",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "2225",
+                            "median": "4069.46",
+                            "percentile75": "8500",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 13,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Clinical Implementation Specialist",
+                    "url": "/research/US/Job=Clinical_Implementation_Specialist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

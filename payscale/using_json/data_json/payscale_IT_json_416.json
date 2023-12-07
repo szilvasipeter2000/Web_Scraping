@@ -1,0 +1,643 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Ontologist"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Ontologist/Salary",
+                    "defaultUrl": "/research/US/Job=Ontologist/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2023-07-07T07:41:05.26711Z",
+                "narratives": {
+                    "summarySalary": "The average pay for an Ontologist is $97,850 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "25": 4421.86,
+                        "50": 7308.63,
+                        "75": 19329.93,
+                        "profileCount": 6
+                    },
+                    "salary": {
+                        "10": 69639.78,
+                        "25": 87388.52,
+                        "50": 97849.74,
+                        "75": 146064.6,
+                        "90": 161359.76,
+                        "profileCount": 18
+                    },
+                    "total": {
+                        "10": 79463.45,
+                        "25": 89840.59,
+                        "50": 100184.26,
+                        "75": 151072.91,
+                        "90": 181207.24,
+                        "profileCount": 18
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2023-07-07T07:41:05.26711Z",
+                        "profileCount": 18,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": {
+                                    "10": 79463.45,
+                                    "25": 89840.59,
+                                    "50": 100184.26,
+                                    "75": 151072.91,
+                                    "90": 181207.24
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2023-07-07T07:41:05.26711Z",
+                        "profileCount": 18,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 18,
+                                "range": {
+                                    "10": 69639.78,
+                                    "25": 87388.52,
+                                    "50": 97849.74,
+                                    "75": 146064.6,
+                                    "90": 161359.76
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2023-07-07T07:41:05.26711Z",
+                        "profileCount": 10,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 6,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2023-07-07T07:41:05.26711Z",
+                        "profileCount": 12,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 12,
+                                "range": null,
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [
+                            {
+                                "name": "Amazon.com Inc",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/806fcb07/Amazon.com-Inc",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 80000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/74ecb6f9/Early-Career",
+                                "profileCount": 13,
+                                "range": {
+                                    "50": 100000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "5-9 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/2acb238d/Mid-Career",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 95790
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/b89481f6/New-York-NY",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 147457.63
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/1e4691b5/Seattle-WA",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 89319.96
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/98ca8cf0/Austin-TX",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 70000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Ontology Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/488de89a/Ontology-Development",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 94740.86
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Taxonomy Development",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/dd963a71/Taxonomy-Development",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 92614.73
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Artificial Intelligence (AI)",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/bc7ed69d/Artificial-Intelligence-AI",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 80329.05
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Problem Solving",
+                                "displayName": null,
+                                "url": "/research/US/Job=Ontologist/Salary/26e04580/Problem-Solving",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 80928.97
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": {
+                    "Job Satisfaction Overall": {
+                        "profileCount": 2,
+                        "score": 2
+                    }
+                },
+                "related": [
+                    {
+                        "name": "Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 1438,
+                        "range": {
+                            "10": 30920.39,
+                            "25": 36304.8,
+                            "50": 42560.27,
+                            "75": 50751.86,
+                            "90": 60109.54
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Production Supervisor",
+                        "url": "/research/US/Job=Production_Supervisor/Salary",
+                        "profileCount": 546,
+                        "range": {
+                            "10": 48720.33,
+                            "25": 55741.38,
+                            "50": 64651.54,
+                            "75": 73672.58,
+                            "90": 82713.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Supervisor",
+                        "url": "/research/US/Job=Operations_Supervisor/Salary",
+                        "profileCount": 517,
+                        "range": {
+                            "10": 46199,
+                            "25": 53930.13,
+                            "50": 62844.34,
+                            "75": 74217.91,
+                            "90": 88694.25
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Coordinator, (Unknown Type / General)",
+                        "url": "/research/US/Job=Project_Coordinator%2C_(Unknown_Type_%2F_General)/Salary",
+                        "profileCount": 367,
+                        "range": {
+                            "10": 40056.79,
+                            "25": 45880.71,
+                            "50": 53984.38,
+                            "75": 63506.55,
+                            "90": 74011
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Service Manager",
+                        "url": "/research/US/Job=Customer_Service_Manager/Salary",
+                        "profileCount": 346,
+                        "range": {
+                            "10": 43044.79,
+                            "25": 50877.16,
+                            "50": 62095.18,
+                            "75": 75548.83,
+                            "90": 88785.11
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Analyst",
+                        "url": "/research/US/Job=Operations_Analyst/Salary",
+                        "profileCount": 240,
+                        "range": {
+                            "10": 46588.33,
+                            "25": 53052.92,
+                            "50": 61503.78,
+                            "75": 71856.33,
+                            "90": 83662.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Product Engineer",
+                        "url": "/research/US/Job=Product_Engineer/Salary",
+                        "profileCount": 211,
+                        "range": {
+                            "10": 60235.49,
+                            "25": 67227.55,
+                            "50": 75968.76,
+                            "75": 87491.02,
+                            "90": 102559.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Assurance Manager",
+                        "url": "/research/US/Job=Quality_Assurance_Manager/Salary",
+                        "profileCount": 133,
+                        "range": {
+                            "10": 56200.99,
+                            "25": 69230.64,
+                            "50": 86606.72,
+                            "75": 107206.29,
+                            "90": 130563.93
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Applications Engineer",
+                        "url": "/research/US/Job=Applications_Engineer/Salary",
+                        "profileCount": 115,
+                        "range": {
+                            "10": 59257.54,
+                            "25": 67244.63,
+                            "50": 78231.15,
+                            "75": 92695.71,
+                            "90": 112611.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Client Service Manager",
+                        "url": "/research/US/Job=Client_Service_Manager/Salary",
+                        "profileCount": 114,
+                        "range": {
+                            "10": 45072.01,
+                            "25": 52951.52,
+                            "50": 65216.64,
+                            "75": 78946.81,
+                            "90": 95498.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Manager",
+                        "url": "/research/US/Job=Business_Manager/Salary",
+                        "profileCount": 105,
+                        "range": {
+                            "10": 42693.34,
+                            "25": 52329.22,
+                            "50": 66401.94,
+                            "75": 87020.55,
+                            "90": 117795.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Personal Banker",
+                        "url": "/research/US/Job=Personal_Banker/Hourly_Rate",
+                        "profileCount": 93,
+                        "range": {
+                            "10": 35037.6,
+                            "25": 38651.93,
+                            "50": 43308.28,
+                            "75": 49223.19,
+                            "90": 55745.91
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Quality Manager",
+                        "url": "/research/US/Job=Quality_Manager/Salary",
+                        "profileCount": 73,
+                        "range": {
+                            "10": 58159.94,
+                            "25": 70747.11,
+                            "50": 86094.63,
+                            "75": 103312.02,
+                            "90": 122412.18
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Supplier Quality Engineer (SQE)",
+                        "url": "/research/US/Job=Supplier_Quality_Engineer_(SQE)/Salary",
+                        "profileCount": 70,
+                        "range": {
+                            "10": 62952.39,
+                            "25": 71639.88,
+                            "50": 80913.9,
+                            "75": 93631.32,
+                            "90": 106783.14
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Support Specialist",
+                        "url": "/research/US/Job=Operations_Support_Specialist/Salary",
+                        "profileCount": 67,
+                        "range": {
+                            "10": 39903.96,
+                            "25": 46026,
+                            "50": 54074.84,
+                            "75": 64846.27,
+                            "90": 78149.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Client Support Specialist",
+                        "url": "/research/US/Job=Client_Support_Specialist/Salary",
+                        "profileCount": 59,
+                        "range": {
+                            "10": 35449.75,
+                            "25": 41776.65,
+                            "50": 48764.74,
+                            "75": 56390.81,
+                            "90": 64631.51
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Client Services Representative",
+                        "url": "/research/US/Job=Client_Services_Representative/Hourly_Rate",
+                        "profileCount": 58,
+                        "range": {
+                            "10": 37712.03,
+                            "25": 42018.3,
+                            "50": 48084.75,
+                            "75": 54981.75,
+                            "90": 63009.64
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Apprentice Plumber",
+                        "url": "/research/US/Job=Apprentice_Plumber/Hourly_Rate",
+                        "profileCount": 41,
+                        "range": {
+                            "10": 30288.57,
+                            "25": 32851.31,
+                            "50": 44317.88,
+                            "75": 54988.73,
+                            "90": 65134.08
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Customer Support Specialist",
+                        "url": "/research/US/Job=Customer_Support_Specialist/Salary",
+                        "profileCount": 34,
+                        "range": {
+                            "10": 38420.73,
+                            "25": 43649.77,
+                            "50": 50066.73,
+                            "75": 59051.99,
+                            "90": 65880.4
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Customer Service Representative (CSR)",
+                        "url": "/research/US/Job=Senior_Customer_Service_Representative_(CSR)/Hourly_Rate",
+                        "profileCount": 33,
+                        "range": {
+                            "10": 36978.84,
+                            "25": 42608.17,
+                            "50": 50516.98,
+                            "75": 60519.19,
+                            "90": 71095.86
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Ontologist/Salary",
+                    "occupationalCategory": "15-1030.00 - Unclassified Computer Software Engineers",
+                    "skills": "Ontology Development, Taxonomy Development, Artificial Intelligence (AI), Problem Solving",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2023-07-07T07:41:05.26711Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "79463.45",
+                            "percentile25": "89840.59",
+                            "median": "100184.26",
+                            "percentile75": "151072.91",
+                            "percentile90": "181207.24",
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": "69639.78",
+                            "percentile25": "87388.52",
+                            "median": "97849.74",
+                            "percentile75": "146064.6",
+                            "percentile90": "161359.76",
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": null,
+                            "duration": "P1Y",
+                            "percentile10": null,
+                            "percentile25": "4421.86",
+                            "median": "7308.63",
+                            "percentile75": "19329.93",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 23,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Ontologist",
+                    "url": "/research/US/Job=Ontologist/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

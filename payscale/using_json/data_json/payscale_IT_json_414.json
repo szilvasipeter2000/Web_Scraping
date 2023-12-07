@@ -1,0 +1,851 @@
+{
+    "props": {
+        "pageProps": {
+            "reviewCount": 0,
+            "careerPathData": null,
+            "siteUrl": "https://www.payscale.com",
+            "pageData": {
+                "country": "US",
+                "category": "Job",
+                "dimensions": {
+                    "job": "Online Marketing Data Analyst"
+                },
+                "multiDimensional": false,
+                "reportType": "Salary",
+                "refs": {
+                    "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary",
+                    "defaultUrl": "/research/US/Job=Online_Marketing_Data_Analyst/Salary",
+                    "parentUrl": null
+                },
+                "currencyCode": "USD",
+                "lastUpdated": "2019-08-02T04:02:25.68437Z",
+                "narratives": {
+                    "summaryHourly": "The average pay for an Online Marketing Data Analyst is $14.50 per hour.",
+                    "summarySalary": "The average pay for an Online Marketing Data Analyst is $61,000 per year."
+                },
+                "tasks": null,
+                "compensation": {
+                    "bonus": {
+                        "50": 3600,
+                        "profileCount": 2
+                    },
+                    "hourlyRate": {
+                        "50": 14.5,
+                        "profileCount": 3
+                    },
+                    "salary": {
+                        "50": 61000,
+                        "profileCount": 4
+                    },
+                    "total": {
+                        "25": 29555.83,
+                        "50": 37440,
+                        "75": 67000,
+                        "profileCount": 7
+                    }
+                },
+                "byDimension": {
+                    "Average EAC Overall": {
+                        "lastUpdated": "2019-08-02T04:02:25.68437Z",
+                        "profileCount": 7,
+                        "description": "Effective Annual Compensation",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 7,
+                                "range": {
+                                    "25": 29555.83,
+                                    "50": 37440,
+                                    "75": 67000
+                                },
+                                "isEstimated": false
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Hourly Rate Overall": {
+                        "lastUpdated": "2019-08-02T04:02:25.68437Z",
+                        "profileCount": 3,
+                        "description": "Hourly Rate",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 14.5
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Average Salary Overall": {
+                        "lastUpdated": "2019-08-02T04:02:25.68437Z",
+                        "profileCount": 4,
+                        "description": "Salary",
+                        "rows": [
+                            {
+                                "name": "Main",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 61000
+                                },
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Gender Breakdown": {
+                        "lastUpdated": "2019-08-02T04:02:25.68437Z",
+                        "profileCount": 4,
+                        "description": "Gender Breakdown",
+                        "rows": [
+                            {
+                                "name": "Male",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 3,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Female",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Health Insurance Overall": {
+                        "lastUpdated": "2019-08-02T04:02:25.68437Z",
+                        "profileCount": 6,
+                        "description": "Health Benefits",
+                        "rows": [
+                            {
+                                "name": "Medical / Health",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 5,
+                                "range": null,
+                                "isEstimated": false
+                            },
+                            {
+                                "name": "Dental",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "Vision",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 4,
+                                "range": null,
+                                "isEstimated": true
+                            },
+                            {
+                                "name": "None",
+                                "displayName": null,
+                                "url": null,
+                                "profileCount": 1,
+                                "range": null,
+                                "isEstimated": true
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Employer": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Employer",
+                        "rows": [],
+                        "parentUrl": null
+                    },
+                    "Job by Experience": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Experience",
+                        "rows": [
+                            {
+                                "name": "1-4 years",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/4f2b5b13/Early-Career",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 68467.15
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Location": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Location",
+                        "rows": [
+                            {
+                                "name": "New York, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/7ffab54b/New-York-NY",
+                                "profileCount": 39,
+                                "range": {
+                                    "50": 55456.29
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Chicago, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/27408ac8/Chicago-IL",
+                                "profileCount": 27,
+                                "range": {
+                                    "50": 45519.53
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Francisco, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/4081a9e8/San-Francisco-CA",
+                                "profileCount": 20,
+                                "range": {
+                                    "50": 56645.42
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Denver, Colorado",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/b28e6810/Denver-CO",
+                                "profileCount": 18,
+                                "range": {
+                                    "50": 55107.46
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Los Angeles, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/2adf82c7/Los-Angeles-CA",
+                                "profileCount": 14,
+                                "range": {
+                                    "50": 61740.89
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Boston, Massachusetts",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/0ea16feb/Boston-MA",
+                                "profileCount": 16,
+                                "range": {
+                                    "50": 55481.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Seattle, Washington",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/4d29894e/Seattle-WA",
+                                "profileCount": 12,
+                                "range": {
+                                    "50": 68764.69
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Phoenix, Arizona",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/1fd3e987/Phoenix-AZ",
+                                "profileCount": 11,
+                                "range": {
+                                    "50": 57325.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Minneapolis, Minnesota",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/0868bbbc/Minneapolis-MN",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 59664.06
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Raleigh, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/aaf7f568/Raleigh-NC",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 45860.09
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Pittsburgh, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/53bf7ec3/Pittsburgh-PA",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 44332.54
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Austin, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/789b564a/Austin-TX",
+                                "profileCount": 10,
+                                "range": {
+                                    "50": 45000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Buffalo, New York",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/97e0e20e/Buffalo-NY",
+                                "profileCount": 9,
+                                "range": {
+                                    "50": 32012.59
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Atlanta, Georgia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/bda7b53f/Atlanta-GA",
+                                "profileCount": 8,
+                                "range": {
+                                    "50": 53000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Kansas City, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/5b7dde68/Kansas-City-MO",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 37832.75
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Dallas, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/c3ff303d/Dallas-TX",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 54176.84
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Houston, Texas",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/4659718f/Houston-TX",
+                                "profileCount": 7,
+                                "range": {
+                                    "50": 56000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Charlottesville, Virginia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/7cf7c55c/Charlottesville-VA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 44650.22
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Portland, Oregon",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/4d51a563/Portland-OR",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 52000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Detroit, Michigan",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/44a0dd02/Detroit-MI",
+                                "profileCount": 6,
+                                "range": {
+                                    "50": 35607.77
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Schaumburg, Illinois",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/58416a95/Schaumburg-IL",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 47166.49
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "San Diego, California",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/2696d55a/San-Diego-CA",
+                                "profileCount": 5,
+                                "range": {
+                                    "50": 50000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Washington, District of Columbia",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/8ae4f10e/Washington-DC",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 66600
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Baton Rouge, Louisiana",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/25f17d9e/Baton-Rouge-LA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 39191.43
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "St. Louis, Missouri",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/9e04cb64/St.-Louis-MO",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 48588.7
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Harrisburg, Pennsylvania",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/a1a755b8/Harrisburg-PA",
+                                "profileCount": 4,
+                                "range": {
+                                    "50": 41248.48
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Cleveland, Ohio",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/09524f0d/Cleveland-OH",
+                                "profileCount": 3,
+                                "range": {
+                                    "50": 51000
+                                },
+                                "isEstimated": null
+                            },
+                            {
+                                "name": "Indian Trail, North Carolina",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/bfffc5ed/Indian-Trail-NC",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 40000
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    },
+                    "Job by Skill": {
+                        "lastUpdated": null,
+                        "profileCount": null,
+                        "description": "Job by Skill",
+                        "rows": [
+                            {
+                                "name": "Microsoft Excel",
+                                "displayName": null,
+                                "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary/d5cea22e/Microsoft-Excel",
+                                "profileCount": 2,
+                                "range": {
+                                    "50": 45500
+                                },
+                                "isEstimated": null
+                            }
+                        ],
+                        "parentUrl": null
+                    }
+                },
+                "ratings": null,
+                "related": [
+                    {
+                        "name": "Administrative Assistant",
+                        "url": "/research/US/Job=Administrative_Assistant/Hourly_Rate",
+                        "profileCount": 1569,
+                        "range": {
+                            "10": 28675.67,
+                            "25": 32932.36,
+                            "50": 39348.75,
+                            "75": 46912.03,
+                            "90": 55460.96
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "url": "/research/US/Job=Financial_Analyst/Salary",
+                        "profileCount": 930,
+                        "range": {
+                            "10": 45815.41,
+                            "25": 52025.68,
+                            "50": 60499.85,
+                            "75": 70101.26,
+                            "90": 80902.49
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "url": "/research/US/Job=Staff_Accountant/Salary",
+                        "profileCount": 863,
+                        "range": {
+                            "10": 39484.51,
+                            "25": 44550.53,
+                            "50": 50448.68,
+                            "75": 56746.29,
+                            "90": 63200.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Mechanical Engineer",
+                        "url": "/research/US/Job=Mechanical_Engineer/Salary",
+                        "profileCount": 802,
+                        "range": {
+                            "10": 53450.89,
+                            "25": 61105.08,
+                            "50": 70267.98,
+                            "75": 82288.6,
+                            "90": 98428.78
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "url": "/research/US/Job=Data_Analyst/Salary",
+                        "profileCount": 779,
+                        "range": {
+                            "10": 42570.02,
+                            "25": 50187.74,
+                            "50": 60035.87,
+                            "75": 71438.34,
+                            "90": 84376.5
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accountant",
+                        "url": "/research/US/Job=Accountant/Salary",
+                        "profileCount": 684,
+                        "range": {
+                            "10": 39338.33,
+                            "25": 45371.69,
+                            "50": 50988.44,
+                            "75": 60174.28,
+                            "90": 70765.52
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Office Manager",
+                        "url": "/research/US/Job=Office_Manager/Hourly_Rate",
+                        "profileCount": 668,
+                        "range": {
+                            "10": 33168.87,
+                            "25": 39531.89,
+                            "50": 47845.89,
+                            "75": 57221.11,
+                            "90": 68240.68
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Manager, (Unspecified Type / General)",
+                        "url": "/research/US/Job=Project_Manager%2C_(Unspecified_Type_%2F_General)/Salary",
+                        "profileCount": 617,
+                        "range": {
+                            "10": 48364.22,
+                            "25": 58989.5,
+                            "50": 73763.21,
+                            "75": 91631.99,
+                            "90": 111573.6
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Project Engineer",
+                        "url": "/research/US/Job=Project_Engineer/Salary",
+                        "profileCount": 580,
+                        "range": {
+                            "10": 51861.09,
+                            "25": 59562.6,
+                            "50": 68550.87,
+                            "75": 80778.46,
+                            "90": 97010.94
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "url": "/research/US/Job=Senior_Accountant/Salary",
+                        "profileCount": 527,
+                        "range": {
+                            "10": 52334.58,
+                            "25": 59269.29,
+                            "50": 67437.04,
+                            "75": 76283.21,
+                            "90": 84852.05
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Senior Financial Analyst",
+                        "url": "/research/US/Job=Senior_Financial_Analyst/Salary",
+                        "profileCount": 520,
+                        "range": {
+                            "10": 62739.22,
+                            "25": 71003.85,
+                            "50": 80177.2,
+                            "75": 90259.09,
+                            "90": 100669.61
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Civil Engineer",
+                        "url": "/research/US/Job=Civil_Engineer/Salary",
+                        "profileCount": 458,
+                        "range": {
+                            "10": 50416.82,
+                            "25": 57433.02,
+                            "50": 65941.78,
+                            "75": 79931.62,
+                            "90": 98181.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Executive Assistant",
+                        "url": "/research/US/Job=Executive_Assistant/Salary",
+                        "profileCount": 413,
+                        "range": {
+                            "10": 38425.92,
+                            "25": 45609.16,
+                            "50": 55103.85,
+                            "75": 66588.46,
+                            "90": 78362.56
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Electrical Engineer",
+                        "url": "/research/US/Job=Electrical_Engineer/Salary",
+                        "profileCount": 391,
+                        "range": {
+                            "10": 57875.56,
+                            "25": 65282.95,
+                            "50": 75183.76,
+                            "75": 90237.6,
+                            "90": 110396.74
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Operations Manager",
+                        "url": "/research/US/Job=Operations_Manager/Salary",
+                        "profileCount": 379,
+                        "range": {
+                            "10": 41325.35,
+                            "25": 50892.82,
+                            "50": 64699.01,
+                            "75": 82414.27,
+                            "90": 102720.01
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Accounting Manager",
+                        "url": "/research/US/Job=Accounting_Manager/Salary",
+                        "profileCount": 312,
+                        "range": {
+                            "10": 48695.35,
+                            "25": 58408.03,
+                            "50": 71219.8,
+                            "75": 86447.59,
+                            "90": 100847.16
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Business Analyst (Unspecified Type)",
+                        "url": "/research/US/Job=Business_Analyst_(Unspecified_Type)/Salary",
+                        "profileCount": 297,
+                        "range": {
+                            "10": 44475.69,
+                            "25": 51028.95,
+                            "50": 60029.95,
+                            "75": 70063.84,
+                            "90": 81131.38
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Financial Controller",
+                        "url": "/research/US/Job=Financial_Controller/Salary",
+                        "profileCount": 281,
+                        "range": {
+                            "10": 54962.72,
+                            "25": 67315.29,
+                            "50": 82770.36,
+                            "75": 101910.63,
+                            "90": 123426.23
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Manager",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Manager/Salary",
+                        "profileCount": 269,
+                        "range": {
+                            "10": 46779.18,
+                            "25": 55105.58,
+                            "50": 66901.58,
+                            "75": 80169.41,
+                            "90": 93893.57
+                        },
+                        "average": null
+                    },
+                    {
+                        "name": "Human Resources (HR) Generalist",
+                        "url": "/research/US/Job=Human_Resources_(HR)_Generalist/Salary",
+                        "profileCount": 268,
+                        "range": {
+                            "10": 40783.81,
+                            "25": 47024.44,
+                            "50": 53934.11,
+                            "75": 61896.33,
+                            "90": 70666.43
+                        },
+                        "average": null
+                    }
+                ],
+                "benefits": null,
+                "comparisons": null,
+                "locations": null,
+                "occupationalDetails": {
+                    "@context": "http://schema.googleapis.com/",
+                    "@id": "/research/US/Job=Online_Marketing_Data_Analyst/Salary",
+                    "occupationalCategory": "15-1080.00 - Network Systems and Data Communications Analysts",
+                    "skills": "Microsoft Excel",
+                    "educationRequirements": null,
+                    "experienceRequirements": null,
+                    "qualifications": null,
+                    "responsibilities": null,
+                    "mainEntityOfPage": {
+                        "lastReviewed": "2019-08-02T04:02:25.68437Z",
+                        "description": null,
+                        "name": null,
+                        "url": null,
+                        "@type": "WebPage"
+                    },
+                    "occupationLocation": [
+                        {
+                            "description": null,
+                            "name": "United States",
+                            "url": null,
+                            "@type": "Country"
+                        }
+                    ],
+                    "estimatedSalary": [
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": "29555.83",
+                            "median": "37440",
+                            "percentile75": "67000",
+                            "percentile90": null,
+                            "description": null,
+                            "name": "total",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "61000",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "base",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        },
+                        {
+                            "currency": "USD",
+                            "unitText": "YEAR",
+                            "percentile10": null,
+                            "percentile25": null,
+                            "median": "3600",
+                            "percentile75": null,
+                            "percentile90": null,
+                            "description": null,
+                            "name": "bonus",
+                            "url": null,
+                            "@type": "MonetaryAmountDistribution"
+                        }
+                    ],
+                    "sampleSize": 7,
+                    "yearsExperienceMin": null,
+                    "yearsExperienceMax": null,
+                    "hiringOrganization": null,
+                    "description": null,
+                    "name": "Online Marketing Data Analyst",
+                    "url": "/research/US/Job=Online_Marketing_Data_Analyst/Salary",
+                    "@type": "OccupationAggregation"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/job/pay",
+    "query": {},
+    "buildId": "app",
+    "assetPrefix": "https://cdn-payscale.com/content/research-center-web/prod/2023.1031.1908.342-master",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}
